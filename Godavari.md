@@ -14,3 +14,5 @@ right
 3. Manjira
 4. maner
 5. Kinnarasni
+
+- known as Dakshin Ganga (not to confuse with [[Cauvery|Ganga of South India]])

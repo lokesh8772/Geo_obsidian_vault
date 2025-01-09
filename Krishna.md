@@ -9,7 +9,7 @@ left -
 
 Right - 
 1. koyna
-2. varna
+2. varna (not [[Narmada|Barna]])
 3. panchganga
 4. dudhganga
 5. [[Ghatprabha]]

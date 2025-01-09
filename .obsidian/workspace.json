@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghaghra.md",
+                "file": "kosi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghaghra"
+              "title": "kosi"
             }
           },
           {
@@ -214,9 +214,15 @@
   },
   "active": "cb3c0a533c5b5607",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Ghaghra.md",
     "Ganga.md",
+    "kosi.md",
+    "Narmada.md",
+    "Krishna.md",
+    "Godavari.md",
+    "Cauvery.md",
+    "Dakshin Ganga.md",
+    "Ghaghra.md",
+    "Untitled.canvas",
     "Yamuna.md",
     "README.md",
     "Bhima.md",
@@ -229,17 +235,13 @@
     "obsidian-vault",
     "Chandrabhaga.md",
     "Welcome.md",
-    "Narmada.md",
     "Tapi.md",
     "Satpura.md",
-    "Cauvery.md",
     "Chenab.md",
-    "Krishna.md",
     "bara lachla.md",
     "Tungbhadra.md",
     "Ghatprabha.md",
     "Hidkal Dam.md",
-    "Godavari.md",
     "Mahanadi.md"
   ]
 }

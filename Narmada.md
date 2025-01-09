@@ -12,7 +12,7 @@ Left -
 3. shakkar
 4. Tawa
 Right - 
-1. Barna
+1. Barna (not [[Krishna|Varna]])
 2. Kolar
 3. Hiran
 

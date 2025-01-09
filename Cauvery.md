@@ -20,3 +20,6 @@ Islands -
 1. Shivasamudram(Karnataka)
 2. Shrirangapattanam(Karnataka)
 3. Shrirangam(TN)
+
+- known as Ganga of South India (not to confuse with [[Godavari|Dakshin Ganga]])
+- 
