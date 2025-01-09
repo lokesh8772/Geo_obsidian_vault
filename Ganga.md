@@ -31,4 +31,6 @@ Right -
 
 Distributaries - 
 Right - 
-1. 
+1. Hougally
+
+Ganga basin's alluvial deposits depth is 6000 meters.
