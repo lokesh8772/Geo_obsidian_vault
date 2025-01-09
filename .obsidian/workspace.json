@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "9b69f442c891ac69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "termux setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "termux setup"
-            }
-          },
-          {
             "id": "52035d4b6c9a77fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "README"
             }
           },
           {
@@ -74,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,8 +204,8 @@
   },
   "active": "52035d4b6c9a77fa",
   "lastOpenFiles": [
-    "termux setup.md",
     "Untitled.md",
+    "termux setup.md",
     "github token.md",
     "Geo_obsidian_vault/README.md",
     "Geo_obsidian_vault",
