@@ -33,4 +33,6 @@ Distributaries -
 Right - 
 1. Hougally
 
-Ganga basin's alluvial deposits depth is 6000 meters.
+- Ganga basin's alluvial deposits depth is 6000 meters.
+- largest(length, basin) river of india([[River orders]])
+- 

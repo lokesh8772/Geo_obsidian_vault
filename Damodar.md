@@ -1,0 +1,4 @@
+- origin - Chotanagpur plateau
+- k/a sorrow of bengal (not [[kosi|sorrow of bihar]])
+- mouth in the [[ganga|Hooghaly river]]
+- 

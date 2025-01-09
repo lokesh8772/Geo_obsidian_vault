@@ -2,5 +2,5 @@
 - formation - sun kosi + arun kosi + Tamur kosi
 - tributary - Bagmati
 - notorious for unpredictable river courses
-- one of the "highest silt "carrying river in the world(largest in india)
-- 
+- one of the highest sediment load in the world.
+- flow - China -> Nepal -> India
