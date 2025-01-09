@@ -1,3 +1,5 @@
 {
-  "interfaceFontFamily": "Bradley Hand"
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Comic Sans MS",
+  "baseFontSize": 18
 }
