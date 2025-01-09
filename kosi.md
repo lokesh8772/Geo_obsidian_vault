@@ -1,1 +1,6 @@
-known as Sorrow of Bihar(not [[Damod]])
+- known as Sorrow of Bihar (not [[Damodar|sorrow of bengal]])
+- formation - sun kosi + arun kosi + Tamur kosi
+- tributary - Bagmati
+- notorious for unpredictable river courses
+- one of the "highest silt "carrying river in the world(largest in india)
+- 
