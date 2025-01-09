@@ -35,4 +35,5 @@ Right -
 
 - Ganga basin's alluvial deposits depth is 6000 meters.
 - largest(length, basin) river of india([[River orders]])
+- ganga basin covers 26% of India's total geographical area
 - 

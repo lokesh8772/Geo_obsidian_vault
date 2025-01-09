@@ -23,12 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "River orders.md",
+                "file": "Chenab.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "River orders"
+              "title": "Chenab"
             }
           },
           {
@@ -214,8 +215,9 @@
   },
   "active": "cb3c0a533c5b5607",
   "lastOpenFiles": [
-    "Ganga.md",
+    "Indus.md",
     "River orders.md",
+    "Ganga.md",
     "Yamuna.md",
     "Damodar.md",
     "kosi.md",
@@ -241,7 +243,6 @@
     "Satpura.md",
     "Chenab.md",
     "bara lachla.md",
-    "Tungbhadra.md",
-    "Ghatprabha.md"
+    "Tungbhadra.md"
   ]
 }
