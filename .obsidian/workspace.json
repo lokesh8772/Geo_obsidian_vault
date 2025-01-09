@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,11 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52035d4b6c9a77fa",
+  "active": "38e7a1dc0a6d8597",
   "lastOpenFiles": [
+    "github token.md",
+    "README.md",
     "Untitled.md",
     "termux setup.md",
-    "github token.md",
     "Geo_obsidian_vault/README.md",
     "Geo_obsidian_vault",
     "obsidian-vault",
