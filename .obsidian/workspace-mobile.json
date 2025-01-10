@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Godavari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Godavari"
             }
           }
         ]
@@ -150,14 +150,16 @@
   },
   "active": "e955052faa78d289",
   "lastOpenFiles": [
-    "/Indus.md",
-    "README.md",
-    "Indus.md",
-    "kosi.md",
-    "Yamuna.md",
-    "River orders.md",
-    "Ghaghra.md",
+    "Cauvery.md",
+    "Ganga.md",
     "Damodar.md",
+    "kosi.md",
+    "River orders.md",
+    "README.md",
+    "/Indus.md",
+    "Indus.md",
+    "Yamuna.md",
+    "Ghaghra.md",
     "/kosi.md",
     "/Yamuna.md",
     "/River orders.md",
