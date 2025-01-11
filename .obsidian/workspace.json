@@ -4,193 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "93ae5f3132a5ddbd",
+        "id": "6dedf39715251ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "38e7a1dc0a6d8597",
+            "id": "3b216ba2b227e3b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "cb3c0a533c5b5607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chandrabhaga.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Chandrabhaga"
-            }
-          },
-          {
-            "id": "5837811627c20e9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sarda"
-            }
-          },
-          {
-            "id": "7faf5da306e7ce2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Namami Devi Narmade.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Namami Devi Narmade"
-            }
-          },
-          {
-            "id": "cf06d4b7125fbb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Luni.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Luni"
-            }
-          },
-          {
-            "id": "98ff0aedbdd07f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Periyar Diversion Canal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Periyar Diversion Canal"
-            }
-          },
-          {
-            "id": "08266c77dde9b4c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indira Gandhi Canal Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Indira Gandhi Canal Project"
-            }
-          },
-          {
-            "id": "831ddc7bc5bc06c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Damodar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Damodar"
-            }
-          },
-          {
-            "id": "454c0ddd817cc6b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beas - Sutlej Link Canal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beas - Sutlej Link Canal"
-            }
-          },
-          {
-            "id": "9791a020cf7b2e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Namami Gange Plan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Namami Gange Plan"
-            }
-          },
-          {
-            "id": "665f3c5fda83b848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "github token.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "github token"
-            }
-          },
-          {
-            "id": "52035d4b6c9a77fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "a21dbe23039b583b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ganga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -332,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9791a020cf7b2e87",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Beas - Sutlej Link Canal.md",
     "Namami Gange Plan.md",

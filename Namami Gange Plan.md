@@ -1,3 +1,6 @@
-- Lanched in 2014
+- Lanched in 2014 for cleaning and rejuvenation of [[Ganga]]
 - sewage treatment
-- 
+- solid waste management
+- biodiversity conservation
+- 20,000 crore rupees
+- 2024 - sewage treatment is completed
