@@ -7,7 +7,7 @@
 - chandrabhaga is nickname of Chenab
 
 - path - HP -> J&K -> Pak
-- tributary of [[Indus]]
-- 
+- largest tributary of [[Indus]]
+-
 
 
