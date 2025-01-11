@@ -1,8 +1,11 @@
 - origin - yamunotri
 - tributaries - 
 	- left - 
-	- tons
-	- 
+		1. tons
+		2. Hindan
+		3. Rind
+		4. Sengar
+		5. Varuna
 	- right -
 		1. [[Chambal]]
 		2. Sind

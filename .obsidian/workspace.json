@@ -38,12 +38,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yamuna.md",
+                "file": "Damodar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yamuna"
+              "title": "Damodar"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yamuna",
+                "query": "damodar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +230,12 @@
   },
   "active": "5837811627c20e9b",
   "lastOpenFiles": [
+    "Ramganga.md",
     "Ganga.md",
+    "kosi.md",
+    "Ghaghra.md",
+    "Gandak.md",
+    "Yamuna.md",
     "Sutlej.md",
     "Beas.md",
     "Chandrabhaga.md",
@@ -239,16 +244,13 @@
     "Chenab.md",
     "github token.md",
     "Indus.md",
-    "kosi.md",
     "River orders.md",
-    "Yamuna.md",
     "Damodar.md",
     "Narmada.md",
     "Krishna.md",
     "Godavari.md",
     "Cauvery.md",
     "Dakshin Ganga.md",
-    "Ghaghra.md",
     "Untitled.canvas",
     "README.md",
     "Bhima.md",
@@ -257,8 +259,6 @@
     "Geo_obsidian_vault/README.md",
     "Geo_obsidian_vault",
     "obsidian-vault",
-    "Welcome.md",
-    "Tapi.md",
-    "Satpura.md"
+    "Welcome.md"
   ]
 }

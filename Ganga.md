@@ -17,10 +17,10 @@ Prayags -
 
 tributaries :
 left - 
-1. Ramganga
+1. [[Ramganga]]
 2. Gomti(sai)
 3. [[Ghaghra]]
-4. Gandak
+4. [[Gandak]]
 5. Burhi Gandak
 6. [[kosi]]
 7. Mahananda(mecchi)

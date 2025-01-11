@@ -7,6 +7,6 @@
 - Tributaries in India- 
 	1. Kali/Sarda(right)
 	2. Rapti(left)
-- Tributary of [[Ganga]]
+- Tributary of [[Ganga]] at Chhpra
 
 
