@@ -1,0 +1,5 @@
+- concieved in 1948 , started in 1958
+- completed in 1983
+- water from Harike Barrage([[Sutlej]] and [[Beas]])
+- water to [[Thar]] region
+- 
