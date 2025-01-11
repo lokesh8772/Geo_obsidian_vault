@@ -1,6 +1,8 @@
 - origin - yamunotri
 - tributaries - 
-	- left - tons
+	- left - 
+	- tons
+	- 
 	- right -
 		1. [[Chambal]]
 		2. Sind

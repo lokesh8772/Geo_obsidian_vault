@@ -8,11 +8,12 @@ four glaciers -
 4. Setopanth(Badrinath) - Alaknanda
 
 Prayags - 
-1. Vishnu prayag - alaknanda + Dhauliganga
-2. Nandprayag - alaknanda + nandakini
-3. karnprayag - alaknanda + pindar
-4. rudraprayag - alaknanda + mandakini
-5. dev prayag - alaknanda + bhagirathi => ganga
+1. Joshimath - alaknanda + Dholiganga
+2. Vishnu prayag - alaknanda + Vishnuganga
+3. Nandprayag - alaknanda + nandakini
+4. karnprayag - alaknanda + pindar
+5. rudraprayag - alaknanda + mandakini
+6. dev prayag - alaknanda + bhagirathi => ganga
 
 tributaries :
 left - 
@@ -36,4 +37,5 @@ Right -
 - Ganga basin's alluvial deposits depth is 6000 meters.
 - largest(length, basin) river of india([[River orders]])
 - ganga basin covers 26% of India's total geographical area
-- 
+- splits into Bhagirathi and Padma
+- Mouth - Sagar Island(bay of Bengal)
