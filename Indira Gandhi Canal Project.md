@@ -2,4 +2,4 @@
 - completed in 1983
 - water from Harike Barrage([[Sutlej]] and [[Beas]])
 - water to [[Thar]] region
-- 
+- increased agro output(annual output 1750 crore)

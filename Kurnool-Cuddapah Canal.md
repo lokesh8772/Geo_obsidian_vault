@@ -1,0 +1,5 @@
+- Andhra pradesh
+- 1863-1870
+- initially for navigation but after 1933 only for irrigation
+- connects [[Tungbhadra]] and [[Small Rivers of Eastern Ghats|Pennar]]
+- 
