@@ -1,0 +1,5 @@
+- origin - Sabarmati + Saraswati
+- neat Pushkar 
+- largest river system of Raj west to Aravali
+- Ephemeral river system
+- upto Rann of Kuchchh

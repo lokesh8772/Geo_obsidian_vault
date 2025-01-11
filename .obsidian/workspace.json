@@ -52,13 +52,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brahmaputra.md",
+                "file": "Namami Devi Narmade.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brahmaputra"
+              "title": "Namami Devi Narmade"
+            }
+          },
+          {
+            "id": "cf06d4b7125fbb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luni.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luni"
             }
           },
           {
@@ -100,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,10 +257,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7faf5da306e7ce2a",
+  "active": "cf06d4b7125fbb3b",
   "lastOpenFiles": [
-    "Sarda.md",
+    "Namami Devi Narmade.md",
+    "Luni.md",
+    "Narmada.md",
     "Brahmaputra.md",
+    "Sarda.md",
     "Ghaghra.md",
     "Kali/Sarda(right).md",
     "Kali",
@@ -264,15 +282,12 @@
     "github token.md",
     "Indus.md",
     "River orders.md",
-    "Narmada.md",
     "Krishna.md",
     "Godavari.md",
     "Cauvery.md",
     "Dakshin Ganga.md",
     "Untitled.canvas",
     "README.md",
-    "Bhima.md",
-    "conflict-files-obsidian-git.md",
     "Geo_obsidian_vault",
     "obsidian-vault"
   ]
