@@ -2,5 +2,5 @@
 - k/a sorrow of bengal (not [[kosi|sorrow of bihar]])
 - mouth in the [[ganga|Hooghaly river]]
 - major tributary - [[Small Rivers of East Bank|Barakar]]
-- Damodar 
+- Damodar Valley Corporation(Multipurpose project)
 - 
