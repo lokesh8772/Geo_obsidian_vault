@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ganga.md",
+                "file": "Godavari.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ganga"
+              "title": "Godavari"
             }
           }
         ]
@@ -152,6 +152,15 @@
   },
   "active": "6f39e7cc062df3f9",
   "lastOpenFiles": [
+    "River orders.md",
+    "Ganga.md",
+    "kosi.md",
+    "Damodar.md",
+    "Gandak.md",
+    "Ghaghra.md",
+    "Sarda.md",
+    "Ramganga.md",
+    "Yamuna.md",
     "Namami Gange Plan.md",
     "Periyar Diversion Canal.md",
     "Kurnool-Cuddapah Canal.md",
@@ -167,17 +176,8 @@
     "/Beas - Sutlej Link Canal.md",
     "/Small Rivers of Eastern Ghats.md",
     "Sutlej.md",
-    "Sarda.md",
     "Ravi.md",
-    "Ramganga.md",
     "Namami Devi Narmade.md",
-    "Luni.md",
-    "Gandak.md",
-    "Brahmaputra.md",
-    "Beas.md",
-    "/Yamuna.md",
-    "/Sutlej.md",
-    "/Sarda.md",
     "Kali",
     "/Kali"
   ]
