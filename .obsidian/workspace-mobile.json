@@ -11,10 +11,15 @@
             "id": "6f39e7cc062df3f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ganga.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ganga"
             }
           }
         ]
@@ -91,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Ganga.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,8 +152,8 @@
   },
   "active": "6f39e7cc062df3f9",
   "lastOpenFiles": [
-    "Periyar Diversion Canal.md",
     "Namami Gange Plan.md",
+    "Periyar Diversion Canal.md",
     "Kurnool-Cuddapah Canal.md",
     "Indira Gandhi Canal Project.md",
     "Beas - Sutlej Link Canal.md",
