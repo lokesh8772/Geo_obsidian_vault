@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc topics/Pink Revolution.md",
+                "file": "Revolutions/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pink Revolution"
+              "title": "index"
             }
           }
         ],
@@ -183,14 +183,15 @@
   },
   "active": "4044e3a2d8b62f21",
   "lastOpenFiles": [
-    "misc topics/Protein Revolution.md",
-    "misc topics/Pink Revolution.md",
-    "misc topics/Brown Revolution.md",
-    "misc topics/Black Revolution.md",
+    "Revolutions/Pink Revolution.md",
+    "Revolutions/index.md",
+    "Revolutions/Protein Revolution.md",
+    "Revolutions/Brown Revolution.md",
+    "Revolutions/Black Revolution.md",
     "Beas - Sutlej Link Canal.md",
-    "misc topics/Yellow Revolution.md",
+    "Revolutions/Yellow Revolution.md",
     "Untitled",
-    "misc topics",
+    "Revolutions",
     "Namami Gange Plan.md",
     "Damodar.md",
     "Small Rivers of Eastern Ghats.md",
@@ -211,7 +212,6 @@
     "Gandak.md",
     "Yamuna.md",
     "Sutlej.md",
-    "Beas.md",
     "Beas",
     "Untitled.canvas",
     "Geo_obsidian_vault",
