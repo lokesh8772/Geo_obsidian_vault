@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutions/Yellow Revolution.md",
+                "file": "Revolutions/Protein Revolution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yellow Revolution"
+              "title": "Protein Revolution"
             }
           }
         ]
@@ -152,8 +152,8 @@
   },
   "active": "6f39e7cc062df3f9",
   "lastOpenFiles": [
-    "Revolutions/Yellow Revolution.md",
     "Revolutions/index.md",
+    "Revolutions/Yellow Revolution.md",
     "Revolutions/Protein Revolution.md",
     "Revolutions/Pink Revolution.md",
     "Revolutions/Brown Revolution.md",
