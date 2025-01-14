@@ -11,13 +11,34 @@
             "id": "3b216ba2b227e3b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Beas - Sutlej Link Canal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Beas - Sutlej Link Canal"
+            }
+          },
+          {
+            "id": "4044e3a2d8b62f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc topics/Pink Revolution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pink Revolution"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,9 +181,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "4044e3a2d8b62f21",
   "lastOpenFiles": [
+    "misc topics/Protein Revolution.md",
+    "misc topics/Pink Revolution.md",
+    "misc topics/Brown Revolution.md",
+    "misc topics/Black Revolution.md",
     "Beas - Sutlej Link Canal.md",
+    "misc topics/Yellow Revolution.md",
+    "Untitled",
+    "misc topics",
     "Namami Gange Plan.md",
     "Damodar.md",
     "Small Rivers of Eastern Ghats.md",
@@ -185,12 +212,7 @@
     "Yamuna.md",
     "Sutlej.md",
     "Beas.md",
-    "Chandrabhaga.md",
     "Beas",
-    "Ravi.md",
-    "Chenab.md",
-    "github token.md",
-    "Indus.md",
     "Untitled.canvas",
     "Geo_obsidian_vault",
     "obsidian-vault"
