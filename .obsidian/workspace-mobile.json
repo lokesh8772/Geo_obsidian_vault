@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutions/Protein Revolution.md",
+                "file": "Revolutions/Pink Revolution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein Revolution"
+              "title": "Pink Revolution"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Revolutions/Yellow Revolution.md",
+            "file": "Revolutions/Pink Revolution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,8 +153,8 @@
   "active": "6f39e7cc062df3f9",
   "lastOpenFiles": [
     "Revolutions/index.md",
-    "Revolutions/Yellow Revolution.md",
     "Revolutions/Protein Revolution.md",
+    "Revolutions/Yellow Revolution.md",
     "Revolutions/Pink Revolution.md",
     "Revolutions/Brown Revolution.md",
     "Revolutions/Black Revolution.md",
