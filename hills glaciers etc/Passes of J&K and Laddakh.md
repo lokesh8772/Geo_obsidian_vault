@@ -1,0 +1,6 @@
+1. Banihal(Jammu - Srinagar)
+2. Zogila (Srinagar - Kargil)
+3. Pensila(Kargil - Kashmir Valley)
+4. Photula(Kargil - leh)
+5. Burjila(kargil - [[Indus|Gilgit]])
+6. Khardung la(leh - [[Indus|Nubra river]])

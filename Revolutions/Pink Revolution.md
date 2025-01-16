@@ -9,7 +9,7 @@
 
 2. Historical Data
 
-- **Started**: Early 2000s, with significant growth observed since the **1980s**.
+- **Started**: Early 1970s, with significant growth observed since the **1980s**.
 - **Focus**: Modernization of meat and poultry processing.
 - **Major expansion**: 2010s onwards, driven by policy support and increased demand.
 

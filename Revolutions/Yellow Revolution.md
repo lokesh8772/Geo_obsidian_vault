@@ -14,10 +14,10 @@ India's Yellow Revolution (1986-87):
 
 3. Key Initiatives
 - High-yielding varieties
-- TMOP establishment
+- TMOP(Tech. Mission on Oilseed and Pulses) establishment
 - Minimum support prices
 - Storage/processing facilities
-- NDDB Oilseeds Growers' Cooperative
+- NDDB(National Dairy Development Board) Oilseeds Growers' Cooperative
 - Farming technology upgrades
 - R&D focus
 - Farmer cooperatives
