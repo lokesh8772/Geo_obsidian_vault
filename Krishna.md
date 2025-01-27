@@ -15,3 +15,4 @@ Right -
 5. [[Ghatprabha]]
 6. Malprabha
 7. [[Tungbhadra]]
+![[IMG_20250123_121559_162.jpg]]
