@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahanadi.md",
+                "file": "Revolutions/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mahanadi"
+              "title": "index"
             }
           }
         ]
@@ -152,6 +152,10 @@
   },
   "active": "23154d64bba454ea",
   "lastOpenFiles": [
+    "Revolutions/Black Revolution.md",
+    "Revolutions/index.md",
+    "Revolutions/Yellow Revolution.md",
+    "Mahanadi.md",
     "River orders.md",
     "Ganga.md",
     "son.md",
@@ -182,10 +186,6 @@
     "hills glaciers etc/Valleys of Himalaya.md",
     "hills glaciers etc/Trans Himalaya.md",
     "hills glaciers etc/Passes of UK.md",
-    "hills glaciers etc/Passes of HP.md",
-    "hills glaciers etc/Passes of Arunachal Pradesh.md",
-    "hills glaciers etc/Lesser Himalaya.md",
-    "hills glaciers etc/Hills of Mizoram.md",
     "hills glaciers etc",
     "/hills glaciers etc",
     "Revolutions",
