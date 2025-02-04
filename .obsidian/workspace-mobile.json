@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutions/index.md",
+                "file": "hills glaciers etc/Passes of UK.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Passes of UK"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Revolutions/Pink Revolution.md",
+            "file": "Revolutions/Brown Revolution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,10 +150,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23154d64bba454ea",
+  "active": "3da125f1f8515735",
   "lastOpenFiles": [
-    "Revolutions/Black Revolution.md",
+    "Revolutions/Brown Revolution.md",
     "Revolutions/index.md",
+    "Revolutions/Black Revolution.md",
     "Revolutions/Yellow Revolution.md",
     "Mahanadi.md",
     "River orders.md",
@@ -185,7 +186,6 @@
     "hills glaciers etc/hills of Assam.md",
     "hills glaciers etc/Valleys of Himalaya.md",
     "hills glaciers etc/Trans Himalaya.md",
-    "hills glaciers etc/Passes of UK.md",
     "hills glaciers etc",
     "/hills glaciers etc",
     "Revolutions",
