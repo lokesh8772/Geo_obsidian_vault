@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "son.md",
+                "file": "Godavari.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "son"
+              "title": "Godavari"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ganga.md",
+            "file": "Godavari.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,9 +152,11 @@
   },
   "active": "23154d64bba454ea",
   "lastOpenFiles": [
-    "Ganga.md",
-    "Ramganga.md",
     "son.md",
+    "Ganga.md",
+    "Tungbhadra.md",
+    "Krishna.md",
+    "Ramganga.md",
     "Satpura.md",
     "Small Rivers of Eastern Ghats.md",
     "hills glaciers etc/Passes of HP.md",
@@ -167,8 +169,6 @@
     "Narmada.md",
     "Namami Devi Narmade.md",
     "Godavari.md",
-    "Krishna.md",
-    "Tungbhadra.md",
     "Tungabhadra dam.md",
     "Bhima.md",
     "Chandrabhaga.md",
