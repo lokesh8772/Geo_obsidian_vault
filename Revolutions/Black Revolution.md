@@ -50,7 +50,7 @@
 
 4. Results (with data)
 
-- Self-reliance: 30% (1970) → 70% (1990)
+- Import dependence: 100% (1970) → 70% (1990) -> 88%(2024)
 
 - Employment: 2 million+ jobs (direct + indirect)
 
