@@ -8,28 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23154d64bba454ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revolutions/Yellow Revolution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yellow Revolution"
-            }
-          },
-          {
             "id": "b5ddd39d741cbee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "yo_ delete.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -44,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "yo_ delete"
+            }
+          },
+          {
+            "id": "2b682b4cfaded88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hills glaciers etc/Passes of UK.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Passes of UK"
             }
           }
         ],
@@ -62,7 +71,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -74,7 +84,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Lipule",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -109,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6626b4e0e2957d50",
@@ -121,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Godavari.md",
+            "file": "hills glaciers etc/Passes of UK.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,10 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ddd39d741cbee3",
+  "active": "2b682b4cfaded88e",
   "lastOpenFiles": [
-    "Revolutions/Yellow Revolution.md",
+    "Cauvery.md",
     "yo_ delete.md",
+    "Revolutions/Yellow Revolution.md",
     "Revolutions/Protein Revolution.md",
     "Revolutions/Pink Revolution.md",
     "Revolutions/Brown Revolution.md",
@@ -198,7 +209,6 @@
     "Sutlej.md",
     "Tapi.md",
     "hills glaciers etc/Passes of UK.md",
-    "Cauvery.md",
     "Narmada.md",
     "Namami Devi Narmade.md",
     "Tungabhadra dam.md",
