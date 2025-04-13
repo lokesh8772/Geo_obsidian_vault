@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "Yellow Revolution"
             }
+          },
+          {
+            "id": "b5ddd39d741cbee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yo_ delete.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "yo_ delete"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23154d64bba454ea",
+  "active": "b5ddd39d741cbee3",
   "lastOpenFiles": [
+    "Revolutions/Yellow Revolution.md",
+    "yo_ delete.md",
     "Revolutions/Protein Revolution.md",
     "Revolutions/Pink Revolution.md",
     "Revolutions/Brown Revolution.md",
@@ -176,8 +203,6 @@
     "Namami Devi Narmade.md",
     "Tungabhadra dam.md",
     "Bhima.md",
-    "Chandrabhaga.md",
-    "Yamuna.md",
     "IMG_20250123_121723_943 1.jpg",
     "IMG_20250123_121719_333.jpg",
     "IMG_20250123_121723_943.jpg",
