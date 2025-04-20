@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hills glaciers etc/Passes of UK.md",
+                "file": "Narmada.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,14 +45,14 @@
                   "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
-                  "showSearch": false,
+                  "showSearch": true,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Passes of UK"
+              "title": "Narmada"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "2b682b4cfaded88e",
   "lastOpenFiles": [
+    "hills glaciers etc/Passes of UK.md",
     "Cauvery.md",
     "yo_ delete.md",
     "Revolutions/Yellow Revolution.md",
@@ -208,7 +209,6 @@
     "Ravi.md",
     "Sutlej.md",
     "Tapi.md",
-    "hills glaciers etc/Passes of UK.md",
     "Narmada.md",
     "Namami Devi Narmade.md",
     "Tungabhadra dam.md",
