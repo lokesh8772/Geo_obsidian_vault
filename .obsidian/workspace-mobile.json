@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narmada.md",
+                "file": "Revolutions/Yellow Revolution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Narmada"
+              "title": "Yellow Revolution"
             }
           }
         ],
@@ -84,7 +84,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Lipule",
+            "query": "revolu",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "hills glaciers etc/Passes of UK.md",
+            "file": "Revolutions/Yellow Revolution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,13 +187,14 @@
   },
   "active": "2b682b4cfaded88e",
   "lastOpenFiles": [
+    "Revolutions/Brown Revolution.md",
+    "Revolutions/Pink Revolution.md",
+    "Narmada.md",
     "hills glaciers etc/Passes of UK.md",
     "Cauvery.md",
     "yo_ delete.md",
     "Revolutions/Yellow Revolution.md",
     "Revolutions/Protein Revolution.md",
-    "Revolutions/Pink Revolution.md",
-    "Revolutions/Brown Revolution.md",
     "Revolutions/Black Revolution.md",
     "Revolutions/index.md",
     "Godavari.md",
@@ -209,7 +210,6 @@
     "Ravi.md",
     "Sutlej.md",
     "Tapi.md",
-    "Narmada.md",
     "Namami Devi Narmade.md",
     "Tungabhadra dam.md",
     "Bhima.md",
