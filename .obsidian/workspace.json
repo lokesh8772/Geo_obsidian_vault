@@ -140,13 +140,23 @@
               "icon": "lucide-list",
               "title": "Outline of Bhima"
             }
+          },
+          {
+            "id": "76912546208f5372",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0052c41bca147d61",
+  "active": "055f521e298448a0",
   "lastOpenFiles": [
     "River orders.md",
     "hills glaciers etc/Great himalaya.md",
