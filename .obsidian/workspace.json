@@ -18,15 +18,27 @@
             }
           },
           {
-            "id": "c555277c82abe66b",
+            "id": "e20a46e8403469f4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Govt Schemes/India AI Mission.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "India AI Mission"
             }
           }
         ],
@@ -184,8 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c555277c82abe66b",
+  "active": "055f521e298448a0",
   "lastOpenFiles": [
+    "Govt Schemes/India AI Mission.md",
+    "Govt Schemes",
     "anki_import/indian polity🌖☀️⚡☀️/_indian polity🌖☀️⚡☀️_index.md",
     "anki_import/indian polity🌖☀️⚡☀️/ZERO HOUR_1625552896379.md",
     "anki_import/indian polity🌖☀️⚡☀️/why Indian Constitution is called a living document_1594391269628.md",
@@ -211,7 +225,6 @@
     "anki_import/indian polity🌖☀️⚡☀️/what is ground of declaration for financial emergency_1598003779675.md",
     "anki_import/indian polity🌖☀️⚡☀️/what is fazl ali commisions _1592370824769.md",
     "anki_import/indian polity🌖☀️⚡☀️/what is difference between external emergency and internal emergency_1598003111804.md",
-    "anki_import/indian polity🌖☀️⚡☀️/what is difference between District and session judge courts_1593503634062.md",
     "anki_import/indian polity🌖☀️⚡☀️",
     "anki_import/Physical Geography",
     "anki_import/my_polity/Important-Articles",
@@ -221,7 +234,6 @@
     "anki_import/my_polity",
     "anki_import/laxmikanth",
     "anki_import/LAKSHMIKANT/Union and its territory",
-    "anki_import/LAKSHMIKANT/Elections and related",
     "Untitled.canvas"
   ]
 }
