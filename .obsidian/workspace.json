@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "c555277c82abe66b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +49,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,43 +184,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76912546208f5372",
+  "active": "c555277c82abe66b",
   "lastOpenFiles": [
-    "anki_data/anki_data/Welcome.md",
-    "anki_data/anki_data",
-    "anki_data",
-    "New folder",
-    "River orders.md",
-    "hills glaciers etc/Great himalaya.md",
-    "README.md",
-    "Welcome.md",
-    "github token.md",
-    "Ganga.md",
-    "Gandak.md",
-    "Ghaghra.md",
-    "Ramganga.md",
-    "Brahmaputra.md",
-    "hills glaciers etc/Passes of Arunachal Pradesh.md",
-    "hills glaciers etc/Lesser Himalaya.md",
-    "hills glaciers etc/hills of Tripura.md",
-    "hills glaciers etc/hills of Manipur.md",
-    "hills glaciers etc/Valleys of Himalaya.md",
-    "hills glaciers etc/Passes of Sikkim.md",
-    "conflict-files-obsidian-git.md",
-    "hills glaciers etc/Passes of UK.md",
-    "hills glaciers etc/Passes of HP.md",
-    "Ravi.md",
-    "Indus.md",
-    "hills glaciers etc/Passes of J&K and Laddakh.md",
-    "hills glaciers etc/hills of Meghalaya.md",
-    "hills glaciers etc/hills of Assam.md",
-    "hills glaciers etc/Hills of Mizoram.md",
-    "hills glaciers etc",
-    "Revolutions",
-    "Kali",
-    "Beas",
-    "Untitled.canvas",
-    "Geo_obsidian_vault",
-    "obsidian-vault"
+    "anki_import/indian polity🌖☀️⚡☀️/_indian polity🌖☀️⚡☀️_index.md",
+    "anki_import/indian polity🌖☀️⚡☀️/ZERO HOUR_1625552896379.md",
+    "anki_import/indian polity🌖☀️⚡☀️/why Indian Constitution is called a living document_1594391269628.md",
+    "anki_import/indian polity🌖☀️⚡☀️/who was the chief justice of India when public interest litigation was introduced to the Indian judi_1595364736822.md",
+    "anki_import/indian polity🌖☀️⚡☀️/who recommended that the right of an individual should be divided into two categories that is justic_1614924420692.md",
+    "anki_import/indian polity🌖☀️⚡☀️/who is the responsible for the appointment posting and promotion of the district judge in a state_1593503462507.md",
+    "anki_import/indian polity🌖☀️⚡☀️/which part of the constitution deals with state excutive_1614953975619.md",
+    "anki_import/indian polity🌖☀️⚡☀️/who has power to declare an area to be a scheduled area_1595723601785.md",
+    "anki_import/indian polity🌖☀️⚡☀️/who is the nominal executive and who is the real executive_1592748293900.md",
+    "anki_import/indian polity🌖☀️⚡☀️/which one of the following constitutional amendment states that the total number of minister includi_1592783362860.md",
+    "anki_import/indian polity🌖☀️⚡☀️/Which article deals with the right against exploitation_1615103727219.md",
+    "anki_import/indian polity🌖☀️⚡☀️/when was the objective resolution moved by the pandit jawaharlal Nehru adopted_1597812919215.md",
+    "anki_import/indian polity🌖☀️⚡☀️/when did India ratified membership of the bretton woods institutions_1597813136711.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what where the new DSP added by 42nd amendment act of 1976_1614923109827.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what were the subject matter of article 45 change in 86th amendment act of 2002_1614923530299.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what was the sankari prasad case_1614538789484.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is zonal council_🙄🙄_1594406960170.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is tribes advisory council_1595723787502.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is the ninth schedule of the Indian constitutions_1593049861496.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is the fifth schedule_1595723434707.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is the 7th amendment act of 1956_1593502078788.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is sixth schedule_1595723537585.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is ground of declaration for financial emergency_1598003779675.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is fazl ali commisions _1592370824769.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is difference between external emergency and internal emergency_1598003111804.md",
+    "anki_import/indian polity🌖☀️⚡☀️/what is difference between District and session judge courts_1593503634062.md",
+    "anki_import/indian polity🌖☀️⚡☀️",
+    "anki_import/Physical Geography",
+    "anki_import/my_polity/Important-Articles",
+    "anki_import/my_polity/Fundamental_Rights",
+    "anki_import/my_polity/DPSPs",
+    "anki_import/my_polity/Fundamental_Duties",
+    "anki_import/my_polity",
+    "anki_import/laxmikanth",
+    "anki_import/LAKSHMIKANT/Union and its territory",
+    "anki_import/LAKSHMIKANT/Elections and related",
+    "Untitled.canvas"
   ]
 }
