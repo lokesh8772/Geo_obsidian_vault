@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutions/Yellow Revolution.md",
+                "file": "India AI mission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Yellow Revolution"
+              "title": "India AI mission"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "2b682b4cfaded88e",
   "lastOpenFiles": [
-    "Green hydrogen mission.md",
     "Revolutions/Yellow Revolution.md",
+    "India AI mission.md",
+    "Green hydrogen mission.md",
     "Revolutions/Brown Revolution.md",
     "Revolutions/Pink Revolution.md",
     "Narmada.md",
@@ -212,7 +213,6 @@
     "Sutlej.md",
     "Tapi.md",
     "Namami Devi Narmade.md",
-    "Tungabhadra dam.md",
     "IMG_20250123_121723_943 1.jpg",
     "IMG_20250123_121719_333.jpg",
     "IMG_20250123_121723_943.jpg",
