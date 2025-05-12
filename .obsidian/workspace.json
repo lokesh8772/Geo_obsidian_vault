@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Make in India.md",
+                "file": "github token.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Make in India"
+              "title": "github token"
             }
           }
         ],
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Make in India.md",
+                "file": "github token.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Make in India"
+              "title": "Outline of github token"
             }
           }
         ],
