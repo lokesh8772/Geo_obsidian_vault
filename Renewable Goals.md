@@ -18,8 +18,8 @@
 
 **Key schemes -** 
 
-- **PM Surya Ghar: Muft Bijli Yojana**  
-- **National Green Hydrogen Mission**
+- [[PM Surya Ghar Muft Bijli Yojana]]  
+- [[National Green Hydrogen Mission]]
 - **Solar PV Module PLI Scheme**
 - **PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)**  
     

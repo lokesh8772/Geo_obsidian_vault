@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewable Goals.md",
+                "file": "National Green Hydrogen Mission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Renewable Goals"
+              "title": "National Green Hydrogen Mission"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "National Green Hydrogen Mission.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of National Green Hydrogen Mission"
             }
           }
         ],
@@ -214,10 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c74922cbbbb1dfe",
+  "active": "d1e85c13ba565f34",
   "lastOpenFiles": [
-    "Untitled.md",
     "Renewable Goals.md",
+    "National Green Hydrogen Mission.md",
+    "PM Surya Ghar Muft Bijli Yojana.md",
+    "Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Damodar.md",
     "Godavari.md",
     "Kaleshwaram Project.md",
@@ -241,8 +243,6 @@
     "anki_import/indian polity🌖☀️⚡☀️/what was the sankari prasad case_1614538789484.md",
     "anki_import/indian polity🌖☀️⚡☀️/what is zonal council_🙄🙄_1594406960170.md",
     "anki_import/indian polity🌖☀️⚡☀️/what is tribes advisory council_1595723787502.md",
-    "anki_import/indian polity🌖☀️⚡☀️/what is the ninth schedule of the Indian constitutions_1593049861496.md",
-    "anki_import/indian polity🌖☀️⚡☀️/what is the fifth schedule_1595723434707.md",
     "anki_import/indian polity🌖☀️⚡☀️",
     "anki_import/Physical Geography",
     "anki_import/my_polity/Important-Articles",
