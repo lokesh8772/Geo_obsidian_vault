@@ -42,30 +42,6 @@
             }
           },
           {
-            "id": "6c74922cbbbb1dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)"
-            }
-          },
-          {
             "id": "b6c720e9356d6b78",
             "type": "leaf",
             "state": {
@@ -95,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godavari.md",
+                "file": "National Solar Mission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,35 +86,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godavari"
-            }
-          },
-          {
-            "id": "fd914acaf6a99591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "National Health Mission (NHM).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "National Health Mission (NHM)"
+              "title": "National Solar Mission"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "National Health Mission (NHM).md",
+                "file": "National Solar Mission.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of National Health Mission (NHM)"
+              "title": "Outline of National Solar Mission"
             }
           },
           {
@@ -295,38 +247,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "055f521e298448a0",
+  "active": "fdd96fa3d47b094d",
   "lastOpenFiles": [
-    "Gvot initiatives",
-    "National Rural Livelihood Mission (NRLM).md",
-    "National Health Mission (NHM).md",
-    "MGNREGA.md",
-    "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
-    "PM-KUSUM.md",
-    "SVANidhi Scheme.md",
-    "Prime Minister Employment Generation Programme (PMEGP).md",
-    "Stand-Up India.md",
-    "Startup India.md",
-    "MUDRA Yojana.md",
-    "Production Linked Incentive (PLI) Scheme.md",
-    "Research Institutes.md",
-    "Solar PV Module PLI Scheme.md",
-    "Small Rivers of Eastern Ghats.md",
-    "Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
-    "Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
-    "github token.md",
+    "Grid-connected Rooftop Solar Programme.md",
+    "National Solar Mission.md",
+    "Gvot initiatives/Solar PV Module PLI Scheme.md",
+    "Gvot initiatives/Stand-Up India.md",
+    "Gvot initiatives/manufacturing sector schemes.md",
     "Godavari.md",
-    "conflict-files-obsidian-git.md",
-    "yo_ delete.md",
-    "son.md",
-    "manufacturing sector schemes.md",
+    "Gvot initiatives/Make in India Initiative.md",
+    "National Health Mission (NHM).md",
+    "Gvot initiatives/Startup India.md",
+    "Gvot initiatives/Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
+    "Gvot initiatives/Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
+    "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
+    "Gvot initiatives/Prime Minister Employment Generation Programme (PMEGP).md",
+    "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
+    "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
+    "Gvot initiatives/PM-KUSUM.md",
+    "Gvot initiatives/PM Surya Ghar Muft Bijli Yojana.md",
+    "Gvot initiatives/National Rural Livelihood Mission (NRLM).md",
+    "Gvot initiatives/National Manufacturing Competitiveness Programme (NMCP).md",
+    "Gvot initiatives/National Health Mission (NHM).md",
+    "Gvot initiatives/National Green Hydrogen Mission.md",
+    "Gvot initiatives/National Bioenergy Programme.md",
+    "Gvot initiatives/Namami Gange Plan.md",
+    "Gvot initiatives/MUDRA Yojana.md",
+    "Gvot initiatives/Micro Finance Programme.md",
+    "Gvot initiatives/MGNREGA.md",
+    "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",
     "images/IMG_20250123_121719_333.jpg",
     "images",
-    "history approach.md",
-    "Tungabhadra dam.md",
-    "National Manufacturing Competitiveness Programme (NMCP).md",
     "IMG_20250123_121723_943.jpg",
     "IMG_20250123_121723_943 1.jpg",
     "IMG_20250123_121719_333.jpg",
@@ -339,7 +292,6 @@
     "anki_import/my_polity/DPSPs",
     "anki_import/my_polity/Fundamental_Duties",
     "anki_import/my_polity",
-    "anki_import/laxmikanth",
     "Untitled.canvas"
   ]
 }

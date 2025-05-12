@@ -14,5 +14,13 @@
       ],
       "key": "N"
     }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }
