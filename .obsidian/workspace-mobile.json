@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indian Council of Agricultural Reaearch.md",
+                "file": "Research Institutes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Indian Council of Agricultural Reaearch"
+              "title": "Research Institutes"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "2b682b4cfaded88e",
   "lastOpenFiles": [
-    "Research Institutes.md",
     "Indian Council of Agricultural Reaearch.md",
+    "Research Institutes.md",
     "Council of Scientific and Industrial Research.md",
     "Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
     "manufacturing sector schemes.md",
