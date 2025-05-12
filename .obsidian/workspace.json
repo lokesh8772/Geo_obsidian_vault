@@ -40,9 +40,33 @@
               "icon": "lucide-file",
               "title": "Godavari"
             }
+          },
+          {
+            "id": "d1e85c13ba565f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Renewable Goals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Renewable Goals"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "godava",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,24 +186,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bhima.md"
+                "file": "Renewable Goals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bhima"
-            }
-          },
-          {
-            "id": "76912546208f5372",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Renewable Goals"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,7 +205,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,10 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20a46e8403469f4",
+  "active": "d1e85c13ba565f34",
   "lastOpenFiles": [
-    "Kaleshwaram Project.md",
+    "Damodar.md",
+    "Renewable Goals.md",
     "Godavari.md",
+    "Kaleshwaram Project.md",
     "Govt Schemes/India AI Mission.md",
     "Govt Schemes",
     "anki_import/indian polity🌖☀️⚡☀️/_indian polity🌖☀️⚡☀️_index.md",
@@ -224,8 +242,6 @@
     "anki_import/indian polity🌖☀️⚡☀️/what is the ninth schedule of the Indian constitutions_1593049861496.md",
     "anki_import/indian polity🌖☀️⚡☀️/what is the fifth schedule_1595723434707.md",
     "anki_import/indian polity🌖☀️⚡☀️/what is the 7th amendment act of 1956_1593502078788.md",
-    "anki_import/indian polity🌖☀️⚡☀️/what is sixth schedule_1595723537585.md",
-    "anki_import/indian polity🌖☀️⚡☀️/what is ground of declaration for financial emergency_1598003779675.md",
     "anki_import/indian polity🌖☀️⚡☀️",
     "anki_import/Physical Geography",
     "anki_import/my_polity/Important-Articles",
