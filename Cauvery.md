@@ -22,4 +22,4 @@ Islands -
 3. Shrirangam(TN)
 
 - known as Ganga of South India (not to confuse with [[Godavari|Dakshin Ganga]])
-- 
+![[IMG_20250123_121723_943 1.jpg]]

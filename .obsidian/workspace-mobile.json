@@ -4,25 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "070dffa065e4212c",
+        "id": "e0d0ed8bc476d7ab",
         "type": "tabs",
         "children": [
           {
-            "id": "6f39e7cc062df3f9",
+            "id": "b5ddd39d741cbee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revolutions/Protein Revolution.md",
-                "mode": "source",
+                "file": "yo_ delete.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Protein Revolution"
+              "title": "yo_ delete"
+            }
+          },
+          {
+            "id": "2b682b4cfaded88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Institutes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Research Institutes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +71,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -49,7 +84,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "revolu",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -84,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6626b4e0e2957d50",
@@ -96,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Revolutions/Pink Revolution.md",
+            "file": "Revolutions/Yellow Revolution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,38 +185,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f39e7cc062df3f9",
+  "active": "2b682b4cfaded88e",
   "lastOpenFiles": [
-    "Revolutions/index.md",
-    "Revolutions/Pink Revolution.md",
-    "Revolutions/Protein Revolution.md",
+    "Indian Council of Agricultural Reaearch.md",
+    "Research Institutes.md",
+    "Council of Scientific and Industrial Research.md",
+    "Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
+    "manufacturing sector schemes.md",
+    "National Manufacturing Competitiveness Programme (NMCP).md",
+    "A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
+    "Financial Support to MSMEs in ZED Certification Scheme.md",
+    "Prime Minister Employment Generation Programme (PMEGP).md",
+    "Credit Guarantee Scheme.md",
+    "Credit Linked Capital Subsidy Scheme for Technology Upgradation (CLCSS).md",
+    "Production Linked Incentive (PLI) Scheme.md",
+    "Make in India Initiative.md",
+    "Micro Finance Programme.md",
+    "India AI mission.md",
     "Revolutions/Yellow Revolution.md",
+    "Green hydrogen mission.md",
     "Revolutions/Brown Revolution.md",
+    "Revolutions/Pink Revolution.md",
+    "Narmada.md",
+    "hills glaciers etc/Passes of UK.md",
+    "Cauvery.md",
+    "yo_ delete.md",
+    "Revolutions/Protein Revolution.md",
     "Revolutions/Black Revolution.md",
-    "/Revolutions/index.md",
-    "/Revolutions/Yellow Revolution.md",
-    "/Revolutions/Protein Revolution.md",
-    "/Revolutions/Pink Revolution.md",
-    "/Revolutions/Brown Revolution.md",
-    "/Revolutions/Black Revolution.md",
+    "Revolutions/index.md",
+    "IMG_20250123_121723_943 1.jpg",
+    "IMG_20250123_121719_333.jpg",
+    "IMG_20250123_121723_943.jpg",
+    "IMG_20250123_121559_162.jpg",
+    "images/IMG_20250123_121719_333.jpg",
+    "images/IMG_20250123_121559_162.jpg",
+    "images/IMG_20250123_121723_943.jpg",
+    "images",
+    "hills glaciers etc",
+    "/hills glaciers etc",
     "Revolutions",
     "/Revolutions",
-    "misc topics/Yellow Revolution.md",
-    "misc topics/Protein Revolution.md",
-    "misc topics/Pink Revolution.md",
-    "misc topics/Brown Revolution.md",
-    "misc topics/Black Revolution.md",
-    "/misc topics/Yellow Revolution.md",
-    "/misc topics/Protein Revolution.md",
-    "/misc topics/Pink Revolution.md",
-    "/misc topics/Brown Revolution.md",
-    "/misc topics/Black Revolution.md",
     "misc topics",
     "/misc topics",
-    "Bhima.md",
-    "Krishna.md",
-    "Narmada.md",
-    "Namami Devi Narmade.md",
     "Kali",
     "/Kali"
   ]
