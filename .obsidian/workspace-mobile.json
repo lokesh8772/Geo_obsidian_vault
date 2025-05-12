@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Institutes.md",
+                "file": "Godavari.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Research Institutes"
+              "title": "Godavari"
             }
           }
         ],
@@ -84,7 +84,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "revolu",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -119,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6626b4e0e2957d50",
@@ -187,8 +187,9 @@
   },
   "active": "2b682b4cfaded88e",
   "lastOpenFiles": [
-    "history approach.md",
     "Research Institutes.md",
+    "/Godavari.md",
+    "history approach.md",
     "Indian Council of Agricultural Reaearch.md",
     "Council of Scientific and Industrial Research.md",
     "Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
@@ -212,7 +213,6 @@
     "Cauvery.md",
     "yo_ delete.md",
     "Revolutions/Protein Revolution.md",
-    "Revolutions/Black Revolution.md",
     "IMG_20250123_121723_943 1.jpg",
     "IMG_20250123_121719_333.jpg",
     "IMG_20250123_121723_943.jpg",
