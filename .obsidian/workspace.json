@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Godavari.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,11 +110,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Godavari"
+            }
+          },
+          {
+            "id": "fd914acaf6a99591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solar PV Module PLI Scheme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Solar PV Module PLI Scheme"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "godavari",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +191,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Solar PV Module PLI Scheme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Solar PV Module PLI Scheme"
             }
           },
           {
@@ -272,11 +295,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdd96fa3d47b094d",
+  "active": "fd914acaf6a99591",
   "lastOpenFiles": [
+    "github token.md",
     "Godavari.md",
     "conflict-files-obsidian-git.md",
-    "github token.md",
     "yo_ delete.md",
     "son.md",
     "manufacturing sector schemes.md",
