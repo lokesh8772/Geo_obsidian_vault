@@ -1,5 +1,4 @@
 
-
 ### 🗓️ **Launch Date**
 October 2, 2014
 
@@ -47,11 +46,11 @@ The Swachh Bharat Abhiyan has two main components:
 - **Swachh Survekshan:** A ranking exercise for cities based on cleanliness and sanitation, promoting healthy competition.
 
 ### 🧩 **Linkages / Related Schemes**
-- **National Health Mission (NHM):** Improved sanitation under SBA contributes to better public health outcomes targeted by NHM.
-- **Poshan Abhiyan:** Better sanitation and hygiene are crucial for improving nutritional outcomes.
-- **Jal Jeevan Mission:** Provides access to clean drinking water, complementing the sanitation efforts of SBA.
-- **Atal Mission for Rejuvenation and Urban Transformation (AMRUT):** Focuses on urban infrastructure development, including water supply and sewerage, which are linked to SBM-Urban.
-- **Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS):** Has been utilized for toilet construction in some areas.
+- **[[National Health Mission (NHM)]]:** Improved sanitation under SBA contributes to better public health outcomes targeted by NHM.
+- **[[Poshan Abhiyan]]:** Better sanitation and hygiene are crucial for improving nutritional outcomes.
+- **[[Jal Jeevan Mission]]:** Provides access to clean drinking water, complementing the sanitation efforts of SBA.
+- **[[Atal Mission for Rejuvenation and Urban Transformation (AMRUT)]]:** Focuses on urban infrastructure development, including water supply and sewerage, which are linked to SBM-Urban.
+- **[[MGNREGS]]:** Has been utilized for toilet construction in some areas.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - **Sustainability of ODF Status:** Ensuring continued usage and maintenance of constructed toilets.

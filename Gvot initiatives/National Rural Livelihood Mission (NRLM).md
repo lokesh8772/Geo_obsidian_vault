@@ -38,7 +38,7 @@ To reduce poverty by enabling the poor households to access gainful self-employm
 - Played a vital role in women's empowerment and social transformation in rural areas.
 
 ### 🧩 **Linkages / Related Schemes**
-- [[MGNREGA]]
+- [[MGNREGS]]
 - Deendayal Antyodaya Yojana-National Urban Livelihoods Mission (DAY-NULM)
 - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
 - [[National Health Mission (NHM)]]
