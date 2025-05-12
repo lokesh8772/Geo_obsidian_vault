@@ -1,4 +1,5 @@
 
+# Make in India
 
 ## 1. Started - 2014
 
@@ -39,6 +40,13 @@ To transform India into a global manufacturing hub by encouraging domestic manuf
 * Launch and implementation of successful PLI schemes attracting substantial investment commitments.(FDI equity inflow -> >>69%(decadal increase))
 * Development of industrial corridors and manufacturing clusters.(Approval for **12 new industrial cities** under the National Industrial Corridor Development Programme (NICDP))
 * Enhanced focus on quality and standards through initiatives like the ZED scheme.
+
+### Negatives
+* **Manufacturing Sector Contribution to GDP:** The target of increasing the manufacturing sector's contribution to 25% of GDP by 2025 is unlikely to be met. The current contribution hovers around 17-18%.
+* **Job Creation:** While the initiative aimed to create significant employment, the actual job creation in the manufacturing sector has been slower than anticipated.
+* **Competitiveness:** Enhancing India's global competitiveness in manufacturing remains a challenge, with issues like logistics costs, infrastructure gaps, and regulatory complexities still needing significant improvement.
+* **Deepening of Value Chains:** While some progress has been made, building deep and integrated domestic value chains across various sectors is still an ongoing process.
+* **Skill Development Gaps:** Despite skill development programs, a significant gap remains between the skills required by the manufacturing industry and the available workforce.
 
 ## 7. Any Significant Development in Current
 * Continued emphasis on the implementation and expansion of PLI schemes to cover more sectors and deepen domestic manufacturing capabilities.
