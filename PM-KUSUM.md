@@ -1,37 +1,57 @@
 
-**Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan**
-## 1. Started - 2019
+### 🗓️ **Launch Date**
+March 2019
 
-## 2. Nodal Ministry
-Ministry of New and Renewable Energy (MNRE), Government of India
+### 🧑‍🏫 **Ministry / Department**
+Ministry of New and Renewable Energy (MNRE)
 
-## 3. Goal
-To provide energy and water security to farmers, increase their income, de-dieselize the farm sector, and reduce environmental pollution.
+### 🎯 **Objective**
+To enhance farmers' income, provide irrigation sources, de-dieselize the agriculture sector, and promote the use of solar energy in agriculture.
 
-## 4. Aim
-* Increase farmers' income.
-* Provide sources for irrigation.
-* De-dieselize the agricultural sector.
-* Reduce dependence on diesel for irrigation.
-* Reduce the cost of irrigation by using solar pumps.
-* Provide water and energy security to farmers.
-* Reduce pollution.
-* Reduce the cost of farming and increase the yearly income of farmers.
-* Motivate farmers to use Renewable Energy Sources for lowering the pollution.
+### 👥 **Target Beneficiaries**
+- Individual farmers
+- Groups of farmers
+- Cooperatives
+- Panchayats
+- Farmer Producer Organisations (FPOs)
+- Water User Associations (WUAs)
 
-## 5. Initiatives (or Key Features)
-* **Component A:** Setting up of decentralized grid-connected renewable energy power plants (REPP) of 500 kW to 2 MW capacity by farmers on their land.
-* **Component B:** Installation of standalone solar agriculture pumps of capacity up to 7.5 HP for replacement of existing diesel agriculture pumps.
-* **Component C:** Solarization of grid-connected agriculture pumps.
-* Financial assistance for farmers to install solar pumps.
-* Farmers can sell surplus solar energy back to DISCOMs.
-* Government subsidy on the total cost of solar irrigation pumps.
+### 💰 **Features / Components / Assistance**
+- **Component A:** Setting up decentralized grid-connected renewable energy power plants (0.5 to 2 MW) on barren/fallow/cultivable land. Farmers can sell power to DISCOMs. Incentive for DISCOMs for power procurement.
+- **Component B:** Installation of standalone solar agriculture pumps (up to 7.5 HP) in off-grid areas. Central Financial Assistance (CFA) up to 30-50%, with state subsidy and farmer contribution.
+- **Component C:** Solarization of existing grid-connected agriculture pumps (up to 7.5 HP). Farmers can use generated power and sell surplus to DISCOMs. Includes individual pump solarization and feeder-level solarization. Financial assistance similar to Component B.
 
-## 6. Achievements (if any)
-* As of June 30, 2024, over 4.11 lakh farmers have benefited from the scheme.
-* Installation of 8,14,667 standalone solar pumps as of April 30, 2025.
-* Solarisation of 7,043 pumps under individual pump solarisation and 4,01,666 pumps under feeder level solarisation as of April 30, 2025.
+### 📍 **Implementation Details**
+- Implemented by MNRE through State Nodal Agencies and DISCOMs.
+- Online portals and mobile apps for application.
+- Farmers contribute a portion of the cost (around 10-40%).
+- Subsidies provided by Central and State Governments, directly or adjusted in system cost.
+- Power Purchase Agreements (PPAs) between farmers/developers and DISCOMs for Component A and C.
 
-## 7. Any Significant Development in Current
-* Scheme extended until March 2026.
-* Focus on solarizing grid-connected agricultural pumps.
+### 📈 **Achievements / Data**
+- Aim to achieve 30.8 GW of solar capacity by March 2026.
+- Over 4,233 MW achieved under off-grid/KUSUM as of Dec 2024.
+- Significant progress in Component B (standalone solar pumps) in states like Maharashtra, Haryana, Rajasthan, and Uttar Pradesh.
+- Increasing number of grid-connected solar projects under Component A and solarization of pumps under Component C.
+
+### 🧩 **Linkages / Related Schemes**
+- [[Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)]]
+- [[Startup India]]
+- Schemes promoting renewable energy adoption.
+
+### ⚠️ **Criticism / Challenges / Issues**
+- Initial challenges in achieving targets.
+- Issues with land availability for power plants.
+- Dependence on state government participation and financial support.
+- Ensuring timely disbursal of subsidies and implementation at the ground level.
+- Need for awareness and capacity building among farmers.
+
+### ✍️ **Recent Updates / Current Affairs Angle**
+- Scheme extended till March 2026.
+- Focus on increasing the adoption of feeder-level solarization.
+- Efforts to streamline the application and approval processes.
+- Collaboration with financial institutions to facilitate loans for farmers.
+- Continued emphasis on promoting domestic manufacturing of solar components.
+
+### 🔗 **Tags**
+`#GovtSchemes` `#SolarEnergy` `#Agriculture` `#RenewableEnergy` `#FarmersWelfare`
