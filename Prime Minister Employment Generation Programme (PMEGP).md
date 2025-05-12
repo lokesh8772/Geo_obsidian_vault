@@ -34,9 +34,9 @@ To generate sustainable self-employment opportunities by establishing micro-ente
 - Budget 2023–24: ₹2,800 crore allocated
 ### 🧩 **Linkages / Related Schemes**
 - [[MUDRA Yojana]]  
-- Startup India  
-- Stand-Up India  
-- SVANidhi Scheme
+- [[Startup India ]] 
+- [[Stand-Up India ]] 
+- [[SVANidhi Scheme]]
 ### ⚠️ **Criticism / Challenges / Issues**
 - Delays in subsidy release  
 - Low success rate of enterprises beyond 5 years  
