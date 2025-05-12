@@ -32,28 +32,23 @@ To transform India into a global manufacturing hub by encouraging domestic manuf
 * **Production Linked Incentive (PLI) Schemes:** Offering financial incentives to boost domestic manufacturing in key sectors like electronics, pharmaceuticals, telecom, and automobiles.
 * **PM GatiShakti National Master Plan:** An integrated approach to plan and implement infrastructure projects, enhancing multi-modal connectivity for economic growth.
 
+
 ## 6. Achievements (if any)
-* Significant increase(119% compare to last decade) in FDI inflow into India.
-* Growth in domestic manufacturing capacity in several sectors, particularly electronics(mobile imports decreased by 84% across the decade) and renewable energy.
-* Increased focus on local sourcing and reduction in import dependence in some areas.
-* Improvement in India's ranking in the World Bank's Ease of Doing Business index.(142nd -> 63rd(2020))
-* Launch and implementation of successful PLI schemes attracting substantial investment commitments.(FDI equity inflow -> >>69%(decadal increase))
-* Development of industrial corridors and manufacturing clusters.(Approval for **12 new industrial cities** under the National Industrial Corridor Development Programme (NICDP))
-* Enhanced focus on quality and standards through initiatives like the ZED scheme.
+* FDI Inflow -> USD 45.15 Bn (FY 2014-15) -> USD 709.8 Bn (Apr 2014 - Sep 2024)
+* Domestic Mfg (Mobile Phones) -> 19.9% market share (Q2 2015) -> 95% market share (2019)
+* Ease of doing Biz -> 142nd (2014) -> 63rd (2020)
+* PLI Schemes -> ₹1.32 Lakh Crore Investment -> ₹10.90 Lakh Crore Mfg Output (by June 2024)
+* Industrial Corridors -> 11 corridors -> 12 new projects approved (₹28,602 Crore projected investment)
+* Startups (DPIIT Recognized) -> 148,931 (by June 2024)
+* Manufacturing Employment -> 57 million (2017-18) -> 64.4 million (2022-23)
 
 ### Negatives
-* **Manufacturing Sector Contribution to GDP:** The target of increasing the manufacturing sector's contribution to 25% of GDP by 2025 is unlikely to be met. The current contribution hovers around 17-18%.
-* **Job Creation:** While the initiative aimed to create significant employment, the actual job creation in the manufacturing sector has been slower than anticipated.
-* **Competitiveness:** Enhancing India's global competitiveness in manufacturing remains a challenge, with issues like logistics costs, infrastructure gaps, and regulatory complexities still needing significant improvement.
-* **Deepening of Value Chains:** While some progress has been made, building deep and integrated domestic value chains across various sectors is still an ongoing process.
-* **Skill Development Gaps:** Despite skill development programs, a significant gap remains between the skills required by the manufacturing industry and the available workforce.
+* Mfg GDP contribution: unlikely 25% by 2025 (16.7% in 2013-14 -> 15.9% in 2023-24).
+* Job Creation: slower than anticipated in manufacturing (target 100 million additional jobs by 2022, actual figures not meeting this).
+* Competitiveness: significant improvement needed (logistics costs remain high, infrastructure gaps persist).
+* Value Chains: building deep integration ongoing.
+* Skill Gaps: significant mismatch with industry needs.
 
 ## 7. Any Significant Development in Current
-* Continued emphasis on the implementation and expansion of PLI schemes to cover more sectors and deepen domestic manufacturing capabilities.
-* Focus on leveraging PM GatiShakti to improve logistics and reduce the cost of manufacturing.
-* Ongoing efforts to further simplify regulations and improve the ease of doing business for manufacturers.
-* Increased attention to promoting sustainable manufacturing practices and green technologies.
-* Strengthening of domestic supply chains and reducing reliance on single sources for critical components.
-* Focus on promoting exports of manufactured goods to make India a global manufacturing hub.
-* Active promotion of "Vocal for Local" and "Atmanirbhar Bharat" initiatives to encourage domestic consumption and production.
-* As of May 2025, the government continues to actively engage with industries and stakeholders to address challenges and further boost manufacturing growth under the Make in India framework.
+- Expanding PLI schemes (14 key sectors). 
+* Merchandise exports -> USD 437.06 Bn (FY 2023-24)
