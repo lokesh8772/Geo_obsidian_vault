@@ -40,33 +40,9 @@
               "icon": "lucide-file",
               "title": "Renewable Goals"
             }
-          },
-          {
-            "id": "b6c720e9356d6b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "National Electric Mobility Mission Plan (NEMMP).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "National Electric Mobility Mission Plan (NEMMP)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "e-drive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "National Electric Mobility Mission Plan (NEMMP).md",
+                "file": "Renewable Goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of National Electric Mobility Mission Plan (NEMMP)"
+              "title": "Outline of Renewable Goals"
             }
           },
           {
@@ -223,34 +199,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6c720e9356d6b78",
+  "active": "d1e85c13ba565f34",
   "lastOpenFiles": [
-    "FAME India Scheme.md",
     "National Electric Mobility Mission Plan (NEMMP).md",
+    "Gvot initiatives/Production Linked Incentive (PLI) Schemes.md",
+    "Gvot initiatives/PM E-DRIVE Scheme.md",
+    "Gvot initiatives/PM e-Bus Sewa.md",
+    "Gvot initiatives/National Solar Mission.md",
+    "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP).md",
+    "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
+    "Gvot initiatives/Grid-connected Rooftop Solar Programme.md",
+    "Gvot initiatives/Green Urban Mobility Initiatives (GUMI)..md",
+    "Gvot initiatives/FAME India Scheme.md",
+    "Gvot initiatives/CPSU Scheme.md",
+    "National Solar Mission - Copy.md",
+    "Production Linked Incentive (PLI) Schemes - Copy.md",
+    "PM E-DRIVE Scheme - Copy.md",
+    "PM e-Bus Sewa - Copy.md",
+    "National Electric Mobility Mission Plan (NEMMP) 2020.md",
+    "National Solar Mission.md",
+    "Green Urban Mobility Initiatives (GUMI)..md",
+    "PM e-Bus Sewa.md",
+    "PM E-DRIVE Scheme,.md",
+    "PM E-DRIVE Scheme.md",
+    "FAME India Scheme.md",
     "Gvot initiatives/National Green Hydrogen Mission.md",
     "Godavari.md",
     "Production Linked Incentive (PLI) Schemes.md",
     "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
-    "Wind Energy Programme.md",
-    "National Solar Mission.md",
-    "Grid-connected Rooftop Solar Programme.md",
-    "CPSU Scheme.md",
-    "Gvot initiatives/Solar PV Module PLI Scheme.md",
-    "Gvot initiatives/Stand-Up India.md",
-    "Gvot initiatives/manufacturing sector schemes.md",
-    "Gvot initiatives/Make in India Initiative.md",
-    "National Health Mission (NHM).md",
-    "Gvot initiatives/Startup India.md",
-    "Gvot initiatives/Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
-    "Gvot initiatives/Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
-    "Gvot initiatives/Prime Minister Employment Generation Programme (PMEGP).md",
-    "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
-    "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
-    "Gvot initiatives/PM-KUSUM.md",
-    "Gvot initiatives/PM Surya Ghar Muft Bijli Yojana.md",
-    "Gvot initiatives/National Rural Livelihood Mission (NRLM).md",
-    "Gvot initiatives/National Manufacturing Competitiveness Programme (NMCP).md",
-    "Gvot initiatives/National Health Mission (NHM).md",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",

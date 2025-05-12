@@ -41,8 +41,8 @@ To set the vision and roadmap for the large-scale adoption and manufacturing of 
 - [[FAME India Scheme]] (the primary scheme to implement NEMMP 2020's demand creation component)
 - [[Production Linked Incentive (PLI) Scheme]] for Automobile and Auto Component Industry
 - PLI Scheme for Advanced Chemistry Cell (ACC) Battery Storage
-- PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) Scheme
-- PM e-Bus Sewa
+- [[PM E-DRIVE Scheme]]
+- [[PM e-Bus Sewa]]
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - The targets set under NEMMP 2020 were not fully achieved by the target year.

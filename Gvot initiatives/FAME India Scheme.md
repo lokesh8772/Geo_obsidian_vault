@@ -47,7 +47,7 @@ To encourage the adoption of electric and hybrid vehicles (xEVs) by providing up
 - [[National Electric Mobility Mission Plan (NEMMP)]]
 - [[Production Linked Incentive (PLI) Scheme]] for Automobile and Auto Component Industry
 - PLI Scheme for Advanced Chemistry Cell (ACC) Battery Storage
-- [[PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) Scheme]]
+- [[PM E-DRIVE Scheme]]
 - [[PM e-Bus Sewa]]
 - [[Scheme for Promotion of Manufacturing of Electric Passenger Cars in India (SPMEPCI)]]
 
