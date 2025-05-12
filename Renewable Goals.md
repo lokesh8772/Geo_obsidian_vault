@@ -25,11 +25,11 @@
     
 - [[Grid Connected Rooftop Solar Programme (Phase II)]] 
     
-- **Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects**
+- [[Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects]]
 - **Central Public Sector Undertaking (CPSU) Scheme Phase-II (Government Producer Scheme)**  
     
-- **National Bioenergy Programme**
-- **Green Energy Corridors (GEC)**
+- [[National Bioenergy Programme]]
+- [[Green Energy Corridors (GEC)]]
 - **Offshore Wind Energy Projects (VGF Scheme)**
 - **New National Biogas and Organic Manure Programme**  
     
