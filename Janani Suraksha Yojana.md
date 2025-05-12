@@ -41,8 +41,8 @@ To reduce maternal and neonatal mortality by promoting institutional delivery am
 
 ### 🧩 **Linkages / Related Schemes**
 - **[[National Health Mission (NHM)]]:** JSY is a key safe motherhood intervention under NHM.
-- **Janani Shishu Suraksha Karyakram (JSSK):** JSY provides cash assistance, while JSSK ensures free and cashless services for pregnant women and sick newborns in public health institutions, complementing JSY's objectives.
-- **National Rural Health Mission (NRHM) (now part of NHM):** JSY was launched under NRHM.
+- **[[Janani Shishu Suraksha Karyakram (JSSK)]]):** JSY provides cash assistance, while JSSK ensures free and cashless services for pregnant women and sick newborns in public health institutions, complementing JSY's objectives.
+- **[[National Rural Health Mission]] (NRHM) (now part of NHM):** JSY was launched under NRHM.
 - **Conditional Direct Benefit Transfer (DBT) scheme:** JSY provides financial incentives directly to beneficiaries upon fulfilling certain conditions (institutional delivery).
 
 ### ⚠️ **Criticism / Challenges / Issues**
