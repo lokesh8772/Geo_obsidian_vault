@@ -35,9 +35,9 @@ To transform India into a global manufacturing hub by encouraging domestic manuf
 * Significant increase(119% compare to last decade) in FDI inflow into India.
 * Growth in domestic manufacturing capacity in several sectors, particularly electronics(mobile imports decreased by 84% across the decade) and renewable energy.
 * Increased focus on local sourcing and reduction in import dependence in some areas.
-* Improvement in India's ranking in the World Bank's Ease of Doing Business index.
-* Launch and implementation of successful PLI schemes attracting substantial investment commitments.
-* Development of industrial corridors and manufacturing clusters.
+* Improvement in India's ranking in the World Bank's Ease of Doing Business index.(142nd -> 63rd(2020))
+* Launch and implementation of successful PLI schemes attracting substantial investment commitments.(FDI equity inflow -> >>69%(decadal increase))
+* Development of industrial corridors and manufacturing clusters.(Approval for **12 new industrial cities** under the National Industrial Corridor Development Programme (NICDP))
 * Enhanced focus on quality and standards through initiatives like the ZED scheme.
 
 ## 7. Any Significant Development in Current
