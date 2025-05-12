@@ -20,10 +20,10 @@
 
 - [[PM Surya Ghar Muft Bijli Yojana]]  
 - [[National Green Hydrogen Mission]]
-- **Solar PV Module PLI Scheme**
-- **PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)**  
+- [[Solar PV Module PLI Scheme]]
+- [[PM-KUSUM]]
     
-- **Grid Connected Rooftop Solar Programme (Phase II)**  
+- [[Grid Connected Rooftop Solar Programme (Phase II)]] 
     
 - **Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects**
 - **Central Public Sector Undertaking (CPSU) Scheme Phase-II (Government Producer Scheme)**  
