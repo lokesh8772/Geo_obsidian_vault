@@ -41,10 +41,10 @@ To establish India as a global leader in solar energy by creating policy conditi
 - Development of a domestic solar manufacturing ecosystem, further boosted by schemes like the Solar PV Module PLI.
 
 ### 🧩 **Linkages / Related Schemes**
-- Grid-connected Rooftop Solar Programme
-- [PM-KUSUM]()
-- Solar PV Module PLI Scheme
-- National Green Hydrogen Mission
+- [[Grid-connected Rooftop Solar Programme]]
+- [[PM-KUSUM]]
+- [[Solar PV Module PLI Scheme]]
+- [[National Green Hydrogen Mission]]
 - Various state-level solar policies
 
 ### ⚠️ **Criticism / Challenges / Issues**

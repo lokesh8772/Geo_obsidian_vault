@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godavari.md",
+                "file": "National Electric Mobility Mission Plan (NEMMP).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,35 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godavari"
-            }
-          },
-          {
-            "id": "fdd96fa3d47b094d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "National Solar Mission.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "National Solar Mission"
+              "title": "National Electric Mobility Mission Plan (NEMMP)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "National Solar Mission.md",
+                "file": "National Electric Mobility Mission Plan (NEMMP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of National Solar Mission"
+              "title": "Outline of National Electric Mobility Mission Plan (NEMMP)"
             }
           },
           {
@@ -247,20 +223,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdd96fa3d47b094d",
+  "active": "b6c720e9356d6b78",
   "lastOpenFiles": [
-    "Grid-connected Rooftop Solar Programme.md",
+    "FAME India Scheme.md",
+    "National Electric Mobility Mission Plan (NEMMP).md",
+    "Gvot initiatives/National Green Hydrogen Mission.md",
+    "Godavari.md",
+    "Production Linked Incentive (PLI) Schemes.md",
+    "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
+    "Wind Energy Programme.md",
     "National Solar Mission.md",
+    "Grid-connected Rooftop Solar Programme.md",
+    "CPSU Scheme.md",
     "Gvot initiatives/Solar PV Module PLI Scheme.md",
     "Gvot initiatives/Stand-Up India.md",
     "Gvot initiatives/manufacturing sector schemes.md",
-    "Godavari.md",
     "Gvot initiatives/Make in India Initiative.md",
     "National Health Mission (NHM).md",
     "Gvot initiatives/Startup India.md",
     "Gvot initiatives/Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
     "Gvot initiatives/Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
-    "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "Gvot initiatives/Prime Minister Employment Generation Programme (PMEGP).md",
     "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
     "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
@@ -269,12 +251,6 @@
     "Gvot initiatives/National Rural Livelihood Mission (NRLM).md",
     "Gvot initiatives/National Manufacturing Competitiveness Programme (NMCP).md",
     "Gvot initiatives/National Health Mission (NHM).md",
-    "Gvot initiatives/National Green Hydrogen Mission.md",
-    "Gvot initiatives/National Bioenergy Programme.md",
-    "Gvot initiatives/Namami Gange Plan.md",
-    "Gvot initiatives/MUDRA Yojana.md",
-    "Gvot initiatives/Micro Finance Programme.md",
-    "Gvot initiatives/MGNREGA.md",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",

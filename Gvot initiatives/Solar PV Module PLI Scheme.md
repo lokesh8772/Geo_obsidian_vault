@@ -37,7 +37,7 @@ Solar PV module manufacturers selected through a transparent bidding process und
 ### 🧩 **Linkages / Related Schemes**
 - [[Make in India]] initiative.
 - [[PM-KUSUM]] (Domestic Content Requirement).
-- CPSU Scheme Phase-II (Domestic Content Requirement).
+- [[CPSU Scheme]] Phase-II (Domestic Content Requirement).
 - [[Grid-connected Rooftop Solar Programme]] Phase-II (Domestic Content Requirement).
 
 ### ⚠️ **Criticism / Challenges / Issues**
