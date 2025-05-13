@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jal Jeevan Mission.md",
+                "file": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jal Jeevan Mission"
+              "title": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "e-drive",
+                "query": "digital",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jal Jeevan Mission.md",
+                "file": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jal Jeevan Mission"
+              "title": "Outline of Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)"
             }
           },
           {
@@ -201,8 +202,12 @@
   },
   "active": "d1e85c13ba565f34",
   "lastOpenFiles": [
-    "Swachh Bharat Abhiyan.md",
+    "Ayushman Bharat Digital Mission.md",
+    "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
+    "AB-PMJAY.md",
+    "Ayushman Bharat.md",
     "Jal Jeevan Mission.md",
+    "Swachh Bharat Abhiyan.md",
     "Gvot initiatives/MGNREGS.md",
     "Poshan Abhiyan.md",
     "Pradhan Mantri Matru Vandana Yojana (PMMVY).md",
@@ -213,7 +218,6 @@
     "Janani Shishu Suraksha Karyakram (JSSK).md",
     "Janani Shishu Suraksha Karyakram.md",
     "Gvot initiatives/National Health Mission (NHM).md",
-    "AB-PMJAY.md",
     "Gvot initiatives/National Green Hydrogen Mission.md",
     "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP).md",
     "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
@@ -225,9 +229,6 @@
     "Gvot initiatives/PM E-DRIVE Scheme.md",
     "Gvot initiatives/PM e-Bus Sewa.md",
     "Gvot initiatives/National Solar Mission.md",
-    "Gvot initiatives/Green Urban Mobility Initiatives (GUMI)..md",
-    "Gvot initiatives/FAME India Scheme.md",
-    "Gvot initiatives/CPSU Scheme.md",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",

@@ -37,11 +37,11 @@ All rural households in India, with priority given to quality-affected areas, dr
 - Potential to prevent nearly 400,000 deaths annually from diarrheal diseases.
 
 ### 🧩 **Linkages / Related Schemes**
-- **Swachh Bharat Abhiyan:** Access to clean water complements sanitation efforts for improved public health.
-- **National Health Mission (NHM):** Safe drinking water is crucial for achieving better health outcomes.
-- **Poshan Abhiyan:** Improved water quality contributes to better nutrition, especially for children.
-- **Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS):** Can be converged for water conservation and infrastructure development.
-- **Ayushman Bharat:** Access to clean water reduces waterborne diseases, decreasing the burden on the healthcare system.
+- **[[Swachh Bharat Abhiyan]]:** Access to clean water complements sanitation efforts for improved public health.
+- **[[National Health Mission (NHM)]]:** Safe drinking water is crucial for achieving better health outcomes.
+- **[[Poshan Abhiyan]]:** Improved water quality contributes to better nutrition, especially for children.
+- **[[MGNREGS]]:** Can be converged for water conservation and infrastructure development.
+- **[[Ayushman Bharat]]:** Access to clean water reduces waterborne diseases, decreasing the burden on the healthcare system.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - **Funding Constraints:** Reduced central funding may shift the burden to states.
