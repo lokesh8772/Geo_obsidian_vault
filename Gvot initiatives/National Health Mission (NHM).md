@@ -34,7 +34,7 @@ Recent reports (2021-2024) highlight significant progress:
 	- over 220 crore COVID-19 vaccine doses administered. 
 	- U-WIN platform expanded for real-time tracking.
 - **Infrastructure:** Increased operational Ayushman Arogya Mandir centers (1.72 lakh by FY 2023-24), improved 24x7 PHCs and FRUs.
-- **Specialized Initiatives:** Successful implementation of PMNDP and screening under the National Sickle Cell Anemia Elimination Mission.
+- **Specialized Initiatives:** Successful implementation of PMNDP(.. Dialysis ..) and screening under the National Sickle Cell Anemia Elimination Mission.
 
 ### 🧩 **Linkages / Related Schemes**
 - [[AB-PMJAY]]
