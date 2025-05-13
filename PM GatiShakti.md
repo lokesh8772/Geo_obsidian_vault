@@ -46,8 +46,8 @@ All stakeholders involved in infrastructure planning and development, including 
 - **[[National Infrastructure Pipeline (NIP)]]:** PM GatiShakti aims to provide the planning and execution framework for projects under NIP.
 - **[[National Monetisation Pipeline (NMP)]]:** The efficiencies gained through PM GatiShakti can enhance the attractiveness of assets for monetization.
 - **[[Make in India]]:** Improved infrastructure and reduced logistics costs enhance the competitiveness of Indian manufacturing.
-- **[[Sagarmala]] & Bharatmala:** These are integrated into the PM GatiShakti platform for comprehensive planning.
-- **UDAN:** Regional air connectivity scheme integrated for multi-modal planning.
+- **[[Sagarmala]] & [[Bharatmala]]:** These are integrated into the PM GatiShakti platform for comprehensive planning.
+- **[[UDAN]]:** Regional air connectivity scheme integrated for multi-modal planning.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - Ensuring effective inter-departmental coordination and breaking down silos.
