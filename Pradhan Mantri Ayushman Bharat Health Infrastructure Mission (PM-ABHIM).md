@@ -53,10 +53,10 @@ PM-ABHIM is a Centrally Sponsored Scheme with Central Sector components and has 
 - The **Ayushman Bharat Digital Mission (ABDM)**, a key central sector component, has seen significant adoption with the creation of over 71.16 crore ABHA numbers and the registration of numerous healthcare facilities and professionals.
 
 ### 🧩 **Linkages / Related Schemes**
-- **Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana ([[AB-PMJAY]]):** PM-ABHIM strengthens the healthcare infrastructure necessary for the effective implementation of AB-PMJAY.
-- **National Health Mission (NHM):** PM-ABHIM works in convergence with NHM, utilizing its framework for implementation at the state level.
-- **Ayushman Bharat Digital Mission (ABDM):** ABDM is a crucial digital backbone being developed under PM-ABHIM to enhance healthcare delivery.
-- **Swachh Bharat Abhiyan & Jal Jeevan Mission:** These schemes contribute to improved public health, which aligns with the overall goals of PM-ABHIM.
+- **[[AB-PMJAY]]:** PM-ABHIM strengthens the healthcare infrastructure necessary for the effective implementation of AB-PMJAY.
+- **[[National Health Mission (NHM)]]:** PM-ABHIM works in convergence with NHM, utilizing its framework for implementation at the state level.
+- **[[Ayushman Bharat Digital Mission]] (ABDM):** ABDM is a crucial digital backbone being developed under PM-ABHIM to enhance healthcare delivery.
+- **[[Swachh Bharat Abhiyan]] & [[Jal Jeevan Mission]]:** These schemes contribute to improved public health, which aligns with the overall goals of PM-ABHIM.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - Ensuring timely completion of infrastructure projects.

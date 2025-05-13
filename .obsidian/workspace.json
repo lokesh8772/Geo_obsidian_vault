@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
+                "file": "Pradhan Mantri Awas Yojana - Urban.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)"
+              "title": "Pradhan Mantri Awas Yojana - Urban"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digital",
+                "query": "livelihood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
+                "file": "Pradhan Mantri Awas Yojana - Urban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)"
+              "title": "Outline of Pradhan Mantri Awas Yojana - Urban"
             }
           },
           {
@@ -200,14 +200,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1e85c13ba565f34",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Ayushman Bharat Digital Mission.md",
-    "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
-    "AB-PMJAY.md",
-    "Ayushman Bharat.md",
-    "Jal Jeevan Mission.md",
+    "Smart Cities Mission.md",
+    "Pradhan Mantri Awas Yojana - Urban.md",
+    "Atal Mission for Rejuvenation and Urban Transformation (AMRUT).md",
     "Swachh Bharat Abhiyan.md",
+    "Jal Jeevan Mission.md",
+    "Ayushman Bharat.md",
+    "AB-PMJAY.md",
+    "Ayushman Bharat Digital Mission.md",
+    "Aadhaar.md",
+    "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
     "Gvot initiatives/MGNREGS.md",
     "Poshan Abhiyan.md",
     "Pradhan Mantri Matru Vandana Yojana (PMMVY).md",
@@ -225,10 +229,6 @@
     "Gvot initiatives/Grid Connected Rooftop Solar Programme (Phase II).md",
     "Renewable Goals.md",
     "National Electric Mobility Mission Plan (NEMMP).md",
-    "Gvot initiatives/Production Linked Incentive (PLI) Schemes.md",
-    "Gvot initiatives/PM E-DRIVE Scheme.md",
-    "Gvot initiatives/PM e-Bus Sewa.md",
-    "Gvot initiatives/National Solar Mission.md",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",

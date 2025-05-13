@@ -1,4 +1,4 @@
-# 📌 Ayushman Bharat Digital Mission (ABDM)
+
 
 ### 🗓️ **Launch Date**
 Launched on September 27, 2021 (announced August 15, 2020, as National Digital Health Mission - NDHM)
@@ -41,7 +41,7 @@ ABDM establishes digital building blocks and aims to create a national digital h
 - **[[AB-PMJAY]]:** ABDM aims to enhance the efficiency and reach of AB-PMJAY by enabling digital record-keeping and seamless access to patient information.
 - **[[National Health Mission (NHM)]]:** ABDM supports the broader goals of NHM by strengthening the digital health infrastructure.
 - **[[Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)]]:** ABDM will leverage the infrastructure created under PM-ABHIM for digital health service delivery.
-- **Aadhaar:** ABHA can be created using Aadhaar, providing a strong and trustworthy digital identity.
+- **[[Aadhaar]]:** ABHA can be created using Aadhaar, providing a strong and trustworthy digital identity.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - **Limited Digital Infrastructure:** Unreliable internet connectivity and low digital literacy in many rural and remote areas.
