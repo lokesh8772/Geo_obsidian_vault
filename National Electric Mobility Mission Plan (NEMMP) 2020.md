@@ -35,8 +35,8 @@ Formulated by the Department of Heavy Industry under NMEM. Implemented through v
 ### 🧩 **Linkages / Related Schemes**
 - **[[FAME India Scheme]]:** The primary scheme for demand incentives under NEMMP 2020.
 - **FAME II Scheme (launched 2019):** Building upon the foundation of NEMMP 2020 with revised targets and focus.
-- **PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) Scheme (launched 2024):** Further accelerating EV adoption and ecosystem development.
-- **Production Linked Incentive (PLI) Scheme for Automobile and Auto Component Industry:** Supports domestic manufacturing.
+- **[[PM E-DRIVE Scheme]] (launched 2024):** Further accelerating EV adoption and ecosystem development.
+- **[[Production Linked Incentive (PLI) Scheme|Production Linked Incentive (PLI) Scheme for Automobile and Auto Component Industry]]:** Supports domestic manufacturing.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - Ambitious sales targets not met by 2020.
