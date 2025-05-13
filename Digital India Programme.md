@@ -57,11 +57,11 @@ The Digital India programme is coordinated by the Ministry of Electronics and In
 
 ### 🧩 **Linkages / Related Schemes**
 The Digital India Programme supports and is complemented by various other government schemes, including:
--   **[[BharatNet]]:** A key infrastructure component for digital connectivity.
+-   **[[BharatNet Programme]]:** A key infrastructure component for digital connectivity.
 -   **[[Make in India]]:** Promoting domestic electronics manufacturing.
--   **Startup India:** Fostering a digital innovation ecosystem.
--   **Skill India:** Enhancing digital literacy and skills.
--   **Jan Dhan Yojana:** Increasing financial inclusion, a prerequisite for digital transactions.
+-   **[[Startup India]]:** Fostering a digital innovation ecosystem.
+-   **[[Skill India Mission]]:** Enhancing digital literacy and skills.
+-   **[[Pradhan Mantri Jan Dhan Yojana (PMJDY)]]:** Increasing financial inclusion, a prerequisite for digital transactions.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 -   **Digital Divide:** Significant disparities in internet access and digital literacy persist between urban and rural areas.

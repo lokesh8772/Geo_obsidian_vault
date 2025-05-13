@@ -21,24 +21,10 @@
             "id": "d1e85c13ba565f34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital India Programme.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Digital India Programme"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -74,10 +60,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "make in india",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -95,8 +81,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital India Programme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Digital India Programme"
+              "title": "Outline"
             }
           },
           {
@@ -200,11 +184,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1e85c13ba565f34",
+  "active": "055f521e298448a0",
   "lastOpenFiles": [
+    "National Electric Mobility Mission Plan (NEMMP) 2020.md",
+    "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "Atmanirbhar Bharat Abhiyan.md",
     "Digital India Programme.md",
-    "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
+    "BharatNet Programme.md",
+    "Skill India Mission.md",
+    "Gvot initiatives/National Bioenergy Programme.md",
+    "Gvot initiatives/National Rural Livelihood Mission (NRLM).md",
+    "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Invest India.md",
     "National Infrastructure Pipeline (NIP).md",
     "National Monetisation Pipeline (NMP).md",
@@ -213,7 +203,6 @@
     "National Civil Aviation Policy (NCAP) 2016.md",
     "Bharatmala.md",
     "Sagarmala.md",
-    "National Electric Mobility Mission Plan (NEMMP) 2020.md",
     "Gvot initiatives/FAME India Scheme.md",
     "National Action Plan on Climate Change (NAPCC).md",
     "National Wind Energy Mission.md",
@@ -223,11 +212,6 @@
     "Pradhan Mantri Awas Yojana - Urban.md",
     "National Urban Livelihoods Mission (NULM).md",
     "Swachh Bharat Abhiyan.md",
-    "Jal Jeevan Mission.md",
-    "Ayushman Bharat.md",
-    "AB-PMJAY.md",
-    "Ayushman Bharat Digital Mission.md",
-    "Aadhaar.md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
