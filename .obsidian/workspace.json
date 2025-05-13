@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pradhan Mantri Awas Yojana - Urban.md",
+                "file": "Gvot initiatives/FAME India Scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pradhan Mantri Awas Yojana - Urban"
+              "title": "FAME India Scheme"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "livelihood",
+                "query": "goals",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pradhan Mantri Awas Yojana - Urban.md",
+                "file": "Gvot initiatives/FAME India Scheme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pradhan Mantri Awas Yojana - Urban"
+              "title": "Outline of FAME India Scheme"
             }
           },
           {
@@ -200,11 +200,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "d1e85c13ba565f34",
   "lastOpenFiles": [
+    "National Electric Mobility Mission Plan (NEMMP) 2020.md",
+    "National Action Plan on Climate Change (NAPCC).md",
+    "National Wind Energy Mission.md",
+    "National Clean Air Programme (NCAP).md",
+    "Atal Mission for Rejuvenation and Urban Transformation (AMRUT).md",
     "Smart Cities Mission.md",
     "Pradhan Mantri Awas Yojana - Urban.md",
-    "Atal Mission for Rejuvenation and Urban Transformation (AMRUT).md",
+    "National Urban Livelihoods Mission (NULM).md",
     "Swachh Bharat Abhiyan.md",
     "Jal Jeevan Mission.md",
     "Ayushman Bharat.md",
@@ -224,11 +229,6 @@
     "Gvot initiatives/National Health Mission (NHM).md",
     "Gvot initiatives/National Green Hydrogen Mission.md",
     "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP).md",
-    "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
-    "Gvot initiatives/Grid-connected Rooftop Solar Programme.md",
-    "Gvot initiatives/Grid Connected Rooftop Solar Programme (Phase II).md",
-    "Renewable Goals.md",
-    "National Electric Mobility Mission Plan (NEMMP).md",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",
