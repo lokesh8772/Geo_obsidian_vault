@@ -20,7 +20,7 @@ All citizens, with a focus on vulnerable groups in rural and urban areas.
 - **Community Participation:** Engagement through committees like VHSNCs.
 - **Digital Health Innovations:** Platforms like U-WIN for vaccination tracking.
 - **Free Drugs and Diagnostics:** Essential services at public facilities.
-- **Financial Protection:** Schemes like AB-PMJAY.
+- **Financial Protection:** Schemes like [[AB-PMJAY]].
 
 ### 📍 **Implementation Details**
 Implemented by MoHFW through State and District Health Societies. Community health workers (ASHAs) are central. Emphasizes decentralized planning, community involvement, and public-private partnerships where appropriate.
@@ -29,7 +29,10 @@ Implemented by MoHFW through State and District Health Societies. Community heal
 Recent reports (2021-2024) highlight significant progress:
 - **Reduced Mortality:** MMR declined by 83% since 1990, IMR decreased, and U5MR reduced.
 - **Disease Control:** TB incidence and mortality reduced; Kala-Azar elimination achieved in endemic blocks. Malaria control efforts showing decreased mortality.
-- **Vaccination:** High coverage achieved in Measles-Rubella campaigns; over 220 crore COVID-19 vaccine doses administered. U-WIN platform expanded for real-time tracking.
+- **Vaccination:** 
+	- High coverage achieved in Measles-Rubella campaigns; 
+	- over 220 crore COVID-19 vaccine doses administered. 
+	- U-WIN platform expanded for real-time tracking.
 - **Infrastructure:** Increased operational Ayushman Arogya Mandir centers (1.72 lakh by FY 2023-24), improved 24x7 PHCs and FRUs.
 - **Specialized Initiatives:** Successful implementation of PMNDP and screening under the National Sickle Cell Anemia Elimination Mission.
 
