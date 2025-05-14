@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/Digital India Programme.md",
-                "mode": "source",
+                "file": "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Digital India Programme"
+              "title": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digital health",
+                "query": "Krishi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/Digital India Programme.md",
+                "file": "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Digital India Programme"
+              "title": "Outline of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)"
             }
           },
           {
@@ -202,6 +202,7 @@
   },
   "active": "0052c41bca147d61",
   "lastOpenFiles": [
+    "Gvot initiatives/Digital India Programme.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Gvot initiatives/CPSU Scheme.md",
     "Gvot initiatives/Aadhaar.md",
@@ -227,7 +228,6 @@
     "Gvot initiatives/National Action Plan on Climate Change (NAPCC).md",
     "Gvot initiatives/Janani Suraksha Yojana.md",
     "Gvot initiatives/Janani Shishu Suraksha Karyakram.md",
-    "Gvot initiatives/Janani Shishu Suraksha Karyakram (JSSK).md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
