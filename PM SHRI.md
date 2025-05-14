@@ -60,4 +60,4 @@ Students, teachers, and the surrounding communities of the selected schools.
 -   Discussions on expanding the scheme to cover more schools and enhance its impact.
 
 ### 🔗 **Tags**
-`#PMSHRI` `#Education` `#NEP2020` `#SchoolEducation` `#ModelSchools` `#TeacherTraining`
+`#PMSHRI` `#Education` `#NEP2020` `#SchoolEducation` `#ModelSchools` `#TeacherTraining` #review 
