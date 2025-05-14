@@ -18,7 +18,7 @@ All citizens of India, with a specific focus on bridging the digital divide betw
 The Digital India Programme encompasses a wide array of projects and initiatives, categorized under its nine pillars and other significant schemes:
 
 **9 Pillars of Digital India:**
-1.  **Broadband Highways:** Expanding high-speed internet connectivity to rural and urban areas, including the BharatNet project to connect Gram Panchayats with optical fiber.
+1.  **Broadband Highways:** Expanding high-speed internet connectivity to rural and urban areas, including the [[BharatNet Programme|Bharatnet]] project to connect Gram Panchayats with optical fiber.
 2.  **Universal Access to Mobile Connectivity:** Ensuring mobile network coverage in uncovered villages.
 3.  **Public Internet Access Programme:** Establishing Common Service Centres (CSCs) and Post Offices as multi-service digital hubs.
 4.  **e-Governance: Reforming Government through Technology:** Improving efficiency and transparency in government service delivery through ICT.
