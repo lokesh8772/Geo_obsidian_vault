@@ -1,3 +1,9 @@
+---
+sr-due: 2025-05-15
+sr-interval: 1
+sr-ease: 230
+---
+
 PM GatiShakti - National Master Plan for Multi-modal Connectivity
 
 ### 🗓️ **Launch Date**
@@ -65,4 +71,4 @@ All stakeholders involved in infrastructure planning and development, including 
 - Monitoring the impact of PM GatiShakti on reducing logistics costs and improving project timelines.
 
 ### 🔗 **Tags**
-`#InfrastructureDevelopment` `#MultiModalConnectivity` `#LogisticsEfficiency` `#IntegratedPlanning` `#GatiShakti` `#review`
+`#InfrastructureDevelopment` `#MultiModalConnectivity` `#LogisticsEfficiency` `#IntegratedPlanning` `#GatiShakti` `#review` #review
