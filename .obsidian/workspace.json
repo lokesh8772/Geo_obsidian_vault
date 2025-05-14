@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Data related to Agriculture"
             }
+          },
+          {
+            "id": "2aba2e5097160f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PM SHRI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PM SHRI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data related to Agriculture.md",
+                "file": "PM SHRI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data related to Agriculture"
+              "title": "Outline of PM SHRI"
             }
           },
           {
@@ -224,10 +248,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3eb402ba819da94d",
+  "active": "2aba2e5097160f51",
   "lastOpenFiles": [
-    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
     "Data related to Agriculture.md",
+    "PM SHRI.md",
+    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
     "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
     "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/Digital India Programme.md",
@@ -251,7 +276,6 @@
     "Gvot initiatives/National Monetisation Pipeline (NMP).md",
     "Gvot initiatives/National Infrastructure Pipeline (NIP).md",
     "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
-    "Gvot initiatives/National Clean Air Programme (NCAP).md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
