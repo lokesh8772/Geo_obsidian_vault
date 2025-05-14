@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "PM GatiShakti.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -95,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
