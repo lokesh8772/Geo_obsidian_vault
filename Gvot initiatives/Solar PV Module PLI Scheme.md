@@ -50,4 +50,5 @@ Solar PV module manufacturers selected through a transparent bidding process und
 - Emphasis on achieving 500 GW of renewable energy capacity by 2030, with solar being a major contributor.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#SolarManufacturing` `#RenewableEnergy` `#PLI` `#MakeInIndia`
+#GovtSchemes #SolarManufacturing #RenewableEnergy #PLI #MakeInIndia
+#review

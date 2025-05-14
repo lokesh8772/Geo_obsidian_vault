@@ -61,4 +61,5 @@ To achieve a cumulative installed capacity of 40,000 MW (40 GW) from Grid-Connec
 - Promotion of rooftop solar along with electric vehicle (EV) charging infrastructure in residential areas.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#RooftopSolar` `#RenewableEnergy` `#SolarPower` `#EnergyEfficiency`
+#GovtSchemes #RooftopSolar #RenewableEnergy #SolarPower #EnergyEfficiency
+#review

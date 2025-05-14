@@ -45,3 +45,4 @@ To promote the utilization of biomass, cattle dung, industrial and urban biowast
 * Advancing the "Biomass-to-Green Hydrogen" initiative under the National Green Hydrogen Mission, with support for R&D projects in this area.
 * Continued efforts to address potential barriers in the bioenergy sector, such as feedstock logistics, financing gaps, and regulatory coordination.
 * Ongoing promotion of the Bio-Urja portal as a streamlined solution for project applicants.
+#review

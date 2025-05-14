@@ -17,3 +17,4 @@
 * Capital subsidy provided on institutional finance availed by eligible MSMEs.
 * Focus on specific sectors and technologies.
 * Aims to bridge the technology gap in the MSME sector.
+#review

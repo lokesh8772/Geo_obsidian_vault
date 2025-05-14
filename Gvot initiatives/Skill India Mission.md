@@ -68,4 +68,4 @@ The Skill India Mission is implemented through a network of training centers, Se
 - Linking skilling initiatives with national missions like PM Vishwakarma and National Green Hydrogen Mission.
 
 ### 🔗 **Tags**
-`#SkillIndia` `#SkillDevelopment` `#Employability` `#VocationalTraining` `#PMKVY` `#Apprenticeship` `#MSDE`
+#SkillIndia #SkillDevelopment #Employability #VocationalTraining #PMKVY #Apprenticeship #MSDE

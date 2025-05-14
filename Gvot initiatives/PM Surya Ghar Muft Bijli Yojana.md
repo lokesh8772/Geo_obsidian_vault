@@ -42,3 +42,4 @@ To increase the adoption of rooftop solar capacity and empower 1 crore residenti
 * Ongoing campaigns to raise awareness about the scheme and its advantages.
 * Functionalities for loan re-application and refreshing consumer details have been made live on the National Portal as of May 2025.
 * Guidelines for the scheme were updated on May 9, 2025.
+#review

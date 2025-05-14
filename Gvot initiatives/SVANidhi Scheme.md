@@ -55,4 +55,5 @@ To provide affordable working capital loans to street vendors to resume their li
 - Continued efforts to promote digital payments among street vendors through awareness drives and incentives.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#StreetVendors` `#FinancialInclusion` `#UrbanDevelopment` `#COVIDRelief`
+#GovtSchemes #StreetVendors #FinancialInclusion #UrbanDevelopment #COVIDRelief
+#review

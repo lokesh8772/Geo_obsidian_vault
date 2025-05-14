@@ -61,4 +61,5 @@ To establish India as a global leader in solar energy by creating policy conditi
 - Integration of solar energy with other renewable sources and the development of green hydrogen.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#NationalSolarMission` `#RenewableEnergy` `#SolarPower` `#EnergyTransition`
+#GovtSchemes #NationalSolarMission #RenewableEnergy #SolarPower #EnergyTransition
+#review

@@ -66,4 +66,5 @@ To encourage the adoption of electric and hybrid vehicles (xEVs) by providing up
 - **Push for Domestic Manufacturing:** Schemes like PLI for Auto and ACC batteries aim to strengthen the local EV ecosystem.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#ElectricVehicles` `#EVAdoption` `#CleanTransportation` `#SustainableMobility`
+#GovtSchemes #ElectricVehicles #EVAdoption #CleanTransportation #SustainableMobility
+#review

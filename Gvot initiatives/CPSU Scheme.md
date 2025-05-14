@@ -50,4 +50,5 @@ Central and State PSUs, and Government Organizations. Private companies are not 
 - CERC approved usage charges for NTPC's 1.99 GW solar PV project under the scheme.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#SolarPower` `#CPSU` `#RenewableEnergy` `#MakeInIndia`
+#GovtSchemes #SolarPower #CPSU #RenewableEnergy #MakeInIndia
+#review

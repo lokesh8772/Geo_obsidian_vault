@@ -11,20 +11,10 @@
             "id": "0052c41bca147d61",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d1e85c13ba565f34",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "PM GatiShakti.md",
-                "mode": "source",
+                "file": "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PM GatiShakti"
+              "title": "Atmanirbhar Bharat Abhiyan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PM GatiShakti.md",
+                "file": "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PM GatiShakti"
+              "title": "Outline of Atmanirbhar Bharat Abhiyan"
             }
           },
           {
@@ -192,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -211,34 +199,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d1e85c13ba565f34",
+  "active": "0052c41bca147d61",
   "lastOpenFiles": [
-    "Gvot initiatives/National Health Mission (NHM).md",
-    "National Electric Mobility Mission Plan (NEMMP) 2020.md",
-    "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
-    "Atmanirbhar Bharat Abhiyan.md",
-    "Digital India Programme.md",
-    "BharatNet Programme.md",
-    "Skill India Mission.md",
-    "Gvot initiatives/National Bioenergy Programme.md",
-    "Gvot initiatives/National Rural Livelihood Mission (NRLM).md",
-    "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
-    "Invest India.md",
-    "National Infrastructure Pipeline (NIP).md",
-    "National Monetisation Pipeline (NMP).md",
+    "Gvot initiatives/CPSU Scheme.md",
+    "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+    "Gvot initiatives/Aadhaar.md",
+    "Gvot initiatives/AB-PMJAY.md",
+    "Gvot initiatives/Skill India Mission.md",
     "PM GatiShakti.md",
-    "UDAN.md",
-    "National Civil Aviation Policy (NCAP) 2016.md",
-    "Bharatmala.md",
-    "Sagarmala.md",
-    "Gvot initiatives/FAME India Scheme.md",
-    "National Action Plan on Climate Change (NAPCC).md",
-    "National Wind Energy Mission.md",
-    "National Clean Air Programme (NCAP).md",
-    "Atal Mission for Rejuvenation and Urban Transformation (AMRUT).md",
-    "Smart Cities Mission.md",
-    "Pradhan Mantri Awas Yojana - Urban.md",
-    "National Urban Livelihoods Mission (NULM).md",
+    "Gvot initiatives/Swachh Bharat Abhiyan.md",
+    "Gvot initiatives/Smart Cities Mission.md",
+    "Gvot initiatives/Renewable Goals.md",
+    "Gvot initiatives/Pradhan Mantri Matru Vandana Yojana (PMMVY).md",
+    "Gvot initiatives/Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
+    "Gvot initiatives/Pradhan Mantri Awas Yojana - Urban.md",
+    "Gvot initiatives/Poshan Abhiyan.md",
+    "Gvot initiatives/PM GatiShakti.md",
+    "Gvot initiatives/National Wind Energy Mission.md",
+    "Gvot initiatives/National Urban Livelihoods Mission (NULM).md",
+    "Gvot initiatives/National Rural Health Mission.md",
+    "Gvot initiatives/National Monetisation Pipeline (NMP).md",
+    "Gvot initiatives/National Infrastructure Pipeline (NIP).md",
+    "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
+    "Gvot initiatives/National Clean Air Programme (NCAP).md",
+    "Gvot initiatives/National Civil Aviation Policy (NCAP) 2016.md",
+    "Gvot initiatives/National Action Plan on Climate Change (NAPCC).md",
+    "Gvot initiatives/Janani Suraksha Yojana.md",
+    "Gvot initiatives/Janani Shishu Suraksha Karyakram.md",
+    "Gvot initiatives/Janani Shishu Suraksha Karyakram (JSSK).md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",

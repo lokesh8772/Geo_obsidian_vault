@@ -61,4 +61,5 @@ Implemented by various ministries and government bodies through specific schemes
 -   Monitoring the impact of the various initiatives on economic growth, employment, and self-sufficiency.
 
 ### 🔗 **Tags**
-`#AtmanirbharBharat` `#SelfReliantIndia` `#EconomicPolicy` `#MakeInIndia` `#MSME` `#Agriculture` `#Industry` `#Reforms`
+#AtmanirbharBharat #SelfReliantIndia #EconomicPolicy #MakeInIndia #MSME #Agriculture #Industry #Reforms
+#review

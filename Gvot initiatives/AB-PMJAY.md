@@ -59,4 +59,5 @@ To provide financial protection of up to ₹5 lakh per family per year for secon
 - Emphasis on ensuring quality healthcare services at empanelled hospitals.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#Healthcare` `#HealthInsurance` `#AyushmanBharat` `#PMJAY`
+#GovtSchemes #Healthcare #HealthInsurance #AyushmanBharat #PMJAY
+#review

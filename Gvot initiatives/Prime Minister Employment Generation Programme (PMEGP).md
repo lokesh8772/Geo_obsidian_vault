@@ -47,4 +47,6 @@ To generate sustainable self-employment opportunities by establishing micro-ente
 - Focus on industry 4.0 projects: green technologies, AI, IoT-based businesses  
 - Inclusion of PM Vishwakarma scheme artisans under PMEGP umbrella (2023 update)
 ### 🔗 **Tags**
-`#GovtSchemes` `#Welfare` `#Employment` `#MSME` `#Flagship`
+#GovtSchemes #Welfare #Employment #MSME #Flagship
+
+#review

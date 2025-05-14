@@ -17,3 +17,4 @@
 * Guarantee cover provided to lending institutions.
 * Covers term loans and working capital loans up to a specified limit.
 * Helps in expanding the lending base for MSMEs.
+#review

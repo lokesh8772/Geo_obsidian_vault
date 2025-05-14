@@ -61,4 +61,5 @@ To guarantee the 'right to work' by providing at least 100 days of wage employme
 - Calcutta High Court directive to the Centre to explain why MGNREGA shouldn't be prospectively implemented in West Bengal (excluding some districts due to alleged misappropriation).
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#RuralEmployment` `#WageEmployment` `#SocialWelfare` `#PovertyAlleviation`
+#GovtSchemes #RuralEmployment #WageEmployment #SocialWelfare #PovertyAlleviation
+#review

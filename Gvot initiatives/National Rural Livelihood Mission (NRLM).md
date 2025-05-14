@@ -61,4 +61,5 @@ To reduce poverty by enabling the poor households to access gainful self-employm
 - Increased focus on convergence with agriculture and allied sectors to enhance farm livelihoods.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#RuralDevelopment` `#Livelihoods` `#WomenEmpowerment` `#PovertyReduction`
+#GovtSchemes #RuralDevelopment #Livelihoods #WomenEmpowerment #PovertyReduction
+#review

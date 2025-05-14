@@ -57,4 +57,5 @@ To enhance physical access of water on farm and expand cultivable area under ass
 - Discussions on inter-state water disputes and the role of PMKSY in addressing them.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#Irrigation` `#Agriculture` `#WaterManagement` `#FarmersWelfare`
+#GovtSchemes #Irrigation #Agriculture #WaterManagement #FarmersWelfare
+#review

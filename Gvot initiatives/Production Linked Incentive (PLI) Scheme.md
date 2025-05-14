@@ -78,4 +78,5 @@ Domestic and foreign companies engaged in manufacturing within the identified se
 - Monitoring the impact of PLI on exports and job creation.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#Manufacturing` `#MakeInIndia` `#AtmanirbharBharat` `#ProductionIncentives`
+#GovtSchemes #Manufacturing #MakeInIndia #AtmanirbharBharat #ProductionIncentives
+#review

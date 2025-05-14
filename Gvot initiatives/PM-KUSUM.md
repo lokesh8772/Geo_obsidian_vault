@@ -54,4 +54,6 @@ To enhance farmers' income, provide irrigation sources, de-dieselize the agricul
 - Continued emphasis on promoting domestic manufacturing of solar components.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#SolarEnergy` `#Agriculture` `#RenewableEnergy` `#FarmersWelfare`
+#GovtSchemes #SolarEnergy #Agriculture #RenewableEnergy #FarmersWelfare
+
+#review

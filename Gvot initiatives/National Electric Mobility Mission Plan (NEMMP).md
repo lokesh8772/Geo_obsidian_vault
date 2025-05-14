@@ -57,4 +57,5 @@ To set the vision and roadmap for the large-scale adoption and manufacturing of 
 - The ongoing efforts under schemes like FAME and PLI are essentially carrying forward and building upon the foundation laid by NEMMP 2020, with revised targets and strategies for a more accelerated adoption of electric vehicles.
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#ElectricVehicles` `#EVPolicy` `#SustainableMobility` `#NEMMP2020`
+#GovtSchemes #ElectricVehicles #EVPolicy #SustainableMobility #NEMMP2020
+#review

@@ -52,4 +52,5 @@ Promote entrepreneurship among women, Scheduled Castes (SC), and Scheduled Tribe
 - Push for greater digital onboarding and financial literacy
 
 ### 🔗 **Tags**
-`#GovtSchemes` `#Entrepreneurship` `#WomenEmpowerment` `#SCSTWelfare` `#Flagship`
+#GovtSchemes #Entrepreneurship #WomenEmpowerment #SCSTWelfare #Flagship
+#review

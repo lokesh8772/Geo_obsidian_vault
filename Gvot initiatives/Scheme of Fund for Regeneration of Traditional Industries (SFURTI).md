@@ -45,3 +45,4 @@ Make traditional industries competitive, market-driven, productive, profitable, 
 * Focus on multi-product clusters and market-driven approach.
 * Emphasis on e-commerce integration for market expansion.
 * Merger of related schemes (PRODIP, RISC) into SFURTI.
+#review

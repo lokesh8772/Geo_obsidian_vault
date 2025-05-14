@@ -18,3 +18,4 @@
 **Key Features:**
 * Umbrella program with multiple sub-schemes addressing different needs of the manufacturing sector.
 * Includes initiatives like Lean Manufacturing Competitiveness Scheme, Design Clinic Scheme, Technology and Quality Upgradation Support to SMEs, etc.
+#review

@@ -52,3 +52,4 @@ To transform India into a global manufacturing hub by encouraging domestic manuf
 ## 7. Any Significant Development in Current
 - Expanding PLI schemes (14 key sectors). 
 * Merchandise exports -> USD 437.06 Bn (FY 2023-24)
+#review
