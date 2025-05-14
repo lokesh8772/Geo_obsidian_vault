@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samagra Shiksha Abhiyan.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Samagra Shiksha Abhiyan"
+              "title": "README"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Samagra Shiksha Abhiyan.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Samagra Shiksha Abhiyan"
+              "title": "Outline of README"
             }
           },
           {
@@ -251,8 +251,8 @@
   },
   "active": "2aba2e5097160f51",
   "lastOpenFiles": [
-    "National Education Policy (NEP) 2020.md",
     "Samagra Shiksha Abhiyan.md",
+    "National Education Policy (NEP) 2020.md",
     "PM SHRI.md",
     "conflict-files-obsidian-git.md",
     "Gvot initiatives/MGNREGA.md",
