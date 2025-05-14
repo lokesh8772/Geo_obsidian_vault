@@ -37,7 +37,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Data related to Agriculture.md",
+=======
+                "file": "Swachh Bharat Abhiyan.md",
+>>>>>>> 360a9bc (vault backup: 2025-05-13 23:49:23)
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,6 +56,7 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Data related to Agriculture"
             }
           },
@@ -77,6 +82,9 @@
               },
               "icon": "lucide-file",
               "title": "PM SHRI"
+=======
+              "title": "Swachh Bharat Abhiyan"
+>>>>>>> 360a9bc (vault backup: 2025-05-13 23:49:23)
             }
           }
         ],
@@ -112,10 +120,14 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "Krishi",
+=======
+                "query": "e-drive",
+>>>>>>> 360a9bc (vault backup: 2025-05-13 23:49:23)
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -199,13 +211,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "PM SHRI.md",
+=======
+                "file": "Swachh Bharat Abhiyan.md",
+>>>>>>> 360a9bc (vault backup: 2025-05-13 23:49:23)
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of PM SHRI"
+=======
+              "title": "Outline of Swachh Bharat Abhiyan"
+>>>>>>> 360a9bc (vault backup: 2025-05-13 23:49:23)
             }
           },
           {
@@ -248,6 +268,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
+<<<<<<< HEAD
   "active": "2aba2e5097160f51",
   "lastOpenFiles": [
     "Data related to Agriculture.md",
@@ -276,7 +297,37 @@
     "Gvot initiatives/National Monetisation Pipeline (NMP).md",
     "Gvot initiatives/National Infrastructure Pipeline (NIP).md",
     "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
+=======
+  "active": "d1e85c13ba565f34",
+  "lastOpenFiles": [
+    "Poshan Abhiyan.md",
+    "Swachh Bharat Abhiyan.md",
+    "Pradhan Mantri Matru Vandana Yojana (PMMVY).md",
+>>>>>>> 360a9bc (vault backup: 2025-05-13 23:49:23)
     "IMG_20250123_121723_943.jpg",
+    "National Rural Health Mission.md",
+    "Indira Gandhi Canal Project.md",
+    "Janani Suraksha Yojana.md",
+    "Janani Shishu Suraksha Karyakram (JSSK).md",
+    "Janani Shishu Suraksha Karyakram.md",
+    "Gvot initiatives/National Health Mission (NHM).md",
+    "AB-PMJAY.md",
+    "Gvot initiatives/National Green Hydrogen Mission.md",
+    "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP).md",
+    "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
+    "Gvot initiatives/Grid-connected Rooftop Solar Programme.md",
+    "Gvot initiatives/Grid Connected Rooftop Solar Programme (Phase II).md",
+    "Renewable Goals.md",
+    "National Electric Mobility Mission Plan (NEMMP).md",
+    "Gvot initiatives/Production Linked Incentive (PLI) Schemes.md",
+    "Gvot initiatives/PM E-DRIVE Scheme.md",
+    "Gvot initiatives/PM e-Bus Sewa.md",
+    "Gvot initiatives/National Solar Mission.md",
+    "Gvot initiatives/Green Urban Mobility Initiatives (GUMI)..md",
+    "Gvot initiatives/FAME India Scheme.md",
+    "Gvot initiatives/CPSU Scheme.md",
+    "National Solar Mission - Copy.md",
+    "Production Linked Incentive (PLI) Schemes - Copy.md",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",

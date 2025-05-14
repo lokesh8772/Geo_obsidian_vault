@@ -32,27 +32,37 @@
             }
           },
           {
-            "id": "2b682b4cfaded88e",
+            "id": "980afda7dabdbb0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Institutes.md",
-                "mode": "source",
+                "file": "github token.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
-                  "showSearch": true,
+                  "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Research Institutes"
+              "title": "github token"
+            }
+          },
+          {
+            "id": "2b682b4cfaded88e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -131,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Revolutions/Yellow Revolution.md",
+            "file": "Gvot initiatives/Credit Linked Capital Subsidy Scheme for Technology Upgradation (CLCSS).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,12 +179,23 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "e3495b827a0c05cf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -185,34 +206,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b682b4cfaded88e",
+  "active": "980afda7dabdbb0c",
   "lastOpenFiles": [
-    "Godavari.md",
-    "Renewable Goals.md",
-    "Make in India.md",
-    "Solar PV Module PLI Scheme.md",
-    "Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
-    "Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
-    "PM-KUSUM.md",
-    "PM Surya Ghar Muft Bijli Yojana.md",
-    "National Green Hydrogen Mission.md",
-    "National Bioenergy Programme.md",
-    "Kaleshwaram Project.md",
-    "Grid Connected Rooftop Solar Programme (Phase II).md",
-    "Green Energy Corridors (GEC).md",
-    "/Renewable Goals.md",
-    "/github token.md",
-    "/Make in India.md",
-    "/Solar PV Module PLI Scheme.md",
-    "/Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
-    "/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
-    "/PM-KUSUM.md",
-    "/PM Surya Ghar Muft Bijli Yojana.md",
-    "/National Green Hydrogen Mission.md",
-    "/National Bioenergy Programme.md",
-    "/Kaleshwaram Project.md",
-    "/Grid Connected Rooftop Solar Programme (Phase II).md",
-    "/Green Energy Corridors (GEC).md",
+    "PM SHRI.md",
+    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
+    "Gvot initiatives/PM E-DRIVE Scheme.md",
+    "conflict-files-obsidian-git.md",
+    "Gvot initiatives/Swachh Bharat Abhiyan.md",
+    "Gvot initiatives/Smart Cities Mission.md",
+    "Gvot initiatives/Skill India Mission.md",
+    "Gvot initiatives/Renewable Goals.md",
+    "Gvot initiatives/Pradhan Mantri Matru Vandana Yojana (PMMVY).md",
+    "Gvot initiatives/Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
+    "Gvot initiatives/Pradhan Mantri Awas Yojana - Urban.md",
+    "Gvot initiatives/Poshan Abhiyan.md",
+    "Gvot initiatives/PM GatiShakti.md",
+    "Gvot initiatives/National Wind Energy Mission.md",
+    "Gvot initiatives/National Urban Livelihoods Mission (NULM).md",
+    "Gvot initiatives/National Rural Health Mission.md",
+    "Gvot initiatives/National Monetisation Pipeline (NMP).md",
+    "Gvot initiatives/National Infrastructure Pipeline (NIP).md",
+    "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
+    "Gvot initiatives/National Clean Air Programme (NCAP).md",
+    "Gvot initiatives/National Civil Aviation Policy (NCAP) 2016.md",
+    "Gvot initiatives/National Action Plan on Climate Change (NAPCC).md",
+    "Gvot initiatives/Janani Suraksha Yojana.md",
+    "Gvot initiatives/Janani Shishu Suraksha Karyakram.md",
+    "Gvot initiatives/Janani Shishu Suraksha Karyakram (JSSK).md",
+    "Gvot initiatives/Jal Jeevan Mission.md",
+    "Gvot initiatives",
+    "/Gvot initiatives",
     "Govt Schemes",
     "/Govt Schemes",
     "IMG_20250123_121723_943 1.jpg",
@@ -227,8 +250,6 @@
     "/hills glaciers etc",
     "Revolutions",
     "/Revolutions",
-    "misc topics",
-    "/misc topics",
-    "Kali"
+    "misc topics"
   ]
 }

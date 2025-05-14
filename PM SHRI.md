@@ -42,7 +42,7 @@ Students, teachers, and the surrounding communities of the selected schools.
 ### 🧩 **Linkages / Related Schemes**
 -   **[[National Education Policy (NEP) 2020]]:** PM SHRI Schools scheme is a key initiative for implementing NEP 2020.
 -   **[[Samagra Shiksha Abhiyan]]:** The scheme is integrated with Samagra Shiksha to ensure holistic development of school education.
--   **[[Digital Infrastructure for Knowledge Sharing (DIKSHA)]]:** PM SHRI Schools utilize DIKSHA for digital learning resources and teacher training.
+-   **Digital Infrastructure for Knowledge Sharing (DIKSHA):** PM SHRI Schools utilize DIKSHA for digital learning resources and teacher training.
 
 ### ⚠️ **Criticism / Challenges / Issues**
 -   **Selection Process:** Ensuring a fair and transparent selection process for schools.
@@ -60,4 +60,4 @@ Students, teachers, and the surrounding communities of the selected schools.
 -   Discussions on expanding the scheme to cover more schools and enhance its impact.
 
 ### 🔗 **Tags**
-`#PMSHRI` `#Education` `#NEP2020` `#SchoolEducation` `#ModelSchools` `#TeacherTraining` #review 
+`#PMSHRI` `#Education` `#NEP2020` `#SchoolEducation` `#ModelSchools` `#TeacherTraining`
