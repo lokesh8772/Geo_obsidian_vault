@@ -38,9 +38,9 @@ To enhance physical access of water on farm and expand cultivable area under ass
 
 ### 🧩 **Linkages / Related Schemes**
 - [[MGNREGS]]
-- Soil Health Card Scheme
-- PM-KUSUM (for solar irrigation pumps)
-- Atal Bhujal Yojana (for groundwater management)
+- [[Soil Health Card Scheme]]
+- [[PM-KUSUM]] (for solar irrigation pumps)
+- [[Atal Bhujal Yojana]] (for groundwater management)
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - Slow implementation in some states.

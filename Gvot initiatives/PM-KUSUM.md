@@ -1,4 +1,10 @@
+---
+sr-due: 2025-05-15
+sr-interval: 1
+sr-ease: 230
+---
 
+PM Kisan Urja Suraksha evam Uthhan Mahabhiyan.
 ### 🗓️ **Launch Date**
 March 2019
 
