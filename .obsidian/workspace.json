@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
+                "file": "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)"
+              "title": "A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE)"
+            }
+          },
+          {
+            "id": "3eb402ba819da94d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data related to Agriculture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data related to Agriculture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
+                "file": "Data related to Agriculture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)"
+              "title": "Outline of Data related to Agriculture"
             }
           },
           {
@@ -200,10 +224,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0052c41bca147d61",
+  "active": "3eb402ba819da94d",
   "lastOpenFiles": [
-    "Gvot initiatives/PM-KUSUM.md",
+    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
+    "Data related to Agriculture.md",
     "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
+    "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/Digital India Programme.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Gvot initiatives/CPSU Scheme.md",
@@ -226,8 +252,6 @@
     "Gvot initiatives/National Infrastructure Pipeline (NIP).md",
     "Gvot initiatives/National Electric Mobility Mission Plan (NEMMP) 2020.md",
     "Gvot initiatives/National Clean Air Programme (NCAP).md",
-    "Gvot initiatives/National Civil Aviation Policy (NCAP) 2016.md",
-    "Gvot initiatives/National Action Plan on Climate Change (NAPCC).md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
