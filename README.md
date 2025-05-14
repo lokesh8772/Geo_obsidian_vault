@@ -3,7 +3,7 @@ obsidian vault of geography
 to sync in termux-
 `sync_obsidian`
 
-not to use sync_obsidian, instead use `git pull origin main`
+not to use sync_obsidian,(`push` from smartphone can cause conflicts) instead use `git pull origin main`
 or if faced issue
 `git fetch --all`
-`git `
+`git reset --hard origin/main`(this will make the local files identical to remote)
