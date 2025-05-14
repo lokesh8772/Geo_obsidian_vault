@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/National Health Mission (NHM).md",
+                "file": "PM GatiShakti.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Health Mission (NHM)"
+              "title": "PM GatiShakti"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gatishakti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/National Health Mission (NHM).md",
+                "file": "PM GatiShakti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of National Health Mission (NHM)"
+              "title": "Outline of PM GatiShakti"
             }
           },
           {
@@ -201,6 +202,7 @@
   },
   "active": "d1e85c13ba565f34",
   "lastOpenFiles": [
+    "Gvot initiatives/National Health Mission (NHM).md",
     "National Electric Mobility Mission Plan (NEMMP) 2020.md",
     "Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "Atmanirbhar Bharat Abhiyan.md",
@@ -226,7 +228,6 @@
     "Smart Cities Mission.md",
     "Pradhan Mantri Awas Yojana - Urban.md",
     "National Urban Livelihoods Mission (NULM).md",
-    "Swachh Bharat Abhiyan.md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
