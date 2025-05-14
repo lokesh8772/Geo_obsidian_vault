@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+                "file": "Gvot initiatives/Digital India Programme.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atmanirbhar Bharat Abhiyan"
+              "title": "Digital India Programme"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "digital health",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+                "file": "Gvot initiatives/Digital India Programme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atmanirbhar Bharat Abhiyan"
+              "title": "Outline of Digital India Programme"
             }
           },
           {
@@ -201,8 +202,8 @@
   },
   "active": "0052c41bca147d61",
   "lastOpenFiles": [
-    "Gvot initiatives/CPSU Scheme.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+    "Gvot initiatives/CPSU Scheme.md",
     "Gvot initiatives/Aadhaar.md",
     "Gvot initiatives/AB-PMJAY.md",
     "Gvot initiatives/Skill India Mission.md",
