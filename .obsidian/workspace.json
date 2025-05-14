@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Krishi",
+                "query": "shri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,15 +251,15 @@
   },
   "active": "2aba2e5097160f51",
   "lastOpenFiles": [
-    "Data related to Agriculture.md",
+    "Gvot initiatives/Aadhaar.md",
     "PM SHRI.md",
+    "Data related to Agriculture.md",
     "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
     "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
     "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/Digital India Programme.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Gvot initiatives/CPSU Scheme.md",
-    "Gvot initiatives/Aadhaar.md",
     "Gvot initiatives/AB-PMJAY.md",
     "Gvot initiatives/Skill India Mission.md",
     "PM GatiShakti.md",
