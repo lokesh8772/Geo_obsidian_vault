@@ -41,8 +41,8 @@ To provide financial protection of up to ₹5 lakh per family per year for secon
 
 ### 🧩 **Linkages / Related Schemes**
 - **[[National Health Mission (NHM)]] (NHM):** AB-PMJAY is a key component of NHM, focusing on secondary and tertiary care.
-- **[[Ayushman Bharat Digital Mission]] (ABDM):** Facilitates digital health records and interoperability for AB-PMJAY beneficiaries.
-- **[[Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)]]:** Strengthens healthcare infrastructure to support schemes like AB-PMJAY.
+- **Ayushman Bharat Digital Mission (ABDM):** Facilitates digital health records and interoperability for AB-PMJAY beneficiaries.
+- **Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM):** Strengthens healthcare infrastructure to support schemes like AB-PMJAY.
 - **Rashtriya Swasthya Bima Yojana (RSBY):** AB-PMJAY subsumed RSBY, expanding its coverage and benefits.
 
 ### ⚠️ **Criticism / Challenges / Issues**
