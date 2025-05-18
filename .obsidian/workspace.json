@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/National Policy on Electronics.md",
+                "file": "Gvot initiatives/FAME India Scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Policy on Electronics"
+              "title": "FAME India Scheme"
             }
           }
         ],
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/National Policy on Electronics.md",
+                "file": "Gvot initiatives/FAME India Scheme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of National Policy on Electronics"
+              "title": "Outline of FAME India Scheme"
             }
           },
           {
@@ -274,8 +274,8 @@
   },
   "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
-    "Gvot initiatives/Digital India Programme.md",
     "Gvot initiatives/National Policy on Electronics.md",
+    "Gvot initiatives/Digital India Programme.md",
     "Gvot initiatives/India Semiconductor Scheme.md",
     "Untitled.md",
     "README.md",
