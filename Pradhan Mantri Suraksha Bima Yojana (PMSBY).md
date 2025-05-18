@@ -36,9 +36,9 @@ To provide affordable accidental death and disability cover to the uninsured pop
 
 ###   📈   **Achievements / Data**
 
--   Enrolments: Over [Number] (as of [Date]).
--   Claims paid: Over [Number] (as of [Date]).
--   Significant increase in accidental insurance coverage among lower-income groups.
+- **Enrolments:** Over **39.43 crore** (as of **March 19, 2025**).
+- **Claims paid:** Over **1,52,000** (as of **March 19, 2025**).
+- **Impact:** Significant increase in accidental insurance coverage among lower-income groups, with a large proportion of beneficiaries from rural and economically weaker sections.
 
 ###   🧩   **Linkages / Related Schemes**
 

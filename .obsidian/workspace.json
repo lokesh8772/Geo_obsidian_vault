@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).md",
+                "file": "Atal Pension Yojana (APY).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)"
+              "title": "Atal Pension Yojana (APY)"
             }
           }
         ],
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).md",
+                "file": "Atal Pension Yojana (APY).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)"
+              "title": "Outline of Atal Pension Yojana (APY)"
             }
           },
           {
@@ -276,8 +276,8 @@
   "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
     "Pradhan Mantri Suraksha Bima Yojana (PMSBY).md",
-    "Atal Pension Yojana (APY).md",
     "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).md",
+    "Atal Pension Yojana (APY).md",
     "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Gvot initiatives/FAME India Scheme.md",
     "Gvot initiatives/National Policy on Electronics.md",

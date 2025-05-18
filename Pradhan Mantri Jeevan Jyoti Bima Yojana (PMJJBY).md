@@ -34,11 +34,11 @@ To provide affordable life insurance to the uninsured population.
 -   Enrolment through bank branches or online banking.
 -   Auto-debit from the savings bank account.
 
-###   📈   **Achievements / Data**
+### 📈 Achievements / Data (Pradhan Mantri Jeevan Jyoti Bima Yojana - PMJJBY)
 
--   Enrolments: Over [Number] (as of [Date]).
--   Claims paid: Over [Number] (as of [Date]).
--   Significant increase in life insurance coverage among lower-income groups.
+- **Enrolments:** Over **23.36 crore** (as of **March 19, 2025**) 
+- **Claims paid:** Over **9,00,000** (specifically, 9,37,524 claims received and over 9 lakh claims settled, as of **March 19, 2025**)
+- **Impact:** Significant increase in life insurance coverage among lower-income groups, with 53% of beneficiaries being women and 74% from rural areas
 
 ###   🧩   **Linkages / Related Schemes**
 

@@ -35,8 +35,8 @@ To provide a defined pension to workers in the unorganized sector.
 
 ###   📈   **Achievements / Data**
 
--   Subscribers: Over [Number] (as of [Date]).
--   Pension wealth accumulated: Over ₹[Amount] (as of [Date]).
+-   Subscribers: Over 7.65 crore (as of Apr 2025).
+-   Pension wealth accumulated: Over ₹ 46,000 crore (as of Apr 2025).
 -   Significant coverage of workers in the informal sector under a pension scheme.
 
 ###   🧩   **Linkages / Related Schemes**
