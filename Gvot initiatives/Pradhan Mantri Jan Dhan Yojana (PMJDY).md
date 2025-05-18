@@ -1,40 +1,50 @@
+Pradhan Mantri Jan Dhan Yojana (PMJDY)
 
+### 🗓️ **Launch Date**
+August 28, 2014
 
-## 1. Started - 2014
+### 🧑‍🏫 **Ministry / Department**
+Ministry of Finance
 
-## 2. Nodal Ministry
-Ministry of Finance, Government of India
+### 🎯 **Objective**
+To ensure access to financial services (banking/savings & deposit accounts, remittance, credit, insurance, pension) in an affordable manner for the unbanked.
 
-## 3. Goal
-To provide access to financial services, namely banking, insurance, and credit to the excluded sections of the society.
+### 👥 **Target Beneficiaries**
+-   Households without bank accounts.
 
-## 4. Aim
-To ensure access to a range of financial services at an affordable cost in an equitable, fair, and transparent manner. This includes:
-* Banking Savings & Deposit Accounts
-* Remittance
-* Credit
-* Insurance
-* Pension
+### 💰 **Features / Components / Assistance**
+-   **Bank Accounts:**
+    -   Zero balance accounts.
+    -   Free debit card.
+    -   Overdraft facility (after 6 months of satisfactory operation).
+-   **Insurance:**
+    -   Accidental insurance cover of ₹2 lakh.
+-   **Pension:**
+    -   Access to pension schemes.
 
-## 5. Initiatives (or Key Features)
-* **Bank Accounts:** Opening of basic savings bank accounts with RuPay debit cards with inbuilt accident insurance cover of ₹1 lakh (increased to ₹2 lakh for accounts opened after 28.08.2018).
-* **Overdraft Facility:** An overdraft (OD) facility up to ₹10,000/- is available to eligible account holders.
-* **Direct Benefit Transfer (DBT):** Facilitating the transfer of government benefits directly into the accounts of beneficiaries.
-* **Financial Literacy Programme:** Promoting financial literacy and inclusion.
-* **Micro Insurance:** Providing access to affordable insurance products.
-* **Micro Pension:** Facilitating access to pension schemes.
-* **Mobile Banking:** Encouraging the use of mobile banking and other digital payment channels.
+### 📍 **Implementation Details**
+-   Banks, both public and private sector.
+-   Camps for account opening.
 
-## 6. Achievements (if any)
-* As of April 2025, over 54 crore beneficiaries have been enrolled under PMJDY.
-* Significant increase in the number of bank accounts, particularly in rural areas.
-* Substantial amount of deposits mobilized under the scheme.
-* Improved targeting and delivery of government subsidies through DBT.
-* Increased financial inclusion of women.
+###   📈   **Achievements / Data**
 
-## 7. Any Significant Development in Current
-* Focus on promoting digital transactions through UPI and other platforms.
-* Efforts to enhance the usage of dormant accounts.
-* Integration with other government schemes for wider coverage.
-* Ongoing campaigns to promote financial literacy and awareness.
-#review
+* Over 46 crore accounts opened (as of October 2024).
+* Deposit balance: Over ₹1.75 lakh crore (as of October 2024).
+* Percentage of zero-balance accounts reduced significantly (as of [Date]).
+
+### 🧩 **Linkages / Related Schemes**
+-   [[Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)]]
+-   [[Pradhan Mantri Suraksha Bima Yojana (PMSBY)]]
+-   [[Atal Pension Yojana (APY)]]
+
+### ⚠️ **Criticism / Challenges / Issues**
+-   Account dormancy.
+-   Effective usage of accounts.
+-   Financial literacy.
+
+### ✍️ **Recent Updates / Current Affairs Angle**
+-   Focus on increasing micro-insurance and micro-pension penetration.
+-   Efforts to promote digital transactions through these accounts.
+
+### 🔗 **Tags**
+#GovtSchemes #FinancialInclusion #Banking #SocialWelfare #review

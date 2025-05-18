@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/FAME India Scheme.md",
+                "file": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FAME India Scheme"
+              "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jan dhan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/FAME India Scheme.md",
+                "file": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FAME India Scheme"
+              "title": "Outline of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)"
             }
           },
           {
@@ -274,6 +275,11 @@
   },
   "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
+    "Pradhan Mantri Suraksha Bima Yojana (PMSBY).md",
+    "Atal Pension Yojana (APY).md",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).md",
+    "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
+    "Gvot initiatives/FAME India Scheme.md",
     "Gvot initiatives/National Policy on Electronics.md",
     "Gvot initiatives/Digital India Programme.md",
     "Gvot initiatives/India Semiconductor Scheme.md",
@@ -295,11 +301,6 @@
     "Gvot initiatives/Skill India Mission.md",
     "PM GatiShakti.md",
     "Gvot initiatives/Swachh Bharat Abhiyan.md",
-    "Gvot initiatives/Smart Cities Mission.md",
-    "Gvot initiatives/Renewable Goals.md",
-    "Gvot initiatives/Pradhan Mantri Matru Vandana Yojana (PMMVY).md",
-    "Gvot initiatives/Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
-    "Gvot initiatives/Pradhan Mantri Awas Yojana - Urban.md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
