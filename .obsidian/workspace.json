@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "bd4f047e3ed6d634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gvot initiatives/National Policy on Electronics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "National Policy on Electronics"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Gvot initiatives/National Policy on Electronics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of National Policy on Electronics"
             }
           },
           {
@@ -249,8 +272,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9ca873b710d7622",
+  "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
+    "Gvot initiatives/Digital India Programme.md",
+    "Gvot initiatives/National Policy on Electronics.md",
+    "Gvot initiatives/India Semiconductor Scheme.md",
+    "Untitled.md",
+    "README.md",
     "Samagra Shiksha Abhiyan.md",
     "National Education Policy (NEP) 2020.md",
     "PM SHRI.md",
@@ -261,7 +289,6 @@
     "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
     "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
     "Gvot initiatives/PM-KUSUM.md",
-    "Gvot initiatives/Digital India Programme.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Gvot initiatives/CPSU Scheme.md",
     "Gvot initiatives/AB-PMJAY.md",
@@ -273,10 +300,6 @@
     "Gvot initiatives/Pradhan Mantri Matru Vandana Yojana (PMMVY).md",
     "Gvot initiatives/Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM).md",
     "Gvot initiatives/Pradhan Mantri Awas Yojana - Urban.md",
-    "Gvot initiatives/Poshan Abhiyan.md",
-    "Gvot initiatives/PM GatiShakti.md",
-    "Gvot initiatives/National Wind Energy Mission.md",
-    "Gvot initiatives/National Urban Livelihoods Mission (NULM).md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
