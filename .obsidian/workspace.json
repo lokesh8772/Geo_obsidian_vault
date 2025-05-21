@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atal Pension Yojana (APY).md",
-                "mode": "source",
+                "file": "Gvot initiatives/National Solar Mission.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atal Pension Yojana (APY)"
+              "title": "National Solar Mission"
             }
           }
         ],
@@ -157,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atal Pension Yojana (APY).md",
+                "file": "Gvot initiatives/National Solar Mission.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atal Pension Yojana (APY)"
+              "title": "Outline of National Solar Mission"
             }
           },
           {
@@ -275,9 +274,10 @@
   },
   "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
+    "Gvot initiatives/CPSU Scheme.md",
+    "Atal Pension Yojana (APY).md",
     "Pradhan Mantri Suraksha Bima Yojana (PMSBY).md",
     "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).md",
-    "Atal Pension Yojana (APY).md",
     "Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Gvot initiatives/FAME India Scheme.md",
     "Gvot initiatives/National Policy on Electronics.md",
@@ -296,7 +296,6 @@
     "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
     "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
-    "Gvot initiatives/CPSU Scheme.md",
     "Gvot initiatives/AB-PMJAY.md",
     "Gvot initiatives/Skill India Mission.md",
     "PM GatiShakti.md",
