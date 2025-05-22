@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/National Solar Mission.md",
+                "file": "Gvot initiatives/SVANidhi Scheme.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Solar Mission"
+              "title": "SVANidhi Scheme"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jan dhan",
+                "query": "svani",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/National Solar Mission.md",
+                "file": "Gvot initiatives/SVANidhi Scheme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of National Solar Mission"
+              "title": "Outline of SVANidhi Scheme"
             }
           },
           {
@@ -274,6 +275,7 @@
   },
   "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
+    "Gvot initiatives/National Solar Mission.md",
     "Gvot initiatives/CPSU Scheme.md",
     "Atal Pension Yojana (APY).md",
     "Pradhan Mantri Suraksha Bima Yojana (PMSBY).md",
@@ -299,7 +301,6 @@
     "Gvot initiatives/AB-PMJAY.md",
     "Gvot initiatives/Skill India Mission.md",
     "PM GatiShakti.md",
-    "Gvot initiatives/Swachh Bharat Abhiyan.md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
