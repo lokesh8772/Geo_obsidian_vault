@@ -40,10 +40,10 @@ To provide financial support to micro and small non-corporate enterprises, espec
 - Budget 2023–24: Continued emphasis on funding the unfunded
 
 ### 🧩 **Linkages / Related Schemes**
-- Stand-Up India  
+- [[Stand-Up India]]  
 - PMEGP  
-- Jan Dhan Yojana (as financial inclusion base)  
-- SVANidhi (for urban street vendors)
+- [[Pradhan Mantri Jan Dhan Yojana (PMJDY)]] (as financial inclusion base)  
+- [[SVANidhi Scheme]] (for urban street vendors)
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - Concerns about high NPAs in MUDRA loan accounts  

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/SVANidhi Scheme.md",
+                "file": "Gvot initiatives/MUDRA Yojana.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SVANidhi Scheme"
+              "title": "MUDRA Yojana"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svani",
+                "query": "mudra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/SVANidhi Scheme.md",
+                "file": "Gvot initiatives/MUDRA Yojana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SVANidhi Scheme"
+              "title": "Outline of MUDRA Yojana"
             }
           },
           {
@@ -275,6 +275,7 @@
   },
   "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
+    "Gvot initiatives/SVANidhi Scheme.md",
     "Gvot initiatives/National Solar Mission.md",
     "Gvot initiatives/CPSU Scheme.md",
     "Atal Pension Yojana (APY).md",
@@ -300,7 +301,6 @@
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Gvot initiatives/AB-PMJAY.md",
     "Gvot initiatives/Skill India Mission.md",
-    "PM GatiShakti.md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
