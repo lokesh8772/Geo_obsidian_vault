@@ -38,10 +38,10 @@ To build a strong ecosystem that nurtures innovation, boosts startups, and drive
 - Recognized globally as a top startup ecosystem
 
 ### 🧩 **Linkages / Related Schemes**
-- MUDRA Yojana  
-- Stand-Up India  
-- Atal Innovation Mission (AIM)  
-- PM Gati Shakti (for startup logistics infra)
+- [[MUDRA Yojana]]  
+- [[Stand-Up India]]  
+- [[Atal Innovation Mission (AIM)]]  
+- [[PM GatiShakti]] (for startup logistics infra)
 
 ### ⚠️ **Criticism / Challenges / Issues**
 - Uneven geographic spread—concentration in Tier-1 cities  

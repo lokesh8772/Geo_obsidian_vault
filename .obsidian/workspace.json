@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/MUDRA Yojana.md",
-                "mode": "preview",
+                "file": "Gvot initiatives/Stand-Up India.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MUDRA Yojana"
+              "title": "Stand-Up India"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mudra",
+                "query": "startup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/MUDRA Yojana.md",
+                "file": "Gvot initiatives/Stand-Up India.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MUDRA Yojana"
+              "title": "Outline of Stand-Up India"
             }
           },
           {
@@ -275,6 +275,8 @@
   },
   "active": "bd4f047e3ed6d634",
   "lastOpenFiles": [
+    "Gvot initiatives/Startup India.md",
+    "Gvot initiatives/MUDRA Yojana.md",
     "Gvot initiatives/SVANidhi Scheme.md",
     "Gvot initiatives/National Solar Mission.md",
     "Gvot initiatives/CPSU Scheme.md",
@@ -299,8 +301,6 @@
     "Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
     "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
-    "Gvot initiatives/AB-PMJAY.md",
-    "Gvot initiatives/Skill India Mission.md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
