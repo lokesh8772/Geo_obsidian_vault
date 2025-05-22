@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "startup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -273,7 +273,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bd4f047e3ed6d634",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Gvot initiatives/Startup India.md",
     "Gvot initiatives/MUDRA Yojana.md",
