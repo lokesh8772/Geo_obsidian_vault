@@ -1,7 +1,16 @@
 1. oldest committee  (1st in )
 2. 22(15+7), chairperson - > from LS, convention -> from Opposition
-3. objective -> to review the CAG report on govt's revenue and expenditure and submit it to the parliament.
-4. Assisted by [[CAG]]. 
+3. term -  1yr , minister can not be a member.
+4. objective -> to review the CAG report on govt's revenue and expenditure and submit it to the parliament.
+5. Assisted by [[CAG]]. 
 
 ### Importance - 
-1. checks an 
+1. checks and balances -> legislative's on executive
+2. make the technical and lengthy CAG report readable for legislators.
+### limitations - 
+1. postmortem function
+2. recommendations not binding
+3. in-efficient -> not able to review the whole report, each year only a few areas are reviewed.
+
+
+#Polity #Parliament 
