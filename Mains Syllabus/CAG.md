@@ -2,7 +2,10 @@
 2. constitutional office. (Art 148)
 
 ### Functions - 
-1. Audits the govt's revenues and expenditure for - 
-	- availablity of the money for the objective
-	- financial wisdom in the spending
-	- any irregularity in the amount spent and allotted for it.
+1. Audits the govt's revenues and expenditure, Accounts of PSUs and CPSE.
+2. check for transparency, financial discipline and efficiency in govt expenditure
+3. ensure whether the govt projects and schemes achieved their objectives or not.
+4. submits its report to the Parliament.
+5. Assists the [[Public Accounts Committee|PAC]]
+
+#Polity #Constitutional_Bodies 
