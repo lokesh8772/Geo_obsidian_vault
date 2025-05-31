@@ -10,6 +10,7 @@
 3. increased mechanization
 4. lower vocational training emphasis in the education.
 5. lower industrial exposure to students -> b/c structure of the system
+6. large scale informal sector
 
 ### Govt initiatives
 1. [[PM-KVY]] 4.0
@@ -20,10 +21,12 @@
 6. [[National Apprenticeship Promotion Scheme]]
 7. [[Model Skill loan scheme]]
 8. Credit gaurantee to MSMEs(CGTMSE)
+9. [[E-Shram Card]]
 
 ### Way fwd - 
 1. effective implementation of NEP.
 2. vocational and practical based education in main curriculum.
 3. PPP
 4. increased apprenticeship program implementation
-5. 
+5. new age tech inclusion(AI,ML) in the curricula and in skilling of the workforce.
+6. skilling up of Agro workers.
