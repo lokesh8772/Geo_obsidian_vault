@@ -5,4 +5,6 @@
 	4. Strategic Experts
 	5. Media
 	6. Civil society
-2. New D
+2. New Delhi
+3. hosted by Observer Research Foundation, with support of MEA
+4. 2025 -> may 17-19, theme - Kalchakra (People Peace Planet)
