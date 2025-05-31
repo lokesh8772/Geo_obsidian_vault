@@ -23,4 +23,6 @@
 2. to review the constitutional and legal safegaurds to human rights and their execution
 3. to visit the prisons and detention centers to assess their conditions and recommend necessary reforms
 4. to intervene in any court proceedings involving HR violations.
-5. to study treaties and international conventiono
+5. to study treaties and international conventions for HR maintenance, and recommend measures for their implementation.
+
+#Polity #SocialWelfare  #Statutory_Bodies 
