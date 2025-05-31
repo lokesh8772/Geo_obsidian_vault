@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JAY",
+                "query": "health infra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "734a7568ce25bf79",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Gvot initiatives/Ayushman Bharat.md",
     "Gvot initiatives/Swachh Bharat Abhiyan.md",

@@ -41,22 +41,24 @@ To provide financial protection of up to ₹5 lakh per family per year for secon
 
 ### 🧩 **Linkages / Related Schemes**
 - **[[National Health Mission (NHM)]] (NHM):** AB-PMJAY is a key component of NHM, focusing on secondary and tertiary care.
-- **Ayushman Bharat Digital Mission (ABDM):** Facilitates digital health records and interoperability for AB-PMJAY beneficiaries.
-- **Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM):** Strengthens healthcare infrastructure to support schemes like AB-PMJAY.
+- **[[Ayushman Bharat Digital Mission]] (ABDM):** Facilitates digital health records and interoperability for AB-PMJAY beneficiaries.
+- **[[Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)]]:** Strengthens healthcare infrastructure to support schemes like AB-PMJAY.
 - **Rashtriya Swasthya Bima Yojana (RSBY):** AB-PMJAY subsumed RSBY, expanding its coverage and benefits.
 
 ### ⚠️ **Criticism / Challenges / Issues**
-- Ensuring effective implementation and preventing fraud.
-- Addressing disparities in access across different regions.
-- Raising awareness among eligible beneficiaries.
-- Ensuring timely claim processing for hospitals.
-- Need for further expansion of empanelled hospitals, especially in underserved areas.
+- Fraud, dead patients enrollments.
+- after 5 lacs, -> no clarity.
+- no claim of [[Rashtriya Arogya Nidhi]] for beneficiaries.
+- high rate of denial(delay in paying the claims.)
+- lack of expansion even in tier 1 and 2 cities
+- no single database for private hospitals yet.
 
 ### ✍️ **Recent Updates / Current Affairs Angle**
 - Recent expansion of coverage to all senior citizens above 70 years.
 - Continued efforts to increase Ayushman card issuance and utilization.
 - Focus on strengthening the ABDM ecosystem to improve the efficiency of AB-PMJAY.
 - Emphasis on ensuring quality healthcare services at empanelled hospitals.
+- extension of the scheme to all hospitals in New Delhi.
 
 ### 🔗 **Tags**
 #GovtSchemes #Healthcare #HealthInsurance #AyushmanBharat #PMJAY
