@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-01.md",
+                "file": "Gvot initiatives/FAME India Scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-01"
+              "title": "FAME India Scheme"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FAME",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,8 +193,8 @@
   },
   "active": "734a7568ce25bf79",
   "lastOpenFiles": [
-    "2025-05-31.md",
     "2025-06-01.md",
+    "2025-05-31.md",
     "Mains Syllabus/Unemployment.md",
     "Gvot initiatives/AB-PMJAY.md",
     "Gvot initiatives/Ayushman Bharat.md",
