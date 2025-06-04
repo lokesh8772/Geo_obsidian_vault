@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FAME",
+                "query": "nago",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -195,11 +194,11 @@
   },
   "active": "734a7568ce25bf79",
   "lastOpenFiles": [
+    "2025-06-02.md",
     "2025-06-03.md",
     "2025-06-04.md",
     "Gvot initiatives/Make in India.md",
     "README.md",
-    "2025-06-02.md",
     "2025-06-01.md",
     "Gvot initiatives/FAME India Scheme.md",
     "2025-05-31.md",
