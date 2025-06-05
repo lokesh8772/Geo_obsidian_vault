@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nago",
+                "query": "bonn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
