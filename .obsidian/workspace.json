@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bonn",
+                "query": "untitle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -195,8 +194,12 @@
   },
   "active": "734a7568ce25bf79",
   "lastOpenFiles": [
-    "2025-06-02.md",
+    "Untitled 3.md",
     "2025-06-04.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "2025-06-02.md",
     "2025-06-03.md",
     "Gvot initiatives/Make in India.md",
     "README.md",
@@ -214,15 +217,11 @@
     "Mains Syllabus/CAG.md",
     "Mains Syllabus/Public Accounts Committee.md",
     "Mains Syllabus/Early childhood Education.md",
-    "Untitled 1.md",
     "Mains Syllabus/SC judge Appointment.md",
     "CA",
     "Mains Syllabus",
     "Gvot initiatives/Stand-Up India.md",
     "Gvot initiatives/Startup India.md",
-    "Gvot initiatives/MUDRA Yojana.md",
-    "Gvot initiatives/SVANidhi Scheme.md",
-    "Gvot initiatives/National Solar Mission.md",
     "IMG_20250123_121723_943.jpg",
     "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
