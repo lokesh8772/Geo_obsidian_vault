@@ -22,4 +22,6 @@
 	5. wetlands important for maintaining the bio-diversity of the area
 	6. regularly supports 1% of the population of a species/sub-species of waterbird or Non-avian animal species
 	7. critical source of food for the marine organisms of the area or other area.
-9. 
+
+
+#mains #GS3 #Environment #Ecology

@@ -7,4 +7,4 @@
 
 
 
-#prelims #e-governance 
+#prelims #eGovernance #GS2 #Governance 
