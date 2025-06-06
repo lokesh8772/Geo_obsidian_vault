@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AYUSH.md",
+                "file": "2025-06-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AYUSH"
+              "title": "2025-06-06"
+            }
+          },
+          {
+            "id": "9c1195ca9a7025e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPSC  GS topics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UPSC  GS topics"
             }
           }
         ]
@@ -204,11 +228,11 @@
   },
   "active": "d4e3a2a111617a22",
   "lastOpenFiles": [
-    "2025-06-06.md",
     "AYUSH.md",
+    "UPSC  GS topics.md",
+    "2025-06-06.md",
     "Socotra.md",
     "Pasted image 20250606190559.png",
-    "UPSC  GS topics.md",
     "Ramsar sites.md",
     "ECINET.md",
     "2025-06-01.md",
