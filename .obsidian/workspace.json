@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "untitle",
+                "query": "ILO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -195,8 +195,9 @@
   },
   "active": "734a7568ce25bf79",
   "lastOpenFiles": [
-    "2025-06-05.md",
+    "2025-06-01.md",
     "2025-06-06.md",
+    "2025-06-05.md",
     "2025-06-04.md",
     "Untitled 3.md",
     "Untitled 2.md",
@@ -206,7 +207,6 @@
     "2025-06-03.md",
     "Gvot initiatives/Make in India.md",
     "README.md",
-    "2025-06-01.md",
     "Gvot initiatives/FAME India Scheme.md",
     "2025-05-31.md",
     "Mains Syllabus/Unemployment.md",
