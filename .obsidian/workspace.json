@@ -46,8 +46,7 @@
               "title": "Ramsar sites"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +215,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e1bb446f25828997",
+  "active": "734a7568ce25bf79",
   "lastOpenFiles": [
-    "2025-06-06.md",
     "Ramsar sites.md",
+    "2025-06-06.md",
     "2025-06-01.md",
     "2025-06-05.md",
     "2025-06-04.md",

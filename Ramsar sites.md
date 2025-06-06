@@ -14,3 +14,12 @@
 	1. Tamilnadu(20)
 	2. UP(10)
 	3. Rajasthan(4)
+8. criteria - any one...
+	1. rare, and unique type of wetland
+	2. CR, EN, or vulneraable species ....
+	3. 20k population of waterbirds
+	4. supports species in some critical stage of their life
+	5. wetlands important for maintaining the bio-diversity of the area
+	6. regularly supports 1% of the population of a species/sub-species of waterbird or Non-avian animal species
+	7. critical source of food for the marine organisms of the area or other area.
+9. 
