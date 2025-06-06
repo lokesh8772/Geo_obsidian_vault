@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "2025-06-06"
             }
+          },
+          {
+            "id": "e1bb446f25828997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ramsar sites.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ramsar sites"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ILO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,13 +100,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -193,16 +216,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "734a7568ce25bf79",
+  "active": "e1bb446f25828997",
   "lastOpenFiles": [
-    "2025-06-01.md",
     "2025-06-06.md",
+    "Ramsar sites.md",
+    "2025-06-01.md",
     "2025-06-05.md",
     "2025-06-04.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "2025-06-02.md",
     "2025-06-03.md",
     "Gvot initiatives/Make in India.md",
