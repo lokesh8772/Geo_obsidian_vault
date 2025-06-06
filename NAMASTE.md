@@ -20,4 +20,8 @@ National Action Plan on Mechanised Sanitatino Ecosystem.
 ### International Institute of Administerative sciences
 1. india won presidency ffor 2025 - 28, first time in history
 2. Non-governmental science org.
-3. 
+3. obj - 
+	1. comparative studies
+	2. intercultural dialogue
+	3. reform models for contemporary admin challenges
+	4. Gl
