@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-06.md",
-                "mode": "source",
+                "file": "2025-06-05.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-06"
+              "title": "2025-06-05"
             }
           },
           {
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,8 +227,8 @@
   },
   "active": "c044dcec393ab0b4",
   "lastOpenFiles": [
-    "Socotra.md",
     "2025-06-06.md",
+    "Socotra.md",
     "ECINET.md",
     "Ramsar sites.md",
     "2025-06-02.md",
