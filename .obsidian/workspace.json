@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G-7.md",
+                "file": "BRICS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "G-7"
+              "title": "BRICS"
             }
           },
           {
@@ -227,8 +227,9 @@
   },
   "active": "c044dcec393ab0b4",
   "lastOpenFiles": [
-    "2025-06-08.md",
     "G-7.md",
+    "BRICS.md",
+    "2025-06-08.md",
     "Quantum computing.md",
     "National Quantum Mission.md",
     "Belt and Road Initiative.md",
@@ -253,7 +254,6 @@
     "Untitled 1.md",
     "Gvot initiatives/Make in India.md",
     "README.md",
-    "Gvot initiatives/FAME India Scheme.md",
     "CA",
     "Mains Syllabus",
     "IMG_20250123_121723_943.jpg",
