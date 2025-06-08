@@ -20,20 +20,3 @@
 	3. trade co-operation
 	4. reform of bretton woods institutions
 	5. health, education, space, AI, fintech ... co-operation
-### INS ARNALA
-1. india's first indegenously built anti submarine warfare - shalow water craft
-2. built by Garden reach shipbuiders and ... + L&T shipbuilding
-3. 80% indeginous components
-4. supports AI driven combat system, SONAR arrays...
-
-### Starlink get permission to operate in india
-1. 3rd after Euselsat one web and jio satellite communications
-2. starlink - 
-	1. a satellite based internet providing service by SpaceX
-	2. use falcon9 rocket ...
-	3. around 42k(planned) satellites in Lower earth orbit
-3. satellite base internet
-	1. high speed and low latency internet.
-	2. easy deployment in remote areas, and disaster prone areas
-	3. 
-	

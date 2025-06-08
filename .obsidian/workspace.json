@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BRICS.md",
+                "file": "2025-06-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BRICS"
+              "title": "2025-06-07"
             }
           },
           {
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -227,9 +226,9 @@
   },
   "active": "c044dcec393ab0b4",
   "lastOpenFiles": [
+    "2025-06-08.md",
     "G-7.md",
     "BRICS.md",
-    "2025-06-08.md",
     "Quantum computing.md",
     "National Quantum Mission.md",
     "Belt and Road Initiative.md",
