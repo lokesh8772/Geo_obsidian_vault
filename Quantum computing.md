@@ -9,9 +9,20 @@
 	1. drug discovery - Pfizer+IBM
 	2. quantum cryptography
 	3. encryption and decyption
-	4. mineral detection, medical simulation
-6. challenges - 
-	1. qubits unstable in atm( 10^-4 seconds), destroyed in envtal noise
+	4. mineral detection, medical imaging
+	5. logistics management
+6. Progress so far - 
+	1. Google, IBM and china's Jiuzhang - 100 qubits Q.C developed..
+	2. google - sycamore - 200 seconds operation(q .C.) vs 10,000 yrs(super computer)
+	3. jiuzhang- photonic qubits
+7. challenges - 
+	1. Decoherence - qubits unstable in atm( 10^-4 seconds), destroyed in envtal noise
 	2. require ultra cold temp, sophisticated systems and quantum labs
 	3. for one reliable logical qubit, multiple qubits are required(100 -> 4-5 reliable qubits)
-	4. 
+8. global funding  - 
+	1. top 5 - china > USA > EU .> {UK + japan + canada} > India
+9. India - [[National Quantum Mission]]
+
+
+
+#Technology 
