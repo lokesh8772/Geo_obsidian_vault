@@ -34,5 +34,6 @@
 	3. around 42k(planned) satellites in Lower earth orbit
 3. satellite base internet
 	1. high speed and low latency internet.
-	2. easy deployment in re
+	2. easy deployment in remote areas, and disaster prone areas
+	3. 
 	
