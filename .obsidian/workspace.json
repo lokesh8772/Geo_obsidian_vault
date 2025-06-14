@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c044dcec393ab0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-06-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-10"
-            }
-          },
-          {
             "id": "1ab31c9722340253",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               "title": "UPSC  GS topics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
