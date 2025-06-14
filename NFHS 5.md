@@ -20,4 +20,5 @@
 		2. women - 19% - 23%
 11. access to electricity - 97% of households
 12. women with bank accounts - 53% -> 79%
-13. 
+
+#Healthcare #
