@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NFHS 5.md",
+                "file": "2025-06-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NFHS 5"
+              "title": "2025-06-14"
             }
           },
           {
@@ -53,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "NCRB's Crime in India"
-            }
-          },
-          {
-            "id": "9c1195ca9a7025e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPSC  GS topics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "UPSC  GS topics"
             }
           }
         ]
@@ -251,11 +227,12 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "NFHS 5.md",
     "NCRB's Crime in India.md",
+    "UPSC  GS topics.md",
+    "2025-06-14.md",
+    "NFHS 5.md",
     "2025-06-10.md",
     "Untitled",
-    "UPSC  GS topics.md",
     "2025-06-09.md",
     "2025-06-07.md",
     "Untitled.md",
@@ -278,7 +255,6 @@
     "AYUSH.md",
     "Pasted image 20250606190559.png",
     "2025-06-01.md",
-    "2025-06-04.md",
     "CA",
     "Mains Syllabus",
     "IMG_20250123_121723_943.jpg",
