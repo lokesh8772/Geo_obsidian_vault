@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -12,15 +12,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.49761522248690176,
-=======
-  "scale": 0.3940910477042076,
->>>>>>> 360a9bc (vault backup: 2025-05-13 23:49:23)
+  "scale": 0.1640919655054673,
   "close": true
 }
