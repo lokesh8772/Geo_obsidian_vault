@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-15.md",
+                "file": "off-mood things.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-15"
+              "title": "off-mood things"
             }
           },
           {
@@ -227,8 +227,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "2025-06-14.md",
     "2025-06-15.md",
+    "2025-06-14.md",
     "NCRB's Crime in India.md",
     "UPSC  GS topics.md",
     "NFHS 5.md",
