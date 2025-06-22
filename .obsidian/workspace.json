@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-20.md",
+                "file": "2025-06-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-20"
+              "title": "2025-06-22"
             }
           },
           {
@@ -227,8 +227,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "2025-06-18.md",
     "2025-06-20.md",
+    "2025-06-22.md",
+    "2025-06-18.md",
     "2025-06-21.md",
     "off-mood things.md",
     "2025-06-17.md",
@@ -253,7 +254,6 @@
     "2025-06-05.md",
     "2025-06-06.md",
     "Socotra.md",
-    "ECINET.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
