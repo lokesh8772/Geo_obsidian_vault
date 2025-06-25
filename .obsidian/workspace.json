@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-24.md",
+                "file": "2025-06-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-24"
+              "title": "2025-06-25"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "2025-06-23.md",
     "2025-06-24.md",
+    "2025-06-25.md",
+    "2025-06-23.md",
     "2025-06-05.md",
     "2025-06-22.md",
     "2025-06-20.md",
@@ -230,7 +231,6 @@
     "Quantum computing.md",
     "National Quantum Mission.md",
     "Belt and Road Initiative.md",
-    "India stack.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
