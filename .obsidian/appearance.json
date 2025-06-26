@@ -3,5 +3,8 @@
   "baseFontSize": 14,
   "textFontFamily": "Ink Free,Bradley Hand,Arial,Bodoni 72 Oldstyle,Cascadia Mono",
   "interfaceFontFamily": "Arial",
-  "accentColor": "#f5bd5c"
+  "accentColor": "#f5bd5c",
+  "enabledCssSnippets": [
+    "caveat-google-font"
+  ]
 }
