@@ -1,7 +1,7 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 15,
-  "textFontFamily": "Ubuntu Mono,Caveat,Ink Free,Bradley Hand,Arial,Bodoni 72 Oldstyle,Cascadia Mono",
+  "textFontFamily": "Helvetica,Bodoni 72 Oldstyle,Caveat,Arial",
   "interfaceFontFamily": "Arial",
   "accentColor": "#f5b55c",
   "enabledCssSnippets": []
