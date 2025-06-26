@@ -1,10 +1,8 @@
 {
-  "theme": "moonstone",
-  "baseFontSize": 14,
-  "textFontFamily": "Ink Free,Bradley Hand,Arial,Bodoni 72 Oldstyle,Cascadia Mono",
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "textFontFamily": "Ubuntu Mono,Caveat,Ink Free,Bradley Hand,Arial,Bodoni 72 Oldstyle,Cascadia Mono",
   "interfaceFontFamily": "Arial",
-  "accentColor": "#f5bd5c",
-  "enabledCssSnippets": [
-    "caveat-google-font"
-  ]
+  "accentColor": "#f5b55c",
+  "enabledCssSnippets": []
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-24.md",
+                "file": "2025-06-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-24"
+              "title": "2025-06-26"
             }
           }
         ]
@@ -200,10 +200,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9ca873b710d7622",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "2025-06-26.md",
     "2025-06-24.md",
+    "2025-06-26.md",
     "2025-06-25.md",
     "2025-06-23.md",
     "2025-06-05.md",
