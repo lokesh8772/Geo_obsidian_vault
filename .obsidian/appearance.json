@@ -1,6 +1,7 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 14,
-  "textFontFamily": "Arial,Bodoni 72 Oldstyle,Cascadia Mono",
-  "interfaceFontFamily": "Arial"
+  "textFontFamily": "Ink Free,Bradley Hand,Arial,Bodoni 72 Oldstyle,Cascadia Mono",
+  "interfaceFontFamily": "Arial",
+  "accentColor": "#f5bd5c"
 }
