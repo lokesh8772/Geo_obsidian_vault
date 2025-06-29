@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-29.md",
+                "file": "Templates/Daily notes template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-29"
+              "title": "Daily notes template"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,8 +202,13 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "SCO.md",
     "2025-06-29.md",
+    "Templates/Daily notes template.md",
+    "Templates",
+    "Daily notes",
+    "New folder",
+    "templates",
+    "SCO.md",
     "2025-06-28.md",
     "2025-06-27.md",
     "2025-06-26.md",
@@ -229,7 +233,6 @@
     "Untitled",
     "2025-06-09.md",
     "2025-06-07.md",
-    "Untitled.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
@@ -243,10 +246,6 @@
     "IMG_20250123_121719_333.jpg",
     "IMG_20250123_121559_162.jpg",
     "Govt Schemes",
-    "anki_import/indian polity🌖☀️⚡☀️",
-    "anki_import/Physical Geography",
-    "anki_import/my_polity/Important-Articles",
-    "anki_import/my_polity/Fundamental_Rights",
     "Untitled.canvas"
   ]
 }
