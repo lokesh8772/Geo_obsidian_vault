@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-28.md",
+                "file": "2025-06-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-28"
+              "title": "2025-06-29"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "2025-06-27.md",
     "2025-06-28.md",
+    "2025-06-29.md",
+    "2025-06-27.md",
     "2025-06-26.md",
     "Article 163.md",
     "2025-06-24.md",
@@ -230,7 +231,6 @@
     "2025-06-07.md",
     "Untitled.md",
     "2025-06-08.md",
-    "G-7.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
