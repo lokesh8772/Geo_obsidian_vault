@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -201,7 +202,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
     "2025-06-27.md",
     "2025-06-28.md",
