@@ -1,2 +1,4 @@
-## Topics covered - 
+# Topics covered - 
 
+
+# NOTES starts here -
