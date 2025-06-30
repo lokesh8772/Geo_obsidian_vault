@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily notes template.md",
+                "file": "Daily notes/2025-06-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily notes template"
+              "title": "2025-06-30"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -200,9 +201,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9ca873b710d7622",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
     "2025-06-29.md",
+    "Daily notes/2025-06-30.md",
     "Templates/Daily notes template.md",
     "Templates",
     "Daily notes",
@@ -232,7 +234,6 @@
     "2025-06-10.md",
     "Untitled",
     "2025-06-09.md",
-    "2025-06-07.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
