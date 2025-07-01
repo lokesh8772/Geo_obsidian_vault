@@ -84,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -204,10 +202,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Templates/Daily notes template.md",
     "Daily notes/2025-06-30.md",
     "Daily notes/2025-07-01.md",
     "2025-06-29.md",
-    "Templates/Daily notes template.md",
     "Templates",
     "Daily notes",
     "New folder",
