@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "President",
+                "query": "\"on state\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,10 +202,12 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Daily notes/2025-06-30.md",
+    "2025-06-27.md",
+    "2025-06-26.md",
+    "Daily notes/2025-07-01.md",
     "2025-06-29.md",
     "2025-06-23.md",
-    "Daily notes/2025-06-30.md",
-    "Daily notes/2025-07-01.md",
     "Templates/Daily notes template.md",
     "Templates",
     "Daily notes",
@@ -214,8 +215,6 @@
     "templates",
     "SCO.md",
     "2025-06-28.md",
-    "2025-06-27.md",
-    "2025-06-26.md",
     "Article 163.md",
     "2025-06-24.md",
     "2025-06-25.md",
