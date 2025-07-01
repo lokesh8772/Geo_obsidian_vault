@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-07-01.md",
+                "file": "2025-06-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-01"
+              "title": "2025-06-29"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "President",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -202,12 +201,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Templates/Daily notes template.md",
     "Daily notes/2025-06-30.md",
-    "Daily notes/2025-07-01.md",
+    "2025-06-23.md",
     "2025-06-29.md",
+    "Daily notes/2025-07-01.md",
+    "Templates/Daily notes template.md",
     "Templates",
     "Daily notes",
     "New folder",
@@ -219,7 +219,6 @@
     "Article 163.md",
     "2025-06-24.md",
     "2025-06-25.md",
-    "2025-06-23.md",
     "2025-06-05.md",
     "2025-06-22.md",
     "2025-06-20.md",
