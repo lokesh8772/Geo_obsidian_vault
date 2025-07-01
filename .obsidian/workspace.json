@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-30.md",
+                "file": "Daily notes/2025-07-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-30"
+              "title": "2025-07-01"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "2025-06-29.md",
     "Daily notes/2025-06-30.md",
+    "Daily notes/2025-07-01.md",
+    "2025-06-29.md",
     "Templates/Daily notes template.md",
     "Templates",
     "Daily notes",
@@ -234,7 +235,6 @@
     "NFHS 5.md",
     "2025-06-10.md",
     "Untitled",
-    "2025-06-09.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
