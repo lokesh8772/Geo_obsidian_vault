@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-29.md",
+                "file": "Daily notes/2025-07-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-29"
+              "title": "2025-07-01"
             }
           }
         ]
@@ -201,11 +201,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Daily notes/2025-06-30.md",
-    "2025-06-23.md",
     "2025-06-29.md",
+    "2025-06-23.md",
+    "Daily notes/2025-06-30.md",
     "Daily notes/2025-07-01.md",
     "Templates/Daily notes template.md",
     "Templates",
