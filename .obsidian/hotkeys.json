@@ -47,5 +47,7 @@
       ],
       "key": "P"
     }
-  ]
+  ],
+  "editor:toggle-bold": [],
+  "file-explorer:new-file": []
 }

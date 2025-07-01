@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Polity notes template.md",
-                "mode": "source",
+                "file": "Polity/judicial powers of Parliament.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Polity notes template"
-            }
-          },
+              "title": "judicial powers of Parliament"
+            },
+            "group": "b04c5c08ccb70643"
+          }
+        ]
+      },
+      {
+        "id": "6eceef73d35912fc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "34446398501d1f35",
+            "id": "4b7d6fec37a1f470",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Daily notes/2025-07-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Polity/judicial powers of Parliament.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8124928041484161,
+                  "close": true
                 }
               },
-              "icon": "lucide-file",
-              "title": "2025-07-01"
-            }
+              "icon": "lucide-git-fork",
+              "title": "Graph of judicial powers of Parliament"
+            },
+            "group": "b04c5c08ccb70643"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +246,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34446398501d1f35",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Daily notes/2025-07-02.md",
+    "Templates/Polity notes template.md",
     "Polity/judicial powers of Parliament.md",
-    "Daily notes/2025-07-01.md",
     "Polity/charged expenditure on CFI.md",
     "Polity/Parliamentary priviledges.md",
     "Polity/special powers of RS.md",
@@ -241,7 +262,6 @@
     "Polity/Joint sitting.md",
     "Polity/Financial bills.md",
     "Polity/Money bills.md",
-    "Templates/Polity notes template.md",
     "Projects/ths.md",
     "Projects",
     "askkf.md",
@@ -259,7 +279,6 @@
     "New folder",
     "templates",
     "SCO.md",
-    "2025-06-28.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
