@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Polity notes template"
             }
+          },
+          {
+            "id": "34446398501d1f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-07-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-01"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:gs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,17 +222,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "055f521e298448a0",
+  "active": "34446398501d1f35",
   "lastOpenFiles": [
+    "Polity/Money bills.md",
+    "Daily notes/2025-07-01.md",
+    "Templates/Polity notes template.md",
+    "Projects/ths.md",
+    "Projects",
+    "askkf.md",
     "Polity",
     "Templates/Daily notes template.md",
     "dataview practice.md",
     "UPSC  GS topics.md",
-    "Templates/Polity notes template.md",
-    "Daily notes/2025-07-01.md",
     "Daily notes/2025-06-30.md",
     "2025-06-27.md",
     "2025-06-26.md",
@@ -230,8 +260,6 @@
     "off-mood things.md",
     "2025-06-17.md",
     "2025-06-16.md",
-    "NCRB's Crime in India.md",
-    "2025-06-15.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
@@ -244,7 +272,6 @@
     "IMG_20250123_121723_943 1.jpg",
     "IMG_20250123_121719_333.jpg",
     "IMG_20250123_121559_162.jpg",
-    "Govt Schemes",
     "Untitled.canvas"
   ]
 }
