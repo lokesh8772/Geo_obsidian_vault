@@ -1,5 +1,5 @@
 ```dataview
-table
+list
 FROM ""
-WHERE file.ctime = 2025-07-01
+WHERE file.ctime >= date(today) - dur(1 days)
 ```
