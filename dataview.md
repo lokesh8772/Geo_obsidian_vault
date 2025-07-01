@@ -1,3 +1,4 @@
 ```dataview
-file.
+table
+where file.tag = 
 ```

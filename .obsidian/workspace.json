@@ -15,7 +15,7 @@
               "state": {
                 "file": "dataview.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -258,8 +259,8 @@
   },
   "active": "274286077c1e310d",
   "lastOpenFiles": [
-    "dataview.md",
     "Daily notes/2025-07-01.md",
+    "dataview.md",
     "Daily notes/2025-06-30.md",
     "2025-06-27.md",
     "2025-06-26.md",
