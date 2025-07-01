@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "077c00d9c03fc5a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2727b4c19c63603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dataview.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dataview"
-            }
-          }
-        ]
-      },
-      {
         "id": "7913712e9e8934a4",
         "type": "tabs",
         "children": [
@@ -43,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-07-01.md",
+                "file": "Templates/Polity notes template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-01"
-            }
-          },
-          {
-            "id": "274286077c1e310d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dataview.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dataview"
+              "title": "Polity notes template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"## Polity\"",
+                "query": "tag:gs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -257,16 +200,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "274286077c1e310d",
+  "active": "055f521e298448a0",
   "lastOpenFiles": [
+    "Polity",
+    "Templates/Daily notes template.md",
+    "dataview practice.md",
+    "UPSC  GS topics.md",
+    "Templates/Polity notes template.md",
     "Daily notes/2025-07-01.md",
-    "dataview.md",
     "Daily notes/2025-06-30.md",
     "2025-06-27.md",
     "2025-06-26.md",
     "2025-06-29.md",
     "2025-06-23.md",
-    "Templates/Daily notes template.md",
     "Templates",
     "Daily notes",
     "New folder",
@@ -286,10 +232,6 @@
     "2025-06-16.md",
     "NCRB's Crime in India.md",
     "2025-06-15.md",
-    "2025-06-14.md",
-    "UPSC  GS topics.md",
-    "NFHS 5.md",
-    "Untitled",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",

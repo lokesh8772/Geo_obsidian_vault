@@ -1,4 +1,5 @@
-# Topics covered - 
-
-
-# NOTES starts here -
+```dataview
+list
+FROM ""
+WHERE file.ctime >= date(today) - dur(1 day)
+```
