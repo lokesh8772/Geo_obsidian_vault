@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-07-02.md",
-                "mode": "preview",
+                "file": "BAG/Untitled.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-02"
+              "title": "Untitled"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -204,8 +203,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Templates/Polity notes template.md",
     "Daily notes/2025-07-02.md",
+    "BAG/Untitled.md",
+    "BAG",
+    "Templates/Polity notes template.md",
     "Polity/Money bills.md",
     "Polity/Financial bills.md",
     "Polity/Joint sitting.md",
@@ -243,7 +244,6 @@
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",
     "images/IMG_20250123_121719_333.jpg",
-    "images",
     "IMG_20250123_121723_943 1.jpg",
     "IMG_20250123_121719_333.jpg",
     "IMG_20250123_121559_162.jpg",
