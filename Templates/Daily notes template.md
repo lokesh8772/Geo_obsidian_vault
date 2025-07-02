@@ -1,5 +1,5 @@
 ```dataview
 list
 FROM ""
-WHERE file.ctime >= date(today) - dur(1 day)
+WHERE file.ctime >= date()
 ```
