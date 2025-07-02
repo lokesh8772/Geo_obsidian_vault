@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAG/conflict theory.md",
+                "file": "BAG/G. S. Ghuriye.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict theory"
+              "title": "G. S. Ghuriye"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Daily notes/2025-07-02.md",
     "BAG/conflict theory.md",
+    "BAG/G. S. Ghuriye.md",
+    "Daily notes/2025-07-02.md",
     "BAG",
     "Templates/Polity notes template.md",
     "Polity/Money bills.md",
@@ -235,7 +236,6 @@
     "Daily notes",
     "New folder",
     "templates",
-    "SCO.md",
     "Pasted image 20250606190559.png",
     "CA",
     "Mains Syllabus",
