@@ -8,4 +8,15 @@
 1. first independent girls school
 2. school for dalits
 3. night school for labourers, recognising their need of education alongside work
-4. widow remarriage and opposition of child marriage -> opene
+4. widow remarriage and opposition of child marriage
+5. established **satyashodhak samaj** -
+	1. inclusive of all castes
+6. renounced and oppossed untouchability -> opened his well to the untouchables
+7. wrote **gulamgiri** -> compared the caste hierarchy and determination of vocation with the black people slavery in america.
+8. wrote - **sarvajanik satya dharma pustak** - advocated for universal religion based on truth, justice and humanity, free from ritualism and priestly dominance.
+9. advocacy for rights - 
+	1. of oppressed
+	2. peasants..
+10. curriculum for empowerment - 
+	1. for economic empowerment than mere rote memorising of religious text.
+11. 
