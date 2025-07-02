@@ -15,5 +15,11 @@
 2. tribal rights movements
 3. movement for recognition of languages, ..(8th schedule)
 ### nativist movement
-1. sun of the soil movement
-2. 
+1. sun of the soil movements
+2. shiv sena in maharashtra
+3. assam agitation against immigrants
+4. movements in urban centres, due to large scale migration.
+### religious identity movements
+1. khalistani
+2. muslim and christian movements
+3. Hindutva inspired nationalism movement.
