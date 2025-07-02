@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "religion.md",
+                "file": "BAG/ethnic movements.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "religion"
+              "title": "ethnic movements"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "BAG/marriage.md",
     "religion.md",
+    "BAG/ethnic movements.md",
+    "BAG/marriage.md",
     "BAG/G. S. Ghurye.md",
     "BAG/conflict theory.md",
     "Daily notes/2025-07-02.md",
@@ -231,7 +232,6 @@
     "UPSC  GS topics.md",
     "Daily notes/2025-06-30.md",
     "2025-06-27.md",
-    "2025-06-26.md",
     "Templates",
     "Daily notes",
     "New folder",
