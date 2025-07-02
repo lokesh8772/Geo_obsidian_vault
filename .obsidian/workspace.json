@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-07-02.md",
+                "file": "Polity/Parliamentary committees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-02"
+              "title": "Parliamentary committees"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -201,10 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9ca873b710d7622",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Templates/Daily notes template.md",
     "Daily notes/2025-07-02.md",
+    "Templates/Daily notes template.md",
     "Polity/judicial powers of Parliament.md",
     "Templates/Polity notes template.md",
     "Polity/charged expenditure on CFI.md",
