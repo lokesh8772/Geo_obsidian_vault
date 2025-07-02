@@ -1,0 +1,1 @@
+a legally or socially accepted bond , typically between two individual, regulating sexual and economic relationship, forming new social connections, and providing a
