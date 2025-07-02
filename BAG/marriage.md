@@ -14,4 +14,10 @@ a legally or socially accepted bond , typically between two individual, regulati
 2. polygamy
 	1. polygyny - one man with multiple women
 	2. polyandry - one women with multiple men
-#### 
+#### other forms
+1. levirate - a widow is married to her husband's brother
+2. sororate - a widower is married to his wife's sister
+3. cross - cousin
+4. parallel cousin
+5. love marriages,
+6. arranged marriages
