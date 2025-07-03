@@ -16,6 +16,7 @@ tags:
 6. decides on the disqualification of the state legislature members in consultation with the election commission
 7. constitutes a finance commission every five year to see the financial positions of panchayats and municipalities.
 8. judicial powers - 
-	1. consulted when appointing HC judges by the SC.
+	1. consulted when appointing HC judges by the POI.
 	2. appoints district judges in consultation with the HC
-	3. 
+	3. appoints persons in the judicial service of the state(other than HC and district court), in cosultation with the HC and SPSC
+	4. pardoning powers under art 161
