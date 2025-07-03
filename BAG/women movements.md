@@ -24,4 +24,4 @@
 1. dalit women 
 2. tribal women
 3. environmental  -> chipko andolan and narmada bachao andolan -> disproportinate impact on women.
-4. /commit
+4. 

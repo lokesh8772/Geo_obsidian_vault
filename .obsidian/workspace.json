@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAG/women movements.md",
+                "file": "dataview practice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "women movements"
+              "title": "dataview practice"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,6 +204,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "BAG/women movements.md",
+    "dataview practice.md",
     "Daily notes/2025-06-29.md",
     "Daily notes/2025-06-28.md",
     "Daily notes/2025-06-04.md",
@@ -227,8 +230,6 @@
     "Daily notes/2025-06-09.md",
     "Daily notes/2025-06-08.md",
     "Daily notes/2025-06-07.md",
-    "Daily notes/2025-06-06.md",
-    "Daily notes/2025-06-05.md",
     "BAG",
     "Projects",
     "Polity",
