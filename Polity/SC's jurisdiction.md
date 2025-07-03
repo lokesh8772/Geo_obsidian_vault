@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - SupremeCourt
 ---
 1. parliament can increase but can not decrease its jurisdiction.
 2. no jurisdiction- 
