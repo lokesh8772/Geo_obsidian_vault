@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Judicial review.md",
+                "file": "Polity/Governor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Judicial review"
+              "title": "Governor"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "sarkari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -205,8 +204,12 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/SC's other functions.md",
+    "Polity/7th CAA.md",
+    "Polity/Governor.md",
+    "Daily notes/2025-06-27.md",
+    "Polity/Sarkaria commission.md",
     "Polity/Judicial review.md",
+    "Polity/SC's other functions.md",
     "Polity/SC's jurisdiction.md",
     "Polity/art 143.md",
     "Polity/seat of the SC.md",
@@ -227,10 +230,6 @@
     "Daily notes/2025-06-02.md",
     "Daily notes/2025-06-01.md",
     "Daily notes/2025-05-31.md",
-    "Daily notes/2025-06-27.md",
-    "Daily notes/2025-06-26.md",
-    "Daily notes/2025-06-25.md",
-    "Daily notes/2025-06-24.md",
     "BAG",
     "Projects",
     "Polity",
