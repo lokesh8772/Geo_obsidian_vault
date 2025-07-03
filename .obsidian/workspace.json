@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/SC's other functions.md",
+                "file": "Polity/Judicial review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SC's other functions"
+              "title": "Judicial review"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/SC's jurisdiction.md",
     "Polity/SC's other functions.md",
+    "Polity/Judicial review.md",
+    "Polity/SC's jurisdiction.md",
     "Polity/art 143.md",
     "Polity/seat of the SC.md",
     "Polity/ad-hoc judge of SC.md",
@@ -230,7 +231,6 @@
     "Daily notes/2025-06-26.md",
     "Daily notes/2025-06-25.md",
     "Daily notes/2025-06-24.md",
-    "Daily notes/2025-06-23.md",
     "BAG",
     "Projects",
     "Polity",
