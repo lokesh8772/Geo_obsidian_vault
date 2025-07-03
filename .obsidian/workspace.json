@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/SC's jurisdiction.md",
+                "file": "Polity/art 143.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SC's jurisdiction"
+              "title": "art 143"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/art 143.md",
     "Polity/SC's jurisdiction.md",
+    "Polity/art 143.md",
     "Polity/seat of the SC.md",
     "Polity/ad-hoc judge of SC.md",
     "Polity/removal of SC judge.md",
