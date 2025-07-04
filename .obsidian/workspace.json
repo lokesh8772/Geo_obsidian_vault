@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/samsher singh case.md",
+                "file": "Polity/state legislature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "samsher singh case"
+              "title": "state legislature"
             }
           }
         ]
@@ -204,10 +204,12 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Polity/Governor.md",
+    "Polity/state legislature.md",
+    "Polity/state govt.md",
+    "discretionary powers of governor.md",
     "Polity/91st CAA.md",
     "Polity/samsher singh case.md",
-    "discretionary powers of governor.md",
-    "Polity/Governor.md",
     "Daily notes/2025-06-26.md",
     "Polity/7th CAA.md",
     "Daily notes/2025-06-27.md",
@@ -228,8 +230,6 @@
     "BAG/women movements.md",
     "dataview practice.md",
     "Daily notes/2025-06-29.md",
-    "Daily notes/2025-06-28.md",
-    "Daily notes/2025-06-04.md",
     "BAG",
     "Projects",
     "Polity",
