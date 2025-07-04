@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"art 75\"",
+                "query": "\"25 yrs\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +204,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/Governor.md",
+    "Daily notes/2025-06-29.md",
     "Polity/state legislature.md",
+    "Polity/Governor.md",
     "Polity/state govt.md",
     "discretionary powers of governor.md",
     "Polity/91st CAA.md",
@@ -229,7 +230,6 @@
     "second judges case]], [[third judges case.md",
     "BAG/women movements.md",
     "dataview practice.md",
-    "Daily notes/2025-06-29.md",
     "BAG",
     "Projects",
     "Polity",
