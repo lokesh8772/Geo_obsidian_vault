@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Governor.md",
+                "file": "discretionary powers of governor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Governor"
+              "title": "discretionary powers of governor"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Daily notes/2025-06-26.md",
     "Polity/Governor.md",
+    "discretionary powers of governor.md",
+    "Daily notes/2025-06-26.md",
     "Polity/7th CAA.md",
     "Daily notes/2025-06-27.md",
     "Polity/Sarkaria commission.md",
@@ -229,7 +230,6 @@
     "Daily notes/2025-06-04.md",
     "Daily notes/2025-06-03.md",
     "Daily notes/2025-06-02.md",
-    "Daily notes/2025-06-01.md",
     "BAG",
     "Projects",
     "Polity",
