@@ -34,6 +34,8 @@ bicameral legislature -
 6. qualification -> 30 yrs.(similar to RS)[[2025-06-29]]
 
 ### bills
-on dissolution a bill returned by the POI for reconsideration does not lapse.
+1. on dissolution a bill returned by the POI for reconsideration does not lapse.p
+2. **deadlock** - arises when LC does not pass the bill for **3 months**. or rejects it or suggest amendments not acceptable  to LA
+3. after 3 months bill returns to LA -> if passed again -> sent to LC -> max time - 1 month for inaction, 
 ### quorum  
 10 or 1/10 th of the total membership, whichever is **greater**.
