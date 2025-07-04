@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/High court.md",
+                "file": "Polity/third judges case.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "High court"
+              "title": "third judges case"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "7th",
+                "query": "judges case",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +204,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/7th CAA.md",
     "Polity/High court.md",
+    "Polity/7th CAA.md",
     "Polity/state legislature.md",
     "Daily notes/2025-06-30.md",
     "Daily notes/2025-06-29.md",
