@@ -32,3 +32,8 @@ bicameral legislature -
 4. this election is by proportional representation by single transferable vote.
 5. this is a **continuing chamber**.
 6. qualification -> 30 yrs.(similar to RS)[[2025-06-29]]
+
+### bills
+on dissolution a bill returned by the POI for reconsideration does not lapse.
+### quorum  
+10 or 1/10 th of the total membership, whichever is **greater**.
