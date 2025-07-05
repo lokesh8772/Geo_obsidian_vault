@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
+                "file": "Polity/ad-hoc judge of SC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "ad-hoc judge of SC"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "second judge",
+                "query": "ad hoc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,10 +236,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0fcae40b55a4bf18",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/third judges case.md",
+    "Polity/additional and acting judges in HC.md",
+    "bara lachla.md",
     "dataview practice.md",
+    "Polity/third judges case.md",
     "second judges case.md",
     "Polity/ad-hoc judge of SC.md",
     "Polity/High court.md",
@@ -263,8 +264,6 @@
     "Polity/seat of the SC.md",
     "Polity/removal of SC judge.md",
     "Polity/forth judges case.md",
-    "Polity/second judges case.md",
-    "Polity/first judges case.md",
     "BAG",
     "Projects",
     "Polity",
