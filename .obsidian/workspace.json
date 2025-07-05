@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/High court.md",
+                "file": "Polity/subordinate court.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "High court"
+              "title": "subordinate court"
             }
           },
           {
@@ -228,8 +228,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/Untitled 1.md",
+    "Polity/High court.md",
     "Polity/court of record.md",
+    "Untitled 1.md",
+    "Polity/subordinate court.md",
     "Polity/HC jurisdiction.md",
     "dataview practice.md",
     "Polity/ad-hoc judge of SC.md",
@@ -237,7 +239,6 @@
     "bara lachla.md",
     "Polity/third judges case.md",
     "second judges case.md",
-    "Polity/High court.md",
     "Polity/7th CAA.md",
     "Polity/state legislature.md",
     "Daily notes/2025-06-30.md",
@@ -253,7 +254,6 @@
     "Polity/Judicial review.md",
     "Polity/SC's other functions.md",
     "Polity/SC's jurisdiction.md",
-    "Polity/art 143.md",
     "BAG",
     "Projects",
     "Polity",
