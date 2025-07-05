@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/gram nyayalaya.md",
+                "file": "CA/motor vehicle aggregators guidelines.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gram nyayalaya"
+              "title": "motor vehicle aggregators guidelines"
             }
           },
           {
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,8 +227,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Polity/family court.md",
+    "Daily notes/2025-07-05.md",
+    "CA/motor vehicle aggregators guidelines.md",
     "Polity/gram nyayalaya.md",
+    "Polity/family court.md",
     "Polity/lok adalat.md",
     "Polity/permanent lok adalat.md",
     "Polity/consumer commissions.md",
@@ -252,8 +253,6 @@
     "Polity/state govt.md",
     "discretionary powers of governor.md",
     "Polity/91st CAA.md",
-    "Polity/samsher singh case.md",
-    "Daily notes/2025-06-26.md",
     "BAG",
     "Projects",
     "Polity",
