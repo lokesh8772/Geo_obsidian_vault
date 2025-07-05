@@ -41,4 +41,5 @@ requriement-
 	1. if one party makes an applicaton for this
 	2. if both the parties agrees for the transfer
 	3. if the court deems the case to be fit to be taken by lok adalat.
-5. award is final and binding on all parties. and no appeal exist except in case of forceful/misleadingly 
+5. award is final and binding on all parties. and no appeal exist except in case of forceful/misleading procedure of the lok adalat.
+6. 
