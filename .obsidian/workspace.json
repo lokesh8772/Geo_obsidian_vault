@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/subordinate court.md",
+                "file": "Polity/Tribunals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "subordinate court"
+              "title": "Tribunals"
             }
           },
           {
@@ -228,10 +228,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Polity/subordinate court.md",
+    "Polity/Tribunals.md",
     "Polity/High court.md",
     "Polity/court of record.md",
-    "Untitled 1.md",
-    "Polity/subordinate court.md",
     "Polity/HC jurisdiction.md",
     "dataview practice.md",
     "Polity/ad-hoc judge of SC.md",

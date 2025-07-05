@@ -9,5 +9,6 @@ eligibility for district judge.
 3. recommended by HC for appointment.
 appointed by governor in consultation with HC.
 
-district judge > subordinate judge > mus
+district judge > subordinate judge > munsiff
+session judge > chief judicial magistrate > judicial magistrate.
 
