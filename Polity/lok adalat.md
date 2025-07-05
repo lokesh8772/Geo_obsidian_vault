@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - Judiciary
 ---
 
 ### legal services authorities act  1987/95
@@ -42,4 +43,4 @@ requriement-
 	2. if both the parties agrees for the transfer
 	3. if the court deems the case to be fit to be taken by lok adalat.
 5. award is final and binding on all parties. and no appeal exist except in case of forceful/misleading procedure of the lok adalat.
-6. 
+[[permanent lok adalat]]

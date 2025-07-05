@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - Judiciary
 ---
 
 1. legal services authorites act 1983 amended in 2002 to provide for PLA

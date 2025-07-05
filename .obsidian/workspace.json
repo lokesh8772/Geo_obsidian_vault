@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/permanent lok adalat.md",
+                "file": "Polity/gram nyayalaya.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "permanent lok adalat"
+              "title": "gram nyayalaya"
             }
           },
           {
@@ -228,6 +228,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Polity/family court.md",
+    "Polity/gram nyayalaya.md",
     "Polity/lok adalat.md",
     "Polity/permanent lok adalat.md",
     "Polity/consumer commissions.md",
@@ -252,8 +254,6 @@
     "Polity/91st CAA.md",
     "Polity/samsher singh case.md",
     "Daily notes/2025-06-26.md",
-    "Daily notes/2025-06-27.md",
-    "Polity/Sarkaria commission.md",
     "BAG",
     "Projects",
     "Polity",
