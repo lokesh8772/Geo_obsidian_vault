@@ -12,15 +12,16 @@ tags:
 ### administrative tribunals
 1. admin. tribunal act 1985
 #### art 323A
-1. empowers parliament to take out the adjudicatio
+1. empowers parliament to take out the adjudication of disputes related to service matters from civil and high courts and place it before tribunals.
 2. central admin tribunal -> 1985
 3. 1 chairman + 69 members
 4. members - judiciary + administration
 5. selection - 
 	1. by central govt. from recommendations of search cum selection committee
 	2. of CJI + one SC judge(appointed by CJI)
-	3. not bound by the civil procedure code 1908 ->> guided by principles of natural justice.
-	4. appeals to them lie in HC(chandra kumar case) and SC
+	3. age > 50, serve for 4 yrs or 67/70 for member/chairman
+	4. not bound by the civil procedure code 1908 ->> guided by principles of natural justice.
+	5. appeals to them lie in HC(chandra kumar case) and SC
 #### state admin tribunals
 1. by ATA 1985 
 2. established by central govt on specific request of state govt.
