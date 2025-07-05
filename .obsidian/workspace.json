@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "second judge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,9 +239,10 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/ad-hoc judge of SC.md",
-    "dataview practice.md",
     "Polity/third judges case.md",
+    "dataview practice.md",
+    "second judges case.md",
+    "Polity/ad-hoc judge of SC.md",
     "Polity/High court.md",
     "Polity/7th CAA.md",
     "Polity/state legislature.md",
@@ -264,7 +265,6 @@
     "Polity/forth judges case.md",
     "Polity/second judges case.md",
     "Polity/first judges case.md",
-    "second judges case.md",
     "BAG",
     "Projects",
     "Polity",
