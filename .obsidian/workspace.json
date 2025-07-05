@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/HC jurisdiction.md",
+                "file": "Polity/High court.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HC jurisdiction"
+              "title": "High court"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ad hoc",
+                "query": "high court",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,8 +228,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "dataview practice.md",
+    "Polity/Untitled 1.md",
+    "Polity/court of record.md",
     "Polity/HC jurisdiction.md",
+    "dataview practice.md",
     "Polity/ad-hoc judge of SC.md",
     "Polity/additional and acting judges in HC.md",
     "bara lachla.md",
@@ -252,8 +254,6 @@
     "Polity/SC's other functions.md",
     "Polity/SC's jurisdiction.md",
     "Polity/art 143.md",
-    "Polity/seat of the SC.md",
-    "Polity/removal of SC judge.md",
     "BAG",
     "Projects",
     "Polity",

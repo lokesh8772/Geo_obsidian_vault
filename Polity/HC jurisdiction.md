@@ -11,4 +11,6 @@ jurisdiction that is provided in the COI, can not be curtailed either by parl. o
 ### writ 
 1. HC can issue writs to any person or authority not only in area under its jurisdiction but also outside if the **cause** of the action falls in its territorial jurisdiction.
 2. writ jurisdiction  -> part of the basic structure(Chandra kumar case 1997)
-3. 
+### appellate 
+1. in criminal matter if the sentence is imprisonment of > 7 yrs
+2. death sentence by session / additional sessions court need to be confirmed by the HC, even if there is no appeal from the convict.

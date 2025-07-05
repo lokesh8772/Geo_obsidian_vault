@@ -14,3 +14,7 @@ tags:
 5. serve until 62 yrs age (SC -> 65 yrs.)
 6. removal procedure and ground  == for that of SC judge.
 7. transfer by POI on consultation with CJI(collegium)
+8. [[court of record]]
+9. [[HC jurisdiction]]
+10. it has power to review its own decision -> but **this is not provided by the constitution**, as opposed to the SC.
+11. 
