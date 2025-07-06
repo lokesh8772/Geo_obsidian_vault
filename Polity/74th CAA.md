@@ -25,3 +25,7 @@ tags:
 	4. chairpersons of committees (other than ward committees)
 	5. chairman - as provided by the state govt.
 7. for reservation, duration, powers and functions, finance commission -> [[73rd CAA]]
+#### 8. district planning committee
+1. every state shall constitute DPC -> for consolidation of plans made by panchayats and municipalities in the district.
+#### metropolitan planning committee - 
+1. every metropolitan area(pop > 10 lac) to have one for preparation of a draft development plan.
