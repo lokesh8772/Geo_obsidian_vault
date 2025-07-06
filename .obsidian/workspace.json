@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "schedules",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,8 +229,10 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/Panchayati Raj System.md",
+    "Daily notes/2025-06-24.md",
+    "Polity/schedules.md",
     "Polity/73rd CAA.md",
+    "Polity/Panchayati Raj System.md",
     "dataview practice.md",
     "Polity/Tribunals.md",
     "Mains Syllabus/SC judge Appointment.md",
@@ -254,8 +256,6 @@
     "Polity/subordinate court.md",
     "Polity/High court.md",
     "Polity/court of record.md",
-    "Polity/HC jurisdiction.md",
-    "Polity/ad-hoc judge of SC.md",
     "BAG",
     "Projects",
     "Polity",

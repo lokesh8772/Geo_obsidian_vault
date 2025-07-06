@@ -1,0 +1,47 @@
+---
+tags:
+  - Polity
+  - GS2
+---
+#### first schedule 
+1. territories of india
+#### second 
+1. emoluments and benefits to various officers
+#### third
+1. oaths and affirmation for
+	1. union and state ministers
+	2. candidates for legislature
+	3. members of legislatures
+	4. supreme court and high court judges
+	5. CAG
+#### forth
+1. allocation of seats to RS from states and UTs
+#### fifth
+1. administration of scheduled and tribal areas
+#### sixth
+1. admin of scheduled and tribal areas of assam, meghalaya , tripura and mizoram
+#### seventh
+1. union, state and concurrent list of subjects
+2. union- 100
+3. state - 61
+4. concurrent - 52
+#### Eighth
+1. languages 
+2. initially 14 , now 22
+3. sindhi - 21st CAA 1967
+4. konkani, manipuri and nepali - 71st CAA, 1992
+5. bodo, dongri, maithili, santhli - 92nd CAA, 2003
+#### Ninth
+1. 1st CAA 1951
+2. includes acts and regulations that are outside of judicial review of the supreme court
+3. SC in keshavanand bharti case - acts included after 24 april 1973 are open for JR
+#### Tenth
+1. Anti defection law
+2. 52nd CAA 1985
+3. provisions related to disqualification of membership of legislature on the act of defection
+#### 11th
+1. powers and responsibilities of panchayats
+2. 73rd CAA 1992
+#### 12th
+1. powers and responsibillites of municipalities
+2. 74th caa 1992
