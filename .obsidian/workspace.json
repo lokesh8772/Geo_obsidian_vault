@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
-                "mode": "preview",
+                "file": "Polity/Panchayati Raj System.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "Panchayati Raj System"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/Tribunals.md",
     "dataview practice.md",
+    "Polity/Panchayati Raj System.md",
+    "Polity/Tribunals.md",
     "Mains Syllabus/SC judge Appointment.md",
     "Polity/Governor.md",
     "Polity/forth judges case.md",
@@ -255,7 +256,6 @@
     "Polity/HC jurisdiction.md",
     "Polity/ad-hoc judge of SC.md",
     "Polity/additional and acting judges in HC.md",
-    "bara lachla.md",
     "BAG",
     "Projects",
     "Polity",
