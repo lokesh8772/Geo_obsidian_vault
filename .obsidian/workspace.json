@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/motor vehicle aggregators guidelines.md",
+                "file": "economy/NEER and REER.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "motor vehicle aggregators guidelines"
+              "title": "NEER and REER"
             }
           },
           {
@@ -227,8 +227,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Daily notes/2025-07-05.md",
     "CA/motor vehicle aggregators guidelines.md",
+    "economy/NEER and REER.md",
+    "economy",
+    "Daily notes/2025-07-05.md",
     "Polity/gram nyayalaya.md",
     "Polity/family court.md",
     "Polity/lok adalat.md",
@@ -252,7 +254,6 @@
     "Polity/Governor.md",
     "Polity/state govt.md",
     "discretionary powers of governor.md",
-    "Polity/91st CAA.md",
     "BAG",
     "Projects",
     "Polity",
@@ -264,7 +265,6 @@
     "CA",
     "Mains Syllabus",
     "IMG_20250123_121723_943.jpg",
-    "Gvot initiatives",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",
     "images/IMG_20250123_121719_333.jpg",
