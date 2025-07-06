@@ -19,7 +19,7 @@ tags:
 12. reservation to SC -> not in Arunachal pradesh -> all population -> ST(83rd CAA, 2000)
 13. reservation for BC are not mandatory but state govt are empowered to provide it.
 14. duration -
-	1. 5 yrs
+	1. 5 yrs from the date of its first meeting
 	2. may be dissolved earlier
 	3. re-election -> before the expiry of 5 yrs (regular)
 	4. before 6 months after the dissolution(dissolution)
