@@ -33,12 +33,31 @@ by 1960s -> all states adopted panchayti raj but in different forms
 9. reserved seats for SCs and STs
 10. regular audit by district level agency to look whether the funds for advancement of vulnerable groups are being utilized for them.
 11. a minister of panchayati raj in the state COM.
-12. 
+12. district collector to be CEO, not chairman of jila parishad
 
 
 ### g v k rao committee
-1. 1985
+1. 1986
 2. jila parishad as center for planning and development
 3. devolution of state list subjects to district level, for the matters that can be handled at that level
-4. post of district development commissioner - head of all the planning and dev. activities
+4. post of district development commissioner - (CEO -> head of all the planning and dev. activities
+	1. district collector co-ordinating role.
 5. regular elections
+### L m singhvi committee
+1. 1986
+2. constitutional recognition
+3. nyay panchayats for a cluster of villages
+4. reorganisation of villages for nyay panchayats
+5. emphasized the role of gram sabha
+6. village panchyats should be given more financial resources
+7. judicial tribunals in each state to deal with matters of elections, dissolution and functioning of P R I.
+### Thungon committee
+1. 1988
+2. constitutional status of PRI and their powers and responsibilities , addition of a new chapter
+3. max time for supersession of Panchayats - 6 months
+4. **3 - tier** mechanism
+5. term of PRI - 5 yrs
+6. reservations based on the populations in all 3 tiers, also for women
+7. planning and coordination committee -
+	1. chairmen of jila parishad - members
+	2. 
