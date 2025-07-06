@@ -80,4 +80,11 @@ by 1960s -> all states adopted panchayti raj but in different forms
 ### efforts
 1. rajiv gandhi govt - 64th CAB 1989 -> passed by LS but opposed by RS -> centralization in the federal system
 2. VP singh - 1990 -> CAB -> but lapsed due to fall of the govt
-3. P.V narsimha rao -> 1991 -> 73rd CAA 1992
+3. P.V narsimha rao -> 1991 -> [[73rd CAA]]
+### finance(2nd ARC)
+1. 2005-09
+2. most of the financial powers(taxation) are given to village level panchayats and other levels are given minimal powers
+3. internal resource generation at the panchayat level is weak
+	1. thin tax domain
+	2. panchayats' own reluctance in collecting revenue
+4. majority of the devolved funds are scheme specific -> limited discretion for expenditure.

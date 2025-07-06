@@ -32,10 +32,11 @@ tags:
 	3. assign state taxes to panchayats
 	4. provide for constitution of funds for PRI
 16. Finance commission - 
-	1. set up by state govt
-	2. distribution b/w state and panchayats
-	3. determination of state taxes ... to be assigned to panchayats
-	4. grant in aid from CFS to PRI
+	1. art 243 I
+	2. set up by state govt
+	3. distribution b/w state and panchayats
+	4. determination of state taxes ... to be assigned to panchayats
+	5. grant in aid from CFS to PRI
 17. application to UTs
 	1. POI may provide for its implementation to UTs with exceptions as he may like
 18. exempted states  and areas- 
@@ -44,7 +45,7 @@ tags:
 	3. Darjeeling (having darjeeling gorkha hill council)
 	4. hilly areas of manipur having district council
 	5. parliament is empowered to extend panchayat acts to these areas as well - 
-		1. PESA act 1996
+		1. [[PESA act]]
 19. interference of courts
 	1. court are prohibited from interfering in any election matter related to PRI except with such procedure as the state legislature may specify.
 	2. neither the validity of any law related to delimitation of constituencies.
