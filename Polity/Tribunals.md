@@ -31,7 +31,7 @@ tags:
 1. both parliament and state legislature are empowered to create tribunals for -
 	1. taxation
 	2. forex, EXIM
-	3. industrial and labour
+	3. industrial labour
 	4. ceiling on urban property
 	5. elections to parl. and state legislature
 	6. food stuffs

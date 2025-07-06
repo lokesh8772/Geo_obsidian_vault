@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "CAA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,7 +227,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0fcae40b55a4bf18",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "CA/motor vehicle aggregators guidelines.md",
     "dataview practice.md",
