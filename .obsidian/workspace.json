@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
+                "file": "Daily notes/2025-06-27.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "2025-06-27"
             }
           }
         ],
@@ -227,10 +227,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "CA/motor vehicle aggregators guidelines.md",
+    "Daily notes/2025-06-26.md",
     "dataview practice.md",
+    "CA/motor vehicle aggregators guidelines.md",
     "term insurance.md",
     "economy/NEER and REER.md",
     "economy",
@@ -255,7 +256,6 @@
     "Daily notes/2025-06-30.md",
     "Daily notes/2025-06-29.md",
     "Polity/Governor.md",
-    "Polity/state govt.md",
     "BAG",
     "Projects",
     "Polity",
