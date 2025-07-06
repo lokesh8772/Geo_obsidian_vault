@@ -29,3 +29,18 @@ tags:
 1. every state shall constitute DPC -> for consolidation of plans made by panchayats and municipalities in the district.
 #### metropolitan planning committee - 
 1. every metropolitan area(pop > 10 lac) to have one for preparation of a draft development plan.
+#### municipal corporation 
+three parts 
+1. council  - elected member - legislative body -> mayor - ornamental position
+2. standing committees  -to divide the large council for efficiency.
+3. commissioner - chief executive authority(appointed by the state govt(IAS))
+#### Municipality - 
+three parts same as above 
+1. here council is headed by chairman/president -> have executive powers. contrary to mayor
+2. 3rd is chief executive officer for day to day admin.
+#### notified area committee
+1. for transitioning areas
+2. completely nominated body(state govt nominate)
+#### town area committe- 
+1. for a small town
+2. may be elected or nomi
