@@ -78,5 +78,6 @@ by 1960s -> all states adopted panchayti raj but in different forms
 11. subject list to be incorporated in the COI.
 
 ### efforts
-1. rajiv gandhi govt - 64th CAB 1989 -> opposed by RS -> centralization in the federal system
-2. VP singh - 1990 -> 
+1. rajiv gandhi govt - 64th CAB 1989 -> passed by LS but opposed by RS -> centralization in the federal system
+2. VP singh - 1990 -> CAB -> but lapsed due to fall of the govt
+3. P.V narsimha rao -> 1991 -> 73rd CAA 1992
