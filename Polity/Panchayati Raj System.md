@@ -88,3 +88,12 @@ by 1960s -> all states adopted panchayti raj but in different forms
 	1. thin tax domain
 	2. panchayats' own reluctance in collecting revenue
 4. majority of the devolved funds are scheme specific -> limited discretion for expenditure.
+5. most of the 11th schedule subjects -> still state govt is responsible for implementation and expenditure => 
+	1. primary education
+	2. healthcare
+	3. minor irrigation
+	4. water supply
+	5. sanitation
+### challenges - 
+1. **Parallel bodies**
+2. poor infra....

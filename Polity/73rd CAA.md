@@ -25,7 +25,7 @@ tags:
 	5. re-elected panchayat -> **for the time left from 5 yrs** and not another 5 yrs
 14. state election commission -
 	1.  members and chairman -> by governor 
-	2. but removed in the manner of a HC judge.
+	2. but **removed in the manner of a HC judge**.
 15. finance - state govt may
 	1. allow panchayats to levy, collect and appropriate, tax ....
 	2. grant in aids to panchayats
@@ -44,7 +44,7 @@ tags:
 	2. Scheduled and tribal areas (schedule 5)
 	3. Darjeeling (having darjeeling gorkha hill council)
 	4. hilly areas of manipur having district council
-	5. parliament is empowered to extend panchayat acts to these areas as well - 
+	5. parliament is empowered to extend panchayat acts to scheduled areas - 
 		1. [[PESA act]]
 19. interference of courts
 	1. court are prohibited from interfering in any election matter related to PRI except with such procedure as the state legislature may specify.
