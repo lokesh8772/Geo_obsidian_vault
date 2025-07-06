@@ -28,9 +28,17 @@ by 1960s -> all states adopted panchayti raj but in different forms
 	1. mandal level(group of villages)
 	2. district level
 6. jila parishad to be the executive body, center of planning and development activities
+7. nyay panchayats to be separate from developmental panchayats and to be headed by a judicial officer
+8. active participation of political parties in the election to these institutions
+9. reserved seats for SCs and STs
+10. regular audit by district level agency to look whether the funds for advancement of vulnerable groups are being utilized for them.
+11. a minister of panchayati raj in the state COM.
+12. 
 
 
 ### g v k rao committee
 1. 1985
-2. **3 - tier** system
-3. jila parishad as cen
+2. jila parishad as center for planning and development
+3. devolution of state list subjects to district level, for the matters that can be handled at that level
+4. post of district development commissioner - head of all the planning and dev. activities
+5. regular elections
