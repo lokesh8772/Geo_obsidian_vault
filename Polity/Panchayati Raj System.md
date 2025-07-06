@@ -60,4 +60,6 @@ by 1960s -> all states adopted panchayti raj but in different forms
 6. reservations based on the populations in all 3 tiers, also for women
 7. planning and coordination committee -
 	1. chairmen of jila parishad - members
-	2. 
+	2. chairman - minister of planning
+8. state finance commission
+9. DC - CEO of Jila parishad
