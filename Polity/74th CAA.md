@@ -43,4 +43,13 @@ three parts same as above
 2. completely nominated body(state govt nominate)
 #### town area committe- 
 1. for a small town
-2. may be elected or nomi
+2. may be elected or nominated or a mixture.
+#### cantonment board
+1. cant. act of 2006
+2. unlike other bodies ,it is administered by central govt.
+### central council of local govt
+1. set up in 1954
+2. art 263
+3. contains - 
+	1. union minister of housing and urban affairs -> chaiirman
+	2. state ministers of local self-governance.
