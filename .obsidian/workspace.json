@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Panchayati Raj System.md",
+                "file": "Polity/73rd CAA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Panchayati Raj System"
+              "title": "73rd CAA"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "dataview practice.md",
     "Polity/Panchayati Raj System.md",
+    "Polity/73rd CAA.md",
+    "dataview practice.md",
     "Polity/Tribunals.md",
     "Mains Syllabus/SC judge Appointment.md",
     "Polity/Governor.md",
@@ -255,7 +256,6 @@
     "Polity/court of record.md",
     "Polity/HC jurisdiction.md",
     "Polity/ad-hoc judge of SC.md",
-    "Polity/additional and acting judges in HC.md",
     "BAG",
     "Projects",
     "Polity",
