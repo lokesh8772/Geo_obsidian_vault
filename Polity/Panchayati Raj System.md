@@ -63,3 +63,20 @@ by 1960s -> all states adopted panchayti raj but in different forms
 	2. chairman - minister of planning
 8. state finance commission
 9. DC - CEO of Jila parishad
+
+### gadgil committe
+1. 1988
+2. by **congress party** and not govt
+3. 3 tier mechnism
+4. constitutional status
+5. tax powers
+6. establishment of state finance commission for devolution of funds
+7. establishment of state election commission
+8. fixed tenure of 5 yrs
+9. members at all level should be **directly elected**
+10. reservation for SC/ST and women
+11. subject list to be incorporated in the COI.
+
+### efforts
+1. rajiv gandhi govt - 64th CAB 1989 -> opposed by RS -> centralization in the federal system
+2. VP singh - 1990 -> 
