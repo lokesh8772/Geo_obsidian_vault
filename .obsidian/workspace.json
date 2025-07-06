@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/NEER and REER.md",
+                "file": "dataview practice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NEER and REER"
+              "title": "dataview practice"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "dataview practice"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "high court",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,9 +227,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
     "CA/motor vehicle aggregators guidelines.md",
+    "dataview practice.md",
+    "term insurance.md",
     "economy/NEER and REER.md",
     "economy",
     "Daily notes/2025-07-05.md",
@@ -241,7 +245,6 @@
     "Polity/High court.md",
     "Polity/court of record.md",
     "Polity/HC jurisdiction.md",
-    "dataview practice.md",
     "Polity/ad-hoc judge of SC.md",
     "Polity/additional and acting judges in HC.md",
     "bara lachla.md",
@@ -253,7 +256,6 @@
     "Daily notes/2025-06-29.md",
     "Polity/Governor.md",
     "Polity/state govt.md",
-    "discretionary powers of governor.md",
     "BAG",
     "Projects",
     "Polity",

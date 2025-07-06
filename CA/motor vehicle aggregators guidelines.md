@@ -2,7 +2,7 @@ for app based aggregators like ola, uber, rapido
 1. for the first time allowed non-transport  bike for ride hailing
 2. requires training, and insurance for the driver
 	1. health insurance - 5 lakh
-	2. term insurance  - 10 lakh
+	2. [[term insurance]]  - 10 lakh
 3. driver must get at least 80% of the fare if using self-owned vehicle
 4. if using company vehicle > 60% share
 5. police verification, license , and psychological tests before onboarding of drivers
