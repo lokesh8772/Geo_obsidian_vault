@@ -39,7 +39,7 @@ by 1960s -> all states adopted panchayti raj but in different forms
 ### g v k rao committee
 1. 1986
 2. jila parishad as center for planning and development
-3. devolution of state list subjects to district level, for the matters that can be handled at that level
+3. trarnsfe of some of the planning functions at state level to district level, for the matters that can be handled at that level
 4. post of district development commissioner - (CEO -> head of all the planning and dev. activities
 	1. district collector co-ordinating role.
 5. regular elections
