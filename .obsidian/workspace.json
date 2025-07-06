@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/73rd CAA.md",
+                "file": "Polity/PESA act.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "73rd CAA"
+              "title": "PESA act"
             }
           }
         ],
@@ -229,9 +229,10 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "Polity/73rd CAA.md",
+    "Polity/PESA act.md",
     "Daily notes/2025-06-24.md",
     "Polity/schedules.md",
-    "Polity/73rd CAA.md",
     "Polity/Panchayati Raj System.md",
     "dataview practice.md",
     "Polity/Tribunals.md",
@@ -255,7 +256,6 @@
     "Polity/consumer commissions.md",
     "Polity/subordinate court.md",
     "Polity/High court.md",
-    "Polity/court of record.md",
     "BAG",
     "Projects",
     "Polity",
