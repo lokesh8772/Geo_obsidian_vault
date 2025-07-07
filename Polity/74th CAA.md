@@ -53,4 +53,4 @@ three parts same as above
 3. contains - 
 	1. union minister of housing and urban affairs -> chaiirman
 	2. state ministers of local self-governance.
-4. /commit
+4. 
