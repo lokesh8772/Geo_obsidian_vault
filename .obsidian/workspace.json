@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"development goals\"",
+                "query": "marine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,6 +229,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "Daily notes/2025-06-06.md",
+    "Daily notes/2025-06-05.md",
     "Daily notes/2025-06-02.md",
     "Polity/Funds of govt.md",
     "Revolutions/Yellow Revolution.md",
@@ -254,8 +256,6 @@
     "economy/NEER and REER.md",
     "economy",
     "Daily notes/2025-07-05.md",
-    "Polity/gram nyayalaya.md",
-    "Polity/family court.md",
     "BAG",
     "Projects",
     "Polity",
