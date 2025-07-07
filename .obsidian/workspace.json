@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-02.md",
+                "file": "Daily notes/2025-06-05.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-02"
+              "title": "2025-06-05"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "datavie",
+                "query": "\"development goals\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,6 +229,7 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "Daily notes/2025-06-02.md",
     "Polity/Funds of govt.md",
     "Revolutions/Yellow Revolution.md",
     "dataview practice.md",
@@ -255,7 +256,6 @@
     "Daily notes/2025-07-05.md",
     "Polity/gram nyayalaya.md",
     "Polity/family court.md",
-    "Polity/lok adalat.md",
     "BAG",
     "Projects",
     "Polity",
