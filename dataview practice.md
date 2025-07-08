@@ -1,5 +1,5 @@
 ```dataview
 list
 FROM ""
-WHERE file.mday >= date("2025-07-06")
+WHERE file.cday = date("2025-07-06")
 ```
