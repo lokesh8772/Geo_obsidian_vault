@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-spaced-repetition",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-importer"
 ]
