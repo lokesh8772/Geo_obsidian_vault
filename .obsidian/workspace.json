@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -230,6 +231,7 @@
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
     "dataview practice.md",
+    "Notion/UPSC PREP/CAPF essay writings/Quotes.md",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Energy/Sodium ion batteries.md",
@@ -242,7 +244,6 @@
     "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
     "Notion/UPSC PREP/CAPF essay writings/Cyber security.md",
     "Notion/UPSC PREP/CAPF essay writings/Left Wing extremism.md",
-    "Notion/UPSC PREP/CAPF essay writings/Quotes.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Poverty & Hunger.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Industrial Growth.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Food Processing.md",
