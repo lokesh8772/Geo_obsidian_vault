@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/CAPF essay writings/Na.md",
+                "file": "Notion/UPSC PREP/CAPF essay writings/Crime against women.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Na"
+              "title": "Crime against women"
             }
           }
         ],
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -230,7 +231,7 @@
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
     "Notion/UPSC PREP/CAPF essay writings/Criminalization of politics.md",
-    "Notion/UPSC PREP/CAPF essay writings/Na.md",
+    "Notion/UPSC PREP/CAPF essay writings/Crime against women.md",
     "Notion/UPSC PREP/CAPF essay writings/Skill.md",
     "Notion/UPSC PREP/CAPF essay writings/Employment.md",
     "Notion/UPSC PREP/CAPF essay writings/Regionalism.md",
