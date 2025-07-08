@@ -25,4 +25,19 @@
 5. marital rape not recognized as crime.
 
 ### initiatives
-1. Bhartiya Nyay Samhita 
+1. Bhartiya Nyay Samhita 2023 - increased the definition, and the penalties
+2. Protection of women from Domestic violence act 2005
+3. Sexual harassment of women at workplace(Prevention, prohibition and redressal) act 2013
+4. Criminal law(amendment) 2013 and 2018 -> death penalty for rape of < 12 yr girl
+5. Dowry prohibition act
+
+6. Nirbhaya Fund -
+	1. one stop centers
+	2. Women helpline
+	3. Women helpdesk in police stations
+	4. Anti human trafficking units
+7. UJJAWALA  scheme - 
+	1. prevention of human trafficking
+	2. rescue and rehabilitation ...
+8. Beti Bachao Beti Padhao scheme
+9. PM Matru vandana yojna
