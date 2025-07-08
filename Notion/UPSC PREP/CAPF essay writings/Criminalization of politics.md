@@ -11,4 +11,9 @@ ADR -
 2. Lily thomus vs UoI case 2013 - 
 	1. disqualification of MP/MLA if sentenced > 2 yrs of imprisonment.
 3. SC in 2020 directed - all political parties to publish the entire criminal history of all their candidates.
-4. ECI directed
+4. ECI directed all the ROs in 1997 to reject the candidature of all convicted candidates, even if sentence is suspended.
+### recommendations = 
+1. two ballot system
+2. right to reject
+3. max punishment for false affidavits - > 2 yrs
+4. 
