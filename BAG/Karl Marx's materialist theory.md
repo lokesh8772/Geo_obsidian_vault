@@ -8,7 +8,7 @@
 	4. religion
 	5. morality and ideology
 3. this superstructure try to legitimize the current economic base
-4. when forces of production  develop, there arises a conflict in the relations of prodution 
+4. when forces of production  develop, they come in conflict with the relations of production
 5. that leads to class struggle, and thus changes in the society
 history - 
 6. primitive communism - common ownership, ...
