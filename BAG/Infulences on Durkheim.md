@@ -15,3 +15,6 @@
 1. general will -> collective conciousness
 2. society as moral contract where individuals willingly submit to the general will for greater good.
 ### Kant
+1. rationalistic and individualistic
+2. morality is the derivation of obligations that transcend from individual desires - 
+3. durkhiem socilogized this idea - as morality is the derivation of collective will for collective good.
