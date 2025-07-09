@@ -20,4 +20,11 @@
 1. UN decade of healthy ageing (2021 - 2030) - global collaboration and initiative
 2. PM vay vandana yojna
 3. Atal pension yojna
-4. Senior citizen saving shcme
+4. Senior citizen saving scheme
+5. AB PMJAY (special focus on elderly)
+6. National program for healthcare of elderly
+### recommendations - 
+1. age friendly envt - sweden's age friendly cities.
+2. integrated care - japan's community based integrated care system
+3. Technology -> AI and robotics....
+4. 
