@@ -11,4 +11,4 @@ family background -
 	protestantism - > ascetics
 ### Nietzche - 
 1. death of god and disenchantement
-2. /commit
+2. 
