@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/CAPF essay writings/ageing population.md",
+                "file": "Notion/UPSC PREP/CAPF essay writings/Blue economy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ageing population"
+              "title": "Blue economy"
             }
           }
         ],
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -230,8 +229,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "BAG/influences on max weber.md",
     "Notion/UPSC PREP/CAPF essay writings/ageing population.md",
+    "BAG/influences on max weber.md",
     "BAG/Infulences on Durkheim.md",
     "BAG/mechanical vs organic solidarity.md",
     "BAG/Durkhiem.md",
