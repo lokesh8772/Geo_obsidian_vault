@@ -21,4 +21,10 @@
 4. Syllabus - not able to provide employment to the scholars(only 8.25% graduates work in matching roles, overqualification > underqualitfication [[Skill]])
 5. digital access - ACER -> 90% b/g (14-16) have smartphones in the household but only 57% use it for educational activities
 6. rural - urban divide (literacy - 77% vs 89%)
-7. 
+7. vocational education << academic education
+### initiatives - 
+1. PM-POSHAN - to increase the attendence of poor people.
+2. Scholarships like ASPIRE, for retainance of students beyond higher-secondary
+3. state run scholarship like scooter and laptop distribution to motivate education especially among girls
+4. digitization of study material by NCERT and other boards and major universities.
+5. New Education Policy -> integrated vocational and industrial exposure to the students for application oriented learning
