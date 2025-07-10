@@ -14,3 +14,11 @@
 13. femal GER > male GER
 14. 53% habitations - primiary schools
 15. 20% habitations - secondary schools
+### issues - 
+1. lower literacy rates than developed countries - untapped potential
+2. gender gap in literacy rates
+3. infra gaps - open sky schools(1/40), single teacher schools(> 1 lac), only 20% habitations having secondary schools etc
+4. Syllabus - not able to provide employment to the scholars(only 8.25% graduates work in matching roles, overqualification > underqualitfication [[Skill]])
+5. digital access - ACER -> 90% b/g (14-16) have smartphones in the household but only 57% use it for educational activities
+6. rural - urban divide (literacy - 77% vs 89%)
+7. 
