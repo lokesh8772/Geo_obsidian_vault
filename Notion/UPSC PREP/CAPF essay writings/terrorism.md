@@ -8,6 +8,7 @@
 	3. Uri attack 2016
 	4. Pulwama attack - 2019
 	5. Pahalgam attack 22 april 2025
+5. [[Cyberterrorism]]
 ### Terrorist groups in india
 1. LeT
 2. Hijbul Mujahiddin
@@ -21,4 +22,16 @@ in 2018 it was 614
 #### naxals-
 1. 2014-2024 -> 53% decline in naxal activities
 2. Civilian and security forces casualties -> 70% decrease
-3. govt actions -> intense security deployment, 
+3. govt actions -> intense security deployment, financial crackdown , **300%** funding increase for development of affected areas
+
+### counter - 
+#### world level - 
+1. FATF
+2. UN office on counter terrorism
+3. UN global counter terrorism strategy 2006
+4. **pending** - comprehensive convention on international terrorism
+5. Interpol
+6. Intelligence sharing - five eye
+7. EU - EUROPOL, EUROJUST
+8. African union ..
+9. BRICS , SCO,
