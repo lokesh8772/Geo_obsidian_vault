@@ -8,4 +8,4 @@ tags:
 2. statutary establishment- 1993
 3. constitutional status - 102nd CAA , 2018 -> Art. 338-B
 4. functions , report and powers -> [[National commission for SCs]]
-5. /commit
+5. 
