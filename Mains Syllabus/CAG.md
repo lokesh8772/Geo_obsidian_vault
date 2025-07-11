@@ -1,11 +1,22 @@
 1. comptroller and Auditor general of India
 2. constitutional office. (Art 148)
+### service
+1. 6 yrs or 65 yrs
+2. becomes ineligible for all office under union or state govts.(CAG act 1971)
+3. parliament has power to determine his/her service conditions(art 149) -> CAG act 1971
+4. appointment -> POI, removal -> as SC judge.
 
 ### Functions - 
-1. Audits the govt's revenues and expenditure, Accounts of PSUs and CPSE.
-2. check for transparency, financial discipline and efficiency in govt expenditure
-3. ensure whether the govt projects and schemes achieved their objectives or not.
-4. submits its report to the Parliament.
-5. Assists the [[Public Accounts Committee|PAC]]
+1. audits all **expenditures** from the consolidated fund of india and states and UTs with legislature
+2. audits all **transactions** from Contingency fund and public accounts of india, states and UTs with legislature
+3. audits the accounts of all govtal departments
+4. audits the stocks and stores of offices of govtal departments
+5. audits the accounts of govt companies a/c to Companies act 
+6. audits the a/c of govt corporations whose statutes provide for their audit by CAG
+7. any other body, upon request of POI or governor.
+8. ensure whether the govt projects and schemes achieved their objectives or not.
+9. submits a report to the POI and governors (art 151)
+10. ascertains and certify the net proceeds(collection - cost of collection) of taxes and duties (art 279), this certificate is final.
+11. Assists the [[Public Accounts Committee|PAC]]
 
 #Polity #Constitutional_Bodies 

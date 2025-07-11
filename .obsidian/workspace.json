@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Commissioner for Linguistic Minorities.md",
+                "file": "Mains Syllabus/CAG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Commissioner for Linguistic Minorities"
+              "title": "CAG"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CAG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,8 +230,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/National commission for BCs.md",
     "Polity/Commissioner for Linguistic Minorities.md",
+    "Polity/National commission for BCs.md",
     "Polity/National commission for STs.md",
     "Polity/National commission for SCs.md",
     "dataview practice.md",
