@@ -2,7 +2,8 @@
 2. 22(15+7), chairperson - > from LS, convention -> from Opposition
 3. term -  1yr , minister can not be a member.
 4. objective -> to review the CAG report on govt's revenue and expenditure and submit it to the parliament.
-5. Assisted by [[CAG]]. 
+5. Assisted by 
+6. [[CAG]]. 
 
 ### Importance - 
 1. checks and balances -> legislative's on executive
