@@ -12,4 +12,4 @@ tags:
 3. rights of tribals over mineral and water resources
 4. relief and rehabilitation of displaced tribals by developmental projects.
 5. to reduce and ultimately eliminate the practice of shifting cultivation.
-report submission and powers similar to 
+report submission and powers similar to [[National commission for SCs]]

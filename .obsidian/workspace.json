@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "dataview practice.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/National commission for STs.md",
+                "file": "Polity/National commission for BCs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National commission for STs"
+              "title": "National commission for BCs"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"finance Commission\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,8 +230,10 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/National commission for SCs.md",
     "Polity/National commission for STs.md",
+    "Polity/National commission for SCs.md",
+    "Polity/National commission for BCs.md",
+    "dataview practice.md",
     "Polity/Finance Commission.md",
     "Polity/GST council.md",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
@@ -254,11 +256,9 @@
     "Notion/UPSC PREP/CAPF essay writings/Regionalism.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "Notion/UPSC PREP/CAPF essay writings/Neighborhood first policy.md",
-    "dataview practice.md",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Energy/Sodium ion batteries.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Parliament  & State Legislature/Deputy speaker.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Energy",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Parliament  & State Legislature",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads",

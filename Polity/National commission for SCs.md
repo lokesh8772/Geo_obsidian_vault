@@ -9,7 +9,7 @@ tags:
 2. 65th CAA 1990 -> constitutional status for the commission
 3. 89rd CAA 2003 -> bifurcated it and made separate [[National commission for STs]]
 ### 4. service conditions - 
-1. 1 + 3 members
+1. 1 + 1(vice chairperson) + 3 members
 2. appointed by the POI
 3. service conditions by POI
 4. term of office - 3 yrs , tenure -> POI
