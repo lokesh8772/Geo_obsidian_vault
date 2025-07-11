@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
+                "file": "Polity/Finance Commission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cyberterrorism"
+              "title": "Finance Commission"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "datavie",
+                "query": "\"finance Commission\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,10 +228,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0fcae40b55a4bf18",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Notion/UPSC PREP/CAPF essay writings/terrorism.md",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
+    "Polity/Finance Commission.md",
+    "Notion/UPSC PREP/CAPF essay writings/terrorism.md",
     "Notion/UPSC PREP/CAPF essay writings/Education.md",
     "Notion/UPSC PREP/CAPF essay writings/Skill.md",
     "Notion/UPSC PREP/CAPF essay writings/Employment.md",
@@ -257,7 +259,6 @@
     "Notion/UPSC PREP/CAPF essay writings/sedition law.md",
     "Notion/UPSC PREP/CAPF essay writings/women in security.md",
     "Notion/UPSC PREP/CAPF essay writings/one nation one election.md",
-    "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Energy",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Parliament  & State Legislature",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads",
