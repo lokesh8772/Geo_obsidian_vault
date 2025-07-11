@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/National commission for SCs.md",
+                "file": "Polity/National commission for STs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National commission for SCs"
+              "title": "National commission for STs"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/National commission for STs.md",
     "Polity/National commission for SCs.md",
+    "Polity/National commission for STs.md",
     "Polity/Finance Commission.md",
     "Polity/GST council.md",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",

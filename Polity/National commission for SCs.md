@@ -17,4 +17,11 @@ tags:
 ### functions - 
 1. to investigate and monitor the constitutional and legal safegaurds that are availlable with SCs
 2. to inquire into complains of deprivation of the safegaurds or priviledges as provided by law
-3. to inclu
+3. to participate in the planning of these safegaurds
+4. to submit a report annually to the POI on the working of these safegaurds (or such other times as it may deem fit)
+5. any recommendation for development of SCs
+
+POI submits the report along with a memoradum explaining actions taken on the recommendations or reasons for not taken.
+
+**also discharge similar functions with regard to anglo- indian community**
+102nd CAA 2018 -> relieved it from its duties regarding OBCs
