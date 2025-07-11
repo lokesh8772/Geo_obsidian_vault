@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - Constitutional_Bodies
 ---
 1. 1+4 membership
 2. parliament can determine the qualifications
