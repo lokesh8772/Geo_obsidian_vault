@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Attorney general of India.md",
+                "file": "Polity/Advocate general of state.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Attorney general of India"
+              "title": "Advocate general of state"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/NITI aayog.md",
     "Polity/Attorney general of India.md",
+    "Polity/Advocate general of state.md",
+    "Polity/NITI aayog.md",
     "Mains Syllabus/CAG.md",
     "Mains Syllabus/Public Accounts Committee.md",
     "Polity/Commissioner for Linguistic Minorities.md",
@@ -255,7 +256,6 @@
     "BAG/Durkhiem.md",
     "BAG/Hegel vs Marx.md",
     "BAG/Karl Marx's materialist theory.md",
-    "Notion/UPSC PREP/CAPF essay writings/Drug abuse.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
