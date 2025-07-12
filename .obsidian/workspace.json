@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/National Human rights commission.md",
+                "file": "Polity/distributive justice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Human rights commission"
+              "title": "distributive justice"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/NITI aayog.md",
     "Polity/National Human rights commission.md",
+    "Polity/distributive justice.md",
+    "Polity/NITI aayog.md",
     "Mains Syllabus/CAG.md",
     "Polity/Attorney general of India.md",
     "Polity/Advocate general of state.md",
@@ -255,7 +256,6 @@
     "BAG/Infulences on Durkheim.md",
     "BAG/mechanical vs organic solidarity.md",
     "BAG/Durkhiem.md",
-    "BAG/Hegel vs Marx.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
