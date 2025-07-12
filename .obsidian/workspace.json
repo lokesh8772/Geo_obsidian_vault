@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-24.md",
+                "file": "Polity/Imp cases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-24"
+              "title": "Imp cases"
             }
           }
         ],
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -230,6 +231,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "Daily notes/2025-06-24.md",
+    "Polity/Imp cases.md",
     "Polity/distributive justice.md",
     "Polity/Egalitarianism.md",
     "Polity/Utilitarianism.md",
@@ -254,8 +257,6 @@
     "Notion/UPSC PREP/CAPF essay writings/Quotes.md",
     "Notion/UPSC PREP/CAPF essay writings/Blue economy.md",
     "Notion/UPSC PREP/CAPF essay writings/ageing population.md",
-    "BAG/influences on max weber.md",
-    "BAG/Infulences on Durkheim.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
