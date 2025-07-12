@@ -24,4 +24,5 @@ tags:
 	1. **team india** -> representation from every state and UT -> co-operative federalism
 	2. **knowledge and innovation hub** -> knowledge repository
 8. guiding Principal
-	1. **Antyodaya** -> focus and service and upliftment of the marginal, underdeveloped part of the community
+	1. **Antyodaya** -> focus and service and upliftment of the poor, marginalized, underdeveloped part of the community -> Pt. Deendayal Upadhyaya.
+	2. 
