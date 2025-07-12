@@ -20,3 +20,8 @@ tags:
 	4. ex-officio members - max - 4 -> union COM -> nominated by PM
 	5. CEO -> rank of secretary to the govt
 	6. secretariat 
+7. hubs - 
+	1. **team india** -> representation from every state and UT -> co-operative federalism
+	2. **knowledge and innovation hub** -> knowledge repository
+8. guiding Principal
+	1. **Antyodaya** -> focus and service and upliftment of the marginal, underdeveloped part of the community
