@@ -5,7 +5,7 @@ tags:
   - Governance
 ---
 
-1. 2014 
+1. from 1 jan 2015
 2. chairman - PM
 3. governing council - CMs of states and UTs, lt. governors of UTs. without legislature.
 4. Regional council - formed for specific purpose for specific time
