@@ -11,7 +11,19 @@ tags:
 		1. retired or serving SC judge
 		2. retired or serving CJ of HC
 		3. 3 persons with experience and knowledge in human rights (one must be woman)
+	3. ex-officio members - 7
+		1. chairman of NCBC
+		2. NCSC
+		3. NCST
+		4. Commission for protection of child rights
+		5. national commission for PWD
+		6. NCMinorities
+		7. NC for women
 3. selection panel - 
 	1. PM
 	2. Speaker
-	3. Vice chairman
+	3. union HM
+	4. Vice chairman
+	5. LOO of both houses.
+### functions - 
+1. **to intervene in any proceeding pending before a court involving allegation of violation of human rights**
