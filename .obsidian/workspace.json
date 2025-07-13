@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "dataview practice.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Velocity of money.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Velocity of money"
+              "title": "dataview practice"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,10 +228,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f9ca873b710d7622",
+  "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Polity/Imp cases.md",
+    "Mains Syllabus/Public Accounts Committee.md",
+    "dataview practice.md",
     "economy/Velocity of money.md",
+    "Polity/Imp cases.md",
     "Daily notes/2025-06-24.md",
     "Polity/distributive justice.md",
     "Polity/Egalitarianism.md",
@@ -240,12 +243,10 @@
     "Mains Syllabus/CAG.md",
     "Polity/Attorney general of India.md",
     "Polity/Advocate general of state.md",
-    "Mains Syllabus/Public Accounts Committee.md",
     "Polity/Commissioner for Linguistic Minorities.md",
     "Polity/National commission for BCs.md",
     "Polity/National commission for STs.md",
     "Polity/National commission for SCs.md",
-    "dataview practice.md",
     "Polity/Finance Commission.md",
     "Polity/GST council.md",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
