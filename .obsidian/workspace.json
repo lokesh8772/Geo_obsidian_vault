@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Volcanic landforms.md",
+                "file": "Geography/Volcanoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Volcanic landforms"
+              "title": "Volcanoes"
             }
           }
         ],
@@ -231,8 +231,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Geography/Volcanoes.md",
     "Geography/Volcanic landforms.md",
+    "Geography/Volcanoes.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
     "Geography/Earth layers.md",

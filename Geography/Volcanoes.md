@@ -25,6 +25,21 @@ tags:
 2. Ex - yellowstone, hawaii, reunion
 3. formed due to mantle plumes -> exceptionally hot areas fixed in the mantle
 4. heat rises through convection -> crust melts-> magma moves upwards
+### composite volcano
+1. steep slope
+2. acidic lava
+3. cone of alternate layers of lava and ashes
+4. formed due to alternate fissure(lava) and explosive eruption(ashes/cinder)
+### shield volcano
+1. highest of all
+2. largest of all
+3. basaltic lava
+
+### cinder cone
+1. smallest of all
+2. basaltic lava
+3. more explosive than fissure eruptions but less than ...stromboli...
+4. basaltic lava -> splits into globules into the air during eruption -> solidifies -> cinder....
 
 ### **Table: Important Volcanoes for UPSC Exams**
 

@@ -11,9 +11,12 @@ tags:
 	5. lopolith - concave
 	6. phacolith - anticline and syncline structure
 2. extrusive- 
-	1. explosive-eruption - --
+	1. explosive-eruption - --[[Volcanoes]]
 		1. cinder cone
-		2. 
+		2. composite
+		3. shield
+		4. parasite cones
+		5. caldera
 	2. fissure eruption
 3. geysers - ejects vapour and hot water from time to time(special types of hot springs(hot water!!))
 4. fumaroles- vent through which gases and vapour leaks 
