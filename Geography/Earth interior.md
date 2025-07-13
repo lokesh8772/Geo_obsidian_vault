@@ -19,3 +19,10 @@ tags:
 3. alumninium
 4. iron
 5. Mg
+
+### density
+1. sedimentary rocks- 1.6...2.7
+2. crystalline rocks(igneous) - 3- 3.5
+3. core - 11
+4. avg density - 5.5
+5. 

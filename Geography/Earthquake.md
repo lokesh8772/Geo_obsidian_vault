@@ -3,6 +3,11 @@ tags:
   - Geography
   - GS1
 ---
+1. hypocenter - where the energy get released
+2. epicenter - the nearest point on surface to the hypocenter
+3. P-wave -primary -> first to arrive -> like sound waves-> can move through any medium
+4. S-Wave  - secondary -> arrive after lag -> longitudinal waves -> can move only in solid medium
+
 s-wave shadowzone - 103 degree
 P-wave - can move in solid and liquid -> outer core - path deviate -> shadow zone - 103 - 142
 surface waves 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Earth interior.md",
+                "file": "Geography/Earthquake.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earth interior"
+              "title": "Earthquake"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Geography/Earth layers.md",
     "Geography/Earth interior.md",
+    "Geography/Earth layers.md",
     "dataview practice.md",
     "Templates/Geography Template.md",
     "Geography/Earthquake.md",
