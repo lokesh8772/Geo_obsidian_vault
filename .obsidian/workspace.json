@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Rocks.md",
+                "file": "Geography/Volcanoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rocks"
+              "title": "Volcanoes"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mineral",
+                "query": "volcan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,13 +230,13 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Geography/Minerals.md",
-    "Geography/Rocks.md",
-    "Geography/Theories for continents....md",
-    "Geography/Volcanoes.md",
-    "Geography/Earth layers.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
+    "Geography/Earth layers.md",
+    "Geography/Minerals.md",
+    "Geography/Theories for continents....md",
+    "Geography/Rocks.md",
+    "Geography/Volcanoes.md",
     "dataview practice.md",
     "Templates/Geography Template.md",
     "Geography/solstice.md",

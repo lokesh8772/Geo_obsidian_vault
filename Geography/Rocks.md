@@ -23,7 +23,9 @@ tags:
 5. basic igneous rocks
 	1. 40-60% silica
 	2. basalt, gabbro
-6. inte
+6. intermediate --
+	1. diorite
+	2. andescite
 ### Sedimentary rocks
 1. 75 % of the crust
 2. volumetric < 5%
