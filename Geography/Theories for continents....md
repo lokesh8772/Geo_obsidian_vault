@@ -7,6 +7,11 @@ tags:
 1. alfred wegner
 2. continental crust floating over the more dense oceanic crust
 3. Pangea(300 million yrs -> gondwana land + Laurasia )
+4. evidences- 
+	1. jig saw fit - 
+		1. appalachians of north america and celedonides of britain
+		2. greenland + baffin islands
+		3. 
 ### convectional current theory
 1. arthur homes 1930
 2. convection currents in the mantle 
@@ -21,3 +26,4 @@ tags:
 	3. oceanic crust away from ridge = older , thicker, denser
 4. **benioff Zone**
 	1. Subduction zone in a destructive(conversing) plate techtonic
+
