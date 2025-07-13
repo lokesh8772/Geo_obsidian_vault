@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Minerals.md",
+                "file": "Geography/Rocks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Minerals"
+              "title": "Rocks"
             }
           }
         ],
@@ -230,9 +230,10 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "Geography/Minerals.md",
+    "Geography/Rocks.md",
     "Geography/Theories for continents....md",
     "Geography/Volcanoes.md",
-    "Geography/Minerals.md",
     "Geography/Earth layers.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
@@ -257,7 +258,6 @@
     "Polity/NITI aayog.md",
     "Mains Syllabus/CAG.md",
     "Polity/Attorney general of India.md",
-    "Polity/Advocate general of state.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
