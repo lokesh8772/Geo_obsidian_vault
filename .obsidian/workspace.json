@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Apehelion,Perihelion.md",
+                "file": "Geography/Earthquake.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Apehelion,Perihelion"
+              "title": "Earthquake"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Earthquak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,6 +230,8 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "Templates/Geography Template.md",
+    "Geography/solstice.md",
     "Geography/india - basics.md",
     "Geography/Apehelion,Perihelion.md",
     "Geography/Earth layers.md",
@@ -236,8 +239,6 @@
     "Geography/theories for continents....md",
     "images/Pasted image 20250713160143.png",
     "Geography/Earthquake.md",
-    "Geography/solstice.md",
-    "Templates/Geography Template.md",
     "Templates/Polity notes template.md",
     "UPSC  GS topics.md",
     "dataview practice.md",
