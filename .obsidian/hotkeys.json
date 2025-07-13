@@ -49,5 +49,13 @@
     }
   ],
   "editor:toggle-bold": [],
-  "file-explorer:new-file": []
+  "file-explorer:new-file": [],
+  "templater-obsidian:create-Templates/Geography Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ]
 }

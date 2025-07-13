@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
+                "file": "UPSC  GS topics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "UPSC  GS topics"
             }
           },
           {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
-                "mode": "preview",
+                "file": "Templates/Geography Template.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "Geography Template"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,8 +229,12 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Mains Syllabus/Public Accounts Committee.md",
+    "Templates/Polity notes template.md",
+    "Templates/Geography Template.md",
+    "UPSC  GS topics.md",
     "dataview practice.md",
+    "Geography",
+    "Mains Syllabus/Public Accounts Committee.md",
     "economy/Velocity of money.md",
     "Polity/Imp cases.md",
     "Daily notes/2025-06-24.md",
@@ -253,9 +256,6 @@
     "Notion/UPSC PREP/CAPF essay writings/terrorism.md",
     "Notion/UPSC PREP/CAPF essay writings/Education.md",
     "Notion/UPSC PREP/CAPF essay writings/Skill.md",
-    "Notion/UPSC PREP/CAPF essay writings/Employment.md",
-    "Notion/UPSC PREP/CAPF essay writings/Quotes.md",
-    "Notion/UPSC PREP/CAPF essay writings/Blue economy.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
@@ -267,7 +267,6 @@
     "Notion/UPSC PREP/CA database",
     "Notion/UPSC PREP/CAPF essay writings",
     "Notion/UPSC PREP",
-    "Notion",
     "Pasted image 20250606190559.png",
     "IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121723_943.jpg",

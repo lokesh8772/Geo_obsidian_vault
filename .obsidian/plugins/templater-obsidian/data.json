@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/Polity notes template.md"
+    "Templates/Polity notes template.md",
+    "Templates/Geography Template.md"
   ],
   "startup_templates": [
     ""
