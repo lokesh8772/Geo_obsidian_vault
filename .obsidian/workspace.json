@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Volcanoes.md",
+                "file": "Polity/DPSP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Volcanoes"
+              "title": "DPSP"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volcan",
+                "query": "DPSP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -231,8 +230,10 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Geography/Volcanic landforms.md",
+    "Daily notes/2025-06-26.md",
+    "Polity/DPSP.md",
     "Geography/Volcanoes.md",
+    "Geography/Volcanic landforms.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
     "Geography/Earth layers.md",
@@ -257,8 +258,6 @@
     "Polity/Egalitarianism.md",
     "Polity/Utilitarianism.md",
     "Polity/National Human rights commission.md",
-    "Polity/NITI aayog.md",
-    "Mains Syllabus/CAG.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
