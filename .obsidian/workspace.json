@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Earth layers.md",
+                "file": "Geography/Apehelion,Perihelion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earth layers"
+              "title": "Apehelion,Perihelion"
             }
           }
         ],
@@ -229,10 +229,13 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Geography/Earthquake.md",
-    "Geography/Earth layers.md",
-    "Geography/Apehelion,Perihelion.md",
     "Geography/india - basics.md",
+    "Geography/Apehelion,Perihelion.md",
+    "Geography/Earth layers.md",
+    "Geography/Theories for continents....md",
+    "Geography/theories for continents....md",
+    "images/Pasted image 20250713160143.png",
+    "Geography/Earthquake.md",
     "Geography/solstice.md",
     "Templates/Geography Template.md",
     "Templates/Polity notes template.md",
@@ -254,8 +257,6 @@
     "Polity/Commissioner for Linguistic Minorities.md",
     "Polity/National commission for BCs.md",
     "Polity/National commission for STs.md",
-    "Polity/National commission for SCs.md",
-    "Polity/Finance Commission.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
@@ -274,7 +275,6 @@
     "images/IMG_20250123_121719_333.jpg",
     "IMG_20250123_121723_943 1.jpg",
     "IMG_20250123_121719_333.jpg",
-    "IMG_20250123_121559_162.jpg",
     "Untitled.canvas"
   ]
 }

@@ -12,4 +12,4 @@ tags:
 6. mesosphere - lower mantle(700-2900km)
 7. barysphere - core.(2900-6371km)
 ### discontinuties - 
-1. conorad
+![[Pasted image 20250713160143.png]]
