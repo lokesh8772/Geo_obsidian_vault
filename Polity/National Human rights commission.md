@@ -25,5 +25,7 @@ tags:
 	3. union HM
 	4. Vice chairman
 	5. LOO of both houses.
+4. removal - 
+	1. POI refer the matter to SC -> if found guilty -> POI can remove them.
 ### functions - 
 1. **to intervene in any proceeding pending before a court involving allegation of violation of human rights**
