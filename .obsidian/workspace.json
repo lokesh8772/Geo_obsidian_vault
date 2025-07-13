@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-27.md",
+                "file": "Polity/parts of constitution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-27"
+              "title": "parts of constitution"
             }
           }
         ],
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -230,8 +231,9 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Article 163.md",
     "Daily notes/2025-06-27.md",
+    "Polity/parts of constitution.md",
+    "Article 163.md",
     "Polity/NITI aayog.md",
     "Daily notes/2025-06-28.md",
     "Geography/Volcanoes.md",
@@ -257,7 +259,6 @@
     "Mains Syllabus/Public Accounts Committee.md",
     "economy/Velocity of money.md",
     "Polity/Imp cases.md",
-    "Daily notes/2025-06-24.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
