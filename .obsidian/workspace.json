@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Earthquake.md",
+                "file": "Geography/Earth layers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earthquake"
+              "title": "Earth layers"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Earthquak",
+                "query": "earth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,7 +230,9 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "dataview practice.md",
     "Templates/Geography Template.md",
+    "Geography/Earthquake.md",
     "Geography/solstice.md",
     "Geography/india - basics.md",
     "Geography/Apehelion,Perihelion.md",
@@ -238,10 +240,8 @@
     "Geography/Theories for continents....md",
     "Geography/theories for continents....md",
     "images/Pasted image 20250713160143.png",
-    "Geography/Earthquake.md",
     "Templates/Polity notes template.md",
     "UPSC  GS topics.md",
-    "dataview practice.md",
     "Geography",
     "Mains Syllabus/Public Accounts Committee.md",
     "economy/Velocity of money.md",

@@ -3,7 +3,7 @@ tags:
   - Geography
   - GS1
 ---
-1. crust - solid
+1. crust - solid -> 
 2. Mantle - semi-solid to liquid
 3. Core - liquid + solid
 
@@ -13,3 +13,4 @@ tags:
 7. barysphere - core.(2900-6371km)
 ### discontinuties - 
 ![[Pasted image 20250713160143.png]]
+CM rasgulla
