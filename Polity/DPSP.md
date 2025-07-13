@@ -19,15 +19,15 @@ tags:
 7. 40 - village panchayats
 8. 41 - right to work, education and public assistance in case of disability, old-age...
 9. 42 - just and humane work conditions and maternity relief.
-10. 43 - secure living wage and cultural opportunities for the workerss
+10. 43 - secure living wage and cultural opportunities for the workers
 11. 43A - ensure participation of workers in the management of industries(42nd)
 12. 43B - promotion of voluntary establishment, democratic ownership and professional management of co-operative societies(97th 2011)
 13. 44 - UCC
-14. 45 - to endevour for providing early childhood care and education to children till they attain age of 6
+14. 45 - to endevour for providing early childhood care and education to children till they attain age of 6(86the CAA)
 15. 46 - Promotion of educational and economic interests of SC, ST and other weaker sections
 16. 47 - prevent the use of intoxicating drinks and drugs, promote health and nutritious food.
 17. 48 - organisation of agri and animal welfare
-18. 48A - envt protection and forest and wildlife
+18. 48A - envt protection and forest and wildlife(42nd CAA)
 19. 49 - protection of monuments and places of national importance
 20. 50 - separate the judiciary and the executive in the public services
 21. 51- promote international peace and arbitration-led conflict resolution.
@@ -58,4 +58,8 @@ tags:
 	3. 43A -> to takes steps to ensure participation of workers in the management of industries
 	4. 48A -> protect and improve envt and safegaurds for forest and wildlife
 2. 44th CAA 1978
-	1. 38 -> state shall endevour to eliminate the 
+	1. 38 -> state shall endevour to minilalize the inequalities in income and eliminate the inequalities in status and opportunities
+3. 86th CAA 2002 
+	1. art 45 - > educcation for children below 6 yrs
+4. 97th CAA 2011 - 
+	1. voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies.
