@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Volcanoes.md",
+                "file": "Geography/Volcanic landforms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Volcanoes"
+              "title": "Volcanic landforms"
             }
           }
         ],
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -230,13 +231,14 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
+    "Geography/Volcanoes.md",
+    "Geography/Volcanic landforms.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
     "Geography/Earth layers.md",
     "Geography/Minerals.md",
     "Geography/Theories for continents....md",
     "Geography/Rocks.md",
-    "Geography/Volcanoes.md",
     "dataview practice.md",
     "Templates/Geography Template.md",
     "Geography/solstice.md",
@@ -257,7 +259,6 @@
     "Polity/National Human rights commission.md",
     "Polity/NITI aayog.md",
     "Mains Syllabus/CAG.md",
-    "Polity/Attorney general of India.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",

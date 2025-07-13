@@ -41,3 +41,4 @@ tags:
 | **Mount Pinatubo**    | Luzon, Philippines      | Very High (VEI 6 in 1991)            | Active (currently monitored)                       | Stratovolcano (Composite)                      | 1991 eruption was the second-largest terrestrial eruption of the 20th century, caused significant global cooling.     |
 | **Cotopaxi**          | Andes, Ecuador          | High                                 | Active                                             | Stratovolcano (Composite)                      | One of the world's highest active volcanoes. Known for potential for large lahars (mudflows) from melting glaciers.   |
 | **Santorini (Thera)** | Aegean Sea, Greece      | Very High (VEI 7 in Minoan Eruption) | Active (dormant, but monitored)                    | Caldera (remnant of a stratovolcano)           | Site of the massive Minoan eruption (around 1600 BCE), which significantly impacted the Minoan civilization.          |
+[[Volcanic landforms]]
