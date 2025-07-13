@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Volcanoes.md",
+                "file": "Daily notes/2025-06-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Volcanoes"
+              "title": "2025-06-27"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DPSP",
+                "query": "regional cou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,11 +228,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0fcae40b55a4bf18",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
+    "Geography/Volcanoes.md",
     "Daily notes/2025-06-26.md",
     "Polity/DPSP.md",
-    "Geography/Volcanoes.md",
     "Geography/Volcanic landforms.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
