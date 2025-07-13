@@ -34,7 +34,7 @@ tags:
 #### Ninth
 1. 1st CAA 1951
 2. includes acts and regulations that are outside of judicial review of the supreme court
-3. SC in keshavanand bharti case - acts included after 24 april 1973 are open for JR
+3. SC in waman rao case 1981 - acts included after 24 april 1973 are open for JR [[Imp cases]]
 #### Tenth
 1. Anti defection law
 2. 52nd CAA 1985
