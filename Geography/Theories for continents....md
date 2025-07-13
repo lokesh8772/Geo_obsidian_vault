@@ -11,7 +11,14 @@ tags:
 	1. jig saw fit - 
 		1. appalachians of north america and celedonides of britain
 		2. greenland + baffin islands
-		3. 
+	2. tillite deposits -
+		1. south america
+		2. africca
+		3. india
+		4. australia
+	3. mesosorous - 
+		1. south america + africa
+	4. gold placer deposits of ghana -> source in brazil
 ### convectional current theory
 1. arthur homes 1930
 2. convection currents in the mantle 
