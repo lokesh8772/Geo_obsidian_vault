@@ -19,4 +19,5 @@ tags:
 	2. age and composition similarities in each sides of mid-oceanic ridge.
 		1. age - radiometric age dating(continents - 3 billion , oceanic - 200 million)
 	3. oceanic crust away from ridge = older , thicker, denser
-	4. 
+4. **benioff Zone**
+	1. Subduction zone in a destructive(conversing) plate techtonic
