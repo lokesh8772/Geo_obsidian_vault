@@ -11,7 +11,7 @@ tags:
 ### based on mechanical properties
 1. lithosphere - (solid)curst + some part of upper mantle(100-200km)
 2. asthenosphere -(plastic, semi solid) remaining upper mantle(200-700km)
-3. mesosphere -(liquid) lower mantle(700-2900km)
+3. mesosphere -(solid) lower mantle(700-2900km)
 4. barysphere - core.(2900-6371km)
 ### discontinuties - 
 ![[Pasted image 20250713160143.png]]

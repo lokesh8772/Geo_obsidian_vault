@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Earthquake.md",
+                "file": "Geography/Earth layers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earthquake"
+              "title": "Earth layers"
             }
           }
         ],
@@ -231,10 +231,10 @@
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
     "Geography/Earth interior.md",
+    "Geography/Earthquake.md",
     "Geography/Earth layers.md",
     "dataview practice.md",
     "Templates/Geography Template.md",
-    "Geography/Earthquake.md",
     "Geography/solstice.md",
     "Geography/india - basics.md",
     "Geography/Apehelion,Perihelion.md",
