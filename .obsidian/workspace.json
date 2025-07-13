@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/india - basics.md",
+                "file": "Geography/Earth layers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "india - basics"
+              "title": "Earth layers"
             }
           }
         ],
@@ -229,8 +229,11 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Geography/solstice.md",
+    "Geography/Earthquake.md",
+    "Geography/Earth layers.md",
+    "Geography/Apehelion,Perihelion.md",
     "Geography/india - basics.md",
+    "Geography/solstice.md",
     "Templates/Geography Template.md",
     "Templates/Polity notes template.md",
     "UPSC  GS topics.md",
@@ -253,9 +256,6 @@
     "Polity/National commission for STs.md",
     "Polity/National commission for SCs.md",
     "Polity/Finance Commission.md",
-    "Polity/GST council.md",
-    "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
-    "Notion/UPSC PREP/CAPF essay writings/terrorism.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
