@@ -3,7 +3,7 @@ tags:
   - Polity
   - GS2
 ---
-1. provisions of panchayats(Extension to the scheduled areas)
+1. provisions of panchayats(Extension to the scheduled areas) 1996
 2. gram sabha and appropriate level of Panchayat to be consulted before
 	1. any land acquisition for developmental projects
 	2. any mining licences
