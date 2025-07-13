@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Imp cases.md",
+                "file": "economy/Velocity of money.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Imp cases"
+              "title": "Velocity of money"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "citizenship",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,13 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -229,10 +227,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0fcae40b55a4bf18",
+  "active": "f9ca873b710d7622",
   "lastOpenFiles": [
-    "Daily notes/2025-06-24.md",
     "Polity/Imp cases.md",
+    "economy/Velocity of money.md",
+    "Daily notes/2025-06-24.md",
     "Polity/distributive justice.md",
     "Polity/Egalitarianism.md",
     "Polity/Utilitarianism.md",
@@ -256,7 +255,6 @@
     "Notion/UPSC PREP/CAPF essay writings/Employment.md",
     "Notion/UPSC PREP/CAPF essay writings/Quotes.md",
     "Notion/UPSC PREP/CAPF essay writings/Blue economy.md",
-    "Notion/UPSC PREP/CAPF essay writings/ageing population.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
