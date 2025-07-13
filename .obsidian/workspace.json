@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Geography Template.md",
+                "file": "Geography/india - basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Geography Template"
+              "title": "india - basics"
             }
           }
         ],
@@ -229,8 +229,10 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Templates/Polity notes template.md",
+    "Geography/solstice.md",
+    "Geography/india - basics.md",
     "Templates/Geography Template.md",
+    "Templates/Polity notes template.md",
     "UPSC  GS topics.md",
     "dataview practice.md",
     "Geography",
@@ -254,8 +256,6 @@
     "Polity/GST council.md",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
     "Notion/UPSC PREP/CAPF essay writings/terrorism.md",
-    "Notion/UPSC PREP/CAPF essay writings/Education.md",
-    "Notion/UPSC PREP/CAPF essay writings/Skill.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
