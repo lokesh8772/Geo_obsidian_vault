@@ -10,9 +10,12 @@ tags:
 
 ### landforms
 
-| landforms      | characteristics |
-| -------------- | --------------- |
-| mushroom rocks |                 |
-| demoiselles    |                 |
-| yardang        |                 |
-| Zeugen         |                 |
+| landforms      | characteristics                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| mushroom rocks | mushroom shaped rocks                                                                            |
+| demoiselles    | column like structure, cap of harder rocks-> lower part of softer rocks                          |
+| Zeugen         | a table like structure in a plane, with upper part of harder rock and lower part of softer rocks |
+| yardang        | shape - inverted boat -> parallel to wind direction                                              |
+| inselberg      | isolated mountain -> rocks rising abruptly in a plain                                            |
+
+mesa and butte - after erosion of a plateau -> wider than height, flat topped.
