@@ -19,3 +19,5 @@ tags:
 | inselberg      | isolated mountain -> rocks rising abruptly in a plain                                            |
 
 mesa and butte - after erosion of a plateau -> wider than height, flat topped.
+
+drikenter - three faced rock fragments weathered by mountains and smoothed on windward sides.
