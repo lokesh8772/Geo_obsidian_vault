@@ -14,3 +14,5 @@ tags:
 | Radial        | rivers seems to diverge radially from a central origin place -> rivers of saurashtra region, kilimanjaro...             |
 | Centripetal   | rivers seems to converge in a central region. ex - rivers of tibet, laddakh and baghmati                                |
 | alluvial fans |                                                                                                                         |
+| delta         |                                                                                                                         |
+|               |                                                                                                                         |
