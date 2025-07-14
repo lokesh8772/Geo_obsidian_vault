@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Landforms.md",
+                "file": "Geography/wind erosion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Landforms"
+              "title": "wind erosion"
             }
           }
         ],
@@ -231,8 +231,9 @@
   },
   "active": "0fcae40b55a4bf18",
   "lastOpenFiles": [
-    "Daily notes/2025-06-26.md",
+    "Geography/wind erosion.md",
     "Geography/Landforms.md",
+    "Daily notes/2025-06-26.md",
     "Polity/Sarkaria commission.md",
     "Polity/parts of constitution.md",
     "Daily notes/2025-06-27.md",
@@ -258,7 +259,6 @@
     "Templates/Polity notes template.md",
     "UPSC  GS topics.md",
     "Geography",
-    "Mains Syllabus/Public Accounts Committee.md",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
