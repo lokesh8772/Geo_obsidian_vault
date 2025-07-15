@@ -34,3 +34,8 @@ tags:
 | playa              | in the lowest part of bolson -> completely flat surface(most flat on earth) -> ephemeral streams carry water -> accumulate                                                                    |
 | salina             | playas that are very saline(as playas generally don't have any outlet -> only loss is due to evaporation)                                                                                     |
 | bajada             | formed due to accumulation of alluvial fans, -> gentle slope -> depositional landforms.                                                                                                       |
+| Cavern             | underground caves formed due to solution of lime or chalk area by water.                                                                                                                      |
+| sinkholes          | funnel shaped holes, enlargement of cracks , avg depth - 3-9 meters                                                                                                                           |
+| stalactite         | jointed with the roof,                                                                                                                                                                        |
+| stalagmite         | jointed with the floor.                                                                                                                                                                       |
+|                    |                                                                                                                                                                                               |
