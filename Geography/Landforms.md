@@ -25,7 +25,7 @@ tags:
 | Barrier            | a bar that is separated from the coast by a lagoon                                                                                                                                            |
 | spit               | a projection of mainland that extends into the sea -> one end connected to the mainland -> other open in the sea                                                                              |
 | hook               | when the open end of a spit forms a hook like structure                                                                                                                                       |
-| tomobolo           | a spit that connects an island to the mainland                                                                                                                                                |
+| tombolo            | a spit that connects an island to the mainland                                                                                                                                                |
 | ria                | a coastal inlet formed by partial submergence of an unglaciated river valley                                                                                                                  |
 | fjord              | irrgular coastline due to glacial erosion, steep sides, deeper than ria, u shaped valleys ..                                                                                                  |
 | dalmation          | coast by submergence of a mountain ridges -> alternate crest and trough -> ex - yugoslavia...                                                                                                 |
