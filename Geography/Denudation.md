@@ -10,6 +10,7 @@ general term for all types of exogenic geomorphic processes
 1. chemical - 
 	1. carbonation - reaction of minerals with carbonates or bicarbonates -> CO2 + water -> weak acid ....
 	2. hydration- water acquired by minerals -> size expands -> fatigue -> dis-integrate
+	3. hydrolysis - H+ and OH- react with the mineral and form a substance weaker than the original
 2. biological -
 	1. earthworms, rodents
 	2. human actitvites like ploughing... expose new surfaces to weathering(all types)
@@ -23,6 +24,16 @@ general term for all types of exogenic geomorphic processes
 due to dirurnal changes in temp. -> expansion and contraction.
 #### salt weathering
 salt expands due to temp, hydration and cystallization ... -> weathering
+#### salt wedging
+salts crystallise when water evaporates -> puts pressure on surrounding rock -> breaks it.
 
 ### erosion- 
 is physical removal and transportation of weathered matter by wind, ice, water...
+#### water erosion
+1. sheet erosion
+2. rill/gully erosion -> forms gullies or channels..
+3. rain -splash erosion
+#### wind erosion
+1. deflation - transporting of matte in the wind
+2. abrasion - through sand - blasting like mechanism
+3. 
