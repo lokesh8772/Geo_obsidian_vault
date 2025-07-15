@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-28.md",
+                "file": "Polity/7th CAA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-28"
+              "title": "7th CAA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,12 +227,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "055f521e298448a0",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
+    "Polity/7th CAA.md",
+    "Polity/High court.md",
+    "Polity/Governor.md",
+    "Daily notes/2025-06-28.md",
+    "Polity/Amendments.md",
+    "Daily notes/2025-07-05.md",
     "Daily notes/2025-07-02.md",
     "Daily notes/2025-06-30.md",
     "Daily notes/2025-06-29.md",
-    "Daily notes/2025-06-28.md",
     "Daily notes/2025-06-27.md",
     "Daily notes/2025-06-26.md",
     "Daily notes/2025-06-25.md",
@@ -250,11 +255,6 @@
     "Daily notes/2025-06-09.md",
     "Daily notes/2025-06-08.md",
     "Daily notes/2025-06-07.md",
-    "Daily notes/2025-06-06.md",
-    "Daily notes/2025-06-05.md",
-    "Daily notes/2025-06-04.md",
-    "Daily notes/2025-06-03.md",
-    "Daily notes/2025-06-01.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
