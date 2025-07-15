@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Atmosphere.md",
+                "file": "Daily notes/2025-06-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atmosphere"
+              "title": "2025-06-28"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volcanic",
+                "query": "amendment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,14 +230,16 @@
   },
   "active": "b6359d3627d1ebbe",
   "lastOpenFiles": [
-    "Geography/aurora.md",
+    "Geography/Volcanoes.md",
+    "Daily notes/2025-06-28.md",
+    "Daily notes/2025-06-26.md",
     "Geography/Atmosphere.md",
+    "Geography/aurora.md",
     "Geography/cosmic bodies.md",
     "Geography/Denudation.md",
     "Pasted image 20250715191632.png",
     "Geography/plateau.md",
     "Geography/Mountains.md",
-    "Geography/Volcanoes.md",
     "Geography/Volcanic landforms.md",
     "UPSC  GS topics.md",
     "Geography/winds.md",
@@ -244,13 +247,11 @@
     "Geography/mechanical erosion.md",
     "dataview practice.md",
     "Geography/Arid depositional landforms.md",
-    "Daily notes/2025-06-26.md",
     "Polity/Sarkaria commission.md",
     "Polity/parts of constitution.md",
     "Daily notes/2025-06-27.md",
     "Article 163.md",
     "Polity/NITI aayog.md",
-    "Daily notes/2025-06-28.md",
     "Polity/DPSP.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
