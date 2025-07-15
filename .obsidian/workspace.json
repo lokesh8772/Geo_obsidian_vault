@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Landforms.md",
+                "file": "Geography/winds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Landforms"
+              "title": "winds"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "b6359d3627d1ebbe",
   "lastOpenFiles": [
-    "Geography/mechanical erosion.md",
+    "Geography/winds.md",
     "Geography/Landforms.md",
+    "Geography/mechanical erosion.md",
     "UPSC  GS topics.md",
     "dataview practice.md",
     "Geography/Volcanoes.md",
@@ -255,7 +256,6 @@
     "Geography/solstice.md",
     "Geography/india - basics.md",
     "Geography/Apehelion,Perihelion.md",
-    "Geography/theories for continents....md",
     "images/Pasted image 20250713160143.png",
     "Geography",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
