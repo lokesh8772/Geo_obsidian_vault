@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 [[Quotes]]
 
 [[Left Wing extremism]]

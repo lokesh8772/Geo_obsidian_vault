@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Governor
+  - flashcards
 related: "[[discretionary powers of governor]]"
 ---
 1. in case of death, the chief justice of the HC to act as governor

@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. grounds - proved misbehavior  and incapacity
 2. procedure

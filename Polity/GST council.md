@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Constitutional_Bodies
+  - flashcards
 ---
 1. 101st CAA, 2016
 2. art 279-A

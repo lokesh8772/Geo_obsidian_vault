@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 
 ### Consolidated fund of india

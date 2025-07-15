@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. AGI -> yes
 2. POI - no

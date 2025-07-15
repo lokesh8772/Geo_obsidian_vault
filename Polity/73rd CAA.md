@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Governance
+  - flashcards
 ---
 1. 1993
 2. part 9 -> art 243 - 243-O

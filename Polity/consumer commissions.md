@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 
 1. consumer protection act 2019 > consumer protection act 1986

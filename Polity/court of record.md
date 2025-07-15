@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Judiciary
+  - flashcards
 ---
 SC under art - 129
 HC under art - art 215

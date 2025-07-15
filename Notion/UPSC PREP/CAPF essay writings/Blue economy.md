@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 what is it -
 
 sustainable use of ocean resources for economic growth, improved livelihood while preserving the health of marine ecosystem.

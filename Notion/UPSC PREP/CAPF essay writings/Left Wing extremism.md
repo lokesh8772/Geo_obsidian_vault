@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 started as movement agianst perceived state atrocities and oppression in the tribal areas of west bengal.
 
 causes -

@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. Family court act 1984
 2. stress on reconciliation or settlement -> informal procedure

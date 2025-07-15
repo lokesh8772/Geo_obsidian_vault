@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - SupremeCourt
+  - flashcards
 ---
 1. parliament can increase but can not decrease its jurisdiction as far as mentioned in the constitution.
 2. no jurisdiction- 

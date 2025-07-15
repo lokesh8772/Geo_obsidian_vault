@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 
 1. art 110 - bill consists matter **only** related to - 

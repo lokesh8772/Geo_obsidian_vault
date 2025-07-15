@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 ## Skills for Future report 2025
 
 1. 88% of workforce in low competence jobs(level 1 or 2)

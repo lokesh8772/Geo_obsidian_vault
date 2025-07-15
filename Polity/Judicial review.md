@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Judiciary
+  - flashcards
 ---
 ### due process vs process established by law
 1. procedure established by law only look for the authority's power, to legislate or regulate the matter, and not in the ableness, effectiveness, and other aspects of the law / action

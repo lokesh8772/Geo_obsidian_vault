@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 1. section 124A of IPC
 2. any word of mouth, writing, symbol, visual representation → excites or attempts to excide **disaffection** in the government established by law → shall be punished.
 3. 1870 - thomus macauley.

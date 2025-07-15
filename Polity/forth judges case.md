@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. 2015
 2. in 2014 , 99th CAA + NJAC 2014 -> replaced the collegium with NJAC

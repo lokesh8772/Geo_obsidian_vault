@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 ### methods - 
 1. suicide bombing - Shri lanka Easter attack 2019
 2. Vehicle barraging into crowd - Nice attack France

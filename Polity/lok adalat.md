@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Judiciary
+  - flashcards
 ---
 
 ### legal services authorities act  1987/95

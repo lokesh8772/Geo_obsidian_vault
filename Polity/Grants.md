@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. supplementary grant - when the money falls short for the financial year
 2. additional grant - when need of money for a new service , not contemplated in the budget.

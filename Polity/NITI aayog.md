@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Governance
+  - flashcards
 ---
 
 1. from 1 jan 2015

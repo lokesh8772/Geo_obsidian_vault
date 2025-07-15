@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 ### data
 1. NCRB - 2011 - 2021 - 83% increase in crime against women
 2. rape - 4th most common crime in india

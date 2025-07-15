@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Statutory_Bodies
+  - flashcards
 ---
 1. Statutory body -> Protection of human rights act 1993
 2. members - 

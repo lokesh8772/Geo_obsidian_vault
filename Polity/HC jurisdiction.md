@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Judiciary
+  - flashcards
 ---
 jurisdiction that is provided in the COI, can not be curtailed either by parl. or state legislature.
 ### original 

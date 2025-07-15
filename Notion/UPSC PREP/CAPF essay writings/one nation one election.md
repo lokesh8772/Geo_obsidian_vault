@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 1. till 1967 india had simultaneous elections
 2. 2024 LS election - 1.35 lakh crore - surpassing US 2020 election → 1.2 lakh crore.
 3. resource drain - manpower shift, MCC imposition,

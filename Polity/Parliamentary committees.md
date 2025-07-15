@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. nominated/elected or appointed by the house or chairperson
 2. submits its report to the house

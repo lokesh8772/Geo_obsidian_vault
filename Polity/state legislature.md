@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - state
+  - flashcards
 ---
 bicameral legislature - 
 	1. karnataka

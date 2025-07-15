@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 quote - *a polity like india should display the wisdom of treating its prosperity as a lifting tide for the entire region*  -- S Jaishankar (the india way)
 1. NEP - 2008
 2. promotion - 2014 increased

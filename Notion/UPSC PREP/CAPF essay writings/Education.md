@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 ### data
 1. NSSO PLFS 2023 -> overall literacy rate - 81%
 2. male - 87%

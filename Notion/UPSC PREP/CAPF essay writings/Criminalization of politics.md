@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 NCRB - conviction rate - 40% in ordinary crimes and 20% in heinous crimes
 ADR - 
 	1. 43% of winners of 2019 LS election had criminal cases

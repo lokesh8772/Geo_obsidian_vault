@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Governance
+  - flashcards
 ---
 ### balwantrai mehta committee
 1. 1957

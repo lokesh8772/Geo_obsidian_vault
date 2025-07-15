@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 ## Table: Parts of the Indian Constitution and Their Brief Content
 

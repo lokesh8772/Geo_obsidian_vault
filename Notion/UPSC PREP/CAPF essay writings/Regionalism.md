@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 ### types = 
 1. Secessionsim - tendency to withdraw from the union - often backed by militant and fundamentalist movements
 	1. J&K

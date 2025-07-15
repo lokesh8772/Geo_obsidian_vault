@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Judiciary
+  - flashcards
 ---
 1. originally not in the COI, 
 2. 42nd CAA 1976 added part 14A in the COI named "tribunals."

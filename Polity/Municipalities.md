@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Governance
+  - flashcards
 ---
 
 1. origin - british rule

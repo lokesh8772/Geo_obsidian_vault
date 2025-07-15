@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 **Key Supreme Court Cases on Constitutional Interpretation (Important for UPSC Exams)**
 

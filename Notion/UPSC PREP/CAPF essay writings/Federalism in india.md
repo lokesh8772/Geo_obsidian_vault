@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 examples -
 
 1. 2018 karnataka assembly elections - governor invited party with less seats to form the govt(BJP)

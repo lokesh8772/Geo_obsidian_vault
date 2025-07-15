@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. all money bills are financial bills
 #### financial bill (I) 

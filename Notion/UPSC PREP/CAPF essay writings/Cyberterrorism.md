@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 **avg cost of cyberattacks is $4.88 million in 2024**
 annual cost - $10.5 Trillion
 **distinct from cybercrime in the motivation** -> political, religious or ideological

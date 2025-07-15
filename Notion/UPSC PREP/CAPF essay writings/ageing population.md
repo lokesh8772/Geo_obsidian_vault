@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 ### trends
 1. people above 60yrs will double by 2050
 2. india's median age- 28 yrs

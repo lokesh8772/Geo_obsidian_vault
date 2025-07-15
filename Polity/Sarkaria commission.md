@@ -4,6 +4,7 @@ tags:
   - GS2
   - commission
   - Center-state
+  - flashcards
 ---
 
 setup in 1983 -> reported in 1988

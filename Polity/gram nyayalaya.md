@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Judiciary
+  - flashcards
 ---
 1. gram nyayalaya act 2008
 2. at taluk level panchayat, or for a group of panchayats

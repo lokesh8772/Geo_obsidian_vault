@@ -2,7 +2,8 @@
 tags:
   - Polity
   - GS2
-related:
+  - flashcards
+related: 
 ---
 1. 1981
 2. regarding the consultation of the president with CJI

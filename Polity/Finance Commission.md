@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Constitutional_Bodies
+  - flashcards
 ---
 1. 1+4 membership
 2. parliament can determine the qualifications

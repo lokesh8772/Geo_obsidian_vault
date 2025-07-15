@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - Constitutional_Bodies
+  - flashcards
 ---
 
 1. art 338 -> provided for special officer for SCs and STs

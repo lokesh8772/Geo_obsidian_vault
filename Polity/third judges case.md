@@ -2,6 +2,7 @@
 tags:
   - Polity
   - GS2
+  - flashcards
 ---
 1. 1998
 2. CJI should consult 4 senior most judges for appointments

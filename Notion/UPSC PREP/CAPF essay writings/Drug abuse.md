@@ -1,3 +1,8 @@
+---
+tags:
+  - CAPF-essaywritings
+  - flashcards
+---
 ### data
 1. past decade - 20% increase in drug abuse
 2. Cannabis - largest ....use
