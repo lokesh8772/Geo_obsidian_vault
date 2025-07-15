@@ -20,6 +20,21 @@ tags:
 1. 20-25 kms range
 2. formed at higher altitudes and transported downwards
 3. < 0.00005% by volume
+4. three types of UV -
+	1. UVA - reacches to deep sea levels
+	2. UVB - reaches to surface
+	3. UVC -> most energetic -> blocked by ozone
 
 ### Troposphere
-1. thic
+1. 8-18 km thick
+2. thicker at equator - heated air rises to more heights.
+3. all weather phenomema occurs here(clouds, jet streams..)
+4. lapse rate = 5 degree per km.
+5. at the top -> equitorial region colder than polar region (lapse rate, more kms.)\
+### stratosphere
+1. temp rise - 5 degree per km in ozonosphere
+2. at first temp constant then rises (ozone -> 20-25km)
+3. airplanes....
+
+### thermosphere
+1. ionosphere - > used for radio transmission(reflected by it.)
