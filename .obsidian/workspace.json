@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
+                "file": "Geography/Volcanoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "Volcanoes"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Mountains.md",
+                "file": "Geography/plateau.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mountains"
+              "title": "plateau"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "landform",
+                "query": "volcanic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,13 +230,15 @@
   },
   "active": "b6359d3627d1ebbe",
   "lastOpenFiles": [
-    "Geography/winds.md",
     "Geography/Mountains.md",
+    "Geography/plateau.md",
+    "Geography/Volcanoes.md",
+    "Geography/Volcanic landforms.md",
+    "UPSC  GS topics.md",
+    "Geography/winds.md",
     "Geography/Landforms.md",
     "Geography/mechanical erosion.md",
-    "UPSC  GS topics.md",
     "dataview practice.md",
-    "Geography/Volcanoes.md",
     "Geography/Arid depositional landforms.md",
     "Daily notes/2025-06-26.md",
     "Polity/Sarkaria commission.md",
@@ -246,7 +248,6 @@
     "Polity/NITI aayog.md",
     "Daily notes/2025-06-28.md",
     "Polity/DPSP.md",
-    "Geography/Volcanic landforms.md",
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
     "Geography/Earth layers.md",
@@ -255,7 +256,6 @@
     "Geography/Rocks.md",
     "Templates/Geography Template.md",
     "Geography/solstice.md",
-    "Geography/india - basics.md",
     "images/Pasted image 20250713160143.png",
     "Geography",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
