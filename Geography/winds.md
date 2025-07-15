@@ -3,6 +3,7 @@ tags:
   - Geography
   - GS1
 ---
+### hot winds
 
 | name          | place                                                                                                                   |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -21,3 +22,16 @@ tags:
 | zonda         | angentina and uruguay                                                                                                   |
 | brick fielder | australia                                                                                                               |
 | Berg          | south africa                                                                                                            |
+
+### cold winds
+
+| name          | place                          |
+| ------------- | ------------------------------ |
+| Bora          | italy, adriatic sea            |
+| levanter      | spain and france               |
+| zonda         | argentina..                    |
+| pampero       | south america(pampas region)   |
+| mistral       | france, spain                  |
+| blizzard      | USA and canada                 |
+| gregale       | southern europe(mediterranian) |
+| south burster |                                |
