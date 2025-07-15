@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,16 +28,22 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "dataview practice"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9f7fc694884e65da",
+        "type": "tabs",
+        "children": [
           {
             "id": "0fcae40b55a4bf18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Arid depositional landforms.md",
+                "file": "dataview practice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +58,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arid depositional landforms"
+              "title": "dataview practice"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "state list",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -229,10 +233,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0fcae40b55a4bf18",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/mechanical erosion.md",
+    "UPSC  GS topics.md",
+    "dataview practice.md",
     "Geography/Arid depositional landforms.md",
+    "Geography/mechanical erosion.md",
     "Geography/Landforms.md",
     "Daily notes/2025-06-26.md",
     "Polity/Sarkaria commission.md",
@@ -250,14 +256,12 @@
     "Geography/Minerals.md",
     "Geography/Theories for continents....md",
     "Geography/Rocks.md",
-    "dataview practice.md",
     "Templates/Geography Template.md",
     "Geography/solstice.md",
     "Geography/india - basics.md",
     "Geography/Apehelion,Perihelion.md",
     "Geography/theories for continents....md",
     "images/Pasted image 20250713160143.png",
-    "Templates/Polity notes template.md",
     "Geography",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",

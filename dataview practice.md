@@ -1,5 +1,5 @@
 ```dataview
 list
 FROM ""
-WHERE contains(tags,"Polity")
+WHERE file.cday >= date("2025-07-11")
 ```
