@@ -38,3 +38,5 @@ tags:
 
 ### thermosphere
 1. ionosphere - > used for radio transmission(reflected by it.)
+
+[[aurora]]
