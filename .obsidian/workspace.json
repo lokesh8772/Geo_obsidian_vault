@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Volcanoes.md",
+                "file": "Polity/Amendments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Volcanoes"
+              "title": "Amendments"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "2025-06-28"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,9 +227,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6359d3627d1ebbe",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
     "Geography/Volcanoes.md",
+    "Polity/Amendments.md",
     "Daily notes/2025-06-28.md",
     "Daily notes/2025-06-26.md",
     "Geography/Atmosphere.md",
@@ -256,7 +256,6 @@
     "Geography/Earth interior.md",
     "Geography/Earthquake.md",
     "Geography/Earth layers.md",
-    "Geography/Minerals.md",
     "images/Pasted image 20250713160143.png",
     "Geography",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
