@@ -3,6 +3,11 @@ tags:
   - Geography
   - GS1
 ---
+1. arid landforms
+2. riverine landforms
+3. marine landforms
+4. karst landforms
+5. glacial landforms
 
 | landform           | description                                                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
