@@ -36,4 +36,9 @@ is physical removal and transportation of weathered matter by wind, ice, water..
 #### wind erosion
 1. deflation - transporting of matte in the wind
 2. abrasion - through sand - blasting like mechanism
-3. 
+#### mass wasting
+1. slump -
+	1. ![[Pasted image 20250715191632.png]]
+
+2. creep
+	1. gradual(slowest) mass wasting occurring on every hill due to gravity. -> evident by the bent trees.
