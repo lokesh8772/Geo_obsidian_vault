@@ -28,10 +28,10 @@ tags:
 | name          | place                          |
 | ------------- | ------------------------------ |
 | Bora          | italy, adriatic sea            |
-| levanter      | spain and france               |
-| zonda         | argentina..                    |
+| levanter      | spain                          |
 | pampero       | south america(pampas region)   |
 | mistral       | france, spain                  |
 | blizzard      | USA and canada                 |
 | gregale       | southern europe(mediterranian) |
-| south burster |                                |
+| south burster | Australia                      |
+| virasen       | peru and chile                 |
