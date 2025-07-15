@@ -29,3 +29,8 @@ tags:
 | ria                | a coastal inlet formed by partial submergence of an unglaciated river valley                                                                                                                  |
 | fjord              | irrgular coastline due to glacial erosion, steep sides, deeper than ria, u shaped valleys ..                                                                                                  |
 | dalmation          | coast by submergence of a mountain ridges -> alternate crest and trough -> ex - yugoslavia...                                                                                                 |
+| pediment           | erosional landform -> gentle slope, connect a mountain with a bolson... concave slope                                                                                                         |
+| bolson             | a flat surface surrounded by hills, not outlet for incoming water from the hills,                                                                                                             |
+| playa              | in the lowest part of bolson -> completely flat surface(most flat on earth) -> ephemeral streams carry water -> accumulate                                                                    |
+| salina             | playas that are very saline(as playas generally don't have any outlet -> only loss is due to evaporation)                                                                                     |
+| bajada             | formed due to accumulation of alluvial fans, -> gentle slope -> depositional landforms.                                                                                                       |
