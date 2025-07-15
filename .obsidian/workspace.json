@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "2025-06-28"
             }
+          },
+          {
+            "id": "9664d9b0e752ee8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-06-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-01"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +219,7 @@
             }
           },
           {
-            "id": "f9ca873b710d7622",
+            "id": "4fddd09b5b163472",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -227,11 +251,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "9664d9b0e752ee8a",
   "lastOpenFiles": [
-    "Geography/Volcanoes.md",
-    "Polity/Amendments.md",
+    "Daily notes/2025-05-31.md",
+    "economy/Velocity of money.md",
+    "economy/NEER and REER.md",
+    "Daily notes/2025-06-01.md",
     "Daily notes/2025-06-28.md",
+    "Polity/Amendments.md",
+    "Geography/Volcanoes.md",
     "Daily notes/2025-06-26.md",
     "Geography/Atmosphere.md",
     "Geography/aurora.md",
@@ -252,10 +280,6 @@
     "Daily notes/2025-06-27.md",
     "Article 163.md",
     "Polity/NITI aayog.md",
-    "Polity/DPSP.md",
-    "Geography/Earth interior.md",
-    "Geography/Earthquake.md",
-    "Geography/Earth layers.md",
     "images/Pasted image 20250713160143.png",
     "Geography",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
