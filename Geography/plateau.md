@@ -10,4 +10,5 @@ tags:
 2. peidmont - 
 	1. foot of a moutain
 	2. ex - patagonian plateau
-3. volcanic plateau
+3. volcanic plateau - 
+	1. ex- deccan plateau

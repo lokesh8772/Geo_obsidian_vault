@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/plateau.md",
+                "file": "Geography/Denudation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "plateau"
+              "title": "Denudation"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "b6359d3627d1ebbe",
   "lastOpenFiles": [
-    "Geography/Mountains.md",
     "Geography/plateau.md",
+    "Geography/Denudation.md",
+    "Geography/Mountains.md",
     "Geography/Volcanoes.md",
     "Geography/Volcanic landforms.md",
     "UPSC  GS topics.md",
@@ -255,7 +256,6 @@
     "Geography/Theories for continents....md",
     "Geography/Rocks.md",
     "Templates/Geography Template.md",
-    "Geography/solstice.md",
     "images/Pasted image 20250713160143.png",
     "Geography",
     "Notion/UPSC PREP/CAPF essay writings/Untitled",
