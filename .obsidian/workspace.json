@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Denudation.md",
+                "file": "Geography/cosmic bodies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Denudation"
+              "title": "cosmic bodies"
             }
           }
         ],
@@ -229,9 +229,10 @@
   },
   "active": "b6359d3627d1ebbe",
   "lastOpenFiles": [
+    "Geography/Denudation.md",
+    "Geography/cosmic bodies.md",
     "Pasted image 20250715191632.png",
     "Geography/plateau.md",
-    "Geography/Denudation.md",
     "Geography/Mountains.md",
     "Geography/Volcanoes.md",
     "Geography/Volcanic landforms.md",
@@ -274,7 +275,6 @@
     "images/IMG_20250123_121559_162.jpg",
     "images/IMG_20250123_121719_333.jpg",
     "IMG_20250123_121723_943 1.jpg",
-    "IMG_20250123_121719_333.jpg",
     "Untitled.canvas"
   ]
 }
