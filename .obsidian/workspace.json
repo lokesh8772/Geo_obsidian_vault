@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Amendments.md",
+                "file": "Gvot initiatives/PM-KUSUM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amendments"
+              "title": "PM-KUSUM"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,17 +223,17 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
+    "Polity/Amendments.md",
     "Polity/7th CAA.md",
     "Polity/High court.md",
     "Polity/Governor.md",
     "Daily notes/2025-06-28.md",
-    "Polity/Amendments.md",
     "Daily notes/2025-07-05.md",
     "Daily notes/2025-07-02.md",
     "Daily notes/2025-06-30.md",
@@ -254,7 +254,6 @@
     "Daily notes/2025-06-10.md",
     "Daily notes/2025-06-09.md",
     "Daily notes/2025-06-08.md",
-    "Daily notes/2025-06-07.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",

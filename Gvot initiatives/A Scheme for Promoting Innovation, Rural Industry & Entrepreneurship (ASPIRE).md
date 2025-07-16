@@ -1,3 +1,9 @@
+---
+sr-due: 2025-07-16
+sr-interval: 1
+sr-ease: 230
+---
+
 # A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE)
 
 **Year of Start:** 2015

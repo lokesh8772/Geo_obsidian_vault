@@ -1,7 +1,9 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      "#flashcards",
+      "#Polity",
+      "#Economy"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -27,8 +29,8 @@
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
-    "openRandomNote": false,
-    "autoNextNote": false,
+    "openRandomNote": true,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "showRibbonIcon": true,
@@ -42,7 +44,7 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
-    "openViewInNewTab": false,
+    "openViewInNewTab": true,
     "algorithm": "SM-2-OSR",
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
