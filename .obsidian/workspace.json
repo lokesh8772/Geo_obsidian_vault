@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-04.md",
+                "file": "Polity/Imp cases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-04"
+              "title": "Imp cases"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imp c",
+                "query": "cases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,13 +251,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "0bd1f92de0a62919",
   "lastOpenFiles": [
+    "Polity/Imp cases.md",
+    "Daily notes/2025-06-04.md",
     "Daily notes/2025-06-24.md",
     "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Hidkal Dam.md",
-    "Daily notes/2025-06-04.md",
     "Polity/7th CAA.md",
     "Polity/art 143.md",
     "Templates/Geography Template.md",
@@ -278,7 +279,6 @@
     "Polity/Amendments.md",
     "Polity/High court.md",
     "Polity/Governor.md",
-    "Daily notes/2025-06-28.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
