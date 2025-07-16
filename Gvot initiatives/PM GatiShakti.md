@@ -71,5 +71,4 @@ All stakeholders involved in infrastructure planning and development, including 
 - Monitoring the impact of PM GatiShakti on reducing logistics costs and improving project timelines.
 
 ### 🔗 **Tags**
-#InfrastructureDevelopment #MultiModalConnectivity #LogisticsEfficiency #IntegratedPlanning #GatiShakti #review #review
-#review
+#InfrastructureDevelopment #MultiModalConnectivity #LogisticsEfficiency #IntegratedPlanning #GatiShakti #review 
