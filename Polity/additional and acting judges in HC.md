@@ -3,6 +3,9 @@ tags:
   - Polity
   - GS2
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 1. POI can appoint any duly qualified person as additional HC judge in cases of - 
 	1. temporary increase in work load

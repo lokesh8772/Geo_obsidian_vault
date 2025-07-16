@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:35
+se-ease: 2.5
+---
 # Credit Guarantee Scheme
 
 **Year of Start:** [Scheme has evolved over time, with the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) being a key implementation body established in 2000]

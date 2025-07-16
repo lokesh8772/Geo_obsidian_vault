@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:37
+se-ease: 2.5
+---
 for app based aggregators like ola, uber, rapido
 1. for the first time allowed non-transport  bike for ride hailing
 2. requires training, and insurance for the driver

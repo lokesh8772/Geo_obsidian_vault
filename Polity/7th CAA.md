@@ -6,6 +6,9 @@ tags:
   - "#Governor"
   - Judiciary
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 1. 1956
 2. facilitated for the appointment of same person for the post of governor for **two or more states**

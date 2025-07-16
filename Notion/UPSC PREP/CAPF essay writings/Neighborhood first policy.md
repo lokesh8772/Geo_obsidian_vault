@@ -2,6 +2,9 @@
 tags:
   - CAPF-essaywritings
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:33
+se-ease: 2.5
 ---
 quote - *a polity like india should display the wisdom of treating its prosperity as a lifting tide for the entire region*  -- S Jaishankar (the india way)
 1. NEP - 2008

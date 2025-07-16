@@ -3,6 +3,9 @@ tags:
   - Polity
   - GS2
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 1. provisions of panchayats(Extension to the scheduled areas) 1996
 2. gram sabha and appropriate level of Panchayat to be consulted before

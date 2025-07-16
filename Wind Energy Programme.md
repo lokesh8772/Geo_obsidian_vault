@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:30
+se-ease: 2.5
+---
 
 ### 🗓️ **Launch Date**
 Began in 1983-84. The National Wind Energy Mission was proposed in the Twelfth Five Year Plan (around 2012-2017).

@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:37
+se-ease: 2.5
+---
 1. ECINET -> a portal combining all of its services(E-governance...)
 2. direct integration of death registration data from Registrar general of India
 3. more clarty and visibility in voter info. slips.

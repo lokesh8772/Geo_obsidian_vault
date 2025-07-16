@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:33
+se-ease: 2.5
+---
 1. total fertility rate - from 2.2 -> 2.0, (ideal replacement level - 2.1)
 2. sex ratio - 1020 / 1000, first time more women than man,
 3. sex ratio at birth - 919 -> 929 / 1000

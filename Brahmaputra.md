@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:37
+se-ease: 2.5
+---
 - origin - ChemYung Dung Glacier tibet near [[maansarover]] in kailash range
 - name - Yarlung Tsangpo in tibet
 - Enters india Near Namcha Barwa(name - Dihang)

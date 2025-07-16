@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:35
+se-ease: 2.5
+---
 # National Bioenergy Programme
 
 ## 1. Started - 2022 (continuation of previous efforts)

@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:37
+se-ease: 2.5
+---
 1. empirical or scientific study of sociology
 2. use of social facts and treat them like things 
 3. quantitative and statistical analysis wherever possible.

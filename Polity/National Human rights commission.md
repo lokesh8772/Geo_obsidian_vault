@@ -4,6 +4,9 @@ tags:
   - GS2
   - Statutory_Bodies
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 1. Statutory body -> Protection of human rights act 1993
 2. members - 

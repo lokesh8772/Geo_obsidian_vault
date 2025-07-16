@@ -5,6 +5,9 @@ tags:
   - commission
   - Center-state
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 
 setup in 1983 -> reported in 1988

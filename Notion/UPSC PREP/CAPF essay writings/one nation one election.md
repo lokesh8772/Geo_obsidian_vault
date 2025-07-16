@@ -2,6 +2,9 @@
 tags:
   - CAPF-essaywritings
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:33
+se-ease: 2.5
 ---
 1. till 1967 india had simultaneous elections
 2. 2024 LS election - 1.35 lakh crore - surpassing US 2020 election → 1.2 lakh crore.

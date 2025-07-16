@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:32
+se-ease: 2.5
+---
 Art 93 → mandates election of speaker and deputy speaker as soon as may be
 
 Art 94 → continue to serve until resignation or removal

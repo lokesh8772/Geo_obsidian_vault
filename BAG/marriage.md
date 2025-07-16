@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:37
+se-ease: 2.5
+---
 a legally or socially accepted bond , typically between two individual, regulating sexual and economic relationship, forming new social connections, and providing a framework for procreation and raising of children
 ### types of marriage
 #### based on the selection of the mate

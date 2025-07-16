@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:34
+se-ease: 2.5
+---
 
 ### 🗓️ **Launch Date**
 January 1, 2017 (renamed from Indira Gandhi Matritva Sahyog Yojana, launched in 2010)

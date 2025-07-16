@@ -2,6 +2,9 @@
 tags:
   - CAPF-essaywritings
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:33
+se-ease: 2.5
 ---
 started as movement agianst perceived state atrocities and oppression in the tribal areas of west bengal.
 

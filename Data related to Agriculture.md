@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:36
+se-ease: 2.5
+---
 1. 52% of Gross sown area - assured irrigation
 2. irrigation - 60% Ground water, 40% canal network
 3. 17% GW areas - over-exploited.

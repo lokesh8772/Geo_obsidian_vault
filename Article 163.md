@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:37
+se-ease: 2.5
+---
 Article 163 of the Indian Constitution defines the role of the Council of Ministers in relation to the Governor in the states. Here are its key provisions:
 
 - **Council of Ministers to Aid and Advise:** There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except in matters where the Governor is required by or under the Constitution to act in his discretion

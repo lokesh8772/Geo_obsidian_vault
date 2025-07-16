@@ -4,6 +4,9 @@ tags:
   - GS2
   - Judiciary
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 
 1. legal services authorites act 1987 amended in 2002 to provide for PLA

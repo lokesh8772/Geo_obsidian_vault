@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:36
+se-ease: 2.5
+---
 NEER - nominal effective exchange rate
 the amount of basket of foreign currency that can be baught by a fixed amount of domestic currency(rupee)
 and not the amount of domestic currency needed to buy a fixed basket of foreign currencies.

@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:35
+se-ease: 2.5
+---
 # Credit Linked Capital Subsidy Scheme for Technology Upgradation (CLCSS)
 
 **Year of Start:** [Scheme has evolved over time, with significant modifications in later years]

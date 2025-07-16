@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:35
+se-ease: 2.5
+---
 # Financial Support to MSMEs in ZED Certification Scheme
 
 **Year of Start:** [Likely launched as part of broader ZED initiatives, with specific financial support schemes evolving]

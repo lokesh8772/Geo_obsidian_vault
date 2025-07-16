@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:33
+se-ease: 2.5
+---
 1. india - 46% population in working age.
 2. PLFS monthly unempolyment rate - 5.2%.(2025), 
 	1. rural - male >female

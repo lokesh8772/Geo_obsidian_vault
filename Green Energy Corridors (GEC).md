@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:35
+se-ease: 2.5
+---
 
 
 ## 1. Started - 2015 (Phase I), 2021-22 (Phase II - InSTS), 2023 (Phase II - ISTS Ladakh)

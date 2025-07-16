@@ -2,6 +2,9 @@
 tags:
   - Geography
   - GS1
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:36
+se-ease: 2.5
 ---
 ### comet
 1. dirty snowballs -> composed to dry ice,forzen methane, or amonia -> have dirt or small rocks inside.

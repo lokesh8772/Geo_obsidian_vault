@@ -4,6 +4,9 @@ tags:
   - GS2
   - Constitutional_Bodies
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 1. mandal case judgement 1992 -> SC directed govt to establish a statutory body to **examine the complaints of over, under or non-inclusion** of any class of citizens in the list of BCs
 2. statutary establishment- 1993

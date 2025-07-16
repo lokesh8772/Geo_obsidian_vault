@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:34
+se-ease: 2.5
+---
 
 ### 🗓️ **Launch Date**
 August 16, 2023 (announced), Payment Security Mechanism notified October 28, 2024.

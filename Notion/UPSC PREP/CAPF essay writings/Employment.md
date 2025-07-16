@@ -2,6 +2,9 @@
 tags:
   - CAPF-essaywritings
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:33
+se-ease: 2.5
 ---
 1. 65% population < 35 yrs
 2. informal sector - 90 % of workforce

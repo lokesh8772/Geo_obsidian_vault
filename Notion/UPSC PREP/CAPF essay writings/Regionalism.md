@@ -2,6 +2,9 @@
 tags:
   - CAPF-essaywritings
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:33
+se-ease: 2.5
 ---
 ### types = 
 1. Secessionsim - tendency to withdraw from the union - often backed by militant and fundamentalist movements

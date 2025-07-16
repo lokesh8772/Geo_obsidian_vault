@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:37
+se-ease: 2.5
+---
 1. term BRIC -> 2001
 2. first BRICS summit= 2006
 3. no headquarter

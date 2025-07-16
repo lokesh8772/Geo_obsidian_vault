@@ -3,6 +3,9 @@ tags:
   - Polity
   - GS2
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 #### first schedule 
 1. territories of india

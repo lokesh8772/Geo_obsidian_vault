@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:35
+se-ease: 2.5
+---
 # 📌 Ayushman Bharat
 
 Ayushman Bharat is a flagship scheme of the Government of India aiming to achieve Universal Health Coverage (UHC). It was launched in line with the recommendations of the National Health Policy 2017 and aligns with the Sustainable Development Goals (SDGs) commitment to "leave no one behind." Ayushman Bharat adopts a continuum of care approach with two main components:

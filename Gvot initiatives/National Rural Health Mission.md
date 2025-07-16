@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:35
+se-ease: 2.5
+---
 
 
 **Note:** The National Rural Health Mission (NRHM) was launched in 2005 and in 2013, it was integrated with the National Urban Health Mission (NUHM) under the overarching **National Health Mission (NHM)**. Therefore, while NRHM as a separate entity is no longer the primary mission, its objectives and many of its programs continue under the NHM. This summary focuses on NRHM's original mandate and its current relevance within the NHM framework.

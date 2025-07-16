@@ -4,6 +4,9 @@ tags:
   - GS2
   - Judiciary
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 SC under art - 129
 HC under art - art 215

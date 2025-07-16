@@ -1,3 +1,8 @@
+---
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:30
+se-ease: 2.5
+---
 1. [[Indian Council of Agricultural Reaearch|ICAR]] - Dept of agri research and Education -> agro min.
 2. [[Council of Scientific and Industrial Research|CSIR]] -> centre for scientific and industrial research -> Min of science and tech
 3. DRDO -> Min of defence

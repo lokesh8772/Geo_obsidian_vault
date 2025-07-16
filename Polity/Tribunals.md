@@ -4,6 +4,9 @@ tags:
   - GS2
   - Judiciary
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 1. originally not in the COI, 
 2. 42nd CAA 1976 added part 14A in the COI named "tribunals."

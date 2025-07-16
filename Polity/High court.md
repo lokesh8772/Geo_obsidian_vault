@@ -4,6 +4,9 @@ tags:
   - GS2
   - Judiciary
   - flashcards
+se-interval: 1
+se-last-reviewed: 2025-07-16T02:47:31
+se-ease: 2.5
 ---
 1. strength of a HC is determined by the POI from time to time
 2. total HC  - 25
