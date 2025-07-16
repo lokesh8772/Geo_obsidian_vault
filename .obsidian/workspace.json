@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
-                "mode": "preview",
+                "file": "Daily notes/2025-06-24.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atmanirbhar Bharat Abhiyan"
+              "title": "2025-06-24"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FDI",
+                "query": "imp c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,11 +251,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bd1f92de0a62919",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
+    "Daily notes/2025-06-24.md",
+    "Gvot initiatives/PM-KUSUM.md",
+    "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+    "Hidkal Dam.md",
     "Daily notes/2025-06-04.md",
     "Polity/7th CAA.md",
-    "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Polity/art 143.md",
     "Templates/Geography Template.md",
     "Templates/Daily notes template.md",
@@ -263,7 +266,6 @@
     "Geography/Apehelion,Perihelion.md",
     "Geography/Arid depositional landforms.md",
     "Daily notes/2025-06-07.md",
-    "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/PM GatiShakti.md",
     "Periyar Diversion Canal.md",
     "G-7.md",
@@ -277,8 +279,6 @@
     "Polity/High court.md",
     "Polity/Governor.md",
     "Daily notes/2025-06-28.md",
-    "Daily notes/2025-07-05.md",
-    "Daily notes/2025-07-02.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",

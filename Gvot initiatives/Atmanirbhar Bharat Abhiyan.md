@@ -7,6 +7,9 @@ se-last-reviewed: 2025-07-16T02:47:35
 se-ease: 2.5
 tags:
   - review
+sr-due: 2026-02-06
+sr-interval: 205
+sr-ease: 250
 ---
 
 
