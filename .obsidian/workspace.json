@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/art 143.md",
-                "mode": "source",
+                "file": "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "art 143"
+              "title": "Atmanirbhar Bharat Abhiyan"
             }
           }
         ],
@@ -252,8 +252,8 @@
   },
   "active": "0bd1f92de0a62919",
   "lastOpenFiles": [
-    "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Polity/art 143.md",
+    "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Templates/Geography Template.md",
     "Templates/Daily notes template.md",
     "Templates/Polity notes template.md",
