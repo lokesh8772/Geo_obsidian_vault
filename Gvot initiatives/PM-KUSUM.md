@@ -58,7 +58,7 @@ To enhance farmers' income, provide irrigation sources, de-dieselize the agricul
 - Efforts to streamline the application and approval processes.
 - Collaboration with financial institutions to facilitate loans for farmers.
 - Continued emphasis on promoting domestic manufacturing of solar components.
-/spa
+
 ### 🔗 **Tags**
 #GovtSchemes #SolarEnergy #Agriculture #RenewableEnergy #FarmersWelfare
 

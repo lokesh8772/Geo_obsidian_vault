@@ -34,5 +34,7 @@
   "includeShortThoughtInAlias": true,
   "shortCapturedThoughtThreshold": 200,
   "openCapturedThoughtInNewTab": false,
-  "onboardingExcludedFolders": []
+  "onboardingExcludedFolders": [
+    "Templates"
+  ]
 }
