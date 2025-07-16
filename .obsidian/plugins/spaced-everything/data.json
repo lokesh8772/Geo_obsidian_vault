@@ -1,0 +1,38 @@
+{
+  "logFilePath": "",
+  "logOnboardAction": true,
+  "logRemoveAction": true,
+  "logNoteTitle": true,
+  "logFrontMatterProperties": [],
+  "contexts": [],
+  "spacingMethods": [
+    {
+      "name": "SuperMemo 2.0 (Simplified)",
+      "spacingAlgorithm": "SuperMemo2.0",
+      "customScriptFileName": "",
+      "reviewOptions": [
+        {
+          "name": "Hard",
+          "score": 1
+        },
+        {
+          "name": "Good",
+          "score": 3
+        },
+        {
+          "name": "Easy",
+          "score": 5
+        }
+      ],
+      "defaultInterval": 1,
+      "defaultEaseFactor": 2.5
+    }
+  ],
+  "capturedThoughtTitleTemplate": "Inbox {{unixtime}}",
+  "capturedThoughtDirectory": "",
+  "capturedThoughtNoteTemplate": "## Captured thought\n{{thought}}",
+  "includeShortThoughtInAlias": true,
+  "shortCapturedThoughtThreshold": 200,
+  "openCapturedThoughtInNewTab": false,
+  "onboardingExcludedFolders": []
+}
