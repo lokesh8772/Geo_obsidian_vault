@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periyar Diversion Canal.md",
+                "file": "dataview practice.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Periyar Diversion Canal"
+              "title": "dataview practice"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "2025-05-31"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cases",
+                "query": "datavi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,8 +250,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bd1f92de0a62919",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Periyar Diversion Canal.md",
+    "Polity/Imp cases.md",
+    "Daily notes/2025-05-31.md",
     "Gvot initiatives/PM-KUSUM.md",
     "Polity/Utilitarianism.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Intellectual Property Rights.md",
@@ -261,7 +263,6 @@
     "Geography/Mountains.md",
     "Gvot initiatives/PM GatiShakti.md",
     "Daily notes/2025-06-24.md",
-    "Polity/Imp cases.md",
     "Daily notes/2025-06-04.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Hidkal Dam.md",
@@ -273,12 +274,10 @@
     "Geography/Apehelion,Perihelion.md",
     "Geography/Arid depositional landforms.md",
     "Daily notes/2025-06-07.md",
-    "Periyar Diversion Canal.md",
     "G-7.md",
     "Welcome.md",
     "BAG/Infulences on Durkheim.md",
     "Daily notes/2025-06-02.md",
-    "hills glaciers etc/Trans Himalaya.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
