@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/7th CAA.md",
+                "file": "Daily notes/2025-06-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7th CAA"
+              "title": "2025-06-04"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FDI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,8 +253,10 @@
   },
   "active": "0bd1f92de0a62919",
   "lastOpenFiles": [
-    "Polity/art 143.md",
+    "Daily notes/2025-06-04.md",
+    "Polity/7th CAA.md",
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+    "Polity/art 143.md",
     "Templates/Geography Template.md",
     "Templates/Daily notes template.md",
     "Templates/Polity notes template.md",
@@ -271,13 +274,11 @@
     "Ramganga.md",
     "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
     "Polity/Amendments.md",
-    "Polity/7th CAA.md",
     "Polity/High court.md",
     "Polity/Governor.md",
     "Daily notes/2025-06-28.md",
     "Daily notes/2025-07-05.md",
     "Daily notes/2025-07-02.md",
-    "Daily notes/2025-06-30.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
