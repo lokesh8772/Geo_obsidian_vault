@@ -2,6 +2,8 @@
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:31
 se-ease: 2.5
+tags:
+  - review
 ---
 1. computing using qubits(quantum bits) instead of classical bits
 2. works on quantum mechanics not classical physics

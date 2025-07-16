@@ -2,6 +2,8 @@
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:37
 se-ease: 2.5
+tags:
+  - review
 ---
 Article 163 of the Indian Constitution defines the role of the Council of Ministers in relation to the Governor in the states. Here are its key provisions:
 

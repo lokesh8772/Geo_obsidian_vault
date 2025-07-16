@@ -5,6 +5,8 @@ sr-ease: 230
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:35
 se-ease: 2.5
+tags:
+  - review
 ---
 
 # A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE)

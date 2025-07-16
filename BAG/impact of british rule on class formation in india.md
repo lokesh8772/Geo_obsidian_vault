@@ -2,6 +2,8 @@
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:37
 se-ease: 2.5
+tags:
+  - review
 ---
 1. emergence of a new **landlord** class - 
 	1. this was different from the traditional landowners, as they didn't have any historical connections with the land, and were only interested in the collection of revenue, often living in distant urban areas,

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Arid depositional landforms.md",
+                "file": "Polity/art 143.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arid depositional landforms"
+              "title": "art 143"
             }
           }
         ],
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -253,7 +252,13 @@
   },
   "active": "0bd1f92de0a62919",
   "lastOpenFiles": [
+    "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+    "Polity/art 143.md",
+    "Templates/Geography Template.md",
+    "Templates/Daily notes template.md",
+    "Templates/Polity notes template.md",
     "Geography/Apehelion,Perihelion.md",
+    "Geography/Arid depositional landforms.md",
     "Daily notes/2025-06-07.md",
     "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/PM GatiShakti.md",
@@ -273,12 +278,6 @@
     "Daily notes/2025-07-05.md",
     "Daily notes/2025-07-02.md",
     "Daily notes/2025-06-30.md",
-    "Daily notes/2025-06-29.md",
-    "Daily notes/2025-06-27.md",
-    "Daily notes/2025-06-26.md",
-    "Daily notes/2025-06-25.md",
-    "Daily notes/2025-06-24.md",
-    "Daily notes/2025-06-23.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",

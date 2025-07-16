@@ -2,6 +2,8 @@
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:33
 se-ease: 2.5
+tags:
+  - review
 ---
 the data is of yrs 2022 and comparing from 2021
 1. crime rate -> 445 - 422

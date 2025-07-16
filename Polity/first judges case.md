@@ -3,6 +3,7 @@ tags:
   - Polity
   - GS2
   - flashcards
+  - review
 related: 
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:31

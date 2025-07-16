@@ -2,6 +2,8 @@
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:37
 se-ease: 2.5
+tags:
+  - review
 ---
 1. true foundation of society is modes of production
 	1. forces of production - tools, technology, labour, raw materials

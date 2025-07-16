@@ -1,3 +1,7 @@
+---
+tags:
+  - review
+---
 ```dataview
 list
 FROM ""
