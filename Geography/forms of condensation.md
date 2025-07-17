@@ -20,4 +20,5 @@ tags:
 2. but similar
 3. caused by the airborne particles of dust / smoke etc -> hinders visibility
 ### smog
-1. haze + condensation 
+1. haze + condensation -> somg
+
