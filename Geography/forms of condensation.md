@@ -21,4 +21,5 @@ tags:
 3. caused by the airborne particles of dust / smoke etc -> hinders visibility
 ### smog
 1. haze + condensation -> somg
-
+### clouds
+[[clouds]]
