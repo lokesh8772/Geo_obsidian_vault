@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/winds.md",
+                "file": "Geography/temperature inversion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "winds"
+              "title": "temperature inversion"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/air circulation cells.md",
     "Geography/winds.md",
+    "Geography/temperature inversion.md",
+    "Geography/air circulation cells.md",
     "Templates/Geography Template.md",
     "Templates/Polity notes template.md",
     "Daily notes/2025-06-07.md",
@@ -228,7 +229,6 @@
     "Polity/Utilitarianism.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Intellectual Property Rights.md",
     "Gvot initiatives/manufacturing sector schemes.md",
-    "Daily notes/2025-06-23.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",

@@ -19,7 +19,7 @@ tags:
 2. mountain breeze -
 	1. higher parts -> rapid heating and rapid cooling(better radiation)
 	2. day -> from valley to hill
-	3. 
+	3. [[temperature inversion]]
 
 ### local winds
 [[local winds]]
