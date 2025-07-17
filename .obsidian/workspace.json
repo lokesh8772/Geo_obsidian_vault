@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Pressure belts.md",
+                "file": "Geography/air circulation cells.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pressure belts"
+              "title": "air circulation cells"
             }
           }
         ]
@@ -203,10 +203,11 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Geography/Pressure belts.md",
+    "Geography/air circulation cells.md",
     "Templates/Polity notes template.md",
     "Templates/Geography Template.md",
     "Geography/Apehelion,Perihelion.md",
-    "Geography/Pressure belts.md",
     "Geography/isobars.md",
     "Geography/Coriolis force.md",
     "Daily notes/2025-05-31.md",
@@ -228,7 +229,6 @@
     "Daily notes/2025-06-23.md",
     "Geography/Mountains.md",
     "Daily notes/2025-06-24.md",
-    "Daily notes/2025-06-04.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
