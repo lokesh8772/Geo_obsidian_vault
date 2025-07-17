@@ -20,3 +20,9 @@ total - 7
 5. **horse lattitudes** -> calm conditions -> ships hard to sail -> throw horses -> swim
 ### sub polar low
 1. 45 deg to 66.5 deg
+2. due to coriolis force?
+3. due to ascent of air as a result of convergence of polar eastelies and sub tropical westerlies.
+### polar high
+1. 80-90 deg
+2. due to subsidence of the cold and dry air.
+3. 
