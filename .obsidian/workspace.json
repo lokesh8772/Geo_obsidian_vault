@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "datavi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -250,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "dataview practice.md",
     "Geography/india - basics.md",
