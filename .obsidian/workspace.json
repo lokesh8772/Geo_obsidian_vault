@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Coriolis force.md",
+                "file": "Geography/Pressure belts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coriolis force"
+              "title": "Pressure belts"
             }
           }
         ]
@@ -204,8 +204,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Daily notes/2025-05-31.md",
+    "Geography/isobars.md",
+    "Geography/Pressure belts.md",
     "Geography/Coriolis force.md",
+    "Daily notes/2025-05-31.md",
     "Geography/isotropic wind.md",
     "Geography/Landforms.md",
     "dataview practice.md",
@@ -228,8 +230,6 @@
     "Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Hidkal Dam.md",
     "Polity/7th CAA.md",
-    "Polity/art 143.md",
-    "Templates/Geography Template.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
