@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/dew point.md",
+                "file": "Geography/forms of condensation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dew point"
+              "title": "forms of condensation"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/winds.md",
     "Geography/dew point.md",
+    "Geography/forms of condensation.md",
+    "Geography/winds.md",
     "Geography/adiabatic processes.md",
     "Geography/temperature inversion.md",
     "Geography/air circulation cells.md",
@@ -228,7 +229,6 @@
     "Geography/Earth interior.md",
     "Polity/Imp cases.md",
     "Gvot initiatives/PM-KUSUM.md",
-    "Polity/Utilitarianism.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
