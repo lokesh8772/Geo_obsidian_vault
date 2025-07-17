@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/air circulation cells.md",
+                "file": "Geography/winds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "air circulation cells"
+              "title": "winds"
             }
           }
         ]
@@ -203,10 +203,13 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/Pressure belts.md",
     "Geography/air circulation cells.md",
-    "Templates/Polity notes template.md",
+    "Geography/winds.md",
     "Templates/Geography Template.md",
+    "Templates/Polity notes template.md",
+    "Daily notes/2025-06-07.md",
+    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
+    "Geography/Pressure belts.md",
     "Geography/Apehelion,Perihelion.md",
     "Geography/isobars.md",
     "Geography/Coriolis force.md",
@@ -215,7 +218,6 @@
     "Geography/Landforms.md",
     "dataview practice.md",
     "Geography/india - basics.md",
-    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
     "Geography/Earthquake.md",
     "Gvot initiatives/PM GatiShakti.md",
     "Geography/Earth layers.md",
@@ -227,8 +229,6 @@
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Intellectual Property Rights.md",
     "Gvot initiatives/manufacturing sector schemes.md",
     "Daily notes/2025-06-23.md",
-    "Geography/Mountains.md",
-    "Daily notes/2025-06-24.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
