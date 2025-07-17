@@ -18,8 +18,10 @@ tags:
 	1. day -> from sea to land and vice versa
 2. mountain breeze -
 	1. higher parts -> rapid heating and rapid cooling(better radiation)
-	2. day -> from valley to hill
+	2. day -> from valley to hill -> anabatic , reverse -> katabatic
 	3. [[temperature inversion]]
 
 ### local winds
 [[local winds]]
+
+/commit

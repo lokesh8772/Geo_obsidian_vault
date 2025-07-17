@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/temperature inversion.md",
+                "file": "Geography/winds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "temperature inversion"
+              "title": "winds"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/winds.md",
     "Geography/temperature inversion.md",
+    "Geography/winds.md",
     "Geography/air circulation cells.md",
     "Templates/Geography Template.md",
     "Templates/Polity notes template.md",
