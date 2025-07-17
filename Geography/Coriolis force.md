@@ -12,5 +12,5 @@ tags:
 ### imp 
 1. if the object or wind move along a single lattitude it will not get deflected due to coriolis force.
 2. max at poles and minimum (zero) at equator.
-	1. reason(?) -> both sides of equator deflect the object in opposite direction -> the net perceived deflection might be zero.
-	2. at poles
+	1. reason -> at equator the tangential velocity of the object and the earth are in same direction as here lattitudes are parallel to the direction(east-> west)
+	2. as we move poleward -> lattitudes start bending, so earth's tangential speed at different points along a single lattitude would have different directions -> an object having an initial direction in the tangential direction will be actually crossing the lattitudes upon movement, we would observe this as bending of the path on the map,
