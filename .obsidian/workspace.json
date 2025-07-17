@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/clouds.md",
+                "file": "Geography/Precipitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "clouds"
+              "title": "Precipitation"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/forms of condensation.md",
     "Geography/clouds.md",
+    "Geography/Precipitation.md",
+    "Geography/forms of condensation.md",
     "Geography/dew point.md",
     "Geography/winds.md",
     "Geography/adiabatic processes.md",
@@ -228,7 +229,6 @@
     "Geography/Earth layers.md",
     "Periyar Diversion Canal.md",
     "Geography/Earth interior.md",
-    "Polity/Imp cases.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",

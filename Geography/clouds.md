@@ -22,4 +22,5 @@ tags:
 3. covering large parts of the sky.
 4. formation - 
 	1. loss of heat
-	2. convergence of diff
+	2. mixing of airmasses with different temp.
+5. 
