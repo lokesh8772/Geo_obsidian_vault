@@ -24,4 +24,3 @@ tags:
 ### local winds
 [[local winds]]
 
-/commit
