@@ -18,4 +18,5 @@ when air temp is below freezing point -> small flakes (hexagonal) of snow.
 frozen raindrops and refrozen melted snow-water -
 a mixture of snow and water, or partially melted snow
 ### hail
+precipitation -> hard, round ice pellets - > 5mm -> 50mm size
 
