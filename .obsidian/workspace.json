@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Himalayas.md",
+                "file": "Geography/mountain passes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Himalayas"
+              "title": "mountain passes"
             }
           }
         ]
@@ -203,8 +203,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/Precipitation.md",
+    "Geography/N-E hills(non-himalayan).md",
+    "Geography/mountain passes.md",
     "Geography/Himalayas.md",
+    "Geography/Precipitation.md",
     "Geography/clouds.md",
     "Geography/forms of condensation.md",
     "Geography/dew point.md",
@@ -227,8 +229,6 @@
     "Geography/india - basics.md",
     "Geography/Earthquake.md",
     "Gvot initiatives/PM GatiShakti.md",
-    "Geography/Earth layers.md",
-    "Periyar Diversion Canal.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",

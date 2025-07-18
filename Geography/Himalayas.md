@@ -4,7 +4,7 @@ tags:
   - GS1
   - review
 ---
-## in north india 
+## in north india region
 ### trans himalayas
 ladakh
 1. in ranges and peaks - 
@@ -60,3 +60,29 @@ plains -
 	1. Mahabharat range
 ### shivalik
 1. single range....
+
+## in north east region
+1. Arunachal Pradesh
+	1. Kameng
+	2. namcha barwa
+	3. Dafla hills
+	4. miri hills
+	5. abor hills
+	6. mishmi hills
+2. nagaland 
+	1. naga hills
+	2. saramati peak(HP)
+3. Manipur
+	1. laimatol hills
+	2. Mount iso(tempu)(HP)
+4. Mijoram
+	1. Mijo hills
+	2. Lushai hills
+	3. Blue mountain(Phwangpui)(HP)
+5. Tripura
+	1. Betling sib
+
+6. Arunachal pradesh + assam + Nagaland - patkai bum
+7. Assam + nagaland + Manipur = Barail range
+
+[[N-E hills(non-himalayan)]]
