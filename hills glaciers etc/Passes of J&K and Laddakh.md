@@ -11,3 +11,4 @@ tags:
 4. Photula(Kargil - leh)
 5. Burjila(kargil - [[Indus|Gilgit]])
 6. Khardung la(leh - [[Indus|Nubra river]])
+[[Passes in J&K.pdf]]

@@ -9,3 +9,4 @@ tags:
 2. [[Ravi|Rohtang Pass]],[[Beas|Rohtang Pass]]
 3. [[Chenab|Baralach la]]
 4. Kumzum pass
+[[Passes in HP and UK.pdf]]
