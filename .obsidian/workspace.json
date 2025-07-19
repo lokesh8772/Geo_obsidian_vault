@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marginal Propensity to consume.md",
+                "file": "Geography/Tectonic Plates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Marginal Propensity to consume"
+              "title": "Tectonic Plates"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gs topics",
+                "query": "theories",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,8 +228,13 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/Earth interior.md",
+    "Geography/Volcanoes.md",
+    "Geography/Tectonic Plates.md",
+    "Geography/Theories for continents....md",
     "Marginal Propensity to consume.md",
+    "resources/tectonic plates.png",
+    "resources/Screenshot 2025-07-19 195322.png",
+    "Geography/Earth interior.md",
     "Geography/soil types.md",
     "Templates/economy note template.md",
     "UPSC  GS topics.md",
@@ -251,9 +256,6 @@
     "Geography/mountain passes.md",
     "Geography/hills glaciers etc/Passes of J&K and Laddakh.md",
     "Geography/hills glaciers etc/Passes of UK.md",
-    "Geography/hills glaciers etc/Passes of Sikkim.md",
-    "Geography/hills glaciers etc/hills of Assam.md",
-    "Geography/hills glaciers etc/Great himalaya.md",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
     "resources",
@@ -272,8 +274,6 @@
     "IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121559_162.jpg",
-    "images/IMG_20250123_121719_333.jpg",
-    "IMG_20250123_121723_943 1.jpg",
     "Untitled.canvas"
   ]
 }
