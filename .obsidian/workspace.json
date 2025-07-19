@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Himalayas.md",
+                "file": "Geography/Major climatic zones on earth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Himalayas"
+              "title": "Major climatic zones on earth"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -203,6 +204,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Geography/Himalayas.md",
+    "Geography/Major climatic zones on earth.md",
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
     "Brahmaputra.md",
     "Geography/hills glaciers etc/Trans Himalaya.md",
@@ -211,7 +214,6 @@
     "Geography/hills glaciers etc/hills of Tripura.md",
     "Geography/hills glaciers etc/hills of Nagaland.md",
     "Geography/hills glaciers etc/Hills of Mizoram.md",
-    "Geography/Himalayas.md",
     "Geography/mountain passes.md",
     "Geography/hills glaciers etc/Passes of J&K and Laddakh.md",
     "Geography/hills glaciers etc/Passes of UK.md",
@@ -233,7 +235,6 @@
     "Geography/temperature inversion.md",
     "Geography/air circulation cells.md",
     "Templates/Geography Template.md",
-    "Templates/Polity notes template.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
