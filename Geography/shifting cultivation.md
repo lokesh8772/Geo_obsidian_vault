@@ -22,3 +22,4 @@ tags:
 |**Podu**|Odisha, Andhra Pradesh, India|Millets, pulses, oilseeds|
 |**Kumari**|Western Ghats (Kerala, Karnataka, Maharashtra), India|Rice, millets, various vegetables|
 |**Watra / Batra**|Southeast Rajasthan, India|Millets, maize, pulses|
+d.xzl;
