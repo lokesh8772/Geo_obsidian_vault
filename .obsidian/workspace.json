@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/soil types.md",
+                "file": "Geography/shifting cultivation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "soil types"
+              "title": "shifting cultivation"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/layers of soil.md",
     "Geography/soil types.md",
+    "Geography/shifting cultivation.md",
+    "Geography/layers of soil.md",
     "Geography/Major c.md",
     "Geography/Himalayas.md",
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
@@ -234,7 +235,6 @@
     "Geography/dew point.md",
     "Geography/winds.md",
     "Geography/adiabatic processes.md",
-    "Geography/temperature inversion.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
