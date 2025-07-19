@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Major c.md",
+                "file": "Geography/soil types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Major c"
+              "title": "soil types"
             }
           }
         ]
@@ -204,8 +204,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/Himalayas.md",
+    "Geography/layers of soil.md",
+    "Geography/soil types.md",
     "Geography/Major c.md",
+    "Geography/Himalayas.md",
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
     "Brahmaputra.md",
     "Geography/hills glaciers etc/Trans Himalaya.md",
@@ -233,8 +235,6 @@
     "Geography/winds.md",
     "Geography/adiabatic processes.md",
     "Geography/temperature inversion.md",
-    "Geography/air circulation cells.md",
-    "Templates/Geography Template.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
