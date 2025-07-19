@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Cuddappah vs Vindhyan.md",
+                "file": "Geography/soil types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cuddappah vs Vindhyan"
+              "title": "soil types"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rakas",
+                "query": "types of soil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +204,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Sutlej.md",
+    "Geography/Earth interior.md",
     "Geography/Cuddappah vs Vindhyan.md",
+    "Sutlej.md",
     "Geography/shifting cultivation.md",
     "Geography/soil types.md",
     "Geography/layers of soil.md",
@@ -234,7 +235,6 @@
     "Geography/Precipitation.md",
     "Geography/clouds.md",
     "Geography/forms of condensation.md",
-    "Geography/dew point.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
