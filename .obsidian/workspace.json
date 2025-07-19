@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/shifting cultivation.md",
+                "file": "Geography/Cuddappah vs Vindhyan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "shifting cultivation"
+              "title": "Cuddappah vs Vindhyan"
             }
           }
         ]
@@ -202,10 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/soil types.md",
     "Geography/shifting cultivation.md",
+    "Geography/Cuddappah vs Vindhyan.md",
+    "Geography/soil types.md",
     "Geography/layers of soil.md",
     "Geography/Major c.md",
     "Geography/Himalayas.md",
@@ -234,7 +235,6 @@
     "Geography/forms of condensation.md",
     "Geography/dew point.md",
     "Geography/winds.md",
-    "Geography/adiabatic processes.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",
