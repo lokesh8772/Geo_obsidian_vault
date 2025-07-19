@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/soil types.md",
+                "file": "Marginal Propensity to consume.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "soil types"
+              "title": "Marginal Propensity to consume"
+            }
+          },
+          {
+            "id": "b49143200da15e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPSC  GS topics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UPSC  GS topics"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "types of soil",
+                "query": "gs topics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,10 +229,14 @@
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
     "Geography/Earth interior.md",
+    "Marginal Propensity to consume.md",
+    "Geography/soil types.md",
+    "Templates/economy note template.md",
+    "UPSC  GS topics.md",
+    "economy/NEER and REER.md",
     "Geography/Cuddappah vs Vindhyan.md",
     "Sutlej.md",
     "Geography/shifting cultivation.md",
-    "Geography/soil types.md",
     "Geography/layers of soil.md",
     "Geography/Major c.md",
     "Geography/Himalayas.md",
@@ -231,10 +259,6 @@
     "resources",
     "New folder",
     "images/passes in J&K.mm",
-    "Geography/N-E hills(non-himalayan).md",
-    "Geography/Precipitation.md",
-    "Geography/clouds.md",
-    "Geography/forms of condensation.md",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "Geography",

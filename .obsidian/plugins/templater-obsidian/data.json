@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/Polity notes template.md",
-    "Templates/Geography Template.md"
+    "Templates/Geography Template.md",
+    "Templates/economy note template.md"
   ],
   "startup_templates": [
     ""

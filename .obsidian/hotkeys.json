@@ -81,5 +81,14 @@
       ],
       "key": "3"
     }
-  ]
+  ],
+  "templater-obsidian:create-Templates/economy note template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:insert-templater": []
 }
