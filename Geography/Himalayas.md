@@ -86,3 +86,14 @@ plains -
 7. Assam + nagaland + Manipur = Barail range
 
 [[N-E hills(non-himalayan)]]
+
+## Regional division
+1. Punjab/himachal/kashmir himalayas
+	1. between - indus and sutlej
+2. Kumau or garhwal himalayas
+	1. between -> sutlej and kali
+3. nepal himalayas
+	1. between -> kali and tista
+4. assam himalayas - 
+	1.  between -> tista and brahmaputra
+	2. 
