@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Cuddappah vs Vindhyan.md",
+                "file": "Sutlej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cuddappah vs Vindhyan"
+              "title": "Sutlej"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rakas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +204,8 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/shifting cultivation.md",
     "Geography/Cuddappah vs Vindhyan.md",
+    "Geography/shifting cultivation.md",
     "Geography/soil types.md",
     "Geography/layers of soil.md",
     "Geography/Major c.md",
