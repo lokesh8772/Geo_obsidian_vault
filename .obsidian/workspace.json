@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,6 +228,9 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Sarda.md",
+    "Geography/Himalayas.md",
+    "Kali/Sarda(right).md",
     "dataview practice.md",
     "Geography/Tectonic Plates.md",
     "resources/tectonic plates.png",
@@ -246,7 +249,6 @@
     "Geography/shifting cultivation.md",
     "Geography/layers of soil.md",
     "Geography/Major c.md",
-    "Geography/Himalayas.md",
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
     "Brahmaputra.md",
     "Geography/hills glaciers etc/Trans Himalaya.md",
@@ -254,8 +256,6 @@
     "Geography/hills glaciers etc/Lesser Himalaya.md",
     "Geography/hills glaciers etc/hills of Tripura.md",
     "Geography/hills glaciers etc/hills of Nagaland.md",
-    "Geography/hills glaciers etc/Hills of Mizoram.md",
-    "Geography/mountain passes.md",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
     "resources",

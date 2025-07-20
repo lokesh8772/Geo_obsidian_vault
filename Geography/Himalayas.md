@@ -89,11 +89,11 @@ plains -
 
 ## Regional division
 1. Punjab/himachal/kashmir himalayas
-	1. between - indus and sutlej
+	1. between - [[Indus]] and [[Sutlej]]
 2. Kumau or garhwal himalayas
-	1. between -> sutlej and kali
+	1. between -> [[Sutlej]] and [[Sarda|kali]]
 3. nepal himalayas
-	1. between -> kali and tista
+	1. between -> [[Sarda|kali]] and tista
 4. assam himalayas - 
-	1.  between -> tista and brahmaputra
+	1.  between -> tista and [[Brahmaputra]]
 	2. 
