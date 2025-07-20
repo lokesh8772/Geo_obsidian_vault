@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Major Climatic Zones of Earth.md",
+                "file": "dataview practice.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Major Climatic Zones of Earth"
+              "title": "dataview practice"
             }
           },
           {
@@ -229,6 +229,7 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Geography/Major Climatic Zones of Earth.md",
     "dataview practice.md",
     "Geography/Himalayas.md",
     "Sarda.md",
@@ -249,7 +250,6 @@
     "Sutlej.md",
     "Geography/shifting cultivation.md",
     "Geography/layers of soil.md",
-    "Geography/Major Climatic Zones of Earth.md",
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
     "Brahmaputra.md",
     "Geography/hills glaciers etc/Trans Himalaya.md",
