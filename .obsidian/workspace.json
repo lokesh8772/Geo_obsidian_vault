@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Himalayas.md",
+                "file": "Geography/Major Climatic Zones of Earth.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Himalayas"
+              "title": "Major Climatic Zones of Earth"
             }
           },
           {
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -228,10 +229,10 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Sarda.md",
-    "Geography/Himalayas.md",
-    "Kali/Sarda(right).md",
     "dataview practice.md",
+    "Geography/Himalayas.md",
+    "Sarda.md",
+    "Kali/Sarda(right).md",
     "Geography/Tectonic Plates.md",
     "resources/tectonic plates.png",
     "Geography/South America.md",
@@ -248,7 +249,7 @@
     "Sutlej.md",
     "Geography/shifting cultivation.md",
     "Geography/layers of soil.md",
-    "Geography/Major c.md",
+    "Geography/Major Climatic Zones of Earth.md",
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
     "Brahmaputra.md",
     "Geography/hills glaciers etc/Trans Himalaya.md",
