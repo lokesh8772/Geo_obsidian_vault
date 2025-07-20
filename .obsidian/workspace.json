@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Tectonic Plates.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tectonic Plates"
+              "title": "dataview practice"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theories",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,12 +228,12 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Geography/South America.md",
     "Geography/Tectonic Plates.md",
+    "resources/tectonic plates.png",
+    "Geography/South America.md",
     "Geography/Volcanoes.md",
     "Geography/Theories for continents....md",
     "Marginal Propensity to consume.md",
-    "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
     "Geography/Earth interior.md",
     "Geography/soil types.md",
@@ -255,7 +255,6 @@
     "Geography/hills glaciers etc/hills of Nagaland.md",
     "Geography/hills glaciers etc/Hills of Mizoram.md",
     "Geography/mountain passes.md",
-    "Geography/hills glaciers etc/Passes of J&K and Laddakh.md",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
     "resources",

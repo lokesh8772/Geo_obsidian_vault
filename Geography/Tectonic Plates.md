@@ -4,4 +4,4 @@ tags:
   - GS1
   - review
 ---
-[[Tectonic Plates]]
+[[tectonic plates.png]]
