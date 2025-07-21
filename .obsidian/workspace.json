@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -227,7 +226,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Geography/Major Climatic Zones of Earth.md",
     "dataview practice.md",
