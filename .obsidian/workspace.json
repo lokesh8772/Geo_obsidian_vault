@@ -11,24 +11,12 @@
             "id": "1ab31c9722340253",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Geography/Major deserts of the world.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "resources/National-Parks-in-India-Map-Updated.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Major deserts of the world"
+              "icon": "lucide-file-text",
+              "title": "National-Parks-in-India-Map-Updated"
             }
           },
           {
@@ -113,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -228,9 +217,14 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Geography/National Parks in india.md",
+    "Geography/Biosphere reserves in india.md",
+    "Geography/Tiger reserves in india.md",
+    "resources/Tiger-Reserves-in-India-Map.pdf",
+    "resources/Biosphere-Reserves-in-India.pdf",
+    "Geography/Major deserts of the world.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "resources/Major-Deserts-of-the-World-Map.pdf",
-    "Geography/Major deserts of the world.md",
     "dataview practice.md",
     "resources/Unconfirmed 981109.crdownload",
     "Geography/Major Climatic Zones of Earth.md",
@@ -256,8 +250,6 @@
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
     "Brahmaputra.md",
     "Geography/hills glaciers etc/Trans Himalaya.md",
-    "Geography/hills glaciers etc/Passes of HP.md",
-    "Geography/hills glaciers etc/Lesser Himalaya.md",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
     "resources",
@@ -265,11 +257,8 @@
     "images/passes in J&K.mm",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
-    "Geography",
-    "Notion/UPSC PREP/CAPF essay writings/Untitled",
     "BkdW18.jpg",
     "95f1acf7d51f107cc04ad272d99cd54e.png",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Energy",
     "Pasted image 20250606190559.png",
     "IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121723_943.jpg",
