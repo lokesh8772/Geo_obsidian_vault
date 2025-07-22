@@ -55,7 +55,8 @@
               "title": "science study topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
-    "Science/Thermodynamics.md",
     "Science/Light.md",
+    "Science/Thermodynamics.md",
     "science study topics.md",
     "Science/Archimedes' Principle.md",
     "Science/Heat.md",

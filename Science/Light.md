@@ -19,4 +19,10 @@ tags:
 4. evidence - 
 	1. photo - electric effect
 
-light behaves like particle or wave based on the measurement technique -> qu
+light behaves like particle or wave based on the measurement technique -> quantum  \\"_"/
+
+### refraction
+1. caused by the change in speed of light -> **photons get absorbed and re-emitted continuously** -> slow downs the propagation
+2. refractive index - c/v
+3. always greater than 1
+4. 
