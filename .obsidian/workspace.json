@@ -11,21 +11,9 @@
             "id": "1ab31c9722340253",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resources/National-Parks-in-India-Map-Updated.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "National-Parks-in-India-Map-Updated"
-            }
-          },
-          {
-            "id": "b49143200da15e6c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Godavari.md",
+                "file": "Science/SHM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godavari"
+              "title": "SHM"
+            }
+          },
+          {
+            "id": "b49143200da15e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPSC  GS topics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UPSC  GS topics"
             }
           }
         ]
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "indravati",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,13 +108,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -217,10 +227,20 @@
   },
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
-    "Godavari.md",
-    "economy/NEER and REER.md",
-    "UPSC  GS topics.md",
+    "Templates/science note template.md",
+    "Science/SHM.md",
+    "Science",
+    "Templates/economy note template.md",
+    "Templates/Polity notes template.md",
+    "Templates/Geography Template.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
+    "Notion/UPSC PREP/CA database/CA 2020/Untitled.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Untitled.md",
+    "Untitled 1.md",
+    "UPSC  GS topics.md",
+    "Godavari.md",
+    "science study topics.md",
+    "economy/NEER and REER.md",
     "Geography/National Parks in india.md",
     "Geography/Biosphere reserves in india.md",
     "Geography/Tiger reserves in india.md",
@@ -239,22 +259,11 @@
     "Geography/South America.md",
     "Geography/Volcanoes.md",
     "Geography/Theories for continents....md",
-    "Marginal Propensity to consume.md",
     "resources/Screenshot 2025-07-19 195322.png",
-    "Geography/Earth interior.md",
-    "Geography/soil types.md",
-    "Templates/economy note template.md",
-    "Geography/Cuddappah vs Vindhyan.md",
-    "Sutlej.md",
-    "Geography/shifting cultivation.md",
-    "Geography/layers of soil.md",
-    "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
-    "Brahmaputra.md",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
     "resources",
     "New folder",
-    "images/passes in J&K.mm",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "BkdW18.jpg",

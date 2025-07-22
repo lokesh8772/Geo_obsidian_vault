@@ -90,5 +90,13 @@
       "key": "E"
     }
   ],
-  "templater-obsidian:insert-templater": []
+  "templater-obsidian:insert-templater": [],
+  "templater-obsidian:create-Templates/science note template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
 }
