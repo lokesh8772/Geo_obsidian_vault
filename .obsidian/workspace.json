@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/SHM.md",
+                "file": "Science/oscillatory motion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SHM"
+              "title": "oscillatory motion"
             }
           },
           {
@@ -228,7 +228,7 @@
   "active": "1ab31c9722340253",
   "lastOpenFiles": [
     "Templates/science note template.md",
-    "Science/SHM.md",
+    "Science/oscillatory motion.md",
     "Science",
     "Templates/economy note template.md",
     "Templates/Polity notes template.md",
