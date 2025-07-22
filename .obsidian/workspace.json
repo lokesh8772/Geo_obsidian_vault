@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/escape velocity.md",
+                "file": "Science/pascal's law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "escape velocity"
+              "title": "pascal's law"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,10 +251,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "Science/escape velocity.md",
     "science study topics.md",
+    "Science/pascal's law.md",
+    "Science/escape velocity.md",
     "Science/Kepler's laws.md",
     "Science/oscillatory motion.md",
     "UPSC  GS topics.md",
@@ -285,7 +286,6 @@
     "Geography/Tectonic Plates.md",
     "resources/tectonic plates.png",
     "Geography/South America.md",
-    "Geography/Volcanoes.md",
     "resources/Screenshot 2025-07-19 195322.png",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
