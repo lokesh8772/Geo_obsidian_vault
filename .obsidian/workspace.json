@@ -43,8 +43,7 @@
               "title": "Godavari"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -215,8 +215,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
+    "Godavari.md",
     "economy/NEER and REER.md",
     "UPSC  GS topics.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
