@@ -5,8 +5,9 @@ tags:
   - review
 ---
 formula is -> 
-V = \[$\sqrt{2GM/R}$\]
-or V = \[$\sqrt{2gR}$\]
+V = $\sqrt{2GM/R}$
+or V = $\sqrt{2gR}$
+for earth - 11.2 Km/sec
 
-
-Where:
+**Note**
+it is not affected by the **angle of projection**
