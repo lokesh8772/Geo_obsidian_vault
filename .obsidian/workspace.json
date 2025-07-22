@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/oscillatory motion.md",
+                "file": "Science/Kepler's laws.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "oscillatory motion"
+              "title": "Kepler's laws"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "science study topics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,9 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "1ab31c9722340253",
   "lastOpenFiles": [
     "Science/oscillatory motion.md",
+    "Science/Kepler's laws.md",
     "science study topics.md",
     "UPSC  GS topics.md",
     "Templates/science note template.md",
