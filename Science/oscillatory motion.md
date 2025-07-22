@@ -12,6 +12,9 @@ tags:
 5. v(t)=−Aωsin(ωt)
 6. \[$a(t)$ = $-A$$\omega^2$$\cos($$\omega$t)\]
 7. \[$a(t)$ = $-A$$\omega^2$$x(t)$\]
+8. KE = 1/2kv^2
+9. PE = 1/2 Kx^2
+10. total E = 1/2KA^2
 ### damped oscillations
 real world scenarios 
 mechanical Energy  -> heat energy

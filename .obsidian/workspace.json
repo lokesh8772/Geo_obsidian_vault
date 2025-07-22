@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
+                "file": "science study topics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "science study topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "science plan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,10 +227,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "Templates/science note template.md",
     "Science/oscillatory motion.md",
+    "science study topics.md",
+    "UPSC  GS topics.md",
+    "Templates/science note template.md",
     "Science",
     "Templates/economy note template.md",
     "Templates/Polity notes template.md",
@@ -237,9 +241,7 @@
     "Notion/UPSC PREP/CA database/CA 2020/Untitled.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Untitled.md",
     "Untitled 1.md",
-    "UPSC  GS topics.md",
     "Godavari.md",
-    "science study topics.md",
     "economy/NEER and REER.md",
     "Geography/National Parks in india.md",
     "Geography/Biosphere reserves in india.md",
