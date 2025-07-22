@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
+                "file": "Godavari.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,10 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "Godavari"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "indravati",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -215,15 +215,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "economy/NEER and REER.md",
+    "UPSC  GS topics.md",
+    "resources/National-Parks-in-India-Map-Updated.pdf",
     "Geography/National Parks in india.md",
     "Geography/Biosphere reserves in india.md",
     "Geography/Tiger reserves in india.md",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
     "Geography/Major deserts of the world.md",
-    "resources/National-Parks-in-India-Map-Updated.pdf",
     "resources/Major-Deserts-of-the-World-Map.pdf",
     "dataview practice.md",
     "resources/Unconfirmed 981109.crdownload",
@@ -241,15 +243,12 @@
     "Geography/Earth interior.md",
     "Geography/soil types.md",
     "Templates/economy note template.md",
-    "UPSC  GS topics.md",
-    "economy/NEER and REER.md",
     "Geography/Cuddappah vs Vindhyan.md",
     "Sutlej.md",
     "Geography/shifting cultivation.md",
     "Geography/layers of soil.md",
     "Geography/hills glaciers etc/Passes of Arunachal Pradesh.md",
     "Brahmaputra.md",
-    "Geography/hills glaciers etc/Trans Himalaya.md",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
     "resources",
