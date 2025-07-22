@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science study topics.md",
+                "file": "Science/escape velocity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "science study topics"
+              "title": "escape velocity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +227,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab31c9722340253",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "Science/oscillatory motion.md",
-    "Science/Kepler's laws.md",
     "science study topics.md",
+    "Science/escape velocity.md",
+    "Science/Kepler's laws.md",
+    "Science/oscillatory motion.md",
     "UPSC  GS topics.md",
     "Templates/science note template.md",
     "Science",
@@ -260,7 +262,6 @@
     "resources/tectonic plates.png",
     "Geography/South America.md",
     "Geography/Volcanoes.md",
-    "Geography/Theories for continents....md",
     "resources/Screenshot 2025-07-19 195322.png",
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
