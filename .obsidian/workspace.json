@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Electro-Magnetic wave.md",
+                "file": "Science/Refraction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Electro-Magnetic wave"
+              "title": "Refraction"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "science study topics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "science plan",
+                "query": "optics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,11 +226,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "Science/Reflection.md",
+    "Science/Refraction.md",
+    "science study topics.md",
     "Science/Electro-Magnetic wave.md",
     "Science/Light.md",
-    "science study topics.md",
     "Science/Thermodynamics.md",
     "Science/Archimedes' Principle.md",
     "Science/Heat.md",
@@ -257,9 +258,7 @@
     "Geography/Tiger reserves in india.md",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
-    "Geography/Major deserts of the world.md",
     "resources/Major-Deserts-of-the-World-Map.pdf",
-    "dataview practice.md",
     "resources/Unconfirmed 981109.crdownload",
     "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
