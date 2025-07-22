@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Thermodynamics.md",
+                "file": "Science/Light.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thermodynamics"
+              "title": "Light"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "science study topics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,11 +226,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
     "Science/Thermodynamics.md",
-    "Science/Archimedes' Principle.md",
+    "Science/Light.md",
     "science study topics.md",
+    "Science/Archimedes' Principle.md",
     "Science/Heat.md",
     "Science/temp conversion.md",
     "Science/pascal's law.md",
@@ -260,7 +260,6 @@
     "dataview practice.md",
     "resources/Unconfirmed 981109.crdownload",
     "Geography/Major Climatic Zones of Earth.md",
-    "Geography/Himalayas.md",
     "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
     "resources/Passes in HP and UK.pdf",
