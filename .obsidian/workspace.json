@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Archimedes' Principle.md",
+                "file": "Science/Thermodynamics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archimedes' Principle"
+              "title": "Thermodynamics"
             }
           },
           {
@@ -229,12 +229,13 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Science/Thermodynamics.md",
     "Science/Archimedes' Principle.md",
+    "science study topics.md",
     "Science/Heat.md",
     "Science/temp conversion.md",
     "Science/pascal's law.md",
     "Science/escape velocity.md",
-    "science study topics.md",
     "UPSC  GS topics.md",
     "Science/Kepler's laws.md",
     "Science/oscillatory motion.md",
@@ -260,7 +261,6 @@
     "resources/Unconfirmed 981109.crdownload",
     "Geography/Major Climatic Zones of Earth.md",
     "Geography/Himalayas.md",
-    "Sarda.md",
     "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
     "resources/Passes in HP and UK.pdf",
