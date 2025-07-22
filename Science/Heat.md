@@ -25,4 +25,4 @@ for lighter or lustrous objects it is vice versa
 1. they do not have a fixed volume
 2. when heated they expand more than liquids
 3. $\gamma$$_G$ $\approx$ $1/T$ (for ideal gases)
-4. hence the $\gamma$ for gases is not a fixed
+4. hence the $\gamma$ for gases is not a fixed value like solids or liquids -> it depends upon the initial temp.

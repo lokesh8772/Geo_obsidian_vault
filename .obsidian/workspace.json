@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Heat.md",
+                "file": "Science/Archimedes' Principle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heat"
+              "title": "Archimedes' Principle"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "science study topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,16 +227,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
-    "science study topics.md",
+    "Science/Archimedes' Principle.md",
     "Science/Heat.md",
     "Science/temp conversion.md",
     "Science/pascal's law.md",
     "Science/escape velocity.md",
+    "science study topics.md",
+    "UPSC  GS topics.md",
     "Science/Kepler's laws.md",
     "Science/oscillatory motion.md",
-    "UPSC  GS topics.md",
     "Templates/science note template.md",
     "Science",
     "Templates/economy note template.md",
@@ -259,7 +261,6 @@
     "Geography/Major Climatic Zones of Earth.md",
     "Geography/Himalayas.md",
     "Sarda.md",
-    "Kali/Sarda(right).md",
     "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
     "resources/Passes in HP and UK.pdf",
