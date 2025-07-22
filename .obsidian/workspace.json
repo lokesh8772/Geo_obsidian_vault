@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Light.md",
+                "file": "Science/Electro-Magnetic wave.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Light"
+              "title": "Electro-Magnetic wave"
             }
           },
           {
@@ -229,9 +229,10 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Science/Electro-Magnetic wave.md",
     "Science/Light.md",
-    "Science/Thermodynamics.md",
     "science study topics.md",
+    "Science/Thermodynamics.md",
     "Science/Archimedes' Principle.md",
     "Science/Heat.md",
     "Science/temp conversion.md",
@@ -260,7 +261,6 @@
     "resources/Major-Deserts-of-the-World-Map.pdf",
     "dataview practice.md",
     "resources/Unconfirmed 981109.crdownload",
-    "Geography/Major Climatic Zones of Earth.md",
     "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
     "resources/Passes in HP and UK.pdf",

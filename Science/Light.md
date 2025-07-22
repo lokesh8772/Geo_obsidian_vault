@@ -4,7 +4,7 @@ tags:
   - GS3
   - review
 ---
-### wave
+### wave[[Electro-Magnetic wave]]
 1. young's double slit experiment
 2. evidences -
 	1. interference -> when two light waves meets -> they have constructive and destructive interference(brighter and darker strips)
