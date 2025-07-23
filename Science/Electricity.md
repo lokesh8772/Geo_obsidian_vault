@@ -19,4 +19,5 @@ heat generated is proportional to
 1. in a solenoid -
 	1. more concentrated turns produce more current.
 	2. core -> ferromagnetic material -> more magnetism than air core.
-	3. 
+
+### faradey's law

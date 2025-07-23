@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Hand rules(electromagnetism).md",
+                "file": "Science/Electricity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hand rules(electromagnetism)"
+              "title": "Electricity"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Hand rules(electromagnetism).md",
+                "file": "Science/Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hand rules(electromagnetism)"
+              "title": "Backlinks for Electricity"
             }
           },
           {
@@ -226,8 +226,8 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "science study topics.md",
     "Science/Hand rules(electromagnetism).md",
+    "science study topics.md",
     "Science/Electricity.md",
     "Daily notes/2025-06-29.md",
     "Science/Sound.md",
