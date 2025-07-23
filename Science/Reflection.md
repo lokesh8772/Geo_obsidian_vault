@@ -24,3 +24,8 @@ Export to Sheets
 | At F            | At Infinity                 | Real, Inverted | Highly Enlarged   | Headlights (bulb at F, rays go to infinity)         |
 | Between F and P | Behind the mirror (Virtual) | Virtual, Erect | Enlarged          | Shaving mirrors, dentist's mirrors, make-up mirrors |
 
+### mirror formula 
+$1/f = 1/v + 1/u$
+
+### lens formula
+	$1/f = q

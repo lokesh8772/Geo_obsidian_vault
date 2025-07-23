@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
-                "mode": "preview",
+                "file": "Science/Reflection.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
-            }
-          },
-          {
-            "id": "4db990237ad1881a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resources/National-Parks-in-India-Map-Updated.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "National-Parks-in-India-Map-Updated"
+              "title": "Reflection"
             }
           },
           {
@@ -240,11 +228,11 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "resources/National-Parks-in-India-Map-Updated.pdf",
-    "dataview practice.md",
-    "Science/Reflection.md",
-    "Science/Refraction.md",
     "science study topics.md",
+    "Science/Reflection.md",
+    "dataview practice.md",
+    "resources/National-Parks-in-India-Map-Updated.pdf",
+    "Science/Refraction.md",
     "Science/Electro-Magnetic wave.md",
     "Science/Light.md",
     "Science/Thermodynamics.md",
