@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Radioactivity.md",
+                "file": "Science/electronic configuration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Radioactivity"
+              "title": "electronic configuration"
             }
           }
         ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Radioactivity.md",
+                "file": "Science/electronic configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Radioactivity"
+              "title": "Backlinks for electronic configuration"
             }
           },
           {
@@ -227,8 +227,9 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
-    "science study topics.md",
     "Science/Radioactivity.md",
+    "Science/electronic configuration.md",
+    "science study topics.md",
     "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
     "Science/Electricity.md",
@@ -254,7 +255,6 @@
     "Templates/science note template.md",
     "Science",
     "Templates/economy note template.md",
-    "Templates/Polity notes template.md",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
     "resources/Major-Deserts-of-the-World-Map.pdf",
