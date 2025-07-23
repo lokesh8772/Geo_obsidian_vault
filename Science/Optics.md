@@ -43,4 +43,6 @@ age-related decrease in flexibility of eye lens -> difficulty in focus on nearer
 
 ### dispersion
 1. splitting of colors from white light when passed through transparent medium
-2. reason -> different wavelength -> different velocity in medium(other than vacuum)
+2. reason -> different wavelength -> different velocity in medium(other than vacuum) -> electrons of the matter absorbs and re-emits the photons -> this process is faster for some wavelengths, while slower for others
+3. generally -> shorter wavelength have lesser speeds -> more dispersed.
+4. 
