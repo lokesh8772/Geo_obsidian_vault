@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Sub-atomic particles.md",
+                "file": "Geography/Earthquake.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sub-atomic particles"
+              "title": "Earthquake"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magnetism",
+                "query": "earthqu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Sub-atomic particles.md",
+                "file": "Geography/Earthquake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sub-atomic particles"
+              "title": "Backlinks for Earthquake"
             }
           },
           {
@@ -250,9 +250,9 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
     "science study topics.md",
-    "Science/Sub-atomic particles.md",
     "Science/Nuclear energy.md",
     "Science/electronic configuration.md",
     "Science/Radioactivity.md",
