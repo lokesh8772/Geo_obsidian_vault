@@ -45,4 +45,20 @@ age-related decrease in flexibility of eye lens -> difficulty in focus on nearer
 1. splitting of colors from white light when passed through transparent medium
 2. reason -> different wavelength -> different velocity in medium(other than vacuum) -> electrons of the matter absorbs and re-emits the photons -> this process is faster for some wavelengths, while slower for others
 3. generally -> shorter wavelength have lesser speeds -> more dispersed.
-4. 
+
+### rainbow
+conditions - 
+1. mist
+2. shiny sun
+3. sun behind the observer
+process - 
+4. refraction at the outer surface of the drop
+5. dispersion in the drop -> colors splits
+6. TIR at the inner surface of the drop
+7. dispersion(again) in the drop -> further separates the colors
+8. refraction at the outer surface.
+**Primary rainbow** ->order of colors -> outer to inner -> Red to Violet
+**secondary rainbow** -> order of colors -> violet to red
+	due to two TIRs
+
+### Scattering
