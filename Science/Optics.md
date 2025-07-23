@@ -35,4 +35,12 @@ m = height of image/ height of object = $h_i / h_o$ = $v/u$
 if m is positive -> image is erect -> imaginary. and vice versa
 
 ### myopia
-### hper
+eye lens -> converging more -> image formation in front of the cornea => treated by concave lens
+### hypermetropia
+eye lens -> converging less -> image formation behind the cornea -> treated by convex lens
+### Presbiopia
+age-related decrease in flexibility of eye lens -> difficulty in focus on nearer objects => bifocal lens => convex + concave elements...
+
+### dispersion
+1. splitting of colors from white light when passed through transparent medium
+2. reason -> different wavelength -> different velocity in medium(other than vacuum)
