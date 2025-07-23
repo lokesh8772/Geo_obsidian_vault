@@ -79,8 +79,7 @@
               "title": "science study topics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "science topics",
+                "query": "magnetism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "science study topics.md",
+                "file": "Science/Sub-atomic particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for science study topics"
+              "title": "Backlinks for Sub-atomic particles"
             }
           },
           {
@@ -249,14 +248,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fab49ebc8b565f39",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "Science/Nuclear energy.md",
-    "science study topics.md",
-    "Science/electronic configuration.md",
-    "Science/Sub-atomic particles.md",
-    "Science/Radioactivity.md",
     "Science/Magnetism.md",
+    "science study topics.md",
+    "Science/Sub-atomic particles.md",
+    "Science/Nuclear energy.md",
+    "Science/electronic configuration.md",
+    "Science/Radioactivity.md",
     "Science/Electricity.md",
     "Science/Hand rules(electromagnetism).md",
     "Daily notes/2025-06-29.md",

@@ -11,6 +11,10 @@ isolated poles does not exist
 3. diamagnetic -> weakly repelled to the magnets-> water, copper, gold, silver
 magnetic field lines originate at North pole -> ...
 
+### Curie temperature
+the temp above which a ferromagnatic material loses it charisteristics and becomes paramagnetic, 
+max -> cobalt
+
 ### Earth
 1. magnetic north pole -> geographical south pole ... ke paas and vice versa -> that's why a suspended magnet's north pole -> points to the geo. north of the earth.
 2. magnetic axis tilted at 11 - 15$\degree$ to the geo. axis
