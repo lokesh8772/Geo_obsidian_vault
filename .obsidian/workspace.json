@@ -55,7 +55,8 @@
               "title": "science study topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Sound.md",
+                "file": "science study topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sound"
+              "title": "Backlinks for science study topics"
             }
           },
           {
@@ -224,10 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
-    "science study topics.md",
     "Science/Sound.md",
+    "science study topics.md",
     "Science/Optics.md",
     "dataview practice.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
