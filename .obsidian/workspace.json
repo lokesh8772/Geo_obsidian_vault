@@ -55,7 +55,8 @@
               "title": "science study topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bhima.md",
+                "file": "science study topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bhima"
+              "title": "Backlinks for science study topics"
             }
           },
           {
@@ -204,13 +205,11 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,10 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "4244a45336ba57e5",
   "lastOpenFiles": [
-    "science study topics.md",
     "Science/Optics.md",
+    "science study topics.md",
     "dataview practice.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science/Refraction.md",
