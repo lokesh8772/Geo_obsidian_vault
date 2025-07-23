@@ -62,3 +62,9 @@ process -
 	due to two TIRs
 
 ### Scattering
+particles of a medium -> absorb light and then re-emits it in different directions
+#### reyleigh scattering ->
+when the particles of the medium are much smalller than the wavelengths of the light -> 
+$I \propto 1/\lambda^4$
+1. shorter wavelengths are refracted more -> we see the shorter wavelength in the sky -> blue, actually violet -> but eyes are more sensitive to blue color. also some violet is absorbed in upper atmosphere.(?)
+2. **red sunset** -> during sunrise and sunset -> rays have to travel more through the atmosphere to reach the ground -> more time to scatter -> almost all shorter wavelengths get scattered in the path -> only red remains
