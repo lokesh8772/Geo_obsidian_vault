@@ -21,7 +21,7 @@ heat generated is proportional to
 3. in india standard frequency is 50 Hz
 4. Easy voltage transformation -> EMI
 
-### magnetism
+### Electromagnetism
 1. in a solenoid -
 	1. more concentrated turns produce more current.
 	2. core -> ferromagnetic material -> more magnetism than air core.
@@ -29,7 +29,11 @@ heat generated is proportional to
 motor -> flehming's left hand rule.
 
 ### faradey's law
+#### first law
 an emf is induced in a region of varying magnetic field
+#### second law
+the value of the EMF $\propto$ $d\phi/dt$ proportional to the change in the magnetic flux
+
 
 direction -> Lenz' law -> direction of the induced current(in conductor) always oppose the change.
 
@@ -37,6 +41,7 @@ this is called EMI
 
 applications
 1. Transformer.
-	1. $N_p > N_s -> V_p > V_s$
+	1. $N_p > N_s  -> V_p > V_s$
+	2. 
 2. Generator.
 3. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Electricity.md",
+                "file": "Science/Magnetism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Electricity"
+              "title": "Magnetism"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"vice president",
+                "query": "propto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Electricity.md",
+                "file": "Science/Magnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Electricity"
+              "title": "Backlinks for Magnetism"
             }
           },
           {
@@ -226,9 +226,10 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "Science/Hand rules(electromagnetism).md",
-    "science study topics.md",
     "Science/Electricity.md",
+    "Science/Magnetism.md",
+    "science study topics.md",
+    "Science/Hand rules(electromagnetism).md",
     "Daily notes/2025-06-29.md",
     "Science/Sound.md",
     "Daily notes/2025-06-23.md",
@@ -253,7 +254,6 @@
     "Templates/Polity notes template.md",
     "Templates/Geography Template.md",
     "Notion/UPSC PREP/CA database/CA 2020/Untitled.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Untitled.md",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
     "resources/Major-Deserts-of-the-World-Map.pdf",
