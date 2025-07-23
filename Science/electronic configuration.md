@@ -28,7 +28,7 @@ f -> 7
 	2. p -> 1
 	3. d -> 2
 	4. f -> 3
-3. magnetic quantum number ($m$) 
+3. magnetic quantum number ($m_l$) 
 	1. orientation of an orbital in space relative to external magnetic field
 	2. from $-l$ to $+l$ including 0
 4. Spin quantum number($m_s$)

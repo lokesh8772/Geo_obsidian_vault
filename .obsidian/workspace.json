@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/electronic configuration.md",
+                "file": "Science/Nuclear energy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "electronic configuration"
+              "title": "Nuclear energy"
+            }
+          },
+          {
+            "id": "fab49ebc8b565f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "science study topics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "science study topics"
             }
           }
         ],
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "propto",
+                "query": "science topics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/electronic configuration.md",
+                "file": "Science/Nuclear energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for electronic configuration"
+              "title": "Backlinks for Nuclear energy"
             }
           },
           {
@@ -227,10 +251,11 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
-    "Science/Radioactivity.md",
-    "Science/electronic configuration.md",
     "science study topics.md",
+    "Science/Nuclear energy.md",
+    "Science/electronic configuration.md",
     "Science/Sub-atomic particles.md",
+    "Science/Radioactivity.md",
     "Science/Magnetism.md",
     "Science/Electricity.md",
     "Science/Hand rules(electromagnetism).md",
@@ -254,7 +279,6 @@
     "Science/oscillatory motion.md",
     "Templates/science note template.md",
     "Science",
-    "Templates/economy note template.md",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
     "resources/Major-Deserts-of-the-World-Map.pdf",
