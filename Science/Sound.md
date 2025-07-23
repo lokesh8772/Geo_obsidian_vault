@@ -8,3 +8,16 @@ tags:
 1. pitch -> frequency,
 2. loudness ->amplitude
 3. quality -> number , relative intensity and  combinations of overtones present along with fundamental frequency of the instrument. -> actual waveform is not completely sinosudal.
+### speed of sound
+dependent on Elasticity constant (bulk modulus for fluids and young for solids)
+$v \propto \sqrt{E/\rho}$
+1. solids -> fastest -> 5k -6k m/s
+2. liquids - > faster -> 1.49k m/s
+3. gases -> least -> 343 m/s
+4. effect of temprature for gases
+	1. increases by 0.61$\Delta$T
+#### things that does not affect
+1. frequency and wavelegth of soundwaves -> $v = \lambda\nu$
+2. any change in frequency -> wavelength is adjusted to keep the velocity constant
+3. ampltitude.
+4. pressure -> while it should increase, but the density
