@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Optics.md",
+                "file": "Science/Sound.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Optics"
+              "title": "Sound"
             }
           },
           {
@@ -225,8 +225,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4244a45336ba57e5",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Science/Sound.md",
     "Science/Optics.md",
     "science study topics.md",
     "dataview practice.md",
