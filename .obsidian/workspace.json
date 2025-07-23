@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Refraction.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Refraction"
+              "title": "dataview practice"
+            }
+          },
+          {
+            "id": "4db990237ad1881a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/National-Parks-in-India-Map-Updated.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "National-Parks-in-India-Map-Updated"
             }
           },
           {
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optics",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,6 +240,8 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "resources/National-Parks-in-India-Map-Updated.pdf",
+    "dataview practice.md",
     "Science/Reflection.md",
     "Science/Refraction.md",
     "science study topics.md",
@@ -247,15 +261,12 @@
     "Templates/economy note template.md",
     "Templates/Polity notes template.md",
     "Templates/Geography Template.md",
-    "resources/National-Parks-in-India-Map-Updated.pdf",
     "Notion/UPSC PREP/CA database/CA 2020/Untitled.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Untitled.md",
     "Untitled 1.md",
     "Godavari.md",
     "economy/NEER and REER.md",
     "Geography/National Parks in india.md",
-    "Geography/Biosphere reserves in india.md",
-    "Geography/Tiger reserves in india.md",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
     "resources/Major-Deserts-of-the-World-Map.pdf",
