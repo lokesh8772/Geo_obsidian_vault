@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Reflection.md",
+                "file": "Science/Optics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reflection"
+              "title": "Optics"
             }
           },
           {
@@ -229,7 +229,7 @@
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
     "science study topics.md",
-    "Science/Reflection.md",
+    "Science/Optics.md",
     "dataview practice.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science/Refraction.md",

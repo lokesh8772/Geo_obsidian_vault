@@ -28,4 +28,11 @@ Export to Sheets
 $1/f = 1/v + 1/u$
 
 ### lens formula
-	$1/f = q
+$1/f = 1/v - 1/u$
+
+#### magnification
+m = height of image/ height of object = $h_i / h_o$ = $v/u$
+if m is positive -> image is erect -> imaginary. and vice versa
+
+### myopia
+### hper
