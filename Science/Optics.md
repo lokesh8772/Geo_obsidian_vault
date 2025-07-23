@@ -35,11 +35,15 @@ m = height of image/ height of object = $h_i / h_o$ = $v/u$
 if m is positive -> image is erect -> imaginary. and vice versa
 
 ### myopia
-eye lens -> converging more -> image formation in front of the cornea => treated by concave lens
+eye lens -> converging more, elongated eyeball -> image formation in front of the cornea => treated by concave lens
 ### hypermetropia
-eye lens -> converging less -> image formation behind the cornea -> treated by convex lens
+eye lens -> converging less, short eyeball -> image formation behind the cornea -> treated by convex lens
 ### Presbiopia
 age-related decrease in flexibility of eye lens -> difficulty in focus on nearer objects => bifocal lens => convex + concave elements...
+### astigmatism -
+blurred vision at all distances -> irregularly shaped cornea or lens -> correction => cylindrical lens
+### cataract
+cloudy lens -> age related -> surgery -> removed and replaced
 
 ### dispersion
 1. splitting of colors from white light when passed through transparent medium
