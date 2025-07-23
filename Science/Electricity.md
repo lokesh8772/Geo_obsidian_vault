@@ -14,4 +14,9 @@ heat generated is proportional to
 2. high resistance
 3. high melting point
 4. do not oxidize even when red hot
-5. 
+
+### magnetism
+1. in a solenoid -
+	1. more concentrated turns produce more current.
+	2. core -> ferromagnetic material -> more magnetism than air core.
+	3. 

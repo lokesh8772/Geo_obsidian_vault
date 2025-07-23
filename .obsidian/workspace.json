@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Electricity.md",
+                "file": "Science/Hand rules(electromagnetism).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Electricity"
+              "title": "Hand rules(electromagnetism)"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "science study topics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "science study topics.md",
+                "file": "Science/Hand rules(electromagnetism).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for science study topics"
+              "title": "Backlinks for Hand rules(electromagnetism)"
             }
           },
           {
@@ -225,12 +224,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "science study topics.md",
+    "Science/Hand rules(electromagnetism).md",
     "Science/Electricity.md",
     "Daily notes/2025-06-29.md",
     "Science/Sound.md",
-    "science study topics.md",
     "Daily notes/2025-06-23.md",
     "Science/Optics.md",
     "dataview practice.md",
@@ -254,7 +254,6 @@
     "Templates/Geography Template.md",
     "Notion/UPSC PREP/CA database/CA 2020/Untitled.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Untitled.md",
-    "Untitled 1.md",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
     "resources/Major-Deserts-of-the-World-Map.pdf",
