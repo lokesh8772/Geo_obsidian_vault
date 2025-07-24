@@ -12,7 +12,6 @@ object b/w infinity and pole -> image b/w F and Pole, -> erect, virtusal, dimini
 |At Infinity|At F (behind mirror)|Virtual, Erect|Highly Diminished|
 |Anywhere between Pole and Infinity|Between P and F (behind mirror)|Virtual, Erect|Diminished|
 
-Export to Sheets
 ### concave mirror
 
 | Object Position | Image Position              | Nature         | Size              | Use/Application (Conceptual)                        |
