@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Earthquake.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earthquake"
+              "title": "dataview practice"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "earthqu",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Earthquake.md",
+                "file": "dataview practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Earthquake"
+              "title": "Backlinks for dataview practice"
             }
           },
           {
@@ -250,6 +250,7 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "Geography/Earthquake.md",
     "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
     "science study topics.md",
@@ -276,7 +277,6 @@
     "UPSC  GS topics.md",
     "Science/Kepler's laws.md",
     "Science/oscillatory motion.md",
-    "Templates/science note template.md",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
