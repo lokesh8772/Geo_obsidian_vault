@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
-                "mode": "preview",
+                "file": "Science/Household chemicals.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "Household chemicals"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dataview practice.md",
+                "file": "Science/Household chemicals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dataview practice"
+              "title": "Backlinks for Household chemicals"
             }
           },
           {
@@ -250,6 +250,8 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "dataview practice.md",
+    "Science/Household chemicals.md",
     "Geography/Earthquake.md",
     "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
@@ -263,7 +265,6 @@
     "Science/Sound.md",
     "Daily notes/2025-06-23.md",
     "Science/Optics.md",
-    "dataview practice.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science/Refraction.md",
     "Science/Electro-Magnetic wave.md",
@@ -276,7 +277,6 @@
     "Science/escape velocity.md",
     "UPSC  GS topics.md",
     "Science/Kepler's laws.md",
-    "Science/oscillatory motion.md",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
