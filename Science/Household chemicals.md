@@ -12,4 +12,13 @@ tags:
 6. Milk of magnesia -> $Mg(OH)_2$
 7. Gypsum -> $CaSO_4.2H_2O$
 8. Plaster of paris -> $CaSO_4.1/2H_2O$
-9. 
+9. Vinegar -> $CH_3COOH$
+
+10. water gas -> $CO + H_2$
+11. Coal gas -> $CO + H_2 + CH_4$
+12. 11. Producer gas -> $CO + N_2$
+13. LPG -> Butane + ethyl mercapton
+14. CNG => methane
+15. Mustard gas -> ethylene
+16. 
+17. 
