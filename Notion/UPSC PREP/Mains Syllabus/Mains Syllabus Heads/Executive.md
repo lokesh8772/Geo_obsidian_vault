@@ -9,3 +9,4 @@ se-ease: 2.5
 tags:
   - review
 ---
+Even after the dissolution of LS, COM does not cease to hold office(SC in 1971)

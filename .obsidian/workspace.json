@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Amendments.md",
+                "file": "Daily notes/2025-06-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amendments"
+              "title": "2025-06-30"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imp cases",
+                "query": "adjourn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Amendments.md",
+                "file": "Daily notes/2025-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Amendments"
+              "title": "Backlinks for 2025-06-30"
             }
           },
           {
@@ -276,11 +276,12 @@
   },
   "active": "2fc8d6cebea322aa",
   "lastOpenFiles": [
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Executive.md",
+    "Polity/Amendments.md",
     "Polity/Imp cases.md",
     "Polity/schedules.md",
     "Daily notes/2025-06-25.md",
     "Daily notes/2025-06-24.md",
-    "Polity/Amendments.md",
     "Polity/91st CAA.md",
     "Polity/7th CAA.md",
     "yo_ delete.md",
@@ -301,7 +302,6 @@
     "Polity/Judicial review.md",
     "Polity/parts of constitution.md",
     "science study topics.md",
-    "Science/Nuclear energy.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
