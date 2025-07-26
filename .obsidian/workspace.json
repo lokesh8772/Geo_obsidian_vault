@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supreme",
+                "query": "fiscal ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -274,7 +274,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Daily notes/2025-06-24.md",
     "Polity/SC's jurisdiction.md",
