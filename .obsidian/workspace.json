@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Household chemicals.md",
+                "file": "Polity/73rd CAA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Household chemicals"
+              "title": "73rd CAA"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Nuclear energy.md",
+                "file": "Polity/parts of constitution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nuclear energy"
+              "title": "parts of constitution"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "science study topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "parts of ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Household chemicals.md",
+                "file": "Polity/parts of constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Household chemicals"
+              "title": "Backlinks for parts of constitution"
             }
           },
           {
@@ -248,15 +249,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
-    "dataview practice.md",
+    "Science/Nuclear energy.md",
+    "Polity/73rd CAA.md",
+    "Polity/7th CAA.md",
     "Science/Household chemicals.md",
+    "dataview practice.md",
     "Geography/Earthquake.md",
     "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
     "science study topics.md",
-    "Science/Nuclear energy.md",
     "Science/electronic configuration.md",
     "Science/Radioactivity.md",
     "Science/Electricity.md",
@@ -275,8 +278,6 @@
     "Science/temp conversion.md",
     "Science/pascal's law.md",
     "Science/escape velocity.md",
-    "UPSC  GS topics.md",
-    "Science/Kepler's laws.md",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
