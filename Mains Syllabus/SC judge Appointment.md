@@ -12,6 +12,7 @@ tags:
 2. 2nd judges case 1993 -> consultation binding and CJI => CJI + 2 senior most SC judges (collegium)
 3. 3rd judges case 1998 -> collegium = 1 + 4
 4. 4th judges case 2015 -> unconstitutionality of [[99th CAA]] and NJAC act
+**note** - for appointment of next CJI the consultation is not necessary(as s/he is appointed seniority-wise)
 
 
 #SC #Judiciary #mains #prelims

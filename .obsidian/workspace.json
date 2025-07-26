@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-22.md",
-                "mode": "source",
+                "file": "Polity/High court.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-22"
+              "title": "High court"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Court",
+                "query": "HC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2025-06-22.md",
+                "file": "Polity/High court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-22"
+              "title": "Backlinks for High court"
             }
           },
           {
@@ -276,6 +276,9 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Mains Syllabus/SC judge Appointment.md",
+    "Daily notes/2025-06-23.md",
+    "Daily notes/2025-06-22.md",
     "Daily notes/2025-06-27.md",
     "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
     "discretionary powers of governor.md",
@@ -299,9 +302,6 @@
     "Gvot initiatives/PM GatiShakti.md",
     "Polity/Utilitarianism.md",
     "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
-    "Geography/india - basics.md",
-    "Geography/Earth layers.md",
-    "Polity/art 143.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
