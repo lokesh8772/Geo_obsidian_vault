@@ -7,6 +7,9 @@ se-last-reviewed: 2025-07-16T02:47:34
 se-ease: 2.5
 tags:
   - review
+sr-due: 2025-08-05
+sr-interval: 10
+sr-ease: 210
 ---
 
 PM GatiShakti - National Master Plan for Multi-modal Connectivity
