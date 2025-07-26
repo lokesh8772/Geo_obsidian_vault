@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Polity/73rd CAA.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -79,8 +79,7 @@
               "title": "schedules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Amendments.md",
+                "file": "Polity/73rd CAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Amendments"
+              "title": "Backlinks for 73rd CAA"
             }
           },
           {
@@ -249,10 +248,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "Polity/judicial powers of Parliament.md",
     "Polity/Amendments.md",
+    "Polity/judicial powers of Parliament.md",
     "Polity/Judicial review.md",
     "Polity/schedules.md",
     "Polity/parts of constitution.md",
