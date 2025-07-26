@@ -103,7 +103,8 @@
               "title": "2025-06-25"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Imp cases.md",
+                "file": "Polity/Amendments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Imp cases"
+              "title": "Backlinks for Amendments"
             }
           },
           {
@@ -273,12 +274,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "2fc8d6cebea322aa",
   "lastOpenFiles": [
+    "Polity/Imp cases.md",
     "Polity/schedules.md",
     "Daily notes/2025-06-25.md",
     "Daily notes/2025-06-24.md",
-    "Polity/Imp cases.md",
     "Polity/Amendments.md",
     "Polity/91st CAA.md",
     "Polity/7th CAA.md",
