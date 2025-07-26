@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-24.md",
+                "file": "Daily notes/2025-06-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-24"
+              "title": "2025-06-22"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Sarkaria commission.md",
+                "file": "Polity/Governor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sarkaria commission"
+              "title": "Governor"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sarkari",
+                "query": "Court",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Sarkaria commission.md",
+                "file": "Daily notes/2025-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sarkaria commission"
+              "title": "Backlinks for 2025-06-22"
             }
           },
           {
@@ -274,15 +274,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fc8d6cebea322aa",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Daily notes/2025-06-27.md",
+    "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
+    "discretionary powers of governor.md",
+    "Daily notes/2025-06-24.md",
+    "Polity/Governor.md",
+    "Gvot initiatives/CPSU Scheme.md",
+    "Polity/Sarkaria commission.md",
     "Daily notes/2025-06-30.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Executive.md",
     "Polity/Amendments.md",
     "Polity/Imp cases.md",
     "Polity/schedules.md",
     "Daily notes/2025-06-25.md",
-    "Daily notes/2025-06-24.md",
     "Polity/91st CAA.md",
     "Polity/7th CAA.md",
     "yo_ delete.md",
@@ -296,12 +302,6 @@
     "Geography/india - basics.md",
     "Geography/Earth layers.md",
     "Polity/art 143.md",
-    "Polity/ad-hoc judge of SC.md",
-    "Polity/74th CAA.md",
-    "Polity/73rd CAA.md",
-    "Polity/judicial powers of Parliament.md",
-    "Polity/Judicial review.md",
-    "Polity/parts of constitution.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
