@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Amendments"
             }
+          },
+          {
+            "id": "bd49eee5c73a7860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-06-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-25"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schedules",
+                "query": "preventive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2025-06-24.md",
+                "file": "Daily notes/2025-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-24"
+              "title": "Backlinks for 2025-06-25"
             }
           },
           {
@@ -250,11 +274,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "bd49eee5c73a7860",
   "lastOpenFiles": [
+    "Daily notes/2025-06-24.md",
     "Polity/schedules.md",
     "Polity/Imp cases.md",
-    "Daily notes/2025-06-24.md",
     "Polity/Amendments.md",
     "Polity/91st CAA.md",
     "Polity/7th CAA.md",
