@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gvot initiatives/PM-KUSUM.md",
+                "file": "Polity/Imp cases.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PM-KUSUM"
+              "title": "Imp cases"
             }
           },
           {
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gvot initiatives/PM-KUSUM.md",
+                "file": "Polity/Imp cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PM-KUSUM"
+              "title": "Backlinks for Imp cases"
             }
           },
           {
@@ -231,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,6 +250,9 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "Daily notes/2025-06-24.md",
+    "Geography/Earthquake.md",
+    "Gvot initiatives/PM-KUSUM.md",
     "Gvot initiatives/PM GatiShakti.md",
     "Polity/Utilitarianism.md",
     "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
@@ -269,12 +273,9 @@
     "Polity/7th CAA.md",
     "Science/Household chemicals.md",
     "dataview practice.md",
-    "Geography/Earthquake.md",
     "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
     "Science/electronic configuration.md",
-    "Science/Radioactivity.md",
-    "Science/Electricity.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
