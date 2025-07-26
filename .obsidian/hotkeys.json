@@ -15,14 +15,6 @@
       "key": "N"
     }
   ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "Enter"
-    }
-  ],
   "editor:fold-all": [
     {
       "modifiers": [
@@ -49,7 +41,6 @@
     }
   ],
   "editor:toggle-bold": [],
-  "file-explorer:new-file": [],
   "templater-obsidian:create-Templates/Geography Template.md": [
     {
       "modifiers": [
@@ -98,5 +89,14 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:follow-link": []
 }
