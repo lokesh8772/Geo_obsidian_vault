@@ -6,8 +6,8 @@ tags:
 se-interval: 1
 se-last-reviewed: 2025-07-16T02:47:36
 se-ease: 2.5
-sr-due: 2025-07-19
-sr-interval: 3
+sr-due: 2025-08-11
+sr-interval: 16
 sr-ease: 250
 ---
 ### based on chemical composition

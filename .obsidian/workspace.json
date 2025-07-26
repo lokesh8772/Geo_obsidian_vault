@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/art 143.md",
+                "file": "Gvot initiatives/PM GatiShakti.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "art 143"
+              "title": "PM GatiShakti"
             }
           },
           {
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/art 143.md",
+                "file": "Gvot initiatives/PM GatiShakti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for art 143"
+              "title": "Backlinks for PM GatiShakti"
             }
           },
           {
@@ -249,6 +249,11 @@
   },
   "active": "b49143200da15e6c",
   "lastOpenFiles": [
+    "Polity/Utilitarianism.md",
+    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
+    "Geography/india - basics.md",
+    "Geography/Earth layers.md",
+    "Polity/art 143.md",
     "Polity/ad-hoc judge of SC.md",
     "Polity/91st CAA.md",
     "Polity/74th CAA.md",
@@ -270,12 +275,7 @@
     "Science/Radioactivity.md",
     "Science/Electricity.md",
     "Science/Hand rules(electromagnetism).md",
-    "Daily notes/2025-06-29.md",
-    "Science/Sound.md",
-    "Daily notes/2025-06-23.md",
-    "Science/Optics.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
-    "Science/Refraction.md",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
