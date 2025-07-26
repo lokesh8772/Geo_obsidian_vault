@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-23.md",
+                "file": "economy/Measures of Money.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-23"
+              "title": "Measures of Money"
             }
           },
           {
@@ -157,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2025-06-23.md",
+                "file": "economy/Measures of Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-23"
+              "title": "Backlinks for Measures of Money"
             }
           },
           {
@@ -274,8 +273,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Daily notes/2025-06-23.md",
+    "economy/Measures of Money.md",
     "Daily notes/2025-06-24.md",
     "Polity/SC's jurisdiction.md",
     "Polity/SC's other functions.md",
@@ -283,7 +284,6 @@
     "Polity/gram nyayalaya.md",
     "Polity/High court.md",
     "Mains Syllabus/SC judge Appointment.md",
-    "Daily notes/2025-06-23.md",
     "Daily notes/2025-06-22.md",
     "Daily notes/2025-06-27.md",
     "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
@@ -299,7 +299,6 @@
     "Polity/91st CAA.md",
     "Polity/7th CAA.md",
     "yo_ delete.md",
-    "Untitled.md",
     "Polity/Art 31.md",
     "Geography/Earthquake.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
