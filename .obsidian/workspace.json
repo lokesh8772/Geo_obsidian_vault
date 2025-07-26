@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Art 31.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Art 31"
-            }
-          },
-          {
-            "id": "2fc8d6cebea322aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Polity/Amendments.md",
                 "mode": "source",
                 "source": false,
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Amendments"
+            }
+          },
+          {
+            "id": "2fc8d6cebea322aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polity/7th CAA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "7th CAA"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amendments",
+                "query": "7th",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Art 31.md",
+                "file": "Polity/Amendments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Art 31"
+              "title": "Backlinks for Amendments"
             }
           },
           {
@@ -252,6 +252,7 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Polity/7th CAA.md",
     "Polity/Amendments.md",
     "Polity/Art 31.md",
     "Polity/Imp cases.md",
@@ -274,7 +275,6 @@
     "Polity/parts of constitution.md",
     "science study topics.md",
     "Science/Nuclear energy.md",
-    "Polity/7th CAA.md",
     "Science/Household chemicals.md",
     "dataview practice.md",
     "Science/Sub-atomic particles.md",
