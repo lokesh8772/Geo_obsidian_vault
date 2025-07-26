@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/SC's jurisdiction.md",
+                "file": "Daily notes/2025-06-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SC's jurisdiction"
+              "title": "2025-06-23"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SC",
+                "query": "supreme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/SC's jurisdiction.md",
+                "file": "Daily notes/2025-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SC's jurisdiction"
+              "title": "Backlinks for 2025-06-23"
             }
           },
           {
@@ -276,9 +276,10 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Daily notes/2025-06-24.md",
+    "Polity/SC's jurisdiction.md",
     "Polity/SC's other functions.md",
     "Polity/Imp cases.md",
-    "Polity/SC's jurisdiction.md",
     "Polity/gram nyayalaya.md",
     "Polity/High court.md",
     "Mains Syllabus/SC judge Appointment.md",
@@ -287,7 +288,6 @@
     "Daily notes/2025-06-27.md",
     "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
     "discretionary powers of governor.md",
-    "Daily notes/2025-06-24.md",
     "Polity/Governor.md",
     "Gvot initiatives/CPSU Scheme.md",
     "Polity/Sarkaria commission.md",
