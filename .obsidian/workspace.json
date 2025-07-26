@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/schedules.md",
+                "file": "Polity/Imp cases.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "schedules"
+              "title": "Imp cases"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "2025-06-25"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mandal",
+                "query": "imp cases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2025-06-25.md",
+                "file": "Polity/Imp cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-25"
+              "title": "Backlinks for Imp cases"
             }
           },
           {
@@ -274,11 +273,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd49eee5c73a7860",
+  "active": "b49143200da15e6c",
   "lastOpenFiles": [
-    "Daily notes/2025-06-24.md",
     "Polity/schedules.md",
     "Daily notes/2025-06-25.md",
+    "Daily notes/2025-06-24.md",
     "Polity/Imp cases.md",
     "Polity/Amendments.md",
     "Polity/91st CAA.md",
