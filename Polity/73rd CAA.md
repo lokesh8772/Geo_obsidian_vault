@@ -51,7 +51,7 @@ se-ease: 2.5
 	1. POI may provide for its implementation to UTs with exceptions as he may like
 21. exempted states  and areas- 
 	1. Nagaland, Mizoram and Meghalaya
-	2. Scheduled and tribal areas (schedule 5)
+	2. Scheduled and tribal areas ([[schedules|schedule 5]])
 	3. Darjeeling (having darjeeling gorkha hill council)
 	4. hilly areas of manipur having district council
 	5. parliament is empowered to extend panchayat acts to scheduled areas - 

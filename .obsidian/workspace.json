@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science study topics.md",
+                "file": "Polity/schedules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "science study topics"
+              "title": "schedules"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parts of ",
+                "query": "schedules",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/parts of constitution.md",
+                "file": "Polity/schedules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for parts of constitution"
+              "title": "Backlinks for schedules"
             }
           },
           {
@@ -249,17 +249,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "fab49ebc8b565f39",
   "lastOpenFiles": [
-    "Science/Nuclear energy.md",
+    "science study topics.md",
     "Polity/73rd CAA.md",
+    "Polity/parts of constitution.md",
+    "Science/Nuclear energy.md",
     "Polity/7th CAA.md",
     "Science/Household chemicals.md",
     "dataview practice.md",
     "Geography/Earthquake.md",
     "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
-    "science study topics.md",
     "Science/electronic configuration.md",
     "Science/Radioactivity.md",
     "Science/Electricity.md",
@@ -277,7 +278,6 @@
     "Science/Heat.md",
     "Science/temp conversion.md",
     "Science/pascal's law.md",
-    "Science/escape velocity.md",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
