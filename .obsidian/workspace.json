@@ -79,7 +79,8 @@
               "title": "schedules"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Imp cases.md",
+                "file": "Polity/Amendments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Imp cases"
+              "title": "Backlinks for Amendments"
             }
           },
           {
@@ -248,8 +249,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49143200da15e6c",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Polity/Imp cases.md",
     "Daily notes/2025-06-24.md",
     "Geography/Earthquake.md",
     "Gvot initiatives/PM-KUSUM.md",
@@ -275,7 +277,6 @@
     "dataview practice.md",
     "Science/Sub-atomic particles.md",
     "Science/Magnetism.md",
-    "Science/electronic configuration.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
