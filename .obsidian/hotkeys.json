@@ -90,13 +90,14 @@
       "key": "S"
     }
   ],
-  "file-explorer:new-file": [
+  "file-explorer:new-file": [],
+  "editor:follow-link": [],
+  "editor:insert-wikilink": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "Enter"
     }
-  ],
-  "editor:follow-link": []
+  ]
 }
