@@ -42,7 +42,7 @@ se-ease: 2.5
 3. SC in waman rao case 1981 - acts included after 24 april 1973 are open for JR [[Imp cases]]
 #### Tenth
 1. Anti defection law
-2. 52nd CAA 1985
+2. [[Amendments|52nd CAA 1985]]
 3. provisions related to disqualification of membership of legislature on the act of defection
 #### 11th
 1. powers and responsibilities of panchayats
