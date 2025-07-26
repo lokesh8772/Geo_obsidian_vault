@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "preventive",
+                "query": "mandal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -278,6 +278,7 @@
   "lastOpenFiles": [
     "Daily notes/2025-06-24.md",
     "Polity/schedules.md",
+    "Daily notes/2025-06-25.md",
     "Polity/Imp cases.md",
     "Polity/Amendments.md",
     "Polity/91st CAA.md",
@@ -301,7 +302,6 @@
     "Polity/parts of constitution.md",
     "science study topics.md",
     "Science/Nuclear energy.md",
-    "Science/Household chemicals.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
