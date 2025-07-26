@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Imp cases.md",
+                "file": "Polity/SC's other functions.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Imp cases"
+              "title": "SC's other functions"
             }
           },
           {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/High court.md",
-                "mode": "preview",
+                "file": "Polity/SC's jurisdiction.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "High court"
+              "title": "SC's jurisdiction"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HC",
+                "query": "SC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/High court.md",
+                "file": "Polity/SC's jurisdiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for High court"
+              "title": "Backlinks for SC's jurisdiction"
             }
           },
           {
@@ -276,6 +276,11 @@
   },
   "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Polity/SC's other functions.md",
+    "Polity/Imp cases.md",
+    "Polity/SC's jurisdiction.md",
+    "Polity/gram nyayalaya.md",
+    "Polity/High court.md",
     "Mains Syllabus/SC judge Appointment.md",
     "Daily notes/2025-06-23.md",
     "Daily notes/2025-06-22.md",
@@ -289,7 +294,6 @@
     "Daily notes/2025-06-30.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Executive.md",
     "Polity/Amendments.md",
-    "Polity/Imp cases.md",
     "Polity/schedules.md",
     "Daily notes/2025-06-25.md",
     "Polity/91st CAA.md",
@@ -298,10 +302,6 @@
     "Untitled.md",
     "Polity/Art 31.md",
     "Geography/Earthquake.md",
-    "Gvot initiatives/PM-KUSUM.md",
-    "Gvot initiatives/PM GatiShakti.md",
-    "Polity/Utilitarianism.md",
-    "Gvot initiatives/A Scheme for Promoting Innovation, Rural Industry & Entrepreneurship (ASPIRE).md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
