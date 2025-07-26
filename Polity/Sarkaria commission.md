@@ -21,7 +21,7 @@ in general found constitutional provisions to be sound, and advocated for operat
 6. center should have the power to deploy armed forces even without state's permission, but state should be consulted.
 7. when POI withholds assent to the state bills reserved for his consideration, reason should be communicated to the state.
 8. NDC -> renamed and reconstituted as National Economic and Development council.
-9. the procedure of  consulting CM in appointment of Governor should be included in the constitution itself.
+9. the procedure of  consulting CM in appointment of Governor should be included in the constitution itself., it set an order of precedence to follow for calling parties to form a govt.
 10. governor's term of five yrs should not be changed except for extremely compelling reasons.
 11. no commission for inquiry of a state minister should be set up unless demand is made by parliament.
 12. surcharge on income tax should be minimal, specific and for limited time period.

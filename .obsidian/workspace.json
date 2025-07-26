@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-30.md",
+                "file": "Polity/Sarkaria commission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-30"
+              "title": "Sarkaria commission"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adjourn",
+                "query": "sarkari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2025-06-30.md",
+                "file": "Polity/Sarkaria commission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-30"
+              "title": "Backlinks for Sarkaria commission"
             }
           },
           {
@@ -276,6 +276,7 @@
   },
   "active": "2fc8d6cebea322aa",
   "lastOpenFiles": [
+    "Daily notes/2025-06-30.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Executive.md",
     "Polity/Amendments.md",
     "Polity/Imp cases.md",
@@ -301,7 +302,6 @@
     "Polity/judicial powers of Parliament.md",
     "Polity/Judicial review.md",
     "Polity/parts of constitution.md",
-    "science study topics.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
