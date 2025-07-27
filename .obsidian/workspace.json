@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Measures of Money.md",
+                "file": "Geography/SDG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Measures of Money"
+              "title": "SDG"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fiscal ",
+                "query": "\"Sustainable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economy/Measures of Money.md",
+                "file": "Geography/SDG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Measures of Money"
+              "title": "Backlinks for SDG"
             }
           },
           {
@@ -252,7 +253,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -273,10 +275,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a360b55ac10b990b",
+  "active": "4fddd09b5b163472",
   "lastOpenFiles": [
-    "Daily notes/2025-06-23.md",
+    "Polity/Governor.md",
+    "Geography/SDG.md",
     "economy/Measures of Money.md",
+    "Daily notes/2025-06-23.md",
     "Daily notes/2025-06-24.md",
     "Polity/SC's jurisdiction.md",
     "Polity/SC's other functions.md",
@@ -288,7 +292,6 @@
     "Daily notes/2025-06-27.md",
     "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
     "discretionary powers of governor.md",
-    "Polity/Governor.md",
     "Gvot initiatives/CPSU Scheme.md",
     "Polity/Sarkaria commission.md",
     "Daily notes/2025-06-30.md",
@@ -300,7 +303,6 @@
     "Polity/7th CAA.md",
     "yo_ delete.md",
     "Polity/Art 31.md",
-    "Geography/Earthquake.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",

@@ -20,7 +20,7 @@ se-ease: 2.5
 	4. 
 5. nominates 1/6th member of the state legislative councils, special knowledge in fields of literature, science, arts, social service and co-operative movement.
 6. decides on the disqualification of the state legislature members in consultation with the election commission
-7. constitutes a finance commission every five year to see the financial positions of panchayats and municipalities.
+7. constitutes a finance commission every five year to see the financial positions of panchayats and municipalities.s
 8. judicial powers - 
 	1. consulted when appointing HC judges by the POI.
 	2. appoints district judges in consultation with the HC
