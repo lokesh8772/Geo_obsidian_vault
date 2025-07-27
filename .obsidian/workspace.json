@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Flow and stock variables.md",
+                "file": "economy/Inflationary gap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flow and stock variables"
+              "title": "Inflationary gap"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/FCI.md",
     "economy/Flow and stock variables.md",
+    "economy/Inflationary gap.md",
+    "economy/FCI.md",
     "economy/MPI.md",
     "economy/HDI.md",
     "economy/Law of diminishing marginal product.md",
@@ -254,7 +255,6 @@
     "discretionary powers of governor.md",
     "Gvot initiatives/CPSU Scheme.md",
     "Polity/Sarkaria commission.md",
-    "Daily notes/2025-06-30.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
