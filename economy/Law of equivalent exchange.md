@@ -4,4 +4,4 @@ tags:
   - GS3
   - review
 ---
-Humankind can not gain anything wi
+Humankind can not gain anything without first giving something in return.
