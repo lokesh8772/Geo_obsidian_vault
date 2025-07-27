@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-21.md",
+                "file": "economy/Priority sector lending.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-21"
+              "title": "Priority sector lending"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "core indus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,6 +229,10 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "economy/Sterilization.md",
+    "economy/Priority sector lending.md",
+    "Daily notes/2025-06-08.md",
+    "Daily notes/2025-06-21.md",
     "economy/Inflationary gap.md",
     "economy/Flow and stock variables.md",
     "economy/FCI.md",
@@ -251,10 +255,6 @@
     "Mains Syllabus/SC judge Appointment.md",
     "Daily notes/2025-06-22.md",
     "Daily notes/2025-06-27.md",
-    "Notion/UPSC PREP/CAPF essay writings/Federalism in india.md",
-    "discretionary powers of governor.md",
-    "Gvot initiatives/CPSU Scheme.md",
-    "Polity/Sarkaria commission.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
