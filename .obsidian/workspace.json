@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-20.md",
+                "file": "economy/Measures of Money.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-20"
+              "title": "Measures of Money"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CRR",
+                "query": "M0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,8 +227,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "Daily notes/2025-06-20.md",
     "Polity/Legal services authorities.md",
     "economy/NBFC.md",
     "economy/Captial Adequecy Ratio.md",
@@ -254,7 +255,6 @@
     "Daily notes/2025-06-24.md",
     "Polity/SC's jurisdiction.md",
     "Polity/SC's other functions.md",
-    "Polity/Imp cases.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
