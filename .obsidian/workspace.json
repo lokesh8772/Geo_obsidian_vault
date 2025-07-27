@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Legal services authorities.md",
+                "file": "Daily notes/2025-06-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Legal services authorities"
+              "title": "2025-06-20"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LOK ",
+                "query": "STRUCTURAL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,6 +229,7 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "Polity/Legal services authorities.md",
     "economy/NBFC.md",
     "economy/Captial Adequecy Ratio.md",
     "economy/MCLR.md",
@@ -254,7 +255,6 @@
     "Polity/SC's jurisdiction.md",
     "Polity/SC's other functions.md",
     "Polity/Imp cases.md",
-    "Polity/gram nyayalaya.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
