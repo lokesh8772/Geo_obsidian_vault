@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "STRUCTURAL",
+                "query": "CRR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,7 +227,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1120f23591f7e22b",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Polity/Legal services authorities.md",
     "economy/NBFC.md",
