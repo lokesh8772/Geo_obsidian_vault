@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Economic indicators.md",
+                "file": "economy/Law of equivalent exchange.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Economic indicators"
+              "title": "Law of equivalent exchange"
             }
           }
         ],
@@ -229,6 +229,8 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "economy/Engel's law.md",
+    "economy/Law of equivalent exchange.md",
     "economy/Economic indicators.md",
     "Geography/SDG.md",
     "Polity/Governor.md",
@@ -253,8 +255,6 @@
     "Polity/schedules.md",
     "Daily notes/2025-06-25.md",
     "Polity/91st CAA.md",
-    "Polity/7th CAA.md",
-    "yo_ delete.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
