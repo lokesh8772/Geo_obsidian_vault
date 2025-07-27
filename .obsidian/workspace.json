@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/SDG.md",
+                "file": "economy/Capital Adequecy Ratio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SDG"
+              "title": "Capital Adequecy Ratio"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Measures of Money.md",
+                "file": "economy/Ratios (banks).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Measures of Money"
+              "title": "Ratios (banks)"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "M0",
+                "query": "capital adequecy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,10 +229,13 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "economy/Capital Adequecy Ratio.md",
+    "Geography/SDG.md",
+    "economy/Ratios (banks).md",
+    "economy/Measures of Money.md",
     "Daily notes/2025-06-20.md",
     "Polity/Legal services authorities.md",
     "economy/NBFC.md",
-    "economy/Captial Adequecy Ratio.md",
     "economy/MCLR.md",
     "economy/LAF.md",
     "economy/Priority sector lending.md",
@@ -248,13 +251,10 @@
     "economy/Law of equivalent exchange.md",
     "economy/Engel's law.md",
     "economy/Economic indicators.md",
-    "Geography/SDG.md",
     "Polity/Governor.md",
-    "economy/Measures of Money.md",
     "Daily notes/2025-06-23.md",
     "Daily notes/2025-06-24.md",
     "Polity/SC's jurisdiction.md",
-    "Polity/SC's other functions.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
