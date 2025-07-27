@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Ratios (banks).md",
+                "file": "economy/Insolvency and Bankruptcy code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ratios (banks)"
+              "title": "Insolvency and Bankruptcy code"
             }
           }
         ],
@@ -229,9 +229,10 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "economy/Ratios (banks).md",
+    "economy/Insolvency and Bankruptcy code.md",
     "economy/Capital Adequecy Ratio.md",
     "Geography/SDG.md",
-    "economy/Ratios (banks).md",
     "economy/Measures of Money.md",
     "Daily notes/2025-06-20.md",
     "Polity/Legal services authorities.md",
@@ -254,7 +255,6 @@
     "Polity/Governor.md",
     "Daily notes/2025-06-23.md",
     "Daily notes/2025-06-24.md",
-    "Polity/SC's jurisdiction.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
