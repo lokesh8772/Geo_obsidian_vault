@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/MCLR.md",
+                "file": "economy/NBFC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MCLR"
+              "title": "NBFC"
             }
           }
         ],
@@ -229,8 +229,10 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/LAF.md",
+    "economy/Captial Adequecy Ratio.md",
+    "economy/NBFC.md",
     "economy/MCLR.md",
+    "economy/LAF.md",
     "economy/Priority sector lending.md",
     "economy/Sterilization.md",
     "Daily notes/2025-06-08.md",
@@ -253,8 +255,6 @@
     "Polity/SC's other functions.md",
     "Polity/Imp cases.md",
     "Polity/gram nyayalaya.md",
-    "Polity/High court.md",
-    "Mains Syllabus/SC judge Appointment.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
