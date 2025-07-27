@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/HDI.md",
+                "file": "economy/FCI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HDI"
+              "title": "FCI"
             }
           }
         ],
@@ -229,8 +229,10 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Law of diminishing marginal product.md",
+    "economy/MPI.md",
+    "economy/FCI.md",
     "economy/HDI.md",
+    "economy/Law of diminishing marginal product.md",
     "economy/Law of equivalent exchange.md",
     "economy/Engel's law.md",
     "economy/Economic indicators.md",
@@ -253,8 +255,6 @@
     "Polity/Sarkaria commission.md",
     "Daily notes/2025-06-30.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Executive.md",
-    "Polity/Amendments.md",
-    "Polity/schedules.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
