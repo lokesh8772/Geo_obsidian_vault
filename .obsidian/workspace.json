@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Inflationary gap.md",
+                "file": "Daily notes/2025-06-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inflationary gap"
+              "title": "2025-06-21"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "core indus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,8 +229,8 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Flow and stock variables.md",
     "economy/Inflationary gap.md",
+    "economy/Flow and stock variables.md",
     "economy/FCI.md",
     "economy/MPI.md",
     "economy/HDI.md",
