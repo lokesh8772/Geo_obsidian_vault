@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/NBFC.md",
+                "file": "Polity/Legal services authorities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NBFC"
+              "title": "Legal services authorities"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "LOK ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,8 +229,8 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Captial Adequecy Ratio.md",
     "economy/NBFC.md",
+    "economy/Captial Adequecy Ratio.md",
     "economy/MCLR.md",
     "economy/LAF.md",
     "economy/Priority sector lending.md",

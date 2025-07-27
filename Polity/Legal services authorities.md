@@ -43,6 +43,7 @@ requriement-
 	1. any case pending before the court
 	2. any case falling in the jurisdiction of the court but not yet brought before the court.
 	3. no matter not compoundable under any law.
+	4. in cases of **NPA** under dooubtfull or loss category amount < 5 lakhs
 4. transfer of cases = 
 	1. if one party makes an applicaton for this
 	2. if both the parties agrees for the transfer
