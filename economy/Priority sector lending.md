@@ -12,5 +12,8 @@ tags:
 6. social infra
 7. renewable energy..
 
-SCB,  -> 40 %
-UCB, S
+SCB, FCB with <20 branches  -> 40 %
+LAB, RRB -> 75%
+UCB -> 60%
+SFB -> 60%
+RCB -> NA

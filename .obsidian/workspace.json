@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Priority sector lending.md",
+                "file": "economy/LAF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Priority sector lending"
+              "title": "LAF"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Sterilization.md",
     "economy/Priority sector lending.md",
+    "economy/LAF.md",
+    "economy/Sterilization.md",
     "Daily notes/2025-06-08.md",
     "Daily notes/2025-06-21.md",
     "economy/Inflationary gap.md",
@@ -254,7 +255,6 @@
     "Polity/High court.md",
     "Mains Syllabus/SC judge Appointment.md",
     "Daily notes/2025-06-22.md",
-    "Daily notes/2025-06-27.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
