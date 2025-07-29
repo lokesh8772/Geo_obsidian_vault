@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Adam smith's canons.md",
-                "mode": "source",
+                "file": "economy/Laffer curve.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adam smith's canons"
+              "title": "Laffer curve"
             }
           }
         ],
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +228,13 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Insolvency and Bankruptcy code.md",
+    "resources/Laffer_curve.svg",
+    "resources/Unconfirmed 985008.crdownload",
+    "resources/lwe.md",
+    "economy/Laffer curve.md",
+    "economy/Pigouvian tax.md",
     "economy/Adam smith's canons.md",
+    "economy/Insolvency and Bankruptcy code.md",
     "economy/Ratios (banks).md",
     "economy/Capital Adequecy Ratio.md",
     "Geography/SDG.md",
@@ -251,10 +255,6 @@
     "economy/HDI.md",
     "economy/Law of diminishing marginal product.md",
     "economy/Law of equivalent exchange.md",
-    "economy/Engel's law.md",
-    "economy/Economic indicators.md",
-    "Polity/Governor.md",
-    "Daily notes/2025-06-23.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
@@ -266,7 +266,6 @@
     "resources/Passes in HP and UK.pdf",
     "resources/Passes in J&K.pdf",
     "resources",
-    "New folder",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "BkdW18.jpg",

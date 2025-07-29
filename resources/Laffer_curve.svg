@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="544.42981"
+   width="737.52948"
+   id="svg2190"
+   sodipodi:version="0.32"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:modified="true"
+   version="1.0"
+   sodipodi:docname="laffer.svg">
+  <defs
+     id="defs2192" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:cx="410.0885"
+     inkscape:cy="246.30833"
+     inkscape:zoom="0.98994949"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4277"
+     inkscape:window-width="1887"
+     inkscape:window-height="876"
+     inkscape:window-x="22"
+     inkscape:window-y="29"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     lock-margins="true" />
+  <metadata
+     id="metadata2195">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1"
+     id="layer1"
+     transform="translate(33.328257,-226.27652)">
+    <g
+       id="g4277"
+       transform="translate(-39.051221,-250.54828)">
+      <g
+         transform="translate(0,490.18624)"
+         id="g4243">
+        <path
+           sodipodi:nodetypes="cccccc"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 103.42378,415.08221 h 619.39078 l -25.21969,8.19231 8.103,-8.103 -8.103,-8.103 25.04564,7.86636"
+           id="path2165" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 103.92378,427.49356 103.74973,7.5168208 95.499395,31.383847 l 8.103005,-5.893093 8.103,6.629729 -8.103,-25.0456441"
+           id="path2167" />
+        <path
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#008000;stroke-width:5.31496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 103.42378,414.58221 C 139.27834,309.99787 198.99614,142.46298 351.37566,128.1779 502.08948,143.49654 564.99444,303.26855 599.32754,414.58221"
+           id="path2169"
+           sodipodi:nodetypes="ccc" />
+        <g
+           id="g4230"
+           transform="translate(0,-44.386944)" />
+        <g
+           id="g4212"
+           transform="translate(77.194685)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="91.02253"
+         y="955.59607"
+         id="text872"><tspan
+           sodipodi:role="line"
+           id="tspan870"
+           x="91.02253"
+           y="955.59607">0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="588.16541"
+         y="954.16748"
+         id="text876"><tspan
+           sodipodi:role="line"
+           id="tspan874"
+           x="588.16541"
+           y="954.16748">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="286.73682"
+         y="997.73895"
+         id="text880"><tspan
+           sodipodi:role="line"
+           id="tspan878"
+           x="286.73682"
+           y="997.73895"
+           style="font-size:26.6667px">Tax rate (t)</tspan></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:4.0252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.0756, 12.0756;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 351.37566,618.36414 V 932.02463"
+         id="path902" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="338.40115"
+         y="951.82483"
+         id="text906"><tspan
+           sodipodi:role="line"
+           id="tspan904"
+           x="338.40115"
+           y="951.82483"
+           style="font-size:32px">t*</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="-899.96228"
+         y="47.980751"
+         id="text910"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan908"
+           x="-899.96228"
+           y="47.980751"
+           style="font-size:29.3333px">Government revenue (R)</tspan></text>
+    </g>
+  </g>
+</svg>
