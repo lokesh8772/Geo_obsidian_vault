@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Laffer curve.md",
-                "mode": "preview",
+                "file": "economy/Ricardian equivalance.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Laffer curve"
+              "title": "Ricardian equivalance"
             }
           }
         ],
@@ -228,10 +228,11 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "economy/Laffer curve.md",
+    "economy/Ricardian equivalance.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/lwe.md",
-    "economy/Laffer curve.md",
     "economy/Pigouvian tax.md",
     "economy/Adam smith's canons.md",
     "economy/Insolvency and Bankruptcy code.md",
@@ -273,7 +274,6 @@
     "Pasted image 20250606190559.png",
     "IMG_20250123_121723_943.jpg",
     "images/IMG_20250123_121723_943.jpg",
-    "images/IMG_20250123_121559_162.jpg",
     "Untitled.canvas"
   ]
 }
