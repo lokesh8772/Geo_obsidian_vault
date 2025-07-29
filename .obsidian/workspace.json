@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Ricardian equivalance.md",
+                "file": "economy/Tax expenditure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ricardian equivalance"
+              "title": "Tax expenditure"
             }
           }
         ],
@@ -228,8 +228,9 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Laffer curve.md",
     "economy/Ricardian equivalance.md",
+    "economy/Tax expenditure.md",
+    "economy/Laffer curve.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/lwe.md",
@@ -255,7 +256,6 @@
     "economy/MPI.md",
     "economy/HDI.md",
     "economy/Law of diminishing marginal product.md",
-    "economy/Law of equivalent exchange.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
