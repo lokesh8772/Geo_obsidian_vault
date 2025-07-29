@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Insolvency and Bankruptcy code.md",
+                "file": "economy/Adam smith's canons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Insolvency and Bankruptcy code"
+              "title": "Adam smith's canons"
             }
           }
         ],
@@ -227,10 +227,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Ratios (banks).md",
     "economy/Insolvency and Bankruptcy code.md",
+    "economy/Adam smith's canons.md",
+    "economy/Ratios (banks).md",
     "economy/Capital Adequecy Ratio.md",
     "Geography/SDG.md",
     "economy/Measures of Money.md",
@@ -254,7 +255,6 @@
     "economy/Economic indicators.md",
     "Polity/Governor.md",
     "Daily notes/2025-06-23.md",
-    "Daily notes/2025-06-24.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
