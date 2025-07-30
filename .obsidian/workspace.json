@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-03.md",
+                "file": "Daily notes/2025-06-04.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-03"
+              "title": "2025-06-04"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "Daily notes/2025-06-03.md",
     "dataview practice.md",
     "Polity/Amendments.md",
     "economy/Tax expenditure.md",
@@ -255,7 +256,6 @@
     "economy/Inflationary gap.md",
     "economy/Flow and stock variables.md",
     "economy/FCI.md",
-    "economy/MPI.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
