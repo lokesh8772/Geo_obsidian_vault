@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-10.md",
-                "mode": "preview",
+                "file": "economy/HDI.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-10"
+              "title": "HDI"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "HDI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,6 +229,7 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "Daily notes/2025-06-10.md",
     "Daily notes/2025-06-09.md",
     "Daily notes/2025-06-08.md",
     "Daily notes/2025-06-07.md",
@@ -255,7 +257,6 @@
     "economy/NBFC.md",
     "economy/MCLR.md",
     "economy/LAF.md",
-    "economy/Priority sector lending.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
