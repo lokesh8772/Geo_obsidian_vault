@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Tax expenditure.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tax expenditure"
+              "title": "dataview practice"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capital adequecy",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,8 +229,8 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
-    "economy/Ricardian equivalance.md",
     "economy/Tax expenditure.md",
+    "economy/Ricardian equivalance.md",
     "economy/Laffer curve.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
