@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
+                "file": "Polity/Amendments.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "Amendments"
             }
           }
         ],
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -229,6 +230,7 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "dataview practice.md",
     "economy/Tax expenditure.md",
     "economy/Ricardian equivalance.md",
     "economy/Laffer curve.md",
@@ -256,7 +258,6 @@
     "economy/FCI.md",
     "economy/MPI.md",
     "economy/HDI.md",
-    "economy/Law of diminishing marginal product.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
