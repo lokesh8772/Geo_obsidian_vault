@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Amendments.md",
+                "file": "Daily notes/2025-06-03.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amendments"
+              "title": "2025-06-03"
             }
           }
         ],
@@ -109,13 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -231,6 +229,7 @@
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
     "dataview practice.md",
+    "Polity/Amendments.md",
     "economy/Tax expenditure.md",
     "economy/Ricardian equivalance.md",
     "economy/Laffer curve.md",
@@ -257,7 +256,6 @@
     "economy/Flow and stock variables.md",
     "economy/FCI.md",
     "economy/MPI.md",
-    "economy/HDI.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
