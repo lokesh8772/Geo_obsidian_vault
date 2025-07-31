@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/HDI.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HDI"
+              "title": "dataview practice"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HDI",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,6 +229,7 @@
   },
   "active": "1120f23591f7e22b",
   "lastOpenFiles": [
+    "economy/HDI.md",
     "Daily notes/2025-06-10.md",
     "Daily notes/2025-06-09.md",
     "Daily notes/2025-06-08.md",
@@ -256,7 +257,6 @@
     "Polity/Legal services authorities.md",
     "economy/NBFC.md",
     "economy/MCLR.md",
-    "economy/LAF.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
