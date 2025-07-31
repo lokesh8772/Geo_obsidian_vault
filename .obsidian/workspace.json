@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Capital Adequecy Ratio.md",
-                "mode": "source",
+                "file": "Notion/UPSC PREP/CAPF essay writings/CAPF essay writings.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Capital Adequecy Ratio"
+              "title": "CAPF essay writings"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "dataview practice"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "CAPF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,8 +226,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1120f23591f7e22b",
+  "active": "a360b55ac10b990b",
   "lastOpenFiles": [
+    "Mains Syllabus/Unemployment.md",
+    "economy/NCRB data.md",
+    "economy/Capital Adequecy Ratio.md",
+    "dataview practice.md",
     "economy/HDI.md",
     "Daily notes/2025-06-10.md",
     "Daily notes/2025-06-09.md",
@@ -238,7 +241,6 @@
     "Daily notes/2025-06-05.md",
     "Daily notes/2025-06-04.md",
     "Daily notes/2025-06-03.md",
-    "dataview practice.md",
     "Polity/Amendments.md",
     "economy/Tax expenditure.md",
     "economy/Ricardian equivalance.md",
@@ -250,13 +252,10 @@
     "economy/Adam smith's canons.md",
     "economy/Insolvency and Bankruptcy code.md",
     "economy/Ratios (banks).md",
-    "economy/Capital Adequecy Ratio.md",
     "Geography/SDG.md",
     "economy/Measures of Money.md",
     "Daily notes/2025-06-20.md",
     "Polity/Legal services authorities.md",
-    "economy/NBFC.md",
-    "economy/MCLR.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
