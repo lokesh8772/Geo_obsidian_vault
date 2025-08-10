@@ -59,10 +59,24 @@
             "id": "eebd4656a598f190",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Polity/Election Commission of India.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Election Commission of India"
             }
           }
         ],
@@ -98,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Election commission\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,8 +251,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "eebd4656a598f190",
   "lastOpenFiles": [
+    "Daily notes/2025-06-30.md",
+    "Polity/Election Commission of India.md",
+    "Daily notes/2025-07-05.md",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
     "Daily notes/2025-05-31.md",
     "Notion/UPSC PREP/CAPF essay writings/Financial inclusion of women.md",
@@ -263,9 +281,6 @@
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/lwe.md",
-    "economy/Pigouvian tax.md",
-    "economy/Adam smith's canons.md",
-    "economy/Insolvency and Bankruptcy code.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
