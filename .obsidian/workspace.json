@@ -54,8 +54,19 @@
               "icon": "lucide-file",
               "title": "Financial inclusion of women"
             }
+          },
+          {
+            "id": "eebd4656a598f190",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,6 +238,7 @@
   },
   "active": "4fddd09b5b163472",
   "lastOpenFiles": [
+    "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
     "Daily notes/2025-05-31.md",
     "Notion/UPSC PREP/CAPF essay writings/Financial inclusion of women.md",
     "dataview practice.md",
@@ -254,7 +266,6 @@
     "economy/Pigouvian tax.md",
     "economy/Adam smith's canons.md",
     "economy/Insolvency and Bankruptcy code.md",
-    "economy/Ratios (banks).md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
