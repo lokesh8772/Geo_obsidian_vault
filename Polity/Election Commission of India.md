@@ -13,3 +13,17 @@ tags:
 appointed by POI
 tenure of 6 yrs or 65 yrs age
 
+functions -
+1. Admin - 
+	1. exercise of elections
+	2. delimitation
+	3. symbol allotment
+	4. enforcement of model Code of conduct
+2. quasi-judicial 
+	1. decides on matters of splits/mergers
+	2. decides on matters of disqualification
+	3. monitoring election expenditure
+3. Advisory
+	1. advise on matters of disqualification or corrupt practices.
+
+
