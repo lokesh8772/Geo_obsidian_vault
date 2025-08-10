@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/CA database/CA 2025/ECI's voter list.md",
+                "file": "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECI's voter list"
+              "title": "Ground water Contamination"
+            }
+          },
+          {
+            "id": "30af58be479a90f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPSC  GS topics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UPSC  GS topics"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "topics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,8 +228,10 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
-    "Polity/Election Commission of India.md",
+    "UPSC  GS topics.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
     "Notion/UPSC PREP/CA database/CA 2025/ECI's voter list.md",
+    "Polity/Election Commission of India.md",
     "Notion/UPSC PREP/CA database/CA 2025",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
     "Notion/UPSC PREP/CAPF essay writings/Financial inclusion of women.md",
@@ -228,8 +255,6 @@
     "Daily notes/2025-06-03.md",
     "Polity/Amendments.md",
     "economy/Tax expenditure.md",
-    "economy/Ricardian equivalance.md",
-    "economy/Laffer curve.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
