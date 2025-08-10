@@ -37,4 +37,7 @@ Recommendations
 	1. Zero Liquid Waste policy.
 	2. waste treatment standards and implementation
 6. community engagement
-	1. water user groups, 
+	1. water user groups, -> testing and quality
+	2. awareness in schools
+	3. panchayat level campaigns
+	4. behavioral change
