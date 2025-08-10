@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Election commission\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eebd4656a598f190",
+  "active": "055f521e298448a0",
   "lastOpenFiles": [
     "Daily notes/2025-06-30.md",
     "Polity/Election Commission of India.md",
