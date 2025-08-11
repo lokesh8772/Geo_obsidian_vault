@@ -14,3 +14,5 @@ tags:
 5. Katarniaghat WLS
 6. Ranipur TR 
 	1. near chitrakoot
+
+[[Uttar-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-2048x1997.png]]

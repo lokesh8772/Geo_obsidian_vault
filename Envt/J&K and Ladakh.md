@@ -19,4 +19,6 @@ National Park
 	2. [[Indus]]
 4. Kishtwar NP 
 	1. Marusudar river -> Largest tributary of [[Chenab]]
-5. 
+
+[[Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png]]
+[[Ladakh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1548.png]]

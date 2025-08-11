@@ -21,3 +21,4 @@ tags:
 	1. Paonta valley
 	2. dense sal forest
 	3. sambar(VU)
+[[Himachal-Pradesh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x2001.png]]

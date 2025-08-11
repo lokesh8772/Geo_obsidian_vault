@@ -32,3 +32,4 @@ tags:
 	4. Amangarth Tiger Reserve
 
 Rajaji and Ram ganga are TR also
+[[Uttarakhand-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1702.png]]
