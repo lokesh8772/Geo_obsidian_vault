@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Manipur.md",
+                "file": "Envt/Maharashtra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manipur"
+              "title": "Maharashtra"
             }
           }
         ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uttar pradesh",
+                "query": "sarka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,8 +241,20 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
+    "Envt/Gujrat.md",
+    "Envt/Maharashtra.md",
+    "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
+    "Envt/Sikkim.md",
+    "resources/Sikkim-National-Parks-and-Wildlife-SanctuariesMap.png",
+    "resources/Unconfirmed 54208.crdownload",
+    "Envt/Tripura.md",
+    "resources/Tripura-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
+    "resources/Unconfirmed 503393.crdownload",
+    "Envt/Mizoram.md",
+    "resources/Mizoram-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
+    "resources/Unconfirmed 314508.crdownload",
     "Envt/Manipur.md",
+    "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png.0.pdnSave",
     "Envt/Nagaland.md",
     "resources/Nagaland-National-Parks-and-Wildlife-Sanctuaries-Map-2048x1891.png",
@@ -268,24 +280,13 @@
     "resources/Unconfirmed 767289.crdownload",
     "Envt/Himachal Pradesh.md",
     "Envt/J&K and Ladakh.md",
-    "resources/Rajasthan-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1715.png",
-    "resources/Ladakh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1548.png",
     "resources/Unconfirmed 299318.crdownload",
-    "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
-    "resources/Unconfirmed 56556.crdownload",
-    "resources/Himachal-Pradesh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x2001.png",
-    "resources/Unconfirmed 101337.crdownload",
-    "resources/Unconfirmed 502289.crdownload",
     "Geography/National Parks in india.md",
     "Geography/hills glaciers etc/Great himalaya.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
     "Envt/IUCN.md",
     "Templates/Polity notes template.md",
     "Templates/Envt note template.md",
-    "UPSC  GS topics.md",
-    "CA/Awaza Programme of Action.md",
-    "Notion/UPSC PREP/CAPF essay writings/Unemployment.md",
-    "Notion/UPSC PREP/CAPF essay writings/Early childhood Education.md",
     "Untitled.canvas"
   ]
 }
