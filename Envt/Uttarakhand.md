@@ -2,6 +2,9 @@
 tags:
   - Environment
   - GS1
+  - NationalPark
+  - TigerReserve
+  - WLS
 ---
 1. Govind Pashu Vihar NP
 	1. [[Snow Leopard Project]] 2009 started

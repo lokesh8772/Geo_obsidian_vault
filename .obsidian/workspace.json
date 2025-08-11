@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Rajasthan.md",
+                "file": "Envt/Bihar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rajasthan"
+              "title": "Bihar"
             }
           }
         ],
@@ -253,14 +253,16 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Envt/Haryana.md",
+    "Envt/Uttar Pradesh.md",
+    "Envt/Bihar.md",
     "Envt/Rajasthan.md",
+    "Envt/Haryana.md",
     "Envt/Uttarakhand.md",
+    "Envt/Himachal Pradesh.md",
+    "Envt/J&K and Ladakh.md",
     "Geography/Himalayas.md",
     "Geography/hills glaciers etc/Great himalaya.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
-    "Envt/Himachal Pradesh.md",
-    "Envt/J&K and Ladakh.md",
     "Envt/IUCN.md",
     "Envt/Wildlife (Protection) Act 1972.md",
     "Templates/Polity notes template.md",
@@ -280,8 +282,6 @@
     "economy/Gvot initiatives/National Civil Aviation Policy (NCAP) 2016.md",
     "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
     "economy/Gvot initiatives/Stand-Up India.md",
-    "economy/Gvot initiatives/Solar PV Module PLI Scheme.md",
-    "economy/Gvot initiatives/SVANidhi Scheme.md",
     "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
     "resources/Laffer_curve.svg",

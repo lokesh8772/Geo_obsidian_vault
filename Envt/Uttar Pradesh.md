@@ -1,0 +1,16 @@
+---
+tags:
+  - Environment
+  - GS1
+  - NationalPark
+  - TigerReserve
+  - WLS
+---
+1. Dudhwa NP
+	1. also TR
+2. Pilibhit TR
+3. Amanngarh TR
+4. Kishtwar WLS
+5. Katarniaghat WLS
+6. Ranipur TR 
+	1. near chitrakoot

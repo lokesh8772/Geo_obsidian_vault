@@ -2,6 +2,7 @@
 tags:
   - Environment
   - GS1
+  - NationalPark
 ---
 `inder ne pin se sim nikali or great himalaya ki khirganga me fek di`
 

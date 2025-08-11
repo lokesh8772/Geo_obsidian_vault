@@ -2,6 +2,9 @@
 tags:
   - Environment
   - GS1
+  - NationalPark
+  - TigerReserve
+  - WLS
 ---
 1. Desert NP
 	1. Great Indian Bustard(CR)
@@ -11,9 +14,17 @@ tags:
 2. Sariska NP
 3. Kevladeo NP 
 	1. not a TR
+	2. Bharatpur Bird sanctury
+	3. keoladeo Ghana NP
+	4. siberian crane(CR)
+	5. sarus Crane(VU)
 4. Ranthambhore NP
+	1. Sawai madhopur santury
+	2. bengal tiger
+	3. Indian leopard.
 5. Ramgarh Vishdhari **WLS, TR** not NP
 6. Mukundrrah hills NP
+	1. k/a darrah NP
 
 Tiger Reserve
 1. Ranthambhor
