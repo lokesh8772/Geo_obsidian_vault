@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
+                "file": "Geography/Himalayas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Marine Pollution"
+              "title": "Himalayas"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Uttarakhand.md",
+                "file": "Envt/Rajasthan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Uttarakhand"
+              "title": "Rajasthan"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gs topi",
+                "query": "nanda devi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,8 +253,13 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Envt/Himachal Pradesh.md",
+    "Envt/Haryana.md",
+    "Envt/Rajasthan.md",
     "Envt/Uttarakhand.md",
+    "Geography/Himalayas.md",
+    "Geography/hills glaciers etc/Great himalaya.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
+    "Envt/Himachal Pradesh.md",
     "Envt/J&K and Ladakh.md",
     "Envt/IUCN.md",
     "Envt/Wildlife (Protection) Act 1972.md",
@@ -276,11 +282,6 @@
     "economy/Gvot initiatives/Stand-Up India.md",
     "economy/Gvot initiatives/Solar PV Module PLI Scheme.md",
     "economy/Gvot initiatives/SVANidhi Scheme.md",
-    "economy/Gvot initiatives/Startup India.md",
-    "economy/Gvot initiatives/Smart Cities Mission.md",
-    "economy/Gvot initiatives/SHINE.md",
-    "economy/Gvot initiatives/Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
-    "economy/Gvot initiatives/Skill India Mission.md",
     "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
     "resources/Laffer_curve.svg",
