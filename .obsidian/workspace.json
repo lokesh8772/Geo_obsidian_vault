@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
+                "file": "Templates/Polity notes template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "Polity notes template"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Envt note template.md",
+                "file": "Envt/IUCN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Envt note template"
+              "title": "IUCN"
             }
           }
         ],
@@ -252,8 +252,11 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "CA/Awaza Programme of Action.md",
     "Templates/Envt note template.md",
+    "Envt/IUCN.md",
+    "Templates/Polity notes template.md",
+    "UPSC  GS topics.md",
+    "CA/Awaza Programme of Action.md",
     "Envt",
     "E",
     "New folder",
@@ -278,9 +281,6 @@
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Schemes.md",
     "economy/Gvot initiatives/Samagra Shiksha Abhiyan.md",
     "economy/Gvot initiatives/Prime Minister Employment Generation Programme (PMEGP).md",
-    "economy/Gvot initiatives/Renewable Goals.md",
-    "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
-    "economy/Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
     "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
     "resources/Laffer_curve.svg",
