@@ -47,24 +47,12 @@
             "id": "a2e9401846e482a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Envt/Maharashtra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "resources/Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497.png"
               },
-              "icon": "lucide-file",
-              "title": "Maharashtra"
+              "icon": "lucide-image",
+              "title": "Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497"
             }
           }
         ],
@@ -241,8 +229,9 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Envt/Gujrat.md",
     "Envt/Maharashtra.md",
+    "resources/Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497.png",
+    "Envt/Gujrat.md",
     "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
     "Envt/Sikkim.md",
     "resources/Sikkim-National-Parks-and-Wildlife-SanctuariesMap.png",
@@ -276,7 +265,6 @@
     "Envt/Haryana.md",
     "Envt/Uttarakhand.md",
     "resources/Uttarakhand-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1702.png",
-    "resources/Uttar-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-2048x1997.png",
     "resources/Unconfirmed 767289.crdownload",
     "Envt/Himachal Pradesh.md",
     "Envt/J&K and Ladakh.md",
@@ -286,7 +274,6 @@
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
     "Envt/IUCN.md",
     "Templates/Polity notes template.md",
-    "Templates/Envt note template.md",
     "Untitled.canvas"
   ]
 }
