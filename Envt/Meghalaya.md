@@ -16,4 +16,3 @@ tags:
 	6. Macaque(monkey)
 
 [[Meghalaya-National-Parks-and-Wildlife-Sanctuaries-Map-2048x883.png]]
-
