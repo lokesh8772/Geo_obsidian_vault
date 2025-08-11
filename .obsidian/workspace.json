@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
+                "file": "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ground water Contamination"
+              "title": "Corporate Social Responsibility"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topics",
+                "query": "scheme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,10 +226,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eebd4656a598f190",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "UPSC  GS topics.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Disabled.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Women.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
+    "UPSC  GS topics.md",
     "Notion/UPSC PREP/CA database/CA 2025/ECI's voter list.md",
     "Polity/Election Commission of India.md",
     "Notion/UPSC PREP/CA database/CA 2025",
@@ -252,9 +255,6 @@
     "Daily notes/2025-06-06.md",
     "Daily notes/2025-06-05.md",
     "Daily notes/2025-06-04.md",
-    "Daily notes/2025-06-03.md",
-    "Polity/Amendments.md",
-    "economy/Tax expenditure.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
