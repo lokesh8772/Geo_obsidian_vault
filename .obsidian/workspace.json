@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/layers of soil.md",
+                "file": "UPSC  GS topics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "layers of soil"
+              "title": "UPSC  GS topics"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Sea of Galille.md",
+                "file": "CA/SheLeads II.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sea of Galille"
+              "title": "SheLeads II"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minamata",
+                "query": "gs topi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,14 +253,15 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
+    "UPSC  GS topics.md",
     "Geography/layers of soil.md",
+    "CA/SheLeads II.md",
+    "CA/Sea of Galille.md",
     "Geography/Earth interior.md",
     "Geography/air circulation cells.md",
     "Templates/economy note template.md",
-    "CA/Sea of Galille.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
     "Templates/Current affiars template.md",
-    "UPSC  GS topics.md",
     "Notion/UPSC PREP/CA database/CA 2025/longest freight train.md",
     "economy/FAO FPI.md",
     "Gvot initiatives/SHINE.md",
@@ -278,7 +280,6 @@
     "Daily notes/2025-05-31.md",
     "dataview practice.md",
     "Geography/adiabatic processes.md",
-    "Notion/UPSC PREP/CAPF essay writings/CAPF essay writings.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
