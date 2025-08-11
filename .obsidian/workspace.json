@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/SheLeads II.md",
+                "file": "CA/Awaza Programme of Action.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SheLeads II"
+              "title": "Awaza Programme of Action"
+            }
+          },
+          {
+            "id": "3c0b7ddfe8304e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bara lachla.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bara lachla"
+            }
+          },
+          {
+            "id": "9aa5f633d38007ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Beas"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,18 +298,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2e9401846e482a8",
+  "active": "9aa5f633d38007ce",
   "lastOpenFiles": [
+    "bara lachla.md",
+    "CA/Awaza Programme of Action.md",
+    "CA/SheLeads II.md",
     "UPSC  GS topics.md",
     "Geography/layers of soil.md",
-    "CA/SheLeads II.md",
     "CA/Sea of Galille.md",
     "Geography/Earth interior.md",
     "Geography/air circulation cells.md",
     "Templates/economy note template.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
     "Templates/Current affiars template.md",
-    "Notion/UPSC PREP/CA database/CA 2025/longest freight train.md",
+    "CA/longest freight train.md",
     "economy/FAO FPI.md",
     "Gvot initiatives/SHINE.md",
     "Gvot initiatives/PM Ujjawal Yojna.md",
@@ -270,7 +319,7 @@
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Disabled.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Women.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
-    "Notion/UPSC PREP/CA database/CA 2025/ECI's voter list.md",
+    "CA/ECI's voter list.md",
     "Polity/Election Commission of India.md",
     "Notion/UPSC PREP/CA database/CA 2025",
     "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
@@ -278,8 +327,6 @@
     "Daily notes/2025-06-30.md",
     "Daily notes/2025-07-05.md",
     "Daily notes/2025-05-31.md",
-    "dataview practice.md",
-    "Geography/adiabatic processes.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
