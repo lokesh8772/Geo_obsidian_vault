@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Awaza Programme of Action.md",
+                "file": "Templates/Envt note template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Awaza Programme of Action"
-            }
-          },
-          {
-            "id": "3c0b7ddfe8304e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bara lachla.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bara lachla"
-            }
-          },
-          {
-            "id": "9aa5f633d38007ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Beas"
+              "title": "Envt note template"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,47 +250,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9aa5f633d38007ce",
+  "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "bara lachla.md",
     "CA/Awaza Programme of Action.md",
-    "CA/SheLeads II.md",
-    "UPSC  GS topics.md",
-    "Geography/layers of soil.md",
-    "CA/Sea of Galille.md",
-    "Geography/Earth interior.md",
-    "Geography/air circulation cells.md",
-    "Templates/economy note template.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
-    "Templates/Current affiars template.md",
-    "CA/longest freight train.md",
-    "economy/FAO FPI.md",
-    "Gvot initiatives/SHINE.md",
-    "Gvot initiatives/PM Ujjawal Yojna.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Disabled.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Women.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
-    "CA/ECI's voter list.md",
-    "Polity/Election Commission of India.md",
+    "Templates/Envt note template.md",
+    "Envt",
+    "E",
+    "New folder",
+    "Notion/UPSC PREP/CAPF essay writings/Unemployment.md",
+    "Notion/UPSC PREP/CAPF essay writings/Early childhood Education.md",
+    "Polity/Public Accounts Committee.md",
+    "Polity/NHRC.md",
+    "Polity/CAG.md",
+    "Polity/SC judge Appointment.md",
+    "economy/Gvot initiatives/Wind Energy Programme.md",
+    "economy/Gvot initiatives/National Civil Aviation Policy (NCAP) 2016.md",
+    "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
+    "economy/Gvot initiatives/Stand-Up India.md",
+    "economy/Gvot initiatives/Solar PV Module PLI Scheme.md",
+    "economy/Gvot initiatives/SVANidhi Scheme.md",
+    "economy/Gvot initiatives/Startup India.md",
+    "economy/Gvot initiatives/Smart Cities Mission.md",
+    "economy/Gvot initiatives/SHINE.md",
+    "economy/Gvot initiatives/Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
+    "economy/Gvot initiatives/Skill India Mission.md",
+    "economy/Gvot initiatives/Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
+    "economy/Gvot initiatives/Production Linked Incentive (PLI) Schemes.md",
+    "economy/Gvot initiatives/Samagra Shiksha Abhiyan.md",
+    "economy/Gvot initiatives/Prime Minister Employment Generation Programme (PMEGP).md",
+    "economy/Gvot initiatives/Renewable Goals.md",
+    "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
+    "economy/Gvot initiatives/Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).md",
+    "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
-    "Notion/UPSC PREP/CAPF essay writings/Cyberterrorism.md",
-    "Notion/UPSC PREP/CAPF essay writings/Financial inclusion of women.md",
-    "Daily notes/2025-06-30.md",
-    "Daily notes/2025-07-05.md",
-    "Daily notes/2025-05-31.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
     "resources/Biosphere-Reserves-in-India.pdf",
-    "resources/Major-Deserts-of-the-World-Map.pdf",
-    "resources/Unconfirmed 981109.crdownload",
     "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
-    "resources/Passes in HP and UK.pdf",
-    "resources/Passes in J&K.pdf",
     "Pasted image 20250715191632.png",
     "images/Pasted image 20250713160143.png",
     "BkdW18.jpg",
