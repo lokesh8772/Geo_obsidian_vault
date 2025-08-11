@@ -4,9 +4,14 @@ tags:
   - GS1
 ---
 1. Mouling NP
+	1. siang, semong and siring rivers
+	2. Red panda(EN)
+	3. Takin(VU ->> EN)  (ox type)
 2. Namdapha NP
 	1. mishmi hills
 	2. patkai hills
+	3. namdapha flying squirrel(CR)
+	4. clouded leopard(VU)
 3. Kamlang WLS + TR
 4. Pakke WLS
 	1. k/a Pakhui WLS

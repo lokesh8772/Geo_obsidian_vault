@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Arunachal Pradesh.md",
+                "file": "Envt/Meghalaya.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arunachal Pradesh"
+              "title": "Meghalaya"
             }
           }
         ],
@@ -241,11 +241,14 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
+    "resources/Meghalaya-National-Parks-and-Wildlife-Sanctuaries-Map-2048x883.png",
+    "resources/Unconfirmed 286218.crdownload",
+    "Envt/Arunachal Pradesh.md",
+    "Envt/Meghalaya.md",
     "resources/Arunachal-Pradesh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-2048x1009.png",
     "resources/Unconfirmed 26789.crdownload",
     "Geography/Himalayas.md",
     "Geography/hills glaciers etc/HIlls of Arunachal Pradesh.md",
-    "Envt/Arunachal Pradesh.md",
     "Envt/Wildlife (Protection) Act 1972.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Envt/Assam.md",
@@ -270,7 +273,6 @@
     "resources/Unconfirmed 502289.crdownload",
     "resources/Bihar-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1574.png",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-North-East-Arunachal-Pradesh-Assam-Manipur-Meghalaya-Mizoram-Nagaland-and-Tripura.webp",
-    "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
     "resources/Unconfirmed 111165.crdownload",
     "Geography/National Parks in india.md",
     "Geography/hills glaciers etc/Great himalaya.md",
@@ -281,12 +283,10 @@
     "UPSC  GS topics.md",
     "CA/Awaza Programme of Action.md",
     "Envt",
-    "E",
     "Notion/UPSC PREP/CAPF essay writings/Unemployment.md",
     "Notion/UPSC PREP/CAPF essay writings/Early childhood Education.md",
     "Polity/Public Accounts Committee.md",
     "Polity/NHRC.md",
-    "Polity/CAG.md",
     "Untitled.canvas"
   ]
 }
