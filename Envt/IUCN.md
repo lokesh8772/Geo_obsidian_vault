@@ -18,11 +18,12 @@ tags:
 	1. World Wide fund for Nature
 	2. World conservation monitoring center.
 
-Categories
-1. Ia-> strict natural reserve
-2. Ib -> wilderness areas
-3. II -> natural parks
-4. III -> Protected monument or feature
-5. IV -> habitat / species management area -> wildlife sancturies, tiger reserve, ...
-6. V -> Protected landscape, seascape / area -... -> Biosphere reserve, conservative researve
-7. VI -> Protected area with sustainable use of resources
+Red list
+1. Ex 
+	1. no spot for 50yrs in the natural habitat
+2. Ew -(extinct in wild)
+	1. known only as survived in captivated zone, or naturalized population away from natural habitat
+3. Cr -> 
+	1. 90% population decrease in last 10 yrs
+	2. last 3 yrs -> 25% decrease
+	3. total number -> 250

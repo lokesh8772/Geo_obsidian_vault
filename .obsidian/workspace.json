@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Polity notes template.md",
+                "file": "Envt/Wildlife (Protection) Act 1972.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Polity notes template"
+              "title": "Wildlife (Protection) Act 1972"
             }
           },
           {
@@ -252,9 +252,10 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Templates/Envt note template.md",
+    "Envt/Wildlife (Protection) Act 1972.md",
     "Envt/IUCN.md",
     "Templates/Polity notes template.md",
+    "Templates/Envt note template.md",
     "UPSC  GS topics.md",
     "CA/Awaza Programme of Action.md",
     "Envt",
@@ -280,7 +281,6 @@
     "economy/Gvot initiatives/Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Schemes.md",
     "economy/Gvot initiatives/Samagra Shiksha Abhiyan.md",
-    "economy/Gvot initiatives/Prime Minister Employment Generation Programme (PMEGP).md",
     "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
     "resources/Laffer_curve.svg",
