@@ -60,7 +60,7 @@ hazardous elements, compounds, microplastics, nutrients, etc
 
 ## Effects -
 
-1. Eutrophication → algal bloom
+1. Eutrophication → algal bloom [[Sea of Galille]]
 2. coral bleaching
 3. microplastics accumulation in marine species → humans
 

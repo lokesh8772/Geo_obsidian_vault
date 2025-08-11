@@ -99,5 +99,13 @@
       ],
       "key": "Enter"
     }
+  ],
+  "templater-obsidian:create-Templates/Current affiars template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }

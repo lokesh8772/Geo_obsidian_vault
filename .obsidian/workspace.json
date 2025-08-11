@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/CA database/CA 2025/longest freight train.md",
+                "file": "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "longest freight train"
+              "title": "Marine Pollution"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
+                "file": "Geography/layers of soil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "layers of soil"
+            }
+          },
+          {
+            "id": "a2e9401846e482a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CA/Sea of Galille.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sea of Galille"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "minamata",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,17 +250,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eebd4656a598f190",
+  "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "economy/FAO FPI.md",
+    "Geography/layers of soil.md",
+    "Geography/Earth interior.md",
+    "Geography/air circulation cells.md",
+    "Templates/economy note template.md",
+    "CA/Sea of Galille.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
+    "Templates/Current affiars template.md",
+    "UPSC  GS topics.md",
     "Notion/UPSC PREP/CA database/CA 2025/longest freight train.md",
+    "economy/FAO FPI.md",
     "Gvot initiatives/SHINE.md",
     "Gvot initiatives/PM Ujjawal Yojna.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Disabled.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Women.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
-    "UPSC  GS topics.md",
     "Notion/UPSC PREP/CA database/CA 2025/ECI's voter list.md",
     "Polity/Election Commission of India.md",
     "Notion/UPSC PREP/CA database/CA 2025",
@@ -247,12 +279,6 @@
     "dataview practice.md",
     "Geography/adiabatic processes.md",
     "Notion/UPSC PREP/CAPF essay writings/CAPF essay writings.md",
-    "Mains Syllabus/Unemployment.md",
-    "economy/NCRB data.md",
-    "economy/Capital Adequecy Ratio.md",
-    "economy/HDI.md",
-    "Daily notes/2025-06-10.md",
-    "Daily notes/2025-06-09.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
