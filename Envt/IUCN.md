@@ -19,11 +19,21 @@ tags:
 	2. World conservation monitoring center.
 
 Red list
-1. Ex 
+1. EX 
 	1. no spot for 50yrs in the natural habitat
-2. Ew -(extinct in wild)
+2. EW -(extinct in wild)
 	1. known only as survived in captivated zone, or naturalized population away from natural habitat
-3. Cr -> 
+3. CR -> 
 	1. 90% population decrease in last 10 yrs
 	2. last 3 yrs -> 25% decrease
 	3. total number -> 250
+4. EN - 
+	1. 10 yrs =>  70%
+	2. 5 yrs => 20%
+	3. total -> 2500
+5. VU -
+	1. 10 yr -> 30% 
+	2. total -> 10,000 + 10% in last 10 yrs
+6. NT - near threatened
+7. LC -> least concern
+8. DD -> Data deficient.
