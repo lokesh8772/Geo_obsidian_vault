@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/J&K and Ladakh.md",
+                "file": "Envt/Uttarakhand.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "J&K and Ladakh"
+              "title": "Uttarakhand"
             }
           }
         ],
@@ -252,8 +252,10 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Envt/IUCN.md",
+    "Envt/Himachal Pradesh.md",
+    "Envt/Uttarakhand.md",
     "Envt/J&K and Ladakh.md",
+    "Envt/IUCN.md",
     "Envt/Wildlife (Protection) Act 1972.md",
     "Templates/Polity notes template.md",
     "Templates/Envt note template.md",
@@ -279,8 +281,6 @@
     "economy/Gvot initiatives/SHINE.md",
     "economy/Gvot initiatives/Scheme for Development of Solar Parks and Ultra Mega Solar Power Projects.md",
     "economy/Gvot initiatives/Skill India Mission.md",
-    "economy/Gvot initiatives/Scheme of Fund for Regeneration of Traditional Industries (SFURTI).md",
-    "economy/Gvot initiatives/Production Linked Incentive (PLI) Schemes.md",
     "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
     "resources/Laffer_curve.svg",

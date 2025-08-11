@@ -4,6 +4,8 @@ tags:
   - GS1
 ---
 National Park
+`salim ali ki 10 kisht miss ho gyi`
+
 1. Dachigam NP
 	1. kashmiri stag(hangul) -> CR
 	2. snow leopard -> VU
@@ -15,4 +17,5 @@ National Park
 	1. Globally famous for **Snow Leopard**.
 	2. [[Indus]]
 4. Kishtwar NP 
-	1. Marusudar river -> Largest tributay
+	1. Marusudar river -> Largest tributary of [[Chenab]]
+5. 
