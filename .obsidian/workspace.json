@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
+                "file": "Gvot initiatives/PM Ujjawal Yojna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Corporate Social Responsibility"
+              "title": "PM Ujjawal Yojna"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scheme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,10 +225,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "eebd4656a598f190",
   "lastOpenFiles": [
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Disabled.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
+    "Gvot initiatives/PM Ujjawal Yojna.md",
+    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Disabled.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Vul Sec - Women.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Ground water Contamination.md",
     "UPSC  GS topics.md",
@@ -254,7 +254,6 @@
     "Daily notes/2025-06-07.md",
     "Daily notes/2025-06-06.md",
     "Daily notes/2025-06-05.md",
-    "Daily notes/2025-06-04.md",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
