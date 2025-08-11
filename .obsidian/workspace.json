@@ -11,24 +11,12 @@
             "id": "eebd4656a598f190",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Geography/Himalayas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "resources/National-Parks-in-India-Map-Updated.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Himalayas"
+              "icon": "lucide-file-text",
+              "title": "National-Parks-in-India-Map-Updated"
             }
           },
           {
@@ -112,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nanda devi",
+                "query": "national park",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,15 +241,20 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Envt/Bihar.md",
+    "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-North-East-Arunachal-Pradesh-Assam-Manipur-Meghalaya-Mizoram-Nagaland-and-Tripura.webp",
+    "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
     "Envt/Assam.md",
+    "resources/Unconfirmed 111165.crdownload",
+    "resources/National-Parks-in-India-Map-Updated.pdf",
+    "Geography/National Parks in india.md",
+    "Geography/Himalayas.md",
+    "Envt/Bihar.md",
     "Envt/Uttar Pradesh.md",
     "Envt/Rajasthan.md",
     "Envt/Haryana.md",
     "Envt/Uttarakhand.md",
     "Envt/Himachal Pradesh.md",
     "Envt/J&K and Ladakh.md",
-    "Geography/Himalayas.md",
     "Geography/hills glaciers etc/Great himalaya.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
     "Envt/IUCN.md",
@@ -280,16 +273,12 @@
     "Polity/CAG.md",
     "Polity/SC judge Appointment.md",
     "economy/Gvot initiatives/Wind Energy Programme.md",
-    "economy/Gvot initiatives/National Civil Aviation Policy (NCAP) 2016.md",
-    "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
     "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
     "resources/Laffer_curve.svg",
     "resources/Unconfirmed 985008.crdownload",
-    "resources/National-Parks-in-India-Map-Updated.pdf",
     "Science",
     "resources/Tiger-Reserves-in-India-Map.pdf",
-    "resources/Biosphere-Reserves-in-India.pdf",
     "resources/tectonic plates.png",
     "resources/Screenshot 2025-07-19 195322.png",
     "Pasted image 20250715191632.png",
@@ -298,7 +287,6 @@
     "95f1acf7d51f107cc04ad272d99cd54e.png",
     "Pasted image 20250606190559.png",
     "IMG_20250123_121723_943.jpg",
-    "images/IMG_20250123_121723_943.jpg",
     "Untitled.canvas"
   ]
 }

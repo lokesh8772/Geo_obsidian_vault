@@ -33,3 +33,5 @@ tags:
 8. Bura Chapori WLS
 	1. translocation of Rhino
 	2. famous for Bengal Florican(CR)
+
+[[Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png]]
