@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Bihar.md",
+                "file": "Envt/Assam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bihar"
+              "title": "Assam"
             }
           }
         ],
@@ -253,8 +253,9 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Envt/Uttar Pradesh.md",
     "Envt/Bihar.md",
+    "Envt/Assam.md",
+    "Envt/Uttar Pradesh.md",
     "Envt/Rajasthan.md",
     "Envt/Haryana.md",
     "Envt/Uttarakhand.md",
@@ -281,7 +282,6 @@
     "economy/Gvot initiatives/Wind Energy Programme.md",
     "economy/Gvot initiatives/National Civil Aviation Policy (NCAP) 2016.md",
     "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
-    "economy/Gvot initiatives/Stand-Up India.md",
     "economy/Gvot initiatives",
     "Notion/UPSC PREP/CA database/CA 2025",
     "resources/Laffer_curve.svg",
