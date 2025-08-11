@@ -9,3 +9,5 @@ tags:
 	3. floating NP
 2. Sirohi NP
 	1. famous for Lily
+
+[[Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
