@@ -10,7 +10,7 @@ tags:
 	1. also TR
 2. Pilibhit TR
 3. Amanngarh TR
-4. Kishtwar WLS
+4. Kishanpur WLS
 5. Katarniaghat WLS
 6. Ranipur TR 
 	1. near chitrakoot

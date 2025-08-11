@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Meghalaya.md",
+                "file": "Envt/Manipur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meghalaya"
+              "title": "Manipur"
             }
           }
         ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mishmi",
+                "query": "uttar pradesh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,8 +241,13 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Geography/Himalayas.md",
+    "Envt/Nagaland.md",
+    "Envt/Manipur.md",
+    "resources/Nagaland-National-Parks-and-Wildlife-Sanctuaries-Map-2048x1891.png",
+    "resources/Unconfirmed 580976.crdownload",
+    "Envt/Uttar Pradesh.md",
     "Envt/Meghalaya.md",
+    "Geography/Himalayas.md",
     "resources/Meghalaya-National-Parks-and-Wildlife-Sanctuaries-Map-2048x883.png",
     "resources/Unconfirmed 286218.crdownload",
     "Envt/Arunachal Pradesh.md",
@@ -253,7 +258,6 @@
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "Envt/Assam.md",
     "Envt/Bihar.md",
-    "Envt/Uttar Pradesh.md",
     "Envt/Rajasthan.md",
     "Envt/Haryana.md",
     "Envt/Uttarakhand.md",
@@ -271,7 +275,6 @@
     "resources/Unconfirmed 101337.crdownload",
     "resources/Haryana-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Unconfirmed 502289.crdownload",
-    "resources/Bihar-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1574.png",
     "resources/Unconfirmed 111165.crdownload",
     "Geography/National Parks in india.md",
     "Geography/hills glaciers etc/Great himalaya.md",
@@ -281,11 +284,9 @@
     "Templates/Envt note template.md",
     "UPSC  GS topics.md",
     "CA/Awaza Programme of Action.md",
-    "Envt",
     "Notion/UPSC PREP/CAPF essay writings/Unemployment.md",
     "Notion/UPSC PREP/CAPF essay writings/Early childhood Education.md",
     "Polity/Public Accounts Committee.md",
-    "Polity/NHRC.md",
     "Untitled.canvas"
   ]
 }
