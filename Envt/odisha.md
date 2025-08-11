@@ -4,6 +4,9 @@ tags:
   - GS1
 ---
 1. Bhitarkanika NP
+	1. Gahirmata beach
+	2. Olive Ridley sea turtle(VU)
+	3. Red-Naped Ibis(LC)(bird)
 2. Simlipal NP + TR
 3. Satkosea TR
 
