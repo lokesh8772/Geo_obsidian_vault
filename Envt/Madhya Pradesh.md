@@ -11,4 +11,17 @@ tags:
 6. Kanha NP
 7. Satpura NP
 8. Mandla Plant Fossil NP
-9. 
+9. Panna NP
+10. Bandhavgarh 
+11. Sanjay NP
+12. Indira Priyadarshini NP {Pench}
+
+### TR - 
+1. Bandhavgarh
+2. Bori-Satpura
+3. Kanha
+4. Sanjay
+5. Pench
+6. Rani Durgavati TR
+
+[[Madhya-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1330.png]]
