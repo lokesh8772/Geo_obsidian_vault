@@ -8,5 +8,5 @@ tags:
 ```dataview
 list
 FROM ""
-WHERE file.cday >= date("2025-06-7")
+WHERE file.cday >= date("2025-08-10")
 ```

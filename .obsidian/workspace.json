@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/odisha.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "odisha"
+              "title": "dataview practice"
             }
           }
         ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sarka",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,11 +241,13 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
+    "CA/Sea of Galille.md",
+    "dataview practice.md",
+    "Envt/odisha.md",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "resources/Unconfirmed 178351.crdownload",
     "resources/Unconfirmed 334249.crdownload",
     "Envt/Maharashtra.md",
-    "Envt/odisha.md",
     "resources/Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497.png",
     "Envt/Gujrat.md",
     "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
@@ -280,13 +282,11 @@
     "Envt/Rajasthan.md",
     "Envt/Haryana.md",
     "Envt/Uttarakhand.md",
-    "resources/Uttarakhand-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1702.png",
     "Envt/Himachal Pradesh.md",
     "Envt/J&K and Ladakh.md",
     "Geography/National Parks in india.md",
     "Geography/hills glaciers etc/Great himalaya.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
-    "Envt/IUCN.md",
     "Untitled.canvas"
   ]
 }
