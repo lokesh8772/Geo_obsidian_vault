@@ -25,10 +25,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png"
+                "file": "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png"
               },
               "icon": "lucide-image",
-              "title": "Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694"
+              "title": "Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map"
             }
           },
           {
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,14 +227,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2e9401846e482a8",
+  "active": "30af58be479a90f7",
   "lastOpenFiles": [
-    "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
-    "Envt/Andhra Pradesh.md",
     "Envt/Chattisgarh.md",
+    "Envt/Andhra Pradesh.md",
+    "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
+    "resources/National-Parks-in-India-Map-Updated.pdf",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Unconfirmed 151269.crdownload",
-    "resources/National-Parks-in-India-Map-Updated.pdf",
     "Envt/Madhya Pradesh.md",
     "Envt/Assam.md",
     "Envt/odisha.md",
