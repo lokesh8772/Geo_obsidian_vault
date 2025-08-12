@@ -9,9 +9,77 @@ tags:
 4. Kuno WLS
 5. Madhav NP
 6. Kanha NP
+	1. first TR to officially intorduce a mascot
+		1. Bhoorsingh the barasingha
 7. Satpura NP
+	1. [[Narmada|Tawa]] River
 8. Mandla Plant Fossil NP
 9. Panna NP
+	1. [[Yamuna|Ken]] river
+	2. ken - Ghariyal WLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 10. Bandhavgarh 
 11. Sanjay NP
 12. Indira Priyadarshini NP {Pench}

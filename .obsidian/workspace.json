@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Chattisgarh.md",
+                "file": "Envt/Andhra Pradesh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chattisgarh"
+              "title": "Andhra Pradesh"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bura cha",
+                "query": "dudh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,12 +227,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30af58be479a90f7",
+  "active": "a2e9401846e482a8",
   "lastOpenFiles": [
+    "Envt/Madhya Pradesh.md",
+    "Envt/Andhra Pradesh.md",
     "Envt/Chattisgarh.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "Envt/Assam.md",
-    "Envt/Madhya Pradesh.md",
     "Envt/odisha.md",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "Geography/Himalayas.md",
