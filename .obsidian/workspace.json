@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/AMR fighting drug.md",
+                "file": "CA/Lion Population update.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AMR fighting drug"
+              "title": "Lion Population update"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"lion\"",
+                "query": "Gujrat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,9 +230,11 @@
   "active": "30af58be479a90f7",
   "lastOpenFiles": [
     "Envt/Gujrat.md",
+    "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
+    "CA/Lion Population update.md",
+    "CA/AMR fighting drug.md",
     "Envt/Uttarakhand.md",
     "CA/Armenia - Azerbaijan.md",
-    "CA/AMR fighting drug.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "Envt/Andhra Pradesh.md",
     "CA/motor vehicle aggregators guidelines.md",
@@ -258,7 +260,6 @@
     "resources/Unconfirmed 334249.crdownload",
     "Envt/Maharashtra.md",
     "resources/Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497.png",
-    "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
     "Envt/Sikkim.md",
     "resources/Sikkim-National-Parks-and-Wildlife-SanctuariesMap.png",
     "resources/Unconfirmed 54208.crdownload",
@@ -273,7 +274,6 @@
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png.0.pdnSave",
     "Envt/Nagaland.md",
     "Envt/Uttar Pradesh.md",
-    "Envt/Meghalaya.md",
     "Untitled.canvas"
   ]
 }
