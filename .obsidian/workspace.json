@@ -25,10 +25,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png"
+                "file": "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png"
               },
               "icon": "lucide-image",
-              "title": "Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map"
+              "title": "Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694"
             }
           },
           {
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dudh",
+                "query": "andhra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,10 +229,13 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "Envt/Madhya Pradesh.md",
+    "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
     "Envt/Andhra Pradesh.md",
     "Envt/Chattisgarh.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
+    "resources/Unconfirmed 151269.crdownload",
+    "resources/National-Parks-in-India-Map-Updated.pdf",
+    "Envt/Madhya Pradesh.md",
     "Envt/Assam.md",
     "Envt/odisha.md",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
@@ -261,11 +264,8 @@
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png.0.pdnSave",
     "Envt/Nagaland.md",
-    "resources/Nagaland-National-Parks-and-Wildlife-Sanctuaries-Map-2048x1891.png",
-    "resources/Unconfirmed 580976.crdownload",
     "Envt/Uttar Pradesh.md",
     "Envt/Meghalaya.md",
-    "resources/Unconfirmed 286218.crdownload",
     "Envt/Arunachal Pradesh.md",
     "Geography/hills glaciers etc/HIlls of Arunachal Pradesh.md",
     "Envt/Wildlife (Protection) Act 1972.md",
@@ -274,7 +274,6 @@
     "Envt/Haryana.md",
     "Envt/Uttarakhand.md",
     "Envt/Himachal Pradesh.md",
-    "Envt/J&K and Ladakh.md",
     "Untitled.canvas"
   ]
 }
