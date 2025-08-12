@@ -35,4 +35,28 @@ Tiger ->
 
 ### Global tiger Initiative
 1. 2008
-2. World bank + Global Envt Facility + all 13 countries(7 + china, Indonesia, laos, malaysia, )
+2. World bank + Global Envt Facility + all 13 countries(7 + china, Indonesia, laos, malaysia, thailand, russia)
+3. UK is not a member
+4. 2013 -> snow leopard added...
+### Global Tiger recovery Program
+1. 2010
+2. T x 2 aim -> 2006 -> 2022 -> tiger population x 2 -> india achieved.
+3. funding -> World Wildlife Fund through GTI, GTF....
+
+### conservation assured / Tiger standards
+1. 2013
+2. set a criteria of management
+3. CAT awards - > 
+	1. Kali
+	2. Melghat
+	3. pilibhit
+	4. tadoba-andhari
+	5. navegaon
+	6. periyar ...
+	7. total 14 have received.
+
+
+### Integrated Tiger habitat Conservation Program
+1. 2014
+2. Strategic  funding mech.
+

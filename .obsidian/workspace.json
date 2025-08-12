@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Tiger.md",
+                "file": "Envt/Tiger census.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tiger"
+              "title": "Tiger census"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "2025-08-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shris",
+                "query": "melghat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -231,11 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eebd4656a598f190",
+  "active": "d13f08509edbd47b",
   "lastOpenFiles": [
-    "Envt/Project Tiger.md",
-    "Envt/Tiger.md",
     "Envt/Tiger census.md",
+    "Envt/Tiger.md",
+    "Envt/Project Tiger.md",
     "Envt/Andaman and Nicobar.md",
     "Daily notes/2025-08-12.md",
     "resources/National-Parks-of-Andaman-Nicobar-Islands.webp",
