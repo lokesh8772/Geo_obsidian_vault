@@ -16,17 +16,6 @@ tags:
 6. Tiger task force -
 	1. 2005
 	2. rec of NBWL and **not** of NTCA
-### Tiger census
-1. by NTCA + WII(wildlife institute of india) -> 1982, dehradun
-2. every 4 yrs
-3. states -> 
-	1. MP > KTK > UK > Maha > TN
-	2. low -> Nagaland = mizoram = 0
-	3. jharkhand = 1
-	4. goa = 1-> 5
-	5. Arunachal Pradesh - 20 -> 9
-4. 2967(2018) -> 3682(2022) -> 6% increase annually
-5. TR -> Jim corbet > bandipur > Nagarhole
-6. smallest TR -> BOR TR
+
 
 International Tiger day -> 29 July
