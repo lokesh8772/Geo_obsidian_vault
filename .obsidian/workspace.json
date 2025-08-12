@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/IUCN.md",
+                "file": "CA/National Animal Stem-cell bio bank.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IUCN"
+              "title": "National Animal Stem-cell bio bank"
             }
           }
         ],
@@ -229,7 +229,10 @@
   },
   "active": "30af58be479a90f7",
   "lastOpenFiles": [
+    "CA/CATCH grant program.md",
+    "CA/National Animal Stem-cell bio bank.md",
     "economy/Gvot initiatives/SHINE.md",
+    "Envt/IUCN.md",
     "CA/Sanctions By US...urjit patel.md",
     "CA/Lion Population update.md",
     "Envt/Gujrat.md",
@@ -268,13 +271,10 @@
     "Envt/Tripura.md",
     "resources/Tripura-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Unconfirmed 503393.crdownload",
-    "Envt/Mizoram.md",
     "resources/Mizoram-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Unconfirmed 314508.crdownload",
-    "Envt/Manipur.md",
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png.0.pdnSave",
-    "Envt/Nagaland.md",
     "Untitled.canvas"
   ]
 }

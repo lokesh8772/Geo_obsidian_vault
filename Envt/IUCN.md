@@ -15,7 +15,7 @@ tags:
 	5. education
 6. observer status at UN
 7. role in establishment of 
-	1. World Wide fund for Nature
+	1. World Wide Fund for Nature
 	2. World conservation monitoring center.
 
 Red list
