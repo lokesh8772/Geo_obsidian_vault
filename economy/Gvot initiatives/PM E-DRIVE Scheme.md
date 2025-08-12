@@ -55,7 +55,7 @@ To provide impetus to green mobility and the development of the Electric Vehicle
 - Success depends on effective implementation and uptake by beneficiaries and participating entities.
 
 ### ✍️ **Recent Updates / Current Affairs Angle**
-- Scheme notified on September 29, 2024, and operational from October 1, 2024, to March 31, 2026.
+- Scheme notified on September 29, 2024, and operational from October 1, 2024, to March 31, 2026. Scheme extended by 2 yrs upto March 31, 2028
 - Focus on providing affordable and environment-friendly public transportation options.
 - Emphasis on supporting e-2Ws and e-3Ws registered for commercial purposes, with private e-2Ws also eligible.
 - Introduction of e-Vouchers for streamlined incentive disbursal.
