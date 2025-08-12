@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/National Animal Stem-cell bio bank.md",
+                "file": "National BioPharma Mission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Animal Stem-cell bio bank"
+              "title": "National BioPharma Mission"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "30af58be479a90f7",
   "lastOpenFiles": [
-    "CA/CATCH grant program.md",
     "CA/National Animal Stem-cell bio bank.md",
+    "National BioPharma Mission.md",
+    "CA/CATCH grant program.md",
     "economy/Gvot initiatives/SHINE.md",
     "Envt/IUCN.md",
     "CA/Sanctions By US...urjit patel.md",
@@ -268,7 +269,6 @@
     "Envt/Sikkim.md",
     "resources/Sikkim-National-Parks-and-Wildlife-SanctuariesMap.png",
     "resources/Unconfirmed 54208.crdownload",
-    "Envt/Tripura.md",
     "resources/Tripura-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Unconfirmed 503393.crdownload",
     "resources/Mizoram-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
