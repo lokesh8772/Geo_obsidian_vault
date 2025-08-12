@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Lion Population update.md",
+                "file": "Envt/IUCN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lion Population update"
+              "title": "IUCN"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gujrat",
+                "query": "IUCN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,9 +229,11 @@
   },
   "active": "30af58be479a90f7",
   "lastOpenFiles": [
+    "economy/Gvot initiatives/SHINE.md",
+    "CA/Sanctions By US...urjit patel.md",
+    "CA/Lion Population update.md",
     "Envt/Gujrat.md",
     "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
-    "CA/Lion Population update.md",
     "CA/AMR fighting drug.md",
     "Envt/Uttarakhand.md",
     "CA/Armenia - Azerbaijan.md",
@@ -273,7 +275,6 @@
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png.0.pdnSave",
     "Envt/Nagaland.md",
-    "Envt/Uttar Pradesh.md",
     "Untitled.canvas"
   ]
 }
