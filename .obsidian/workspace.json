@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Andaman and Nicobar.md",
+                "file": "Envt/Project Tiger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Andaman and Nicobar"
+              "title": "Project Tiger"
             }
           },
           {
@@ -233,11 +233,11 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
-    "Daily notes/2025-08-12.md",
     "Envt/Andaman and Nicobar.md",
+    "Envt/Project Tiger.md",
+    "Daily notes/2025-08-12.md",
     "resources/National-Parks-of-Andaman-Nicobar-Islands.webp",
     "Geography/adiabatic processes.md",
-    "Untitled.md",
     "Templates/Envt note template.md",
     "Envt/Tamil Nadu.md",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
