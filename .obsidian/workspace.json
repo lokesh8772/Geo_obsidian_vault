@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
-                "mode": "preview",
+                "file": "Envt/Madhya Pradesh.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "Madhya Pradesh"
             }
           }
         ],
@@ -241,9 +241,13 @@
   },
   "active": "a2e9401846e482a8",
   "lastOpenFiles": [
-    "CA/Sea of Galille.md",
-    "dataview practice.md",
+    "Envt/Chattisgarh.md",
+    "Envt/Madhya Pradesh.md",
+    "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
+    "resources/Unconfirmed 557111.crdownload",
     "Envt/odisha.md",
+    "dataview practice.md",
+    "CA/Sea of Galille.md",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "resources/Unconfirmed 178351.crdownload",
     "resources/Unconfirmed 334249.crdownload",
@@ -272,11 +276,9 @@
     "resources/Meghalaya-National-Parks-and-Wildlife-Sanctuaries-Map-2048x883.png",
     "resources/Unconfirmed 286218.crdownload",
     "Envt/Arunachal Pradesh.md",
-    "resources/Arunachal-Pradesh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-2048x1009.png",
     "resources/Unconfirmed 26789.crdownload",
     "Geography/hills glaciers etc/HIlls of Arunachal Pradesh.md",
     "Envt/Wildlife (Protection) Act 1972.md",
-    "resources/National-Parks-in-India-Map-Updated.pdf",
     "Envt/Assam.md",
     "Envt/Bihar.md",
     "Envt/Rajasthan.md",
@@ -285,8 +287,6 @@
     "Envt/Himachal Pradesh.md",
     "Envt/J&K and Ladakh.md",
     "Geography/National Parks in india.md",
-    "Geography/hills glaciers etc/Great himalaya.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Marine Pollution.md",
     "Untitled.canvas"
   ]
 }
