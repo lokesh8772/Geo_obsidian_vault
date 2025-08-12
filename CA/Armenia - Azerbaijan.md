@@ -14,4 +14,4 @@ Date: 2025-08-12
 
 ### India -
 1. With armenia(only in the region) india have Friendship and cooperation treaty
-2. Armenia -> falls on International North-South Corridor -> connect india with Russia
+2. Armenia -> falls on International North-South Corridor connecting India and russia through central asia

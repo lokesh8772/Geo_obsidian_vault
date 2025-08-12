@@ -21,7 +21,7 @@ tags:
 	2. Motichoor WLS
 	3. Chilla WLS
 	4. species
-		1. Lion(EN)
+		1. Lion(VU)
 		2. Tiger(EN)
 		3. Elephant(EN)
 	5. `rajaji ne hathi pr chadkar motichoor ke laddu khakr chillaya`

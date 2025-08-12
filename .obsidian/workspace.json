@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Armenia - Azerbaijan.md",
+                "file": "Envt/Gujrat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,28 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Armenia - Azerbaijan"
+              "title": "Gujrat"
             }
           },
           {
             "id": "30af58be479a90f7",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map"
-            }
-          },
-          {
-            "id": "a2e9401846e482a8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Andhra Pradesh.md",
+                "file": "CA/AMR fighting drug.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Andhra Pradesh"
+              "title": "AMR fighting drug"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"lion\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,18 +227,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eebd4656a598f190",
+  "active": "30af58be479a90f7",
   "lastOpenFiles": [
-    "CA/motor vehicle aggregators guidelines.md",
+    "Envt/Gujrat.md",
+    "Envt/Uttarakhand.md",
     "CA/Armenia - Azerbaijan.md",
+    "CA/AMR fighting drug.md",
+    "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
+    "Envt/Andhra Pradesh.md",
+    "CA/motor vehicle aggregators guidelines.md",
     "CA/longest freight train.md",
     "CA/ECI's voter list.md",
     "CA/ECI's initiatives.md",
     "CA/Awaza Programme of Action.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
-    "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "Envt/Chattisgarh.md",
-    "Envt/Andhra Pradesh.md",
     "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
     "resources/Unconfirmed 151269.crdownload",
     "Envt/Madhya Pradesh.md",
@@ -265,7 +258,6 @@
     "resources/Unconfirmed 334249.crdownload",
     "Envt/Maharashtra.md",
     "resources/Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497.png",
-    "Envt/Gujrat.md",
     "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
     "Envt/Sikkim.md",
     "resources/Sikkim-National-Parks-and-Wildlife-SanctuariesMap.png",
@@ -282,9 +274,6 @@
     "Envt/Nagaland.md",
     "Envt/Uttar Pradesh.md",
     "Envt/Meghalaya.md",
-    "Envt/Arunachal Pradesh.md",
-    "Geography/hills glaciers etc/HIlls of Arunachal Pradesh.md",
-    "Envt/Wildlife (Protection) Act 1972.md",
     "Untitled.canvas"
   ]
 }

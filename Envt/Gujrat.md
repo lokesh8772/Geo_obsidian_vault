@@ -4,7 +4,7 @@ tags:
   - GS1
 ---
 1. Gir NP
-	1. Asiatic lion(EN)
+	1. Asiatic lion(VU)
 	2. shetrunji , sarkala rivers
 	3. Kamleshwar dam(lifeline of Gir)
 2. Girnar NP
