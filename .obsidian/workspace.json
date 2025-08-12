@@ -11,12 +11,24 @@
             "id": "eebd4656a598f190",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "resources/National-Parks-in-India-Map-Updated.pdf"
+                "file": "CA/Armenia - Azerbaijan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "National-Parks-in-India-Map-Updated"
+              "icon": "lucide-file",
+              "title": "Armenia - Azerbaijan"
             }
           },
           {
@@ -55,8 +67,7 @@
               "title": "Andhra Pradesh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "andhra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +120,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,13 +237,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30af58be479a90f7",
+  "active": "eebd4656a598f190",
   "lastOpenFiles": [
+    "CA/motor vehicle aggregators guidelines.md",
+    "CA/Armenia - Azerbaijan.md",
+    "CA/longest freight train.md",
+    "CA/ECI's voter list.md",
+    "CA/ECI's initiatives.md",
+    "CA/Awaza Programme of Action.md",
+    "resources/National-Parks-in-India-Map-Updated.pdf",
+    "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "Envt/Chattisgarh.md",
     "Envt/Andhra Pradesh.md",
     "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
-    "resources/National-Parks-in-India-Map-Updated.pdf",
-    "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Unconfirmed 151269.crdownload",
     "Envt/Madhya Pradesh.md",
     "Envt/Assam.md",
@@ -269,11 +285,6 @@
     "Envt/Arunachal Pradesh.md",
     "Geography/hills glaciers etc/HIlls of Arunachal Pradesh.md",
     "Envt/Wildlife (Protection) Act 1972.md",
-    "Envt/Bihar.md",
-    "Envt/Rajasthan.md",
-    "Envt/Haryana.md",
-    "Envt/Uttarakhand.md",
-    "Envt/Himachal Pradesh.md",
     "Untitled.canvas"
   ]
 }
