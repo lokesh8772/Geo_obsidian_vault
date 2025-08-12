@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/MERITE Scheme.md",
+                "file": "Daily notes/2025-07-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MERITE Scheme"
+              "title": "2025-07-05"
             }
           }
         ],
@@ -66,7 +66,7 @@
     "type": "split",
     "children": [
       {
-        "id": "83927e4081481eb9",
+        "id": "79b0d76a3ca08060",
         "type": "tabs",
         "children": [
           {
@@ -81,14 +81,20 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "83927e4081481eb9",
+        "type": "tabs",
+        "children": [
           {
             "id": "54510be3bdef0d28",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "E-drive",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,8 +234,11 @@
   },
   "active": "30af58be479a90f7",
   "lastOpenFiles": [
-    "economy/Gvot initiatives/Nasha Mukt Bharat Abhiyan.md",
+    "Daily notes/2025-08-12.md",
+    "dataview practice.md",
+    "economy/Gvot initiatives/PM Ujjawal Yojna.md",
     "economy/Gvot initiatives/MERITE Scheme.md",
+    "economy/Gvot initiatives/Nasha Mukt Bharat Abhiyan.md",
     "economy/Gvot initiatives/PM E-DRIVE Scheme.md",
     "economy/Gvot initiatives/Ayushman Bharat Digital Mission.md",
     "National BioPharma Mission.md",
@@ -256,10 +265,7 @@
     "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
     "resources/Unconfirmed 151269.crdownload",
     "Envt/Madhya Pradesh.md",
-    "Envt/Assam.md",
-    "Envt/odisha.md",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
-    "Geography/Himalayas.md",
     "resources/Madhya-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1330.png",
     "resources/Unconfirmed 892766.crdownload",
     "resources/Unconfirmed 557111.crdownload",
