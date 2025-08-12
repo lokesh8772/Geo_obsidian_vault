@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Kerala.md",
+                "file": "Envt/Tamil Nadu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kerala"
+              "title": "Tamil Nadu"
             }
           },
           {
             "id": "d13f08509edbd47b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png"
+                "file": "Daily notes/2025-08-12.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map"
+              "icon": "lucide-file",
+              "title": "2025-08-12"
             }
           }
         ]
@@ -221,12 +233,16 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
+    "Envt/Untitled.md",
+    "Envt/Tamil Nadu.md",
+    "Daily notes/2025-08-12.md",
+    "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
+    "resources/Unconfirmed 526377.crdownload",
     "Envt/Karnataka.md",
-    "Envt/Kerala.md",
-    "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Envt/West Bengal.md",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
-    "Daily notes/2025-08-12.md",
+    "Envt/Kerala.md",
+    "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Geography/Brahmaputra.md",
     "Envt/Goa.md",
     "resources/Goa-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites.png",
@@ -251,9 +267,7 @@
     "economy/Gvot initiatives/SHINE.md",
     "Envt/IUCN.md",
     "CA/Sanctions By US...urjit patel.md",
-    "CA/Lion Population update.md",
     "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
-    "CA/AMR fighting drug.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
@@ -264,9 +278,7 @@
     "resources/Unconfirmed 557111.crdownload",
     "resources/Unconfirmed 178351.crdownload",
     "resources/Unconfirmed 334249.crdownload",
-    "resources/Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497.png",
     "resources/Unconfirmed 54208.crdownload",
-    "resources/Unconfirmed 503393.crdownload",
     "Untitled.canvas"
   ]
 }
