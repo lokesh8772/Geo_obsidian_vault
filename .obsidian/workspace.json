@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Gujrat.md",
+                "file": "Envt/Goa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gujrat"
+              "title": "Goa"
             }
           },
           {
-            "id": "30af58be479a90f7",
+            "id": "d13f08509edbd47b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-07-05.md",
-                "mode": "source",
+                "file": "Daily notes/2025-08-12.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-05"
+              "title": "2025-08-12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -232,9 +231,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30af58be479a90f7",
+  "active": "eebd4656a598f190",
   "lastOpenFiles": [
+    "resources/Goa-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites.png",
+    "Envt/Telangana.md",
+    "Envt/Goa.md",
+    "resources/Telangana-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
+    "resources/Unconfirmed 997834.crdownload",
+    "Envt/Gujrat.md",
     "Daily notes/2025-08-12.md",
+    "Daily notes/2025-07-02.md",
+    "Daily notes/2025-06-30.md",
+    "Templates/Daily notes template.md",
+    "Untitled",
+    "Daily notes/2025-07-05.md",
     "dataview practice.md",
     "economy/Gvot initiatives/PM Ujjawal Yojna.md",
     "economy/Gvot initiatives/MERITE Scheme.md",
@@ -248,23 +258,15 @@
     "Envt/IUCN.md",
     "CA/Sanctions By US...urjit patel.md",
     "CA/Lion Population update.md",
-    "Envt/Gujrat.md",
     "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
     "CA/AMR fighting drug.md",
     "Envt/Uttarakhand.md",
     "CA/Armenia - Azerbaijan.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "Envt/Andhra Pradesh.md",
-    "CA/motor vehicle aggregators guidelines.md",
-    "CA/longest freight train.md",
-    "CA/ECI's voter list.md",
-    "CA/ECI's initiatives.md",
-    "CA/Awaza Programme of Action.md",
     "resources/National-Parks-in-India-Map-Updated.pdf",
-    "Envt/Chattisgarh.md",
     "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
     "resources/Unconfirmed 151269.crdownload",
-    "Envt/Madhya Pradesh.md",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "resources/Madhya-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1330.png",
     "resources/Unconfirmed 892766.crdownload",
@@ -277,9 +279,6 @@
     "resources/Tripura-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Unconfirmed 503393.crdownload",
     "resources/Mizoram-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
-    "resources/Unconfirmed 314508.crdownload",
-    "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
-    "resources/Manipur-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png.0.pdnSave",
     "Untitled.canvas"
   ]
 }
