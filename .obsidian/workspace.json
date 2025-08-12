@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "National BioPharma Mission.md",
+                "file": "economy/Gvot initiatives/PM E-DRIVE Scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National BioPharma Mission"
+              "title": "PM E-DRIVE Scheme"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IUCN",
+                "query": "E-drive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,8 +229,10 @@
   },
   "active": "30af58be479a90f7",
   "lastOpenFiles": [
-    "CA/National Animal Stem-cell bio bank.md",
+    "economy/Gvot initiatives/Nasha Mukt Bharat Abhiyan.md",
+    "economy/Gvot initiatives/Ayushman Bharat Digital Mission.md",
     "National BioPharma Mission.md",
+    "CA/National Animal Stem-cell bio bank.md",
     "CA/CATCH grant program.md",
     "economy/Gvot initiatives/SHINE.md",
     "Envt/IUCN.md",
@@ -264,9 +266,7 @@
     "CA/Sea of Galille.md",
     "resources/Unconfirmed 178351.crdownload",
     "resources/Unconfirmed 334249.crdownload",
-    "Envt/Maharashtra.md",
     "resources/Maharashtra-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1497.png",
-    "Envt/Sikkim.md",
     "resources/Sikkim-National-Parks-and-Wildlife-SanctuariesMap.png",
     "resources/Unconfirmed 54208.crdownload",
     "resources/Tripura-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
