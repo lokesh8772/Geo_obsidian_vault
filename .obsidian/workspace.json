@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Wetlands.md",
+                "file": "Envt/Ramsar Convention.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wetlands"
+              "title": "Ramsar Convention"
             }
           }
         ]
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/hills glaciers etc/Passes of HP.md",
+                "file": "Ramsar sites.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Passes of HP"
+              "title": "Ramsar sites"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "narmada",
+                "query": "ramsar sites",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,11 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
-    "Envt/Biodiversity Hotspots.md",
+    "Ramsar sites.md",
+    "Geography/hills glaciers etc/Passes of HP.md",
+    "Envt/Ramsar Convention.md",
     "Envt/Wetlands.md",
+    "Envt/Biodiversity Hotspots.md",
     "Envt/Kerala.md",
     "Envt/Andaman and Nicobar.md",
     "Envt/Tamil Nadu.md",
@@ -252,7 +255,6 @@
     "Geography/Narmada.md",
     "Envt/Wildlife (Protection) Act 1972.md",
     "Geography/Biosphere reserves in india.md",
-    "Geography/hills glaciers etc/Passes of HP.md",
     "Envt/Himachal Pradesh.md",
     "Envt/Arunachal Pradesh.md",
     "Envt/Uttarakhand.md",
@@ -265,8 +267,6 @@
     "CA/Etalin Hydroelectric Project.md",
     "Templates/Daily notes template.md",
     "Templates/Current affiars template.md",
-    "CA/Tato-II.md",
-    "CA/SHRESTH initiative.md",
     "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Governance",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
