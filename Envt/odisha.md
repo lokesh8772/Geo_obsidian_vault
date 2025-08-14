@@ -22,3 +22,11 @@ tags:
 
 [[Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png]]
 
+### ramsar sites
+1. Bhitarkanika
+2. Satkosia
+3. Hirakud
+4. Chilka
+5. Ansupa
+6. Tampara
+

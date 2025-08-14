@@ -14,3 +14,6 @@ tags:
 
 
 [[Mizoram-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
+
+### Ramsar sites
+1. Pala wetland

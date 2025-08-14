@@ -13,6 +13,9 @@ tags:
 	2. UP(10)
 	3. Rajasthan(4)
 
+[[Ramsar-Sites-in-India.webp]]
+this image does not include the newly added Khichan and menar wetland of rajasthan
+
 
 
 

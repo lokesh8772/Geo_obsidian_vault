@@ -11,12 +11,24 @@
             "id": "eebd4656a598f190",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png"
+                "file": "Envt/Assam.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548"
+              "icon": "lucide-file",
+              "title": "Assam"
             }
           }
         ]
@@ -61,6 +73,7 @@
       {
         "id": "79b0d76a3ca08060",
         "type": "tabs",
+        "dimension": 38.31615120274915,
         "children": [
           {
             "id": "055f521e298448a0",
@@ -80,6 +93,7 @@
       {
         "id": "83927e4081481eb9",
         "type": "tabs",
+        "dimension": 61.68384879725086,
         "children": [
           {
             "id": "54510be3bdef0d28",
@@ -87,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "j&k ",
+                "query": "Assam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,12 +241,18 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
+    "Envt/Mizoram.md",
+    "Envt/Manipur.md",
+    "Envt/Karnataka.md",
+    "Envt/odisha.md",
     "resources/Ramsar-Sites-in-India.webp",
-    "resources/Unconfirmed 225799.crdownload",
+    "Ramsar sites.md",
+    "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
     "Envt/J&K and Ladakh.md",
+    "Daily notes/2025-06-06.md",
+    "resources/Unconfirmed 225799.crdownload",
     "Envt/Ramsar Convention.md",
     "Envt/West Bengal.md",
-    "Ramsar sites.md",
     "Geography/hills glaciers etc/Passes of HP.md",
     "Envt/Wetlands.md",
     "Envt/Biodiversity Hotspots.md",
@@ -241,7 +261,6 @@
     "Envt/Tamil Nadu.md",
     "Envt/Biosphere Reserve.md",
     "Envt/Madhya Pradesh.md",
-    "Envt/odisha.md",
     "Envt/Assam.md",
     "Envt/Chattisgarh.md",
     "Geography/Narmada.md",
@@ -251,11 +270,8 @@
     "Envt/Arunachal Pradesh.md",
     "Envt/Uttarakhand.md",
     "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
-    "Envt/Karnataka.md",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
     "Envt/Sikkim.md",
-    "UPSC  GS topics.md",
-    "Daily notes/2025-08-14.md",
     "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Governance",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
@@ -265,9 +281,7 @@
     "resources/Telangana-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Unconfirmed 997834.crdownload",
     "resources/Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png",
-    "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/National-Parks-in-India-Map-Updated.pdf",
-    "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
     "resources/Unconfirmed 151269.crdownload",
     "resources/Unconfirmed 892766.crdownload",
     "resources/Unconfirmed 557111.crdownload",

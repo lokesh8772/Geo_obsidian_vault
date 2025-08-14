@@ -27,3 +27,6 @@ tags:
 
 
 [[Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
+
+### Ramsar sites
+1. Ranganathittu

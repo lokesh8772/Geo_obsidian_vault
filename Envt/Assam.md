@@ -36,3 +36,6 @@ tags:
 	2. famous for Bengal Florican(CR)
 
 [[Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png]]
+
+### Ramsar sites
+1. Deepor Beel
