@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/India Semiconductor Mission.md",
+                "file": "CA/STRENGTH initiative.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "India Semiconductor Mission"
+              "title": "STRENGTH initiative"
             }
           }
         ],
@@ -234,8 +234,9 @@
   },
   "active": "d13f08509edbd47b",
   "lastOpenFiles": [
-    "CA/Semiconductor Project approval.md",
     "economy/Gvot initiatives/India Semiconductor Mission.md",
+    "CA/STRENGTH initiative.md",
+    "CA/Semiconductor Project approval.md",
     "CA/India-Bangladesh Trade.md",
     "Polity/OCI.md",
     "Daily notes/2025-06-24.md",
@@ -261,7 +262,6 @@
     "CA/Mines and Minerals(Development and Regulation) Bill 2025.md",
     "UPSC  GS topics.md",
     "Envt/West Bengal.md",
-    "Daily notes/2025-08-12.md",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/National-Parks-of-Andaman-Nicobar-Islands.webp",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
