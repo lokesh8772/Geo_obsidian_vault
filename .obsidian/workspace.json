@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Taxation Laws amendment bill 2025.md",
+                "file": "Polity/Election Commission of India.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Taxation Laws amendment bill 2025"
+              "title": "Election Commission of India"
             }
           },
           {
@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "currency swap",
+                "query": "Election commission of india",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -246,8 +246,8 @@
   },
   "active": "d13f08509edbd47b",
   "lastOpenFiles": [
-    "economy/Internationalization of Rupee.md",
     "CA/Taxation Laws amendment bill 2025.md",
+    "economy/Internationalization of Rupee.md",
     "economy/Nostro-Vostro accounts.md",
     "CA/Special Vostro accounts.md",
     "Governance/Stray Dog Menace.md",

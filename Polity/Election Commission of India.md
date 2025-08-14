@@ -19,6 +19,7 @@ functions -
 	2. delimitation
 	3. symbol allotment
 	4. enforcement of model Code of conduct
+	5. registration of political parties
 2. quasi-judicial 
 	1. decides on matters of splits/mergers
 	2. decides on matters of disqualification
