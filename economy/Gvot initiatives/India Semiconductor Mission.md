@@ -67,6 +67,7 @@ The India Semiconductor Mission (ISM) has been set up as an independent business
 -   Continued progress in the construction of previously approved semiconductor units.
 -   Focus on skilling initiatives and international collaborations to strengthen the ecosystem.
 -   Yamuna Expressway Industrial Development Authority (YEIDA) providing additional land for semiconductor projects.
+- [[Semiconductor Project approval]]
 
 ### 🔗 **Tags**
 `#IndiaSemiconductorMission` `#Semiconductors` `#ElectronicsManufacturing` `#MakeInIndia` `#AtmanirbharBharat`
