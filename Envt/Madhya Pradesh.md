@@ -28,6 +28,11 @@ tags:
 
 [[Madhya-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1330.png]]
 
+### Ramsar sites
+1. Bhojtal
+2. Sankhya Sagar
+3. Yashwant Sagar
+4. Sirpur
 
 
 
@@ -87,9 +92,11 @@ tags:
 
 
 
-7. Bandhavgarh 
-8. Sanjay NP
-9. Indira Priyadarshini NP {Pench}
+
+
+5. Bandhavgarh 
+6. Sanjay NP
+7. Indira Priyadarshini NP {Pench}
 
 ### TR - 
 1. Bandhavgarh

@@ -20,3 +20,9 @@ tags:
 No TR
 
 [[Gujarat-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1626.png]]
+
+### Ramsar sites
+1. Nalsarovar
+2. Wadhavana
+3. Thol
+4. Khijadia Bird sanctuary

@@ -8,3 +8,6 @@ tags:
 3. Madei WLS
 
 [[Goa-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites.png]]
+
+### Ramsar sites
+1. Nanda Lake

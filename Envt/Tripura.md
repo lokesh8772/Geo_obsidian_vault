@@ -10,3 +10,6 @@ tags:
 3. Gumti WLS
 
 [[Tripura-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
+
+### Ramsar sites
+1. Rudrasagar

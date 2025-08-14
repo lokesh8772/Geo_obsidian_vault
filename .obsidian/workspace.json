@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Assam.md",
+                "file": "Envt/Kerala.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Assam"
+              "title": "Kerala"
             }
           }
         ]
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/West Bengal.md",
+                "file": "Ramsar sites.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "West Bengal"
+              "title": "Ramsar sites"
             }
           }
         ]
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Assam",
+                "query": "Kerala",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,18 +241,26 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
+    "Envt/Gujrat.md",
+    "Envt/Rajasthan.md",
+    "Ramsar sites.md",
+    "Envt/West Bengal.md",
+    "Envt/Goa.md",
+    "Envt/Andhra Pradesh.md",
+    "Envt/Bihar.md",
+    "Envt/Madhya Pradesh.md",
+    "Envt/Tripura.md",
+    "Envt/Assam.md",
     "Envt/Mizoram.md",
     "Envt/Manipur.md",
     "Envt/Karnataka.md",
     "Envt/odisha.md",
     "resources/Ramsar-Sites-in-India.webp",
-    "Ramsar sites.md",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
     "Envt/J&K and Ladakh.md",
     "Daily notes/2025-06-06.md",
     "resources/Unconfirmed 225799.crdownload",
     "Envt/Ramsar Convention.md",
-    "Envt/West Bengal.md",
     "Geography/hills glaciers etc/Passes of HP.md",
     "Envt/Wetlands.md",
     "Envt/Biodiversity Hotspots.md",
@@ -260,18 +268,10 @@
     "Envt/Andaman and Nicobar.md",
     "Envt/Tamil Nadu.md",
     "Envt/Biosphere Reserve.md",
-    "Envt/Madhya Pradesh.md",
-    "Envt/Assam.md",
     "Envt/Chattisgarh.md",
     "Geography/Narmada.md",
-    "Envt/Wildlife (Protection) Act 1972.md",
-    "Geography/Biosphere reserves in india.md",
-    "Envt/Himachal Pradesh.md",
-    "Envt/Arunachal Pradesh.md",
-    "Envt/Uttarakhand.md",
     "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
-    "Envt/Sikkim.md",
     "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Governance",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",

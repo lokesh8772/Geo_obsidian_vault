@@ -35,3 +35,10 @@ Tiger Reserve
 
 
 [[Rajasthan-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1715.png]]
+
+### Ramsar sites
+1. Keoladeo
+2. Sambhar
+3. Khichan(phalodi)
+4. menar(udaipur)
+5. [[2025-06-06]]
