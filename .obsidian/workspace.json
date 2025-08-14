@@ -30,38 +30,21 @@
               "icon": "lucide-file",
               "title": "2025-08-14"
             }
-          }
-        ]
-      },
-      {
-        "id": "c672768087e94048",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d13f08509edbd47b",
+            "id": "d5ad0bd49c8e2338",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ramsar sites.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "resources/Ramsar-Sites-in-India.webp"
               },
-              "icon": "lucide-file",
-              "title": "Ramsar sites"
+              "icon": "lucide-image",
+              "title": "Ramsar-Sites-in-India"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,8 +222,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eebd4656a598f190",
+  "active": "d5ad0bd49c8e2338",
   "lastOpenFiles": [
+    "Daily notes/2025-08-14.md",
     "Templates/Daily notes template.md",
     "Templates/Current affiars template.md",
     "Envt/odisha.md",
@@ -268,7 +252,6 @@
     "Envt/Rajasthan.md",
     "Ramsar sites.md",
     "Envt/Goa.md",
-    "Envt/Andhra Pradesh.md",
     "resources/Ramsar-Sites-in-India.webp",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
     "resources/Unconfirmed 225799.crdownload",
