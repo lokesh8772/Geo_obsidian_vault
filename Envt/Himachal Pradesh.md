@@ -29,3 +29,8 @@ tags:
 4. kibber WLS
 5. Kinzum pass [[Passes of HP]]
 [[Himachal-Pradesh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x2001.png]]
+
+### Ramsar sites
+1. renuka 
+2. pong dam
+3. chandratal

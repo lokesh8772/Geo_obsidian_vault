@@ -35,3 +35,7 @@ tags:
 Rajaji and Ram ganga are TR also
 
 [[Uttarakhand-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1702.png]]
+
+### Ramsar sites
+1. Asan barrage(Dhalipur)
+

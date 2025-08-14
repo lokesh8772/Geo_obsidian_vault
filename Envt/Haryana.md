@@ -12,3 +12,7 @@ tags:
 
 
 [[Haryana-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
+
+### Ramsar sites
+1. Sultanpur NP
+2. Bhindawas WLS(Jhajjar)

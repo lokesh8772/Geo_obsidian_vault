@@ -35,4 +35,9 @@ tags:
 2. Neyyar, Peppra, Shendurney WLS(Kerala)
 3. Kanikkarans(original tribe)
 
-[
+[[Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
+
+### Ramsar sites
+1. Vembanad
+2. Sasthamkotta
+3. Ashthamudi
