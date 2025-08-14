@@ -34,7 +34,8 @@
     "Templates/economy note template.md",
     "Templates/science note template.md",
     "Templates/Current affiars template.md",
-    "Templates/Envt note template.md"
+    "Templates/Envt note template.md",
+    "Templates/govenance note template.md"
   ],
   "startup_templates": [
     ""

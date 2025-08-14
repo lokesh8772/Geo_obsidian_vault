@@ -115,5 +115,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "templater-obsidian:create-Templates/govenance note template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
   ]
 }
