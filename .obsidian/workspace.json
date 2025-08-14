@@ -42,9 +42,33 @@
               "icon": "lucide-image",
               "title": "Ramsar-Sites-in-India"
             }
+          },
+          {
+            "id": "68ef60e24c0b29e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Envt/Kerala.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kerala"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,17 +246,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5ad0bd49c8e2338",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "resources/Ramsar-Sites-in-India.webp",
+    "Envt/Karnataka.md",
+    "Envt/Madhya Pradesh.md",
     "Daily notes/2025-08-14.md",
     "Templates/Daily notes template.md",
     "Templates/Current affiars template.md",
     "Envt/odisha.md",
     "Envt/J&K and Ladakh.md",
-    "Envt/Karnataka.md",
     "Envt/Maharashtra.md",
     "economy/Gvot initiatives/Green Energy Corridors (GEC).md",
-    "Envt/Madhya Pradesh.md",
     "Chambal.md",
     "Envt/Gujrat.md",
     "Envt/Haryana.md",
@@ -251,8 +276,6 @@
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Envt/Rajasthan.md",
     "Ramsar sites.md",
-    "Envt/Goa.md",
-    "resources/Ramsar-Sites-in-India.webp",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
     "resources/Unconfirmed 225799.crdownload",
     "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",

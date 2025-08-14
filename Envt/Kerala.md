@@ -40,7 +40,7 @@ tags:
 ### Ramsar sites
 1. Vembanad
 	1. lagoon lake
-	2. brakish waterr
+	2. brakish water
 	3. longest lake in india
 	4. kol/kayal
 	5. willingdon island
