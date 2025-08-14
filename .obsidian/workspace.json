@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Biosphere Reserve.md",
+                "file": "Envt/Tamil Nadu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Biosphere Reserve"
+              "title": "Tamil Nadu"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wildlife protection",
+                "query": "Karnatak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,9 +234,15 @@
   },
   "active": "d13f08509edbd47b",
   "lastOpenFiles": [
+    "Envt/Biosphere Reserve.md",
+    "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
+    "Envt/Karnataka.md",
+    "Envt/Tamil Nadu.md",
+    "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
+    "Envt/Assam.md",
+    "Envt/Sikkim.md",
     "Envt/Wildlife (Protection) Act 1972.md",
     "UPSC  GS topics.md",
-    "Envt/Biosphere Reserve.md",
     "Daily notes/2025-08-14.md",
     "CA/Etalin Hydroelectric Project.md",
     "Templates/Daily notes template.md",
@@ -256,15 +262,9 @@
     "economy/Internationalization of Rupee.md",
     "economy/Nostro-Vostro accounts.md",
     "CA/Special Vostro accounts.md",
-    "Governance/Stray Dog Menace.md",
-    "Daily notes/2025-06-26.md",
-    "Polity/DPSP.md",
-    "Polity/Basic Structure of the constitution.md",
-    "Polity/Fundamental Duties.md",
     "Governance",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/National-Parks-of-Andaman-Nicobar-Islands.webp",
-    "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
     "resources/Unconfirmed 526377.crdownload",
     "resources/Goa-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites.png",
     "resources/Telangana-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
@@ -274,7 +274,6 @@
     "resources/National-Parks-in-India-Map-Updated.pdf",
     "resources/Andhra-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1694.png",
     "resources/Unconfirmed 151269.crdownload",
-    "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "resources/Unconfirmed 892766.crdownload",
     "resources/Unconfirmed 557111.crdownload",
     "resources/Unconfirmed 178351.crdownload",

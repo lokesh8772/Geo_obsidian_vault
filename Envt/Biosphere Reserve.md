@@ -27,4 +27,35 @@ tags:
 
 ### Names - 
 1. Cold desert BR [[Himachal Pradesh]]
+2. Nanda Devi BR [[Uttarakhand]]
+3. Kangchenjunga BR [[sikkim]]
+4. Nokrek 
+5. Manas [[Assam]]
+6. Dibru Saikhova
+7. Dihang-Dibang [[Arunachal Pradesh]]
+8. Rann of Kutch [[Gujrat]]
+9. Sunderbans [[West Bengal]]
+10. Simlipal [[odisha]]
+11. Achanakmar Amarkantak [[Chattisgarh]]
+12. Pachmadhi(satpura) [[Madhya Pradesh]]
+13. Panna 
+14. Seshachalam [[Andhra Pradesh]]
+15. Nilgiri [[Tamil Nadu]]
+16. Agastyamalai [[Kerala]] [[Tamil Nadu]]]
+17. Gulf of Mannar [[Tamil Nadu]]
+18. Great Nicobar [[Andaman and Nicobar]]
 
+
+### facts
+1. 1st BR -> Nilgiri(1986/2000)
+2. last BR -> Panna(2011/2020)
+3. smallest -> Dibru Saikhova
+4. largest -> Kutch
+
+### not recognized by UNESCO
+1. Manas
+2. cold desert
+3. Rann of kutch
+4. Dibru saikhova
+5. Dihang-dibang
+6. Seshachalam
