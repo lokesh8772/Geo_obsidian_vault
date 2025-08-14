@@ -14,4 +14,10 @@ legal related
 2. Jallikattu case 2014
 	1. Right to life under Art 21 extended to animals as well
 3. Art 243W -> mandates municipalities to control the menace of stray dog in the area
-4. Art 51A(g) [[]]
+4. Art 51A(g) [[Fundamental Duties]]
+
+challenges
+1. lack of infra -> dog shelter
+2. vaccine unavailibilty
+3. ethical dilemma -> human safety vs animal welfare.
+4. 
