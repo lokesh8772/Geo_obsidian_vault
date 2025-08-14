@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
+                "file": "Envt/Wildlife (Protection) Act 1972.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "Wildlife (Protection) Act 1972"
             }
           },
           {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-08-14.md",
-                "mode": "preview",
+                "file": "Envt/Biosphere Reserve.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-14"
+              "title": "Biosphere Reserve"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semicon",
+                "query": "wildlife protection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,8 +234,11 @@
   },
   "active": "d13f08509edbd47b",
   "lastOpenFiles": [
-    "CA/Etalin Hydroelectric Project.md",
+    "Envt/Wildlife (Protection) Act 1972.md",
+    "UPSC  GS topics.md",
+    "Envt/Biosphere Reserve.md",
     "Daily notes/2025-08-14.md",
+    "CA/Etalin Hydroelectric Project.md",
     "Templates/Daily notes template.md",
     "Templates/Current affiars template.md",
     "CA/Tato-II.md",
@@ -258,10 +261,7 @@
     "Polity/DPSP.md",
     "Polity/Basic Structure of the constitution.md",
     "Polity/Fundamental Duties.md",
-    "Templates/govenance note template.md",
-    "CA/Stray dog matter.md",
     "Governance",
-    "CA/NSGB + NADAB.md",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/National-Parks-of-Andaman-Nicobar-Islands.webp",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
