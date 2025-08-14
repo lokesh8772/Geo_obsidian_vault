@@ -28,9 +28,16 @@ tags:
 4. Sriviliputter TR
 5. Kalakad Mundanthurrai TR
 
-### Niligiri Biosphere Reserve
+### Nilgiri Biosphere Reserve
 1. largest by Population
-2. first BR of india
+2. first BR of india (1986/2000)
 3. 
+
+| state         | region                              |
+| ------------- | ----------------------------------- |
+| [[Karnataka]] | Nagarhole, Bandipur                 |
+| Tamil Nadu    | Mudumalai, Mukhurthi, Satyamangalam |
+|               |                                     |
+
 
 [[National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp]]
