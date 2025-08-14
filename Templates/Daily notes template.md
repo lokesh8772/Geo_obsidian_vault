@@ -5,5 +5,5 @@ tags:
 ```dataview
 list
 FROM ""
-WHERE file.ctime >= date()
+WHERE file.cday = date()
 ```
