@@ -11,24 +11,12 @@
             "id": "eebd4656a598f190",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Envt/Ramsar Convention.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png"
               },
-              "icon": "lucide-file",
-              "title": "Ramsar Convention"
+              "icon": "lucide-image",
+              "title": "Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548"
             }
           }
         ]
@@ -43,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ramsar sites.md",
+                "file": "Envt/West Bengal.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ramsar sites"
+              "title": "West Bengal"
             }
           }
         ]
@@ -99,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ramsar sites",
+                "query": "j&k ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,9 +227,13 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
+    "resources/Ramsar-Sites-in-India.webp",
+    "resources/Unconfirmed 225799.crdownload",
+    "Envt/J&K and Ladakh.md",
+    "Envt/Ramsar Convention.md",
+    "Envt/West Bengal.md",
     "Ramsar sites.md",
     "Geography/hills glaciers etc/Passes of HP.md",
-    "Envt/Ramsar Convention.md",
     "Envt/Wetlands.md",
     "Envt/Biodiversity Hotspots.md",
     "Envt/Kerala.md",
@@ -264,9 +256,6 @@
     "Envt/Sikkim.md",
     "UPSC  GS topics.md",
     "Daily notes/2025-08-14.md",
-    "CA/Etalin Hydroelectric Project.md",
-    "Templates/Daily notes template.md",
-    "Templates/Current affiars template.md",
     "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Governance",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
@@ -284,7 +273,6 @@
     "resources/Unconfirmed 557111.crdownload",
     "resources/Unconfirmed 178351.crdownload",
     "resources/Unconfirmed 334249.crdownload",
-    "resources/Unconfirmed 54208.crdownload",
     "Untitled.canvas"
   ]
 }

@@ -20,5 +20,16 @@ National Park
 4. Kishtwar NP 
 	1. Marusudar river -> Largest tributary of [[Chenab]]
 
+
+### Ramsar sites of J&K
+1. wular lake
+2. shallbugh
+3. hokera/ hokersar
+4. hygum
+5. surinsar - mansar
+### Ramsar sites of Ladakh
+1. Tsokar
+2. Tsomoriri
+	1. black necked crane
 [[Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png]]
 [[Ladakh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1548.png]]
