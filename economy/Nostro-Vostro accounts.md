@@ -13,4 +13,4 @@ in context of india
 2. vostro bank
 	1. foreign bank opening account in indian bank
 	2. deposits in Rupee.
-	3. good for FDI, Rupee internationalization, shock-resistance
+	3. good for FDI, [[Internationalization of Rupee]], shock-resistance
