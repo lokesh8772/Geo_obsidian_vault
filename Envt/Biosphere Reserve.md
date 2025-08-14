@@ -3,6 +3,8 @@ tags:
   - Environment
   - GS1
 ---
+[[Biosphere-Reserves-in-India.pdf]]
+
 1. total 18 in india -> 12 are UNESCO recognized.
 2. Man and the biosphere programme 1971 (UNESCO)
 3. BR -> Cat V of the protected areas [[Wildlife (Protection) Act 1972]]
@@ -29,7 +31,7 @@ tags:
 1. Cold desert BR [[Himachal Pradesh]]
 2. Nanda Devi BR [[Uttarakhand]]
 3. Kangchenjunga BR [[sikkim]]
-4. Nokrek 
+4. Nokrek [[Meghalaya]]
 5. Manas [[Assam]]
 6. Dibru Saikhova
 7. Dihang-Dibang [[Arunachal Pradesh]]

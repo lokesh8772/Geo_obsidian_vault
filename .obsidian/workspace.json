@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Wildlife (Protection) Act 1972.md",
+                "file": "Envt/Kerala.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wildlife (Protection) Act 1972"
+              "title": "Kerala"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "narmada",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,19 +237,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d13f08509edbd47b",
+  "active": "eebd4656a598f190",
   "lastOpenFiles": [
-    "Envt/Himachal Pradesh.md",
     "Envt/Biosphere Reserve.md",
+    "Envt/Madhya Pradesh.md",
+    "Envt/Tamil Nadu.md",
+    "Envt/odisha.md",
+    "Envt/Assam.md",
+    "Envt/Chattisgarh.md",
+    "Geography/Narmada.md",
+    "Envt/Wildlife (Protection) Act 1972.md",
+    "Geography/Biosphere reserves in india.md",
+    "Geography/hills glaciers etc/Passes of HP.md",
+    "Envt/Himachal Pradesh.md",
     "Envt/Arunachal Pradesh.md",
     "Envt/Uttarakhand.md",
-    "Envt/Tamil Nadu.md",
     "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
     "Envt/Karnataka.md",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
-    "Envt/Assam.md",
     "Envt/Sikkim.md",
-    "Envt/Wildlife (Protection) Act 1972.md",
     "UPSC  GS topics.md",
     "Daily notes/2025-08-14.md",
     "CA/Etalin Hydroelectric Project.md",
@@ -261,13 +267,7 @@
     "CA/Semiconductor Project approval.md",
     "CA/India-Bangladesh Trade.md",
     "Polity/OCI.md",
-    "Daily notes/2025-06-24.md",
-    "CA/Indian Ports Bill 2025.md",
     "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
-    "CA/Equator Initiative award.md",
-    "Polity/Election Commission of India.md",
-    "CA/Taxation Laws amendment bill 2025.md",
-    "economy/Internationalization of Rupee.md",
     "Governance",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/National-Parks-of-Andaman-Nicobar-Islands.webp",

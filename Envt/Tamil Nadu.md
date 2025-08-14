@@ -36,12 +36,19 @@ tags:
 3. 80% of flowering plants of Western ghats
 4. bengal tiger, Indian leopard, black panther, gaur, elephant
 
-
 | state         | region                                            |
 | ------------- | ------------------------------------------------- |
 | [[Karnataka]] | Nagarhole, Bandipur                               |
 | Tamil Nadu    | Mudumalai, Mukhurthi, Satyamangalam               |
 | [[Kerala]]    | silent valley NP + waynad, aralam, karimpuzha WLS |
+### Gulf of Mannar BR
+1. coromandal coast
+2. Adam's bridge
+3. Mannar Island
+4. Pak Bay
+5. Thamirabarni river
+6. Vaipar River
+7. Dugong(sea cow)
 
 
 [[National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp]]

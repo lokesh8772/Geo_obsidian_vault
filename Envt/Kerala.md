@@ -29,3 +29,8 @@ tags:
 ### TR 
 1. Perambikulam TR
 2. Periyar TR
+
+### Agastyamalai BR
+1. Kalakkad Mundanthurai TR
+2. Neyyar, Peppra, Shendurney WLS
+3. Kanikkar

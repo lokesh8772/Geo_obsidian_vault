@@ -18,6 +18,15 @@ tags:
 	1. [[Yamuna|Ken]] river
 	2. ken - Ghariyal WLS
 
+### Pachmadi BR
+1. Bori WLS
+2. Pachmadi WLS
+3. satpura NP
+4. Dhoopgarh WLS
+5. [[Narmada|Tawa]] river
+6. Ratapani WLS
+
+[[Madhya-Pradesh-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1330.png]]
 
 
 
@@ -78,11 +87,9 @@ tags:
 
 
 
-
-
-10. Bandhavgarh 
-11. Sanjay NP
-12. Indira Priyadarshini NP {Pench}
+7. Bandhavgarh 
+8. Sanjay NP
+9. Indira Priyadarshini NP {Pench}
 
 ### TR - 
 1. Bandhavgarh

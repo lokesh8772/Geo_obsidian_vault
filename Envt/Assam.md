@@ -8,7 +8,7 @@ tags:
 	2. saralbhanga river
 	3. pekua river
 	4. golden langoor(EN)(famous)
-2. Manas NP
+2. Manas NP + **BR**
 	1. Bengal Florican(CR)(bird)
 	2. Assam roofed turtle(EN)
 	3. Hispid hare(EN)
@@ -23,8 +23,9 @@ tags:
 	2. 2/3 of world's One horn rhino(VU)
 	3. wild water buffalo(EN)
 	4. Bara Singha(VU)
-6. Dibru Saikhova NP
+6. Dibru Saikhova NP + **BR**
 	1. sloth bear(VU)
+	2. white winged wood duck
 7. Dihing Patkai NP
 	1. White winged duck(EN)(highest concentration)
 	2. k/a Jaipore Rainforest
