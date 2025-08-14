@@ -30,15 +30,21 @@
               "icon": "lucide-file",
               "title": "Wildlife (Protection) Act 1972"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c672768087e94048",
+        "type": "tabs",
+        "children": [
           {
             "id": "d13f08509edbd47b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Tamil Nadu.md",
-                "mode": "source",
+                "file": "Geography/hills glaciers etc/Passes of HP.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +58,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tamil Nadu"
+              "title": "Passes of HP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Karnatak",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,10 +239,13 @@
   },
   "active": "d13f08509edbd47b",
   "lastOpenFiles": [
+    "Envt/Himachal Pradesh.md",
     "Envt/Biosphere Reserve.md",
+    "Envt/Arunachal Pradesh.md",
+    "Envt/Uttarakhand.md",
+    "Envt/Tamil Nadu.md",
     "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
     "Envt/Karnataka.md",
-    "Envt/Tamil Nadu.md",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
     "Envt/Assam.md",
     "Envt/Sikkim.md",
@@ -260,8 +268,6 @@
     "Polity/Election Commission of India.md",
     "CA/Taxation Laws amendment bill 2025.md",
     "economy/Internationalization of Rupee.md",
-    "economy/Nostro-Vostro accounts.md",
-    "CA/Special Vostro accounts.md",
     "Governance",
     "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/National-Parks-of-Andaman-Nicobar-Islands.webp",

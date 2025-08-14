@@ -16,6 +16,7 @@ tags:
 	2. sambar(VU)
 	3. Asian black bear(VU)
 4. [[Himalayas|Nanda Devi]] NP
+	1. both valley of flowers NP and nanda devi NP are part of Nanda Devi BR
 5. Rajaji NP 
 	1. Rajaji TR
 	2. Motichoor WLS
@@ -32,4 +33,5 @@ tags:
 	4. Amangarth Tiger Reserve
 
 Rajaji and Ram ganga are TR also
+
 [[Uttarakhand-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1702.png]]

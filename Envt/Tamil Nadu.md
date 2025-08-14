@@ -29,15 +29,19 @@ tags:
 5. Kalakad Mundanthurrai TR
 
 ### Nilgiri Biosphere Reserve
-1. largest by Population
+1. largest population of
+	1. lion-taled macaque
+	2. nilgiri tahr
 2. first BR of india (1986/2000)
-3. 
+3. 80% of flowering plants of Western ghats
+4. bengal tiger, Indian leopard, black panther, gaur, elephant
 
-| state         | region                              |
-| ------------- | ----------------------------------- |
-| [[Karnataka]] | Nagarhole, Bandipur                 |
-| Tamil Nadu    | Mudumalai, Mukhurthi, Satyamangalam |
-|               |                                     |
+
+| state         | region                                            |
+| ------------- | ------------------------------------------------- |
+| [[Karnataka]] | Nagarhole, Bandipur                               |
+| Tamil Nadu    | Mudumalai, Mukhurthi, Satyamangalam               |
+| [[Kerala]]    | silent valley NP + waynad, aralam, karimpuzha WLS |
 
 
 [[National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp]]

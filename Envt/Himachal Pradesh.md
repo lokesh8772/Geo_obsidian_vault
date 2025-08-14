@@ -21,4 +21,11 @@ tags:
 	1. Paonta valley
 	2. dense sal forest
 	3. sambar(VU)
+
+### Cold desert  BR
+1. Pin valley
+2. Chandratal lake
+3. Sarchu (tourist place)
+4. kibber WLS
+5. Kinzum pass [[Passes of HP]]
 [[Himachal-Pradesh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x2001.png]]

@@ -16,5 +16,11 @@ tags:
 4. Pakke WLS
 	1. k/a Pakhui WLS
 	2. TR
+### Dihang-Dibang BR
+1. Mouling NP
+2. Dibang WLS
+3. asian black bear
+4. red goral
+5. Mishmi Takin
 
 [[Arunachal-Pradesh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-2048x1009.png]]
