@@ -25,7 +25,7 @@ National Park
 1. wular lake
 2. shallbugh
 3. hokera/ hokersar
-4. hygum
+4. hygum -> Jhelum river
 5. surinsar - mansar
 ### Ramsar sites of Ladakh
 1. Tsokar

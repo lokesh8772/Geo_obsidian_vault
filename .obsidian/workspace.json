@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Maharashtra.md",
-                "mode": "source",
+                "file": "Daily notes/2025-08-14.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maharashtra"
+              "title": "2025-08-14"
             }
           }
         ]
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maharasht",
+                "query": "satkosia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,14 +241,17 @@
   },
   "active": "eebd4656a598f190",
   "lastOpenFiles": [
-    "economy/Gvot initiatives/Green Energy Corridors (GEC).md",
+    "Templates/Daily notes template.md",
+    "Templates/Current affiars template.md",
     "Envt/odisha.md",
+    "Envt/J&K and Ladakh.md",
+    "Envt/Karnataka.md",
+    "Envt/Maharashtra.md",
+    "economy/Gvot initiatives/Green Energy Corridors (GEC).md",
     "Envt/Madhya Pradesh.md",
     "Chambal.md",
     "Envt/Gujrat.md",
     "Envt/Haryana.md",
-    "Envt/Maharashtra.md",
-    "Envt/J&K and Ladakh.md",
     "Envt/Uttarakhand.md",
     "Envt/Kerala.md",
     "Envt/Tripura.md",
@@ -266,9 +269,6 @@
     "Ramsar sites.md",
     "Envt/Goa.md",
     "Envt/Andhra Pradesh.md",
-    "Envt/Mizoram.md",
-    "Envt/Manipur.md",
-    "Envt/Karnataka.md",
     "resources/Ramsar-Sites-in-India.webp",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
     "resources/Unconfirmed 225799.crdownload",

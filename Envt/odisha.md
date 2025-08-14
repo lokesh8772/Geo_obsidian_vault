@@ -26,6 +26,7 @@ tags:
 1. Bhitarkanika
 	1. gahirmata Marine WLS
 2. Satkosia
+	1. Baisipalli WLS
 3. Hirakud
 	1. Debrigarh WLS
 4. Chilka
