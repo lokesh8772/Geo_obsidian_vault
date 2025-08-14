@@ -39,5 +39,24 @@ tags:
 
 ### Ramsar sites
 1. Vembanad
+	1. lagoon lake
+	2. brakish waterr
+	3. longest lake in india
+	4. kol/kayal
+	5. willingdon island
+	6. vallarpadam island
+	7. kumarakom BS
+	8. Nehru Trophy boat race
+	9. Kochi port
+	10. Pemba, periyar, achenkovil
+	11. National waterway 3
 2. Sasthamkotta
+	1. not a lagoon
 3. Ashthamudi
+	1. lagoon
+	2. Neenakara port
+	3. Kallada river
+	4. munroe  island
+	5. national waterway 3
+	6. Syzygium travancoricum(plant)
+	7. 

@@ -29,7 +29,13 @@ National Park
 5. surinsar - mansar
 ### Ramsar sites of Ladakh
 1. Tsokar
+	1. Rupshu plateau
+	2. Saline lake
+	3. Imp for central asian flyway
+	4. Breeding ground for black necked crane
 2. Tsomoriri
-	1. black necked crane
+	1. black necked crane(NT)
+	2. Bar headed goose(LC)
+	3. only breeding ground in india of the above two
 [[Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png]]
 [[Ladakh-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map-2048x1548.png]]

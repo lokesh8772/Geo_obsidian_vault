@@ -27,11 +27,16 @@ tags:
 	1. gahirmata Marine WLS
 2. Satkosia
 3. Hirakud
+	1. Debrigarh WLS
 4. Chilka
 	1. spoon billed sandpiper(CR)
 	2. Green sea turtle(EN)
 	3. Irrawaddy dolphin(EN)
 	4. nalbana & Daya rivers
-5. Ansupa
+5. Ansupa lake
+	1. ox-bow lake
+	2. [[Mahanadi]]
+	3. Saranda hills
+	4. 
 6. Tampara
 

@@ -27,6 +27,8 @@ tags:
 
 ### Ramsar sites
 1. Lonar
+	1. meteor (35,000 yrs)
+	2. turned pink -> cyanobacteria, phytoplankton
 2. Nandur Madhweshwar
 	1. Deolali minnow(CR) (fish)
 3. thane

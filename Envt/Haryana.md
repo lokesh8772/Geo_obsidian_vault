@@ -16,3 +16,5 @@ tags:
 ### Ramsar sites
 1. Sultanpur NP
 2. Bhindawas WLS(Jhajjar)
+	1. sahibi river
+	2. Khaparwas WLS

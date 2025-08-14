@@ -40,4 +40,4 @@ tags:
 ### Ramsar sites
 1. Deepor Beel
 	1. Pobitora WLS
-	2. Baer's pochard()
+	2. Baer's pochard(CR)
