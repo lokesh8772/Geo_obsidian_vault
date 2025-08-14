@@ -52,3 +52,19 @@ tags:
 
 
 [[National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp]]
+
+### Ramsar sites
+1. Pallikarnai
+2. Vendanthangul
+3. Karikili
+4. Pichavaram
+5. Vellode
+6. Vaduvvur
+7. Udhyam Arthundpuram
+8. kodiakkarai
+9. kanjrarikulam bird sanctuary
+10. chitrangudi BS
+11. Gulf of mannar
+12. Koonthankulam
+13. Vembanur
+14. Suchindram theroor

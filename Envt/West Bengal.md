@@ -23,3 +23,6 @@ tags:
 	2. also TR
 
 [[West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
+### Ramsar sites
+1. sunderbans
+2. east kolkata wetland

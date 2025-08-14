@@ -24,9 +24,14 @@ tags:
 
 ### ramsar sites
 1. Bhitarkanika
+	1. gahirmata Marine WLS
 2. Satkosia
 3. Hirakud
 4. Chilka
+	1. spoon billed sandpiper(CR)
+	2. Green sea turtle(EN)
+	3. Irrawaddy dolphin(EN)
+	4. nalbana & Daya rivers
 5. Ansupa
 6. Tampara
 

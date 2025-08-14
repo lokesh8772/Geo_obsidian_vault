@@ -14,3 +14,11 @@ tags:
 
 ### Ramsar sites
 1. Kanwartaal jheel
+	1. ox-bow lake
+	2. [[Gandak]] river
+	3. sociable lapwing(CR)
+	4. Baer's Pochard(CR)
+	5. Red headed vulture
+	6. White rumped vulture
+	7. indian vulture
+
