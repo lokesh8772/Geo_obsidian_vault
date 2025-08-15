@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "paonta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -246,7 +246,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Daily notes/2025-06-29.md",
     "Polity/art 143.md",
