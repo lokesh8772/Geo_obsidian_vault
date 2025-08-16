@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Coral.md",
+                "file": "CA/India-singapore.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coral"
+              "title": "India-singapore"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paonta",
+                "query": "international solar allaince",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -246,10 +246,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Daily notes/2025-08-14.md",
     "Envt/Coral.md",
+    "CA/India-singapore.md",
+    "Daily notes/2025-08-14.md",
     "Daily notes/2025-06-29.md",
     "Polity/art 143.md",
     "Polity/Art 31.md",
@@ -274,7 +275,6 @@
     "Envt/Punjab.md",
     "Envt/Himachal Pradesh.md",
     "Envt/Tamil Nadu.md",
-    "Envt/Uttar Pradesh.md",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
