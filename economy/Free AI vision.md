@@ -23,4 +23,8 @@ tags:
 	5. institutional capacity buiding(boards and workforce)
 	6. relaxed compliance for low risk AI solutions
 6. Approach to mitigate risks
-	1. 
+	1. Board approved AI policies by regulated entities
+	2. inclusion of AI-aspects in consumer protection, product approval...
+	3. cybersecurity and reporting mechanisms
+	4. Robust AI lifecycle governance
+	5. Consumer awareness when they interact with AI
