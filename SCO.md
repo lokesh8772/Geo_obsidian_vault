@@ -17,8 +17,8 @@ tags:
 	1. India
 	2. Pakistan
 	3. Afganistan
-	4. Iran
-	5. Belarus
+	4. Iran(2023)
+	5. Belarus(2024)
 4. objective
 	1. regional security
 	2. couter terrorism
@@ -26,5 +26,12 @@ tags:
 	4. resolve border issues
 	5. multipolarity in global governance.
 
+### india's strategic opportunities within SCO
+1. engaging with central asia and central african republics
+2. eco and energy ->  in 2022 kazakhastan produced largest share of Uranium(43%)
+3. INSTC
+4. dialogue with china and pakistan
+### challenges
+1. china's 
 
 #international-plateform

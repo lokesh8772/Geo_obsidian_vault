@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Adi Karmayogi Programme.md",
+                "file": "SCO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adi Karmayogi Programme"
+              "title": "SCO"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ECINET",
+                "query": "\"SCO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "ECINET.md",
+    "CA/India refuses to sign joint declaration at SCO.md",
+    "SCO.md",
     "CA/Adi Karmayogi Programme.md",
+    "ECINET.md",
     "economy/Quality Council of india.md",
     "CA/Narco test.md",
     "CA/Personality rights.md",
@@ -262,8 +264,6 @@
     "economy/Indian Space sector.md",
     "CA/India-singapore.md",
     "Envt/Coral.md",
-    "Daily notes/2025-08-14.md",
-    "Daily notes/2025-06-29.md",
     "resources/Ramsar-Sites-in-India.webp",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
