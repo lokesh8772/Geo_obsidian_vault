@@ -1,9 +1,11 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 15,
   "textFontFamily": "Helvetica,Bodoni 72 Oldstyle,Caveat,Arial",
   "interfaceFontFamily": "Arial",
   "accentColor": "#f5b55c",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "link-color"
+  ],
   "cssTheme": "Minimal"
 }
