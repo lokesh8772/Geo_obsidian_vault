@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-08-14.md",
-                "mode": "preview",
+                "file": "Envt/Coral.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-14"
+              "title": "Coral"
             }
           }
         ],
@@ -246,11 +246,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Daily notes/2025-08-14.md",
+    "Envt/Coral.md",
     "Daily notes/2025-06-29.md",
     "Polity/art 143.md",
-    "Daily notes/2025-08-14.md",
     "Polity/Art 31.md",
     "Envt/Bihar.md",
     "Envt/Mizoram.md",
@@ -274,7 +275,6 @@
     "Envt/Himachal Pradesh.md",
     "Envt/Tamil Nadu.md",
     "Envt/Uttar Pradesh.md",
-    "Geography/Sarda.md",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
