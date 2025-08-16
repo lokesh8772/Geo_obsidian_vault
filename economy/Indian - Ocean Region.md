@@ -35,17 +35,18 @@ Ecological:
 	1. SAGAR 2015
 		1. Security and Growth for all in the region
 	2. MAHASAGAR 2025
-		1. extended SAGAR to the whole global south
+		1. extended SAGAR to whole of the global south
 2. Indo-pacific policy
 	1. free, open, inclusive and rules based order
 	2. democratic governance
 3. Maritime security and defence
 	1. joint EEZ patrols, 
-	2. maldives, mauritius and seychelles co-ordinated anti-piracy ops
-	3. Sagarmala 2.0
-	4. Chabahar port(iran)
-	5. sittwe port(myanmar)
-	6. colomobo port west terminal
+	2. IFC-IOR(info. fusion center), gurugram
+	3. maldives, mauritius and seychelles co-ordinated anti-piracy ops
+	4. Sagarmala 2.0
+	5. Chabahar port(iran)
+	6. sittwe port(myanmar)
+	7. colomobo port west terminal
 4. Multilateral Engagement
 	1. IORA
 	2. IPOI (indo-pacific Oceans initiative)

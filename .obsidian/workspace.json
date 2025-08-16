@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Easter Island.md",
+                "file": "CA/India's first commercial EO constellation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Easter Island"
+              "title": "India's first commercial EO constellation"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unesco",
+                "query": "indian ocean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,22 +234,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "resources/Pasted image 20250816110019.png",
-    "CA/Easter Island.md",
-    "Pasted image 20250816110019.png",
-    "CA/NASA OCO observatory.md",
-    "CA/Project Kusha.md",
-    "Polity/National Green Tribunal.md",
-    "CA/Perpetual tolling.md",
-    "CA/approval for commenwealth games bid.md",
-    "economy/Wind Energy in india.md",
-    "economy/Gvot initiatives/National Wind Energy Mission.md",
-    "economy/Gvot initiatives/Wind Energy Programme.md",
-    "CA/Approved list of models and mfgs(Wind).md",
-    "economy/Free AI vision.md",
     "economy/Indian - Ocean Region.md",
+    "economy/Free AI vision.md",
+    "CA/Approved list of models and mfgs(Wind).md",
+    "economy/Gvot initiatives/Wind Energy Programme.md",
+    "economy/Gvot initiatives/National Wind Energy Mission.md",
+    "economy/Wind Energy in india.md",
+    "CA/approval for commenwealth games bid.md",
+    "CA/Perpetual tolling.md",
+    "Polity/National Green Tribunal.md",
+    "CA/Project Kusha.md",
+    "CA/NASA OCO observatory.md",
+    "CA/Easter Island.md",
+    "resources/Pasted image 20250816110019.png",
+    "Pasted image 20250816110019.png",
     "CA/India's first commercial EO constellation.md",
     "economy/Indian Space sector.md",
     "CA/India-singapore.md",
