@@ -1,0 +1,36 @@
+/* Dark theme */
+.theme-dark {
+  --link-color: #ffa500;                /* General link color */
+  --link-color-hover: #ffcc80;           /* Link hover color */
+  --link-external-color: #00bfff;        /* External link color */
+  --link-external-color-hover: #87cefa;  /* External hover color */
+}
+
+/* Light theme */
+.theme-light {
+  --link-color: #14005b;
+  --link-color-hover: #000cb0;
+  --link-external-color: #c71585;
+  --link-external-color-hover: #ff69b4;
+}
+
+/* For internal links in edit mode */
+.cm-s-obsidian span.cm-hmd-internal-link {
+  color: var(--link-color) !important;
+}
+
+/* For external links in edit mode */
+.cm-s-obsidian span.cm-link,
+.cm-s-obsidian a {
+  color: var(--link-external-color) !important;
+}
+
+/* Reading view internal link */
+.markdown-rendered .internal-link {
+  color: var(--link-color) !important;
+}
+
+/* Reading view external link */
+.markdown-rendered .external-link {
+  color: var(--link-external-color) !important;
+}
