@@ -25,3 +25,7 @@ Now repealed -> included compulsory acquisition and fundamental law to have prop
 ### Art 31C
 1. inserted by 25th [[Amendments|CAA]], 1971
 2. any law that is made to satisfy the [[DPSP]] in art 39(b) and 39(c), can not be **challenged** for violation of art 14, 19 and 31(now repealed.)
+3. any act that claims to give effect to a policy can not be termed invalid on the grounds that it does not give effect to that policy
+	1. [[Imp cases|Keshwanand Bharati case 1973]] -> 2nd provision is invalid while 1st is valid.
+	2. 42nd CAA - extended the 1st provision to any of the DPSPs
+	3. [[Imp cases|Minerwa mills case 1980]] -> this extension -> unconstitutional.
