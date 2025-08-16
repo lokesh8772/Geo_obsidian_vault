@@ -10,3 +10,4 @@ Date:
 	2. disaster management
 	3. geo-spatial intelligence
 	4. agri planning
+[[Indian Space sector]]
