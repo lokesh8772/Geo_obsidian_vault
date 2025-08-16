@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Personality rights.md",
+                "file": "CA/Narco test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Personality rights"
+              "title": "Narco test"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Polity/Imp cases.md",
     "CA/Personality rights.md",
+    "CA/Narco test.md",
+    "Polity/Imp cases.md",
     "Polity/Art 31.md",
     "Daily notes/2025-06-25.md",
     "CA/India's first commercial EO constellation.md",
@@ -264,7 +265,6 @@
     "Envt/Bihar.md",
     "Envt/Mizoram.md",
     "resources/Ramsar-Sites-in-India.webp",
-    "Envt/odisha.md",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
