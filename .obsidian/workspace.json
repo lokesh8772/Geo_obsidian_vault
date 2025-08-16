@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-08-16.md",
-                "mode": "preview",
+                "file": "IR/WTO.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-16"
+              "title": "WTO"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/India-singapore.md",
     "Daily notes/2025-08-16.md",
+    "CA/India-singapore.md",
     "IR/WTO.md",
     "G-7.md",
     "BRICS.md",

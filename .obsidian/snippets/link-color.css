@@ -12,6 +12,8 @@
   --link-color-hover: #000cb0;
   --link-external-color: #c71585;
   --link-external-color-hover: #ff69b4;
+  --text-normal: #000000 !important; /* True black */
+  color: #000000 !important;
 }
 
 /* For internal links in edit mode */

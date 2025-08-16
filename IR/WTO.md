@@ -33,3 +33,4 @@ tags:
 1. dispute settlement mechanism -> paralysed due to US opposition to appointment in appallate tribunal since 2016.
 2. EU's carbon border adjustment mechanism -> impact developing countries disproportionately.
 3. india opposes any attempts to reform SDT, USA opposes China being "developing" country
+/commit
