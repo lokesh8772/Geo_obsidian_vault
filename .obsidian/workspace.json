@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/India-singapore.md",
+                "file": "economy/Indian Space sector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "India-singapore"
+              "title": "Indian Space sector"
             }
           }
         ],
@@ -246,10 +246,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/Coral.md",
+    "CA/India's first commercial EO constellation.md",
+    "economy/Indian Space sector.md",
+    "economy/Indian Space sector.md",
     "CA/India-singapore.md",
+    "Envt/Coral.md",
     "Daily notes/2025-08-14.md",
     "Daily notes/2025-06-29.md",
     "Polity/art 143.md",
@@ -272,9 +275,6 @@
     "Envt/Uttarakhand.md",
     "Envt/Tripura.md",
     "Envt/Assam.md",
-    "Envt/Punjab.md",
-    "Envt/Himachal Pradesh.md",
-    "Envt/Tamil Nadu.md",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
