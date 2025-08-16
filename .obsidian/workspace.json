@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Narco test.md",
+                "file": "ECINET.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Narco test"
+              "title": "ECINET"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "31C",
+                "query": "ECINET",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/Personality rights.md",
+    "economy/Quality Council of india.md",
     "CA/Narco test.md",
+    "CA/Personality rights.md",
     "Polity/Imp cases.md",
     "Polity/Art 31.md",
     "Daily notes/2025-06-25.md",
@@ -263,7 +264,6 @@
     "Daily notes/2025-06-29.md",
     "Polity/art 143.md",
     "Envt/Bihar.md",
-    "Envt/Mizoram.md",
     "resources/Ramsar-Sites-in-India.webp",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
