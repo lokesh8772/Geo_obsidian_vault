@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Approved list of models and mfgs(Wind).md",
+                "file": "CA/Perpetual tolling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Approved list of models and mfgs(Wind)"
+              "title": "Perpetual tolling"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "international solar allaince",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,13 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Free AI vision.md",
+    "CA/approval for commenwealth games bid.md",
+    "CA/Perpetual tolling.md",
+    "economy/Wind Energy in india.md",
+    "economy/Gvot initiatives/National Wind Energy Mission.md",
+    "economy/Gvot initiatives/Wind Energy Programme.md",
     "CA/Approved list of models and mfgs(Wind).md",
+    "economy/Free AI vision.md",
     "economy/Indian - Ocean Region.md",
     "CA/India's first commercial EO constellation.md",
     "economy/Indian Space sector.md",
@@ -258,11 +263,6 @@
     "Templates/Current affiars template.md",
     "Envt/J&K and Ladakh.md",
     "Envt/Maharashtra.md",
-    "economy/Gvot initiatives/Green Energy Corridors (GEC).md",
-    "Chambal.md",
-    "Envt/Gujrat.md",
-    "Envt/Haryana.md",
-    "Envt/Uttarakhand.md",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",
