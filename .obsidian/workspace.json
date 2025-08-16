@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/India-singapore.md",
+                "file": "Daily notes/2025-08-16.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "India-singapore"
+              "title": "2025-08-16"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "world trade organi",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,6 +236,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "CA/India-singapore.md",
     "Daily notes/2025-08-16.md",
     "IR/WTO.md",
     "G-7.md",
