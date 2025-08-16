@@ -31,4 +31,23 @@ Ecological:
 3. infra gaps
 	1. in small islands...
 ### Indian Initiatives in the region
-1
+1. Strategic
+	1. SAGAR 2015
+		1. Security and Growth for all in the region
+	2. MAHASAGAR 2025
+		1. extended SAGAR to the whole global south
+2. Indo-pacific policy
+	1. free, open, inclusive and rules based order
+	2. democratic governance
+3. Maritime security and defence
+	1. joint EEZ patrols, 
+	2. maldives, mauritius and seychelles co-ordinated anti-piracy ops
+	3. Sagarmala 2.0
+	4. Chabahar port(iran)
+	5. sittwe port(myanmar)
+	6. colomobo port west terminal
+4. Multilateral Engagement
+	1. IORA
+	2. IPOI (indo-pacific Oceans initiative)
+	3. BIMSTEC
+	4. Indian Ocean Naval symposium
