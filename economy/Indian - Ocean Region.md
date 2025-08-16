@@ -15,3 +15,20 @@ Economic Importance:
 	
 Ecological: 
 	Warmest of the world’s oceans, thus  ecologically dynamic and biologically productive  space. 
+
+### Challenges
+1. Geopolitical -> China's increasing influence
+	1. BRI
+	2. String of Pearls
+	3. Military base in Djibouti
+	4. relations with Pakistan
+2. maritime security ->
+	1. piracy
+	2. terrorism
+	3. illegal, unreported and unregulated fishing
+	4. smuggling
+	5. drug trafficing
+3. infra gaps
+	1. in small islands...
+### Indian Initiatives in the region
+1

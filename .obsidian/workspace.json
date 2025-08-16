@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "d5ad0bd49c8e2338",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "resources/Ramsar-Sites-in-India.webp"
-              },
-              "icon": "lucide-image",
-              "title": "Ramsar-Sites-in-India"
-            }
-          },
-          {
             "id": "68ef60e24c0b29e7",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
