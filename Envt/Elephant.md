@@ -13,7 +13,7 @@ tags:
 	3. Sri lankan
 6. African elephants > asian elephant(size)
 7. Tusk -> some male asian elephants
-8. Tusk -> both male and female elephants
+8. Tusk -> both male and female african elephants
 9. Asian Elephant -> EN
 10. African Forest elephant -> CR
 11. African Savanna Elephant -> EN
@@ -40,10 +40,10 @@ tags:
 1. by MOEF&CC + WTI(Wildlife Trust of India)
 
 ### Places 
-1. Chattisgarh -
+1. [[Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png|Chattisgarh]] -
 	1. lemru
 	2. badal khol - tamor pingla
-2. Odisha
+2. [[Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png|Odisha]]
 	1. mayurbhanj
 	2. sambalpur
 	3. baitarni
@@ -56,31 +56,31 @@ tags:
 	1. Rayala
 5. UK + UP
 	1. Shivalik
-6. Meghalaya 
+6. [[Meghalaya-National-Parks-and-Wildlife-Sanctuaries-Map-2048x883.png|Meghalaya]] 
 	1. garo
 	2. khasi
-7. Nagaland
+7. [[Nagaland-National-Parks-and-Wildlife-Sanctuaries-Map-2048x1891.png|Nagaland]]
 	1. itanki
-8. Arunachal Pradesh
+8. [[Arunachal-Pradesh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-2048x1009.png|Arunachal Pradesh]]
 	1. [[Brahmaputra|Kameng river]]
 	2. Deo mali
-9. Assam
+9. [[Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png|Assam]]
 	1. Chirang ripu
 	2. Kaziranga-karbi anglong
 	3. Dhansiri - lungding
 	4. Sonitpur
 	5. Dihing patkai
-10. TN
+10. [[National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp]]
 	1. Coimbtore
 	2. Anamalai
 	3. Sriviliputur
 	4. Nilgiri
-11. Kerala
+11. [[Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png|Kerala]]
 	1. Anaimudi
 	2. Periyar
 	3. Nilambur
 	4. Wayanad
-12. Karnataka
+12. [[Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png|Karnataka]]
 	1. bandipur(**Most Elephants**)
 	2. Nagarhole
 	3. Meysore

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Elephant.md",
+                "file": "Envt/Mangroves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Elephant"
+              "title": "Mangroves"
             }
           }
         ],
@@ -234,10 +234,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Geography/Brahmaputra.md",
     "Envt/Elephant.md",
+    "Envt/Mangroves.md",
+    "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
+    "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
+    "Geography/Brahmaputra.md",
     "Daily notes/2025-08-16.md",
     "Geography/Untitled.md",
     "IR/WTO.md",
@@ -262,7 +265,6 @@
     "CA/Narco test.md",
     "CA/Personality rights.md",
     "Polity/Imp cases.md",
-    "Polity/Art 31.md",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
     "resources/Ramsar-Sites-in-India.webp",
@@ -272,9 +274,7 @@
     "resources/Unconfirmed 225799.crdownload",
     "resources/Assam-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map-1536x1063.png",
     "resources/National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-of-Tamil-Nadu.webp",
-    "resources/Karnataka-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "Governance",
-    "resources/West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Unconfirmed 526377.crdownload",
     "resources/Unconfirmed 997834.crdownload",
     "resources/National-Parks-in-India-Map-Updated.pdf",
