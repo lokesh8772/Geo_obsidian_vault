@@ -25,6 +25,7 @@ tags:
 	3. economic co-operation
 	4. resolve border issues
 	5. multipolarity in global governance.
+5. observer status at UN General Assembly
 
 ### india's strategic opportunities within SCO
 1. engaging with central asia and central african republics
@@ -32,6 +33,9 @@ tags:
 3. INSTC
 4. dialogue with china and pakistan
 ### challenges
-1. china's 
+1. china's efforts to transform it into a china led grouping, promote BRI to have regional prominence
+2. expansion(belarus included) -> this expands its acceptance but defeats the initial purpose of confinement to only central asia -> may cause the members to seek other regional forums
+3. lack executive effectiveness
+4. percieved as anti-western grouping
 
 #international-plateform
