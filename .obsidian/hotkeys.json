@@ -123,5 +123,13 @@
       ],
       "key": "V"
     }
+  ],
+  "templater-obsidian:create-Templates/IR template note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
   ]
 }

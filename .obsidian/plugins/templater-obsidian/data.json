@@ -35,7 +35,8 @@
     "Templates/science note template.md",
     "Templates/Current affiars template.md",
     "Templates/Envt note template.md",
-    "Templates/govenance note template.md"
+    "Templates/govenance note template.md",
+    "Templates/IR template note.md"
   ],
   "startup_templates": [
     ""

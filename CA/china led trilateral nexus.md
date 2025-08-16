@@ -4,4 +4,5 @@ tags:
   - IR
 Date:
 ---
-China + Pakistan + Bangladesh -> first ever trilatera
+China + Pakistan + Bangladesh -> first ever trilateral meeting..
+earlier similar  -> China + Pakistan + Afganisatan

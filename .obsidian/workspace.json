@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/art 143.md",
+                "file": "UPSC  GS topics.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "art 143"
+              "title": "UPSC  GS topics"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/china led trilateral nexus.md",
+                "file": "IR/China in south asia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "china led trilateral nexus"
+              "title": "China in south asia"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"SCO",
+                "query": "gs topics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,14 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "SCO.md",
+    "Templates/IR template note.md",
+    "IR/China in south asia.md",
+    "Templates/economy note template.md",
+    "UPSC  GS topics.md",
+    "Polity/art 143.md",
     "CA/china led trilateral nexus.md",
+    "IR",
+    "SCO.md",
     "CA/India refuses to sign joint declaration at SCO.md",
     "CA/Adi Karmayogi Programme.md",
     "ECINET.md",
@@ -257,13 +263,8 @@
     "CA/approval for commenwealth games bid.md",
     "CA/Perpetual tolling.md",
     "Polity/National Green Tribunal.md",
-    "CA/Project Kusha.md",
-    "CA/NASA OCO observatory.md",
-    "CA/Easter Island.md",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
-    "economy/Indian Space sector.md",
-    "CA/India-singapore.md",
     "resources/Ramsar-Sites-in-India.webp",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
@@ -281,7 +282,6 @@
     "resources/Unconfirmed 892766.crdownload",
     "resources/Unconfirmed 557111.crdownload",
     "resources/Unconfirmed 178351.crdownload",
-    "resources/Unconfirmed 334249.crdownload",
     "Untitled.canvas"
   ]
 }
