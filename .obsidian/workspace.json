@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/51st G-7 Summit.md",
+                "file": "G-7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "51st G-7 Summit"
+              "title": "G-7"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gs topics",
+                "query": "g-7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/Israel - US- Iran conflict.md",
     "CA/51st G-7 Summit.md",
+    "G-7.md",
+    "CA/Israel - US- Iran conflict.md",
     "IR/China in south asia.md",
     "IR/lsv.md",
     "Templates/IR template note.md",
@@ -262,7 +263,6 @@
     "CA/Approved list of models and mfgs(Wind).md",
     "economy/Gvot initiatives/Wind Energy Programme.md",
     "economy/Gvot initiatives/National Wind Energy Mission.md",
-    "economy/Wind Energy in india.md",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
     "resources/Ramsar-Sites-in-India.webp",
