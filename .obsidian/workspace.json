@@ -96,8 +96,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "g-7",
-                "matchingCase": false,
+                "query": "world trade organi",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -234,10 +234,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "CA/51st G-7 Summit.md",
+    "BRICS.md",
     "G-7.md",
+    "CA/51st G-7 Summit.md",
     "CA/Israel - US- Iran conflict.md",
     "IR/China in south asia.md",
     "IR/lsv.md",
@@ -262,7 +263,6 @@
     "economy/Free AI vision.md",
     "CA/Approved list of models and mfgs(Wind).md",
     "economy/Gvot initiatives/Wind Energy Programme.md",
-    "economy/Gvot initiatives/National Wind Energy Mission.md",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
     "resources/Ramsar-Sites-in-India.webp",
