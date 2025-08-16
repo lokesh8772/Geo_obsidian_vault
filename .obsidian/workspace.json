@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Perpetual tolling.md",
+                "file": "CA/Project Kusha.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Perpetual tolling"
+              "title": "Project Kusha"
             }
           }
         ],
@@ -236,8 +236,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/approval for commenwealth games bid.md",
+    "Polity/National Green Tribunal.md",
+    "CA/Project Kusha.md",
     "CA/Perpetual tolling.md",
+    "CA/approval for commenwealth games bid.md",
     "economy/Wind Energy in india.md",
     "economy/Gvot initiatives/National Wind Energy Mission.md",
     "economy/Gvot initiatives/Wind Energy Programme.md",
@@ -261,8 +263,6 @@
     "Envt/Madhya Pradesh.md",
     "Templates/Daily notes template.md",
     "Templates/Current affiars template.md",
-    "Envt/J&K and Ladakh.md",
-    "Envt/Maharashtra.md",
     "resources/Punjab-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Kerala-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png",
     "resources/Jammu-and-Kashmir-National-Parks-Wildlife-Sanctuaries-Ramsar-Sites-2048x1548.png",

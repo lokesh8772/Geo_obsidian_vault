@@ -5,5 +5,6 @@ Date:
 ---
 [[Public Accounts Committee]] criticised Perpetual tolling system
 Perpetual tolling
-1. in operation since 2023
+1. started in 2008
 2. collection of toll even after cost recovery of the project
+3. after Build Operate Toll concession ends -> NHAI operated it -> collection goes to CFI
