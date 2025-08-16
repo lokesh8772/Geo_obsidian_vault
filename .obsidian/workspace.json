@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unesco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,7 +234,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "resources/Pasted image 20250816110019.png",
     "CA/Easter Island.md",
