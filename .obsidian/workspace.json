@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G-7.md",
+                "file": "IR/WTO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "G-7"
+              "title": "WTO"
             }
           }
         ],
@@ -234,10 +234,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "BRICS.md",
     "G-7.md",
+    "IR/WTO.md",
+    "IR/WTO.md",
+    "BRICS.md",
     "CA/51st G-7 Summit.md",
     "CA/Israel - US- Iran conflict.md",
     "IR/China in south asia.md",
@@ -261,8 +263,6 @@
     "CA/India's first commercial EO constellation.md",
     "economy/Indian - Ocean Region.md",
     "economy/Free AI vision.md",
-    "CA/Approved list of models and mfgs(Wind).md",
-    "economy/Gvot initiatives/Wind Energy Programme.md",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
     "resources/Ramsar-Sites-in-India.webp",
