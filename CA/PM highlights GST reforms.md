@@ -13,4 +13,8 @@ based on three pillars
 	2. only two slabs (standard and merit)
 	3. using fiscal space created by end of Compensation cess for creating long term sustainability
 3. ease of living
-	1. tech driven registration
+	1. tech driven seamless registration
+	2. pre-filled returns
+	3. faster and automated processing of refund for exporters
+
+[[GST]]

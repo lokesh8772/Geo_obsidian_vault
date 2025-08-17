@@ -26,3 +26,4 @@ se-ease: 2.5
 	3. tax, cess and surcharges that will be merged in the GST
 	4. special rate for specific period of time to raise extra revenue for any natural calamity...
 	5. 
+[[GST]]
