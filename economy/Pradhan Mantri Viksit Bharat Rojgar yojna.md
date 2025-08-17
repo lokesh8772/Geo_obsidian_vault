@@ -13,6 +13,7 @@ tags:
 		3. second -> 1 yr of service
 		4. Payment through Aadhar Bridge Payment system.(ABPS)
 	2. incentive to employers
-		1. 3k/month per employee for retention over 1 yr for 2 yrs
+		1. 3k/month per employee for retention over 6 months for 2 yrs
 		2. in mfg sector -> for 4 yrs
-		3. 
+		3. payment directly to PAN - linked a/cs
+	3. both these incentive -> only for employees < 1 lac/month

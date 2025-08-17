@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Pradhan Mantri Viksit Bharat Rojgar yojna.md",
+                "file": "CA/Aquanauts record dive.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pradhan Mantri Viksit Bharat Rojgar yojna"
+              "title": "Aquanauts record dive"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deep ocean",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,10 +234,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Daily notes/2025-08-16.md",
     "economy/Pradhan Mantri Viksit Bharat Rojgar yojna.md",
+    "CA/Aquanauts record dive.md",
+    "Daily notes/2025-08-16.md",
     "Governance/Pradhan Mantri.md",
     "Geography/Untitled.md",
     "Envt/Mangroves.md",
@@ -264,7 +265,6 @@
     "CA/Adi Karmayogi Programme.md",
     "ECINET.md",
     "economy/Quality Council of india.md",
-    "CA/Narco test.md",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
     "resources/Ramsar-Sites-in-India.webp",
