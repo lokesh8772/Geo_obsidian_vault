@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Aquanauts record dive.md",
+                "file": "economy/Deep Ocean Mission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aquanauts record dive"
+              "title": "Deep Ocean Mission"
             }
           }
         ],
@@ -234,10 +234,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Pradhan Mantri Viksit Bharat Rojgar yojna.md",
+    "economy/Samudrayan Mission.md",
+    "economy/Deep Ocean Mission.md",
     "CA/Aquanauts record dive.md",
+    "economy/Pradhan Mantri Viksit Bharat Rojgar yojna.md",
     "Daily notes/2025-08-16.md",
     "Governance/Pradhan Mantri.md",
     "Geography/Untitled.md",
@@ -263,8 +265,6 @@
     "SCO.md",
     "CA/India refuses to sign joint declaration at SCO.md",
     "CA/Adi Karmayogi Programme.md",
-    "ECINET.md",
-    "economy/Quality Council of india.md",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
     "resources/Ramsar-Sites-in-India.webp",
