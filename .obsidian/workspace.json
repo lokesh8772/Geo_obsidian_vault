@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Alaska.md",
+                "file": "CA/SLINEX-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alaska"
+              "title": "SLINEX-25"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "municipal corporation",
+                "query": "#science",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/Mission Sudarshan Chakra.md",
+    "CA/Maize.md",
+    "CA/SLINEX-25.md",
+    "Science/Electricity.md",
     "CA/Alaska.md",
+    "CA/Mission Sudarshan Chakra.md",
     "CA/Doctors without borders.md",
     "CA/India rejected PCA award.md",
     "CA/NOIDA to be Municipal Corporation.md",
@@ -259,11 +262,8 @@
     "Governance/Pradhan Mantri.md",
     "Geography/Untitled.md",
     "Envt/Mangroves.md",
-    "Envt/Elephant.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
-    "Geography/Brahmaputra.md",
-    "IR/WTO.md",
     "IR",
     "resources/Pasted image 20250816110019.png",
     "Pasted image 20250816110019.png",
