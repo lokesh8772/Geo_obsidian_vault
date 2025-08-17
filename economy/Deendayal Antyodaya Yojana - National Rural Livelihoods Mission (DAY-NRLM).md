@@ -68,3 +68,4 @@ Rural poor households, especially women, mobilized into Self Help Groups (SHGs) 
 - Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
     
 - Pradhan Mantri Awas Yojana - Gramin (PMAY-G)
+- 
