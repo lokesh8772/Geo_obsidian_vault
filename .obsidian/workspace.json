@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/e-Passport.md",
+                "file": "economy/Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "e-Passport"
+              "title": "Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paris A",
+                "query": "livelihood mission",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/India ... IALA.md",
     "economy/e-Passport.md",
+    "economy/Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM).md",
+    "CA/India ... IALA.md",
     "CA/India-Kyrgystan BIT.md",
     "economy/IALA.md",
     "economy/Bilateral Investment Treaty.md",
@@ -264,7 +265,6 @@
     "CA/India rejected PCA award.md",
     "CA/NOIDA to be Municipal Corporation.md",
     "Polity/74th CAA.md",
-    "CA/India's SCR rating improvement.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "IR",
