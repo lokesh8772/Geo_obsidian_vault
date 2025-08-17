@@ -28,7 +28,7 @@ tags:
 4. Agreement on Fisheries 2022 -> deadlock as not received consent from 2/3rd members
 	1. india not a part of agreement , demands
 		1. 25 yrs transition period for developing countries
-		2. common but differentiated responsibilites -> more obligations to prohibit subsidies on members that have historically gave huge subsidies and engaged in large scale industrial fishing
+		2. common but differentiated responsibilites -> more obligations to prohibit subsidies on members that have historically given huge subsidies and engaged in large scale industrial fishing
 ### issues
 1. dispute settlement mechanism -> paralysed due to US opposition to appointment in appallate tribunal since 2016.
 2. EU's carbon border adjustment mechanism -> impact developing countries disproportionately.
