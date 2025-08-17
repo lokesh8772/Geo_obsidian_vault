@@ -20,7 +20,7 @@ tags:
 	2. AI-innovation sandbox for testing
 	3. indigenous Financial AI models
 	4. AI policy for regulatory clarity
-	5. institutional capacity buiding(boards and workforce)
+	5. institutional capacity building(boards and workforce)
 	6. relaxed compliance for low risk AI solutions
 6. Approach to mitigate risks
 	1. Board approved AI policies by regulated entities
