@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/India at ECOSOC.md",
+                "file": "economy/International Organization for Mediation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "India at ECOSOC"
+              "title": "International Organization for Mediation"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#science",
+                "query": "Paris A",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/ECOSOC.md",
+    "economy/USA and Global Alliances.md",
+    "economy/International Organization for Mediation.md",
     "CA/India at ECOSOC.md",
+    "economy/USA & Global Alliance.md",
+    "economy/ECOSOC.md",
     "economy/UNSC.md",
     "CA/UNSC non-permanent members.md",
     "CA/Pakistan in UNSC.md",
@@ -262,9 +265,6 @@
     "economy/Deep Ocean Mission.md",
     "CA/high Powered Demography mission.md",
     "CA/PM highlights GST reforms.md",
-    "Polity/GST council.md",
-    "Daily notes/2025-06-27.md",
-    "Daily notes/2025-06-02.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "IR",
