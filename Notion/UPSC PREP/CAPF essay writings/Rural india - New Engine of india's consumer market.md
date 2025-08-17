@@ -42,3 +42,4 @@ tags:
 2. Private market
 	1. localize marketing and products -> adopt to cultural and language diversity
 	2. Rural micro-Entrepreneurship (HUL's Project Shakti)
+	3. low cost tech as IVR, vernacular AI chatbot or whatsapp commerse.
