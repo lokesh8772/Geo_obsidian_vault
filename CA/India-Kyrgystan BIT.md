@@ -1,6 +1,8 @@
 ---
 tags:
   - Current
+  - IR
+  - economy
 Date:
 ---
 india and kyrgystan [[Bilateral Investment Treaty]]
