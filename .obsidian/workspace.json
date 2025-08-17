@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Pakistan in UNSC.md",
+                "file": "CA/India at ECOSOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pakistan in UNSC"
+              "title": "India at ECOSOC"
             }
           }
         ],
@@ -236,9 +236,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "economy/ECOSOC.md",
+    "CA/India at ECOSOC.md",
+    "economy/UNSC.md",
     "CA/UNSC non-permanent members.md",
     "CA/Pakistan in UNSC.md",
-    "economy/UNSC.md",
     "CA/UNSC reform Proposal.md",
     "economy/ECOWAS.md",
     "resources/Members-of-ECOWAS.png",
@@ -263,8 +265,6 @@
     "Polity/GST council.md",
     "Daily notes/2025-06-27.md",
     "Daily notes/2025-06-02.md",
-    "economy/GST.md",
-    "economy/Pradhan Mantri Viksit Bharat Rojgar yojna.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "IR",
