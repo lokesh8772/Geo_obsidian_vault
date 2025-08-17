@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "livelihood mission",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Notion/UPSC PREP/CAPF essay writings/Blue economy.md",
+    "Mission Shakti.md",
     "Notion/UPSC PREP/CAPF essay writings/Rural india - New Engine of india's consumer market.md",
+    "UPSC  GS topics.md",
+    "Notion/UPSC PREP/CAPF essay writings/Blue economy.md",
     "economy/e-Passport.md",
     "economy/Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM).md",
     "CA/India ... IALA.md",
@@ -263,8 +265,6 @@
     "Science/Electricity.md",
     "CA/Alaska.md",
     "CA/Mission Sudarshan Chakra.md",
-    "CA/Doctors without borders.md",
-    "CA/India rejected PCA award.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "IR",

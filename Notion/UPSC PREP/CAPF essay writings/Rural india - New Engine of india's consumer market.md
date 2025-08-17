@@ -27,4 +27,18 @@ tags:
 	1. Physical connectivity -> market access, supply chains, movement of people and goods,... PM Sadak Yojna
 	2. Digital connectivity -> digital payments, e-commerce.... [[BharatNet Programme]]
 		1. rural internet subscription -> 200% from 2015-2021, urban -> 158%
-5. Financial Inclusion -> 
+5. Financial Inclusion -> UPI , [[Pradhan Mantri Jan Dhan Yojana (PMJDY)]](67% of a/c rural/semi-urban)
+
+### Concerns
+1. Intra-Rural Inequality -> top 5% spending > 6 x poorest household
+2. Infra gaps
+3. Digital divide -> literacy, language divide
+4. climate vulnerablities
+### Way fwd
+1. Govt
+	1. reduce Intra-Rural inequality through targeted investment in Aspirational Districts...
+	2. skilling -> [[PM-KVY]], [[Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM)]]
+	3. Rural infra...
+2. Private market
+	1. localize marketing and products -> adopt to cultural and language diversity
+	2. Rural micro-Entrepreneurship (HUL's Project Shakti)
