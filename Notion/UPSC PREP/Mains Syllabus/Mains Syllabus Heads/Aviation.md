@@ -18,3 +18,13 @@ tags:
 	1. Director General Civil Aviation
 	2. regulatory body, primarily safety issues
 	3. regulation of air transport services from/to/within india,
+	4. civil air regulation, air safety and air worthiness.
+	5. co-ordinates **all Regulatory** functions with International civil Aviation Org.
+2. Airports Economic Regulatory Authority of India
+	1. 2009, statutory body under AERA act 2008
+	2. tariffs for aeronautical services
+	3. other service charges at major airports
+	4. monitor performance standards of major airports
+3. Bureau of Civil Aviation Security
+	1. earlier office under DGCA, now separate department
+	2. 
