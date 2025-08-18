@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-08-17.md",
+                "file": "economy/Open Network for Digital Commerce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-17"
+              "title": "Open Network for Digital Commerce"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PCA",
+                "query": "digital commerce",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.50279235839844
+    "width": 246.50279235839844
   },
   "right": {
     "id": "f2328e271002caac",
@@ -236,8 +236,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/India rejected PCA award.md",
+    "economy/Dark Store.md",
+    "economy/Open Network for Digital Commerce.md",
     "Daily notes/2025-08-17.md",
+    "economy/Gvot initiatives/BharatNet Programme.md",
+    "CA/India rejected PCA award.md",
     "Notion/UPSC PREP/CAPF essay writings/Essay Topics.md",
     "Notion/UPSC PREP/CAPF essay writings/Rural india - New Engine of india's consumer market.md",
     "Mission Shakti.md",
@@ -262,9 +265,6 @@
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
-    "CA/SLINEX-25.md",
-    "CA/Maize.md",
-    "Science/Electricity.md",
     "resources/Chhattisgarh-National-Parks-Tiger-Reserves-and-Wildlife-Sanctuaries-Map.png",
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "IR",
