@@ -28,7 +28,7 @@ tags:
 3. Bureau of Civil Aviation Security
 	1. earlier office under DGCA(1978), now separate department(1987)
 	2. aviation security standards , as per annexure 17 of the **chicago convention** (safegaurding from unlawful inteference) of ICAO
-4. Accident Investigation Bureau
+4. Aircraft Accident Investigation Bureau
 	1. 2012, attached office to Min of Civil Aviation
 	2. immediate and unrestricted access to any evidence without prior permission of any court.
 	3. weight > 2250 Kg or turbo jet -> investigation -> AIB
@@ -37,3 +37,8 @@ tags:
 	1. under chicago convention 1944(convention of international civil aviation)
 	2. UN agency
 	3. 193 member(India included)
+### Challenges
+1. 50% of budget  -> DGCA only, security and investigation capabilities...
+2. Vacancy in DGCA(58%), BCAS(34%), AAIB(17%)
+3. reduced allocation in [[UDAN]] by 32%
+4. dependent on budgetary allocation, no sustainable funding mechanism
