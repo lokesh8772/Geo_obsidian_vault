@@ -27,4 +27,3 @@ tags:
 4. regulatory policies against algo-targetting...
 5. enhanced and healthy collab between local retailers and quick-commerce platforms.
 6. FSSAI -> issued stricter guidelines to quick/E-commerce platforms to ensure safety and quality standards of food items 
-/comm
