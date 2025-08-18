@@ -18,4 +18,3 @@ tags:
 5. Project based financing -> long term bank financing securitizing user fee reciepts . Ex -> toll plaza
 6. long term lease -> lessor grants lesse right to operate the asset for specified time
 7. Asset concession -> mining assets, real estate... -> transfering the right to operate....
-/comm
