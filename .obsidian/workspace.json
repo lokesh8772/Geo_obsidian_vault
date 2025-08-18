@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Open Network for Digital Commerce.md",
+                "file": "economy/Quick Commerce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Open Network for Digital Commerce"
+              "title": "Quick Commerce"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Dark Store.md",
     "economy/Open Network for Digital Commerce.md",
+    "economy/Quick Commerce.md",
+    "economy/Dark Store.md",
     "Daily notes/2025-08-17.md",
     "economy/Gvot initiatives/BharatNet Programme.md",
     "CA/India rejected PCA award.md",
@@ -261,7 +262,6 @@
     "CA/UNSC non-permanent members.md",
     "CA/Pakistan in UNSC.md",
     "CA/UNSC reform Proposal.md",
-    "economy/ECOWAS.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
