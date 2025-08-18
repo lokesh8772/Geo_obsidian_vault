@@ -13,4 +13,9 @@ tags:
 ## Types 
 1. Toll-Operate-Transfer
 2. Design-Build-Finance-Operate-Transfer
-3. InvIt
+3. InvITs -> Infrastructure investment funds -> **Pooled Invertment vehicles** An infra is securitized -> units of ownership -> retail buyers -> regular income like dividents, / asset valuation benefits...
+4. ReiTs -> Real Estate Investment Funds -> like InvITs but in real estate
+5. Project based financing -> long term bank financing securitizing user fee reciepts . Ex -> toll plaza
+6. long term lease -> lessor grants lesse right to operate the asset for specified time
+7. Asset concession -> mining assets, real estate... -> transfering the right to operate....
+/comm
