@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/FDI.md",
+                "file": "CA/Net FDI decrease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FDI"
+              "title": "Net FDI decrease"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "UPSC  GS topics.md",
     "economy/FDI.md",
+    "CA/Net FDI decrease.md",
+    "UPSC  GS topics.md",
     "economy/Asset Monitization.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Aviation.md",
     "economy/Quick Commerce.md",
@@ -261,7 +262,6 @@
     "CA/India at ECOSOC.md",
     "economy/USA & Global Alliance.md",
     "economy/ECOSOC.md",
-    "economy/UNSC.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
