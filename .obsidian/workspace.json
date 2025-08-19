@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Parliamentary committee report on Water management.md",
+                "file": "CA/Brain-Computer Interface.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Parliamentary committee report on Water management"
+              "title": "Brain-Computer Interface"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/FDI.md",
     "CA/Parliamentary committee report on Water management.md",
+    "CA/Brain-Computer Interface.md",
+    "economy/FDI.md",
     "CA/Net FDI decrease.md",
     "UPSC  GS topics.md",
     "economy/Asset Monitization.md",
@@ -261,7 +262,6 @@
     "economy/International Organization for Mediation.md",
     "economy/USA and Global Alliances.md",
     "CA/India at ECOSOC.md",
-    "economy/USA & Global Alliance.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
