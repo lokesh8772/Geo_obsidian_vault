@@ -24,4 +24,10 @@ Foreign Direct Investment
 	3. activities not open to pvt sector
 		1. Atomic energy
 		2. Railway operation
-6. 
+6. 90% of FDI in india is now by automatic route
+7. singapore (30%) > mauritius(17%) > USA(11%)
+8. service(19%) > computer software hardware(16%) > Trading(8%)
+### significance of FDI
+1. india -> sustainable capital, -> projected CAPEX rise 25% in 2024($110 billion)(UNCTAD World investment report 2025)
+2. india's forex reserve(may 2025) -> 11 months of import + 96% of external debt(RBI)
+3. india -> largest carbon credit issuer in verra registry(UNCTAD's WIR,2025)

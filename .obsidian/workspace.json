@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Net FDI decrease.md",
+                "file": "economy/FDI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Net FDI decrease"
+              "title": "FDI"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/FDI.md",
     "CA/Net FDI decrease.md",
+    "economy/FDI.md",
     "UPSC  GS topics.md",
     "economy/Asset Monitization.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Aviation.md",
