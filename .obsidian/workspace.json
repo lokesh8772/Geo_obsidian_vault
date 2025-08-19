@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Sustainable Aviation fuel.md",
+                "file": "economy/ARC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sustainable Aviation fuel"
+              "title": "ARC"
             }
           }
         ],
@@ -236,8 +236,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Geography/Atlantic Meridional Oceanic Circulation.md",
+    "CA/Mount Albrus.md",
+    "economy/ARC.md",
     "Envt/Sustainable Aviation fuel.md",
+    "Geography/Atlantic Meridional Oceanic Circulation.md",
     "Envt/Ethanol blended Petrol.md",
     "CA/Plastic treaty talk - no deal.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Pollution.md",
@@ -260,8 +262,6 @@
     "Mission Shakti.md",
     "Notion/UPSC PREP/CAPF essay writings/Blue economy.md",
     "economy/e-Passport.md",
-    "economy/Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM).md",
-    "CA/India ... IALA.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",

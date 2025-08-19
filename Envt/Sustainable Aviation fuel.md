@@ -11,4 +11,9 @@ context -> Indian oil's Panipat refinery received Certificate to produce SAF fro
 	3. agri residue
 	4. municipal solid waste
 	5. oil seed plants and energy grasses
-	6. 
+### benefits -
+1. compatibility with SAF blended aviation Fuel
+2. less GHG, more flexibility?
+### concerns - 
+1. high production cost then convention fuel
+2. availability and sustainability of feedstock
