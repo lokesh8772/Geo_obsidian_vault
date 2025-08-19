@@ -12,7 +12,8 @@ tags:
 5. saved 1.4 lakh crore in foreign exchange and reduced GHG
 6. feedstock diversification ->
 	1. 2022-23 -> 0% by maize
-	2. 2025 -> 42% by maize
+	2. 2025 -> 42% by maize(doubtfull...?)
+	3. main source -> sugarcane...
 
 ### Concerns
 1. ethanol can degrade rubber, plastic and metals -> older engines -> Leakages and corrosion
