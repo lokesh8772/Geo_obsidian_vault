@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/POCSO.md",
+                "file": "economy/Technology Development board.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "POCSO"
+              "title": "Technology Development board"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space",
+                "query": "current weekly",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Notion/UPSC PREP/CAPF essay writings/Tech in Water management.md",
+    "Daily notes/2025-06-16.md",
+    "economy/Technology Development board.md",
     "Governance/POCSO.md",
+    "Notion/UPSC PREP/CAPF essay writings/Tech in Water management.md",
     "Governance/RPO.md",
     "Governance/Jan Vishwas Bill.md",
     "economy/FRBM act.md",
@@ -260,8 +262,6 @@
     "CA/Mount Albrus.md",
     "Envt/Sustainable Aviation fuel.md",
     "Envt/Ethanol blended Petrol.md",
-    "CA/Plastic treaty talk - no deal.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Pollution.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
