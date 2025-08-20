@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-08-18.md",
+                "file": "economy/ARC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-18"
+              "title": "ARC"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digital commerce",
+                "query": "ARC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50279235839844,
-    "collapsed": true
+    "width": 246.50279235839844
   },
   "right": {
     "id": "f2328e271002caac",
@@ -237,8 +236,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Daily notes/2025-08-19.md",
     "Daily notes/2025-08-18.md",
+    "Daily notes/2025-08-19.md",
     "Daily notes/2025-08-17.md",
     "Daily notes/2025-08-20.md",
     "Geography/Algeria.md",
