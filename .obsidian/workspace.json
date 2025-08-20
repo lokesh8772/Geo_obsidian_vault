@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/ARC.md",
+                "file": "Daily notes/2025-08-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ARC"
+              "title": "2025-08-18"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "economy/ARC.md",
     "Daily notes/2025-08-18.md",
     "Daily notes/2025-08-19.md",
     "Daily notes/2025-08-17.md",
@@ -246,7 +247,6 @@
     "Governance/Operation Sadbhavana.md",
     "CA/consumer redressal at e-jagriti.md",
     "Governance/E-Jagriti.md",
-    "economy/ARC.md",
     "CA/Mount Albrus.md",
     "Envt/Sustainable Aviation fuel.md",
     "Geography/Atlantic Meridional Oceanic Circulation.md",
