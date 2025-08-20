@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/RPO.md",
+                "file": "Governance/POCSO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RPO"
+              "title": "POCSO"
             }
           }
         ],
@@ -236,8 +236,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Jan Vishwas Bill.md",
+    "Notion/UPSC PREP/CAPF essay writings/Tech in Water management.md",
+    "Governance/POCSO.md",
     "Governance/RPO.md",
+    "Governance/Jan Vishwas Bill.md",
     "economy/FRBM act.md",
     "Geography/Untitled.md",
     "CA/CAG report on FRBM act.md",
@@ -260,8 +262,6 @@
     "Envt/Ethanol blended Petrol.md",
     "CA/Plastic treaty talk - no deal.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Pollution.md",
-    "Envt/Plastics.md",
-    "CA/Brain-Computer Interface.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
