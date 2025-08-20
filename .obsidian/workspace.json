@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Jan Vishwas Bill.md",
+                "file": "Governance/RPO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jan Vishwas Bill"
+              "title": "RPO"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/FRBM act.md",
     "Governance/Jan Vishwas Bill.md",
+    "Governance/RPO.md",
+    "economy/FRBM act.md",
     "Geography/Untitled.md",
     "CA/CAG report on FRBM act.md",
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Space.md",
@@ -261,7 +262,6 @@
     "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Pollution.md",
     "Envt/Plastics.md",
     "CA/Brain-Computer Interface.md",
-    "CA/Parliamentary committee report on Water management.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
