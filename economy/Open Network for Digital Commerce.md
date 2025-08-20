@@ -4,6 +4,9 @@ tags:
   - GS3
   - review
 ---
+**not an app or platform but a set of open protocols and standards**
+**connect seller and buyers across different digital platforms like UPI...**
+
 | Feature         | Description                                |
 | --------------- | ------------------------------------------ |
 | Launch Year     | 2021                                       |
