@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/NITI aayog.md",
+                "file": "Polity/GST council.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NITI aayog"
+              "title": "GST council"
             }
           }
         ],
@@ -251,6 +251,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Polity/NITI aayog.md",
     "Governance/E-Jagriti.md",
     "Daily notes/2025-08-20.md",
     "Daily notes/2025-08-21.md",
@@ -278,7 +279,6 @@
     "economy/ARC.md",
     "Daily notes/2025-08-17.md",
     "Geography/Algeria.md",
-    "Science/Self-powerd biosensor.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
