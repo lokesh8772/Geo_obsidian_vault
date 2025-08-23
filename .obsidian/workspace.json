@@ -54,21 +54,9 @@
               "icon": "lucide-file",
               "title": "Adi Karmayogi Programme"
             }
-          },
-          {
-            "id": "3147368f7a7b4cdd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-23 17.29.07.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +237,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
     "IMG_20220413_183945_641 (002).jpg",
