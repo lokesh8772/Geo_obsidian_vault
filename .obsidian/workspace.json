@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/GST.md",
+                "file": "Daily notes/2025-08-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GST"
+              "title": "2025-08-20"
+            }
+          },
+          {
+            "id": "c24416deb4c3facb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50279235839844
+    "width": 246.50279235839844,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -249,8 +260,9 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "c24416deb4c3facb",
   "lastOpenFiles": [
+    "economy/GST.md",
     "Polity/GST council.md",
     "Polity/NITI aayog.md",
     "Governance/E-Jagriti.md",
@@ -278,7 +290,6 @@
     "Daily notes/2025-08-18.md",
     "economy/Open Network for Digital Commerce.md",
     "economy/ARC.md",
-    "Daily notes/2025-08-17.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
