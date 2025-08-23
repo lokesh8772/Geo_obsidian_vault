@@ -100,6 +100,62 @@
       ]
     }
   ],
-  "flowDefinitions": [],
+  "flowDefinitions": [
+    {
+      "id": "cbd24201-6d50-4754-ae53-1320f4f3252b",
+      "name": "OCR and format with template",
+      "description": "OCR and format with template",
+      "url": "https://flows.taskbone.com/cbd24201-6d50-4754-ae53-1320f4f3252b.json",
+      "inputDefinitions": [
+        {
+          "name": "image",
+          "mandatory": true,
+          "description": "The image to process",
+          "type": "binary/base64"
+        },
+        {
+          "name": "template",
+          "type": "string",
+          "mandatory": true,
+          "description": "The template to format the text."
+        }
+      ],
+      "outputDefinitions": [
+        {
+          "name": "output",
+          "description": "The formatted text"
+        }
+      ],
+      "steps": [
+        {
+          "id": "getText",
+          "function": "ocr.getTextForBase64Image",
+          "inputs": {
+            "base64image": "$.input.image"
+          }
+        },
+        {
+          "id": "renderTemplate",
+          "function": "liquid",
+          "inputs": {
+            "template": "$.input.template",
+            "text": "$.getText.text",
+            "imageFileBaseName": "$.input.image/obsidian/fileBaseName",
+            "imageFileExtension": "$.input.image/obsidian/fileExtension",
+            "imageFileParentPath": "$.input.image/obsidian/fileParentPath",
+            "imageFilePath": "$.input.image/obsidian/filePath",
+            "imageMetadata": "$.input.image/obsidian/metadata",
+            "imageVaultName": "$.input.image/obsidian/vaultName",
+            "templateFileBaseName": "$.input.template/obsidian/fileBaseName",
+            "templateFileExtension": "$.input.template/obsidian/fileExtension",
+            "templateFileParentPath": "$.input.template/obsidian/fileParentPath",
+            "templateFilePath": "$.input.image/obsidian/filePath",
+            "templateMetadata": "$.input.template/obsidian/metadata",
+            "templateVaultName": "$.input.template/obsidian/vaultName"
+          }
+        }
+      ]
+    }
+  ],
   "apiKey": "udhXLnahCXgnUsJxvEWGD8sw"
 }
