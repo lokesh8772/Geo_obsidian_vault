@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-08-21.md",
+                "file": "Polity/NITI aayog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-21"
+              "title": "NITI aayog"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "differential",
+                "query": "tag:Governance",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,14 +251,15 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Governance/E-Jagriti.md",
+    "Daily notes/2025-08-20.md",
+    "Daily notes/2025-08-21.md",
     "CA/Adi Karmayogi Programme.md",
     "Polity/73rd CAA.md",
     "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Polity/art 143.md",
     "Excalidraw",
-    "Daily notes/2025-08-20.md",
-    "Daily notes/2025-08-21.md",
     "economy/UNHCR.md",
     "economy/Technology Development board.md",
     "Daily notes/2025-06-16.md",
@@ -278,7 +279,6 @@
     "Daily notes/2025-08-17.md",
     "Geography/Algeria.md",
     "Science/Self-powerd biosensor.md",
-    "CA/Aarogyam Health and Welness center.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
