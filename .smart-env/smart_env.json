@@ -27,7 +27,8 @@
     "show_full_path": false,
     "exclude_blocks_from_source_connections": false,
     "exclude_frontmatter_blocks": true,
-    "expanded_view": false
+    "expanded_view": false,
+    "results_limit": "20"
   },
   "excluded_headings": "",
   "language": "en",
@@ -48,7 +49,10 @@
     "use_tool_calls": true
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "embedding_complete": true,
+      "done_import": true
+    }
   },
   "version": ""
 }

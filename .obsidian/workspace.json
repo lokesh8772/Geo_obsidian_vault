@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Adi Karmayogi Programme.md",
+                "file": "Daily notes/2025-08-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adi Karmayogi Programme"
+              "title": "2025-08-21"
             }
           }
         ],
@@ -211,14 +211,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "62bd693a389895a9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,11 +243,16 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
     }
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "CA/Adi Karmayogi Programme.md",
+    "Polity/73rd CAA.md",
     "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Polity/art 143.md",
@@ -265,7 +279,6 @@
     "Geography/Algeria.md",
     "Science/Self-powerd biosensor.md",
     "CA/Aarogyam Health and Welness center.md",
-    "Governance/Operation Sadbhavana.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
