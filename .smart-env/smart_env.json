@@ -36,7 +36,7 @@
   "re_import_wait_time": 13,
   "smart_chat_threads": {
     "chat_model": {
-      "adapter": "openai",
+      "adapter": "custom",
       "ollama": {
         "model_key": "undefined",
         "host": "http://localhost:11434"
