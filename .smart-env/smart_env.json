@@ -42,7 +42,12 @@
         "host": "http://localhost:11434"
       },
       "custom": {
-        "api_adapter": "openai"
+        "api_adapter": "openai",
+        "id": "\"sonar-medium-chat\"",
+        "protocol": "https",
+        "api_key": "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",
+        "hostname": "https://api.perplexity.ai",
+        "path": "/chat/completions"
       },
       "openai": {
         "model_key": "gpt-5-nano",
