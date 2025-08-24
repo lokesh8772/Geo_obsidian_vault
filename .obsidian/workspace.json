@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/Scheme note creator.md",
+                "file": "economy/Palmyra Trees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scheme note creator"
+              "title": "Palmyra Trees"
             }
           },
           {
@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50279235839844
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -241,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,9 +264,12 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Gvot initiatives/AB-PMJAY.md",
-    "Prompts/Scheme note creator.md",
     "economy/custom on raw cotton.md",
+    "economy/Palmyra Trees.md",
+    "economy/CBIC.md",
+    "Prompts/Scheme note creator.md",
+    "Prompts/dept note creator.md",
+    "economy/Gvot initiatives/AB-PMJAY.md",
     "Prompts",
     "economy/Privatization of defense.md",
     "economy/Technology Development board.md",
@@ -290,9 +293,6 @@
     "Polity/art 143.md",
     "Excalidraw",
     "economy/UNHCR.md",
-    "Daily notes/2025-06-16.md",
-    "Governance/POCSO.md",
-    "UPSC PREP/CAPF essay writings/Tech in Water management.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
