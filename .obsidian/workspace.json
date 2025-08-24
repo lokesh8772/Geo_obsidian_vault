@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/hills glaciers etc/Passes of UK.md",
+                "file": "Envt/Saltwater crocodile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Passes of UK"
+              "title": "Saltwater crocodile"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/hills glaciers etc/Passes of UK.md",
+                "file": "Envt/Saltwater crocodile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Passes of UK"
+              "title": "Backlinks for Saltwater crocodile"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/hills glaciers etc/Passes of UK.md",
+                "file": "Envt/Saltwater crocodile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Passes of UK"
+              "title": "Outgoing links from Saltwater crocodile"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/hills glaciers etc/Passes of UK.md",
+                "file": "Envt/Saltwater crocodile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Passes of UK"
+              "title": "Outline of Saltwater crocodile"
             }
           },
           {
@@ -242,6 +242,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Geography/hills glaciers etc/Passes of UK.md",
+    "Envt/Saltwater crocodile.md",
+    "Governance/Untitled.md",
+    "economy/Untitled.md",
     "Geography/Solar tornado.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Electronics.md",
     "Science/escape velocity.md",
@@ -265,11 +269,7 @@
     "economy/CBIC.md",
     "Prompts/Scheme note creator.md",
     "Prompts/dept note creator.md",
-    "economy/Gvot initiatives/AB-PMJAY.md",
     "Prompts",
-    "economy/Privatization of defense.md",
-    "economy/Technology Development board.md",
-    "Envt/Sustainable Aviation fuel.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
     "resources/Members-of-ECOWAS.png",
