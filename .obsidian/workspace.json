@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "c24416deb4c3facb",
+            "id": "d00725f1e1c8505a",
             "type": "leaf",
             "state": {
               "type": "smart-chat-view",
@@ -260,7 +260,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "c24416deb4c3facb",
+  "active": "d00725f1e1c8505a",
   "lastOpenFiles": [
     "economy/GST.md",
     "Polity/GST council.md",
