@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Bill for ministerial removal on criminal charges.md",
+                "file": "economy/India-EAEU trade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bill for ministerial removal on criminal charges"
+              "title": "India-EAEU trade"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Bill for ministerial removal on criminal charges.md",
+                "file": "economy/India-EAEU trade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bill for ministerial removal on criminal charges"
+              "title": "Backlinks for India-EAEU trade"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polity/Bill for ministerial removal on criminal charges.md",
+                "file": "economy/India-EAEU trade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bill for ministerial removal on criminal charges"
+              "title": "Outgoing links from India-EAEU trade"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polity/Bill for ministerial removal on criminal charges.md",
+                "file": "economy/India-EAEU trade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bill for ministerial removal on criminal charges"
+              "title": "Outline of India-EAEU trade"
             }
           },
           {
@@ -267,8 +267,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Polity/Fundamental Rights.md",
     "Polity/Bill for ministerial removal on criminal charges.md",
+    "economy/India-EAEU trade.md",
+    "Polity/Fundamental Rights.md",
     "Daily notes/2025-06-25.md",
     "Polity/Art 31.md",
     "Daily notes/2025-06-24.md",
@@ -294,7 +295,6 @@
     "Geography/hills glaciers etc/Passes of UK.md",
     "Geography/hills glaciers etc/Passes of HP.md",
     "Daily notes/2025-08-20.md",
-    "UPSC PREP/Mains Syllabus/Essay Evaluation Prompt.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
     "resources/Members-of-ECOWAS.png",
