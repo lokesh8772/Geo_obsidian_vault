@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Canada.md",
+                "file": "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canada"
+              "title": "Defence"
             }
           },
           {
@@ -264,8 +264,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Palmyra Trees.md",
     "Geography/Canada.md",
+    "economy/Palmyra Trees.md",
     "economy/custom on raw cotton.md",
     "economy/CBIC.md",
     "Prompts/Scheme note creator.md",
