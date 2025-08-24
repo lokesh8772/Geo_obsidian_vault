@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Fundamental Rights.md",
+                "file": "Polity/Bill for ministerial removal on criminal charges.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fundamental Rights"
+              "title": "Bill for ministerial removal on criminal charges"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Fundamental Rights.md",
+                "file": "Polity/Bill for ministerial removal on criminal charges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fundamental Rights"
+              "title": "Backlinks for Bill for ministerial removal on criminal charges"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polity/Fundamental Rights.md",
+                "file": "Polity/Bill for ministerial removal on criminal charges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fundamental Rights"
+              "title": "Outgoing links from Bill for ministerial removal on criminal charges"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polity/Fundamental Rights.md",
+                "file": "Polity/Bill for ministerial removal on criminal charges.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fundamental Rights"
+              "title": "Outline of Bill for ministerial removal on criminal charges"
             }
           },
           {
@@ -267,8 +267,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Daily notes/2025-06-25.md",
     "Polity/Fundamental Rights.md",
+    "Polity/Bill for ministerial removal on criminal charges.md",
+    "Daily notes/2025-06-25.md",
     "Polity/Art 31.md",
     "Daily notes/2025-06-24.md",
     "Polity/parts of constitution.md",
@@ -294,7 +295,6 @@
     "Geography/hills glaciers etc/Passes of HP.md",
     "Daily notes/2025-08-20.md",
     "UPSC PREP/Mains Syllabus/Essay Evaluation Prompt.md",
-    "economy/GST.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
     "resources/Members-of-ECOWAS.png",
