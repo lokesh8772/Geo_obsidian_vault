@@ -64,6 +64,54 @@
               "icon": "smart-chat",
               "title": "Smart Chat"
             }
+          },
+          {
+            "id": "3cad002cf5a9229a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-08-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-24"
+            }
+          },
+          {
+            "id": "b7d1c84572011be3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-08-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-21"
+            }
           }
         ],
         "currentTab": 2
@@ -147,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Governance/iDEX.md",
+                "file": "Daily notes/2025-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for iDEX"
+              "title": "Backlinks for 2025-08-21"
             }
           },
           {
@@ -166,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Governance/iDEX.md",
+                "file": "Daily notes/2025-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from iDEX"
+              "title": "Outgoing links from 2025-08-21"
             }
           },
           {
@@ -195,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Governance/iDEX.md",
+                "file": "Daily notes/2025-08-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of iDEX"
+              "title": "Outline of 2025-08-21"
             }
           },
           {
@@ -252,6 +300,8 @@
   },
   "active": "264be41c03629b43",
   "lastOpenFiles": [
+    "Daily notes/2025-08-24.md",
+    "Governance/iDEX.md",
     "Technology Development Fund (TDF) Scheme.md",
     "Defence India Start-up Challenge (DISC).md",
     "Atal Innovation Mission (AIM).md",
@@ -259,7 +309,6 @@
     "CA/consumer redressal at e-jagriti.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
     "Governance/ADITI.md",
-    "Governance/iDEX.md",
     "CA/India's first commercial EO constellation.md",
     "Prompts/Scheme note creator.md",
     "misc/Defence Porture of india.md",
@@ -281,7 +330,6 @@
     "Science/escape velocity.md",
     "Polity/Online Gaming Bill 2025.md",
     "Polity/Art 117.md",
-    "economy/India-EAEU trade.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
