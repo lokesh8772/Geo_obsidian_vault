@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Vietnam.md",
+                "file": "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vietnam"
+              "title": "Defence"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "syngas",
+                "query": "defence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Vietnam.md",
+                "file": "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vietnam"
+              "title": "Backlinks for Defence"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Vietnam.md",
+                "file": "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vietnam"
+              "title": "Outgoing links from Defence"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Vietnam.md",
+                "file": "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vietnam"
+              "title": "Outline of Defence"
             }
           },
           {
@@ -242,12 +242,12 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Geography/Vietnam.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
     "resources/Screenshot 2025-08-24 170857.png",
     "Geography/Uttarakhand Minority Education Bill.md",
-    "Geography/Vietnam.md",
     "IR/Untitled.md",
     "Science/Coal gasification.md",
     "Envt/Saltwater crocodile.md",
@@ -282,7 +282,6 @@
     "resources/Odisha-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-2048x1562.png",
     "IR",
     "resources/Pasted image 20250816110019.png",
-    "Pasted image 20250816110019.png",
     "resources/Unconfirmed 225799.crdownload",
     "Governance",
     "resources/Unconfirmed 526377.crdownload",
