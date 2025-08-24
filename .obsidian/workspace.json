@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Polity/Art 117.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Online Gaming Bill 2025"
+              "title": "Art 117"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Polity/Art 117.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Online Gaming Bill 2025"
+              "title": "Backlinks for Art 117"
             }
           },
           {
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Polity/Art 117.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Online Gaming Bill 2025"
+              "title": "Outgoing links from Art 117"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Polity/Art 117.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Online Gaming Bill 2025"
+              "title": "Outline of Art 117"
             }
           },
           {
@@ -243,8 +243,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/India-EAEU trade.md",
     "Polity/Online Gaming Bill 2025.md",
+    "Polity/Art 117.md",
+    "economy/India-EAEU trade.md",
     "Polity/Bill for ministerial removal on criminal charges.md",
     "Polity/Fundamental Rights.md",
     "Daily notes/2025-06-25.md",
@@ -270,7 +271,6 @@
     "Polity/additional and acting judges in HC.md",
     "IR/Indo-china Relations.md",
     "Geography/hills glaciers etc/Passes of UK.md",
-    "Geography/hills glaciers etc/Passes of HP.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
     "resources/Members-of-ECOWAS.png",
