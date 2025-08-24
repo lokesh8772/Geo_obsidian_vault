@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/ADITI.md",
+                "file": "Defence India Start-up Challenge (DISC).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ADITI"
+              "title": "Defence India Start-up Challenge (DISC)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pixxel",
+                "query": "atal innovation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Governance/ADITI.md",
+                "file": "Defence India Start-up Challenge (DISC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ADITI"
+              "title": "Backlinks for Defence India Start-up Challenge (DISC)"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Governance/ADITI.md",
+                "file": "Defence India Start-up Challenge (DISC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ADITI"
+              "title": "Outgoing links from Defence India Start-up Challenge (DISC)"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Governance/ADITI.md",
+                "file": "Defence India Start-up Challenge (DISC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ADITI"
+              "title": "Outline of Defence India Start-up Challenge (DISC)"
             }
           },
           {
@@ -242,8 +242,12 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/iDEX.md",
+    "economy/Gvot initiatives/Startup India.md",
+    "Defence India Start-up Challenge (DISC).md",
+    "CA/consumer redressal at e-jagriti.md",
+    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
     "Governance/ADITI.md",
+    "Governance/iDEX.md",
     "CA/India's first commercial EO constellation.md",
     "Prompts/Scheme note creator.md",
     "misc/Defence Porture of india.md",
@@ -268,10 +272,6 @@
     "economy/India-EAEU trade.md",
     "Polity/Bill for ministerial removal on criminal charges.md",
     "Polity/Fundamental Rights.md",
-    "Daily notes/2025-06-25.md",
-    "Polity/Art 31.md",
-    "Daily notes/2025-06-24.md",
-    "Polity/parts of constitution.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
