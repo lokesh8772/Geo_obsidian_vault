@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Sustainable Aviation fuel.md",
+                "file": "Prompts/Scheme note creator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sustainable Aviation fuel"
+              "title": "Scheme note creator"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SAF",
+                "query": "idex",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -264,6 +264,12 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "economy/custom on raw cotton.md",
+    "Prompts/Scheme note creator.md",
+    "Prompts",
+    "economy/Privatization of defense.md",
+    "economy/Technology Development board.md",
+    "Envt/Sustainable Aviation fuel.md",
     "Polity/additional and acting judges in HC.md",
     "IR/Indo-china Relations.md",
     "Geography/hills glaciers etc/Passes of UK.md",
@@ -271,7 +277,6 @@
     "Daily notes/2025-08-20.md",
     "Daily notes/2025-08-24.md",
     "UPSC PREP/Mains Syllabus/Essay Evaluation Prompt.md",
-    "Untitled",
     "economy/GST.md",
     "Polity/GST council.md",
     "Polity/NITI aayog.md",
@@ -284,15 +289,10 @@
     "Polity/art 143.md",
     "Excalidraw",
     "economy/UNHCR.md",
-    "economy/Technology Development board.md",
     "Daily notes/2025-06-16.md",
     "Governance/POCSO.md",
     "UPSC PREP/CAPF essay writings/Tech in Water management.md",
     "Governance/RPO.md",
-    "Governance/Jan Vishwas Bill.md",
-    "economy/FRBM act.md",
-    "Geography/Untitled.md",
-    "CA/CAG report on FRBM act.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",

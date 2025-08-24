@@ -12,7 +12,7 @@ context -> Indian oil's Panipat refinery received Certificate to produce SAF fro
 	4. municipal solid waste
 	5. oil seed plants and energy grasses
 3. can be blended upto 50% with ATF
-4. india mandated 1% blending to fuel 
+4. india mandated 1% blending to fuel sold to international airlines from 2027
 ### benefits -
 1. compatibility with SAF blended aviation Fuel
 2. less GHG, more flexibility?
