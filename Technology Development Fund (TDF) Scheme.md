@@ -32,8 +32,6 @@ tags:
 *   **Procurement Preference:** Successful products are considered under the **(Buy-Indian) IDDM** (Indigenously Designed, Developed and Manufactured) category, giving them preference in procurement.
 
 #### 6. Achievements
-*   As of December 2023, a total of **70 projects** at a cost of ₹291.25 crore have been sanctioned.
-*   **16 defence technologies** have been successfully developed and realized under the scheme.
 *   By July 2024, the number of sanctioned projects grew to **77**, with a commitment of over ₹300 crore, and 27 technologies realized.
 
 #### 7. Related Government Schemes
