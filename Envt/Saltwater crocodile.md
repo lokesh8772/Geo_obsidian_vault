@@ -7,5 +7,7 @@ Saltwater crocodile population has increased in [[West Bengal|Sunderbans Biosphe
 1. largest reptile, largest crocodile
 2. brakish water, deltas, lagoons and lower stretches of rivers
 
-### 
-1. 
+### animal status
+1. IUCN red list -> Least concern
+2. Wildlife(protection) Act 1971 -> Schedule I
+3. CITES -> Appendix I
