@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Saltwater crocodile.md",
+                "file": "Science/Coal gasification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Saltwater crocodile"
+              "title": "Coal gasification"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lipulekh",
+                "query": "syngas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Envt/Saltwater crocodile.md",
+                "file": "Science/Coal gasification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Saltwater crocodile"
+              "title": "Backlinks for Coal gasification"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Envt/Saltwater crocodile.md",
+                "file": "Science/Coal gasification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Saltwater crocodile"
+              "title": "Outgoing links from Coal gasification"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Envt/Saltwater crocodile.md",
+                "file": "Science/Coal gasification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Saltwater crocodile"
+              "title": "Outline of Coal gasification"
             }
           },
           {
@@ -240,10 +240,11 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Geography/hills glaciers etc/Passes of UK.md",
     "Envt/Saltwater crocodile.md",
+    "Science/Coal gasification.md",
+    "Geography/hills glaciers etc/Passes of UK.md",
     "Governance/Untitled.md",
     "economy/Untitled.md",
     "Geography/Solar tornado.md",
@@ -268,7 +269,6 @@
     "economy/custom on raw cotton.md",
     "economy/CBIC.md",
     "Prompts/Scheme note creator.md",
-    "Prompts/dept note creator.md",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",

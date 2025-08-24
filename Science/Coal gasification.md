@@ -1,0 +1,10 @@
+---
+tags:
+  - "#science"
+  - GS3
+  - review
+---
+NITI flagged issue of non-compatibility of most gasification technologies with indian high ash content coal
+1. indian coal -> 30-45% coal, high alumina - silica composition
+2. coal gasification -> coal -> syngas(CO + H2)
+3. 
