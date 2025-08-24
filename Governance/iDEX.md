@@ -4,6 +4,8 @@ tags:
   - GS2
   - review
 ---
+# Innovation for Defence Excellence
+
 ## 1. Launch Date
 
 The iDEX framework was officially launched in **April 2018**. Subsequently, a central sector scheme for iDEX with budgetary support of ₹498.78 crore for five years (2021-22 to 2025-26) was launched in May 2021 to provide financial support to innovators and startups.
@@ -63,7 +65,7 @@ Since its inception, iDEX has achieved several significant milestones:
 
 Several other government initiatives are linked to or complement the objectives of iDEX:
 
-- [[Acing Development of Innovative Technologies with iDEX (ADITI) scheme]]
+- [[ADITI]]
     
 - [[Technology Development Fund (TDF) Scheme]]
     
