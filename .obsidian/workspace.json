@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "d00725f1e1c8505a",
+            "id": "44d2372a5f89092c",
             "type": "leaf",
             "state": {
               "type": "smart-chat-view",
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -254,13 +254,12 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "d00725f1e1c8505a",
+  "active": "4fddd09b5b163472",
   "lastOpenFiles": [
     "economy/GST.md",
     "Polity/GST council.md",
