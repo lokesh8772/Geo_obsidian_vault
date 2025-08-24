@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Solar tornado.md",
+                "file": "Geography/hills glaciers etc/Passes of UK.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Solar tornado"
+              "title": "Passes of UK"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "science",
+                "query": "lipulekh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Solar tornado.md",
+                "file": "Geography/hills glaciers etc/Passes of UK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Solar tornado"
+              "title": "Backlinks for Passes of UK"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Solar tornado.md",
+                "file": "Geography/hills glaciers etc/Passes of UK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Solar tornado"
+              "title": "Outgoing links from Passes of UK"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Solar tornado.md",
+                "file": "Geography/hills glaciers etc/Passes of UK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Solar tornado"
+              "title": "Outline of Passes of UK"
             }
           },
           {
@@ -242,9 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Geography/Solar tornado.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Electronics.md",
     "Science/escape velocity.md",
-    "Geography/Solar tornado.md",
     "Polity/Online Gaming Bill 2025.md",
     "Polity/Art 117.md",
     "economy/India-EAEU trade.md",
