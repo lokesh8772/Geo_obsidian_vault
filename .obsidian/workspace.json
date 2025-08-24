@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Coal gasification.md",
+                "file": "Geography/Vietnam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coal gasification"
+              "title": "Vietnam"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Coal gasification.md",
+                "file": "Geography/Vietnam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coal gasification"
+              "title": "Backlinks for Vietnam"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Coal gasification.md",
+                "file": "Geography/Vietnam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coal gasification"
+              "title": "Outgoing links from Vietnam"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Coal gasification.md",
+                "file": "Geography/Vietnam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Coal gasification"
+              "title": "Outline of Vietnam"
             }
           },
           {
@@ -240,10 +240,13 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/Saltwater crocodile.md",
+    "Geography/Uttarakhand Minority Education Bill.md",
+    "Geography/Vietnam.md",
+    "IR/Untitled.md",
     "Science/Coal gasification.md",
+    "Envt/Saltwater crocodile.md",
     "Geography/hills glaciers etc/Passes of UK.md",
     "Governance/Untitled.md",
     "economy/Untitled.md",
@@ -266,9 +269,6 @@
     "misc",
     "Geography/Canada.md",
     "economy/Palmyra Trees.md",
-    "economy/custom on raw cotton.md",
-    "economy/CBIC.md",
-    "Prompts/Scheme note creator.md",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
