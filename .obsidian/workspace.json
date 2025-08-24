@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Palmyra Trees.md",
+                "file": "Geography/Canada.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Palmyra Trees"
+              "title": "Canada"
             }
           },
           {
@@ -264,8 +264,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/custom on raw cotton.md",
     "economy/Palmyra Trees.md",
+    "Geography/Canada.md",
+    "economy/custom on raw cotton.md",
     "economy/CBIC.md",
     "Prompts/Scheme note creator.md",
     "Prompts/dept note creator.md",
@@ -292,7 +293,6 @@
     "IMG_20220413_183945_641 (002).jpg",
     "Polity/art 143.md",
     "Excalidraw",
-    "economy/UNHCR.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
