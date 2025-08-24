@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Defence Porture of india.md",
+                "file": "Governance/iDEX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Defence Porture of india"
+              "title": "iDEX"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Defence Porture of india.md",
+                "file": "Governance/iDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Defence Porture of india"
+              "title": "Backlinks for iDEX"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Defence Porture of india.md",
+                "file": "Governance/iDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Defence Porture of india"
+              "title": "Outgoing links from iDEX"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Defence Porture of india.md",
+                "file": "Governance/iDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Defence Porture of india"
+              "title": "Outline of iDEX"
             }
           },
           {
@@ -242,8 +242,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
+    "Prompts/Scheme note creator.md",
+    "Governance/iDEX.md",
     "misc/Defence Porture of india.md",
+    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
     "CA/Project Kusha.md",
     "Geography/Vietnam.md",
     "resources/Vietnam.png",
@@ -255,7 +257,7 @@
     "Science/Coal gasification.md",
     "Envt/Saltwater crocodile.md",
     "Geography/hills glaciers etc/Passes of UK.md",
-    "Governance/Untitled.md",
+    "Governance/iDEX.md",
     "economy/Untitled.md",
     "Geography/Solar tornado.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Electronics.md",
@@ -270,8 +272,6 @@
     "Daily notes/2025-06-24.md",
     "Polity/parts of constitution.md",
     "CA/Agni-5.md",
-    "misc/Missiles.md",
-    "Daily notes/2025-08-24.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
