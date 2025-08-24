@@ -238,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +259,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "44d2372a5f89092c",
   "lastOpenFiles": [
     "economy/GST.md",
     "Polity/GST council.md",
