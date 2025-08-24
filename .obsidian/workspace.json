@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atal Innovation Mission (AIM).md",
+                "file": "Technology Development Fund (TDF) Scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atal Innovation Mission (AIM)"
+              "title": "Technology Development Fund (TDF) Scheme"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atal Innovation Mission (AIM).md",
+                "file": "Technology Development Fund (TDF) Scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Atal Innovation Mission (AIM)"
+              "title": "Backlinks for Technology Development Fund (TDF) Scheme"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atal Innovation Mission (AIM).md",
+                "file": "Technology Development Fund (TDF) Scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Atal Innovation Mission (AIM)"
+              "title": "Outgoing links from Technology Development Fund (TDF) Scheme"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atal Innovation Mission (AIM).md",
+                "file": "Technology Development Fund (TDF) Scheme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atal Innovation Mission (AIM)"
+              "title": "Outline of Technology Development Fund (TDF) Scheme"
             }
           },
           {
@@ -243,6 +243,7 @@
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
     "Defence India Start-up Challenge (DISC).md",
+    "Technology Development Fund (TDF) Scheme.md",
     "Atal Innovation Mission (AIM).md",
     "economy/Gvot initiatives/Startup India.md",
     "CA/consumer redressal at e-jagriti.md",
@@ -271,7 +272,6 @@
     "Polity/Online Gaming Bill 2025.md",
     "Polity/Art 117.md",
     "economy/India-EAEU trade.md",
-    "Polity/Bill for ministerial removal on criminal charges.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
