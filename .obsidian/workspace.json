@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Agni-5.md",
+                "file": "Daily notes/2025-06-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agni-5"
+              "title": "2025-06-25"
             }
           },
           {
@@ -120,8 +120,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "idex",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -264,8 +264,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "misc/Missiles.md",
+    "Daily notes/2025-06-24.md",
+    "Polity/parts of constitution.md",
     "CA/Agni-5.md",
+    "misc/Missiles.md",
     "Daily notes/2025-08-24.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
     "misc",
@@ -290,8 +292,6 @@
     "Polity/GST council.md",
     "Polity/NITI aayog.md",
     "Governance/E-Jagriti.md",
-    "Daily notes/2025-08-21.md",
-    "CA/Adi Karmayogi Programme.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
     "resources/Members-of-ECOWAS.png",
