@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "iDEX"
             }
+          },
+          {
+            "id": "264be41c03629b43",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +250,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "264be41c03629b43",
   "lastOpenFiles": [
     "Technology Development Fund (TDF) Scheme.md",
     "Defence India Start-up Challenge (DISC).md",
