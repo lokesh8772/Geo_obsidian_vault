@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Geography/Solar tornado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Online Gaming Bill 2025"
+              "title": "Solar tornado"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amendments",
+                "query": "science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2328e271002caac",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Geography/Solar tornado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Online Gaming Bill 2025"
+              "title": "Backlinks for Solar tornado"
             }
           },
           {
@@ -157,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Geography/Solar tornado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Online Gaming Bill 2025"
+              "title": "Outgoing links from Solar tornado"
             }
           },
           {
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polity/Online Gaming Bill 2025.md",
+                "file": "Geography/Solar tornado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Online Gaming Bill 2025"
+              "title": "Outline of Solar tornado"
             }
           },
           {
@@ -243,8 +242,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Polity/Art 117.md",
+    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Electronics.md",
+    "Science/escape velocity.md",
+    "Geography/Solar tornado.md",
     "Polity/Online Gaming Bill 2025.md",
+    "Polity/Art 117.md",
     "economy/India-EAEU trade.md",
     "Polity/Bill for ministerial removal on criminal charges.md",
     "Polity/Fundamental Rights.md",
@@ -268,9 +270,6 @@
     "economy/Privatization of defense.md",
     "economy/Technology Development board.md",
     "Envt/Sustainable Aviation fuel.md",
-    "Polity/additional and acting judges in HC.md",
-    "IR/Indo-china Relations.md",
-    "Geography/hills glaciers etc/Passes of UK.md",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
     "resources/Members-of-ECOWAS.png",
