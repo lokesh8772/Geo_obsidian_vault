@@ -11,6 +11,8 @@ context -> Indian oil's Panipat refinery received Certificate to produce SAF fro
 	3. agri residue
 	4. municipal solid waste
 	5. oil seed plants and energy grasses
+3. can be blended upto 50% with ATF
+4. india mandated 1% blending to fuel 
 ### benefits -
 1. compatibility with SAF blended aviation Fuel
 2. less GHG, more flexibility?
