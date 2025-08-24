@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2025-08-20"
             }
+          },
+          {
+            "id": "959692fa8c4e69fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPSC PREP/Mains Syllabus/Essay Evaluation Prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Essay Evaluation Prompt"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +92,7 @@
       {
         "id": "79b0d76a3ca08060",
         "type": "tabs",
-        "dimension": 38.31615120274915,
+        "dimension": 53.608247422680414,
         "children": [
           {
             "id": "055f521e298448a0",
@@ -88,7 +112,7 @@
       {
         "id": "83927e4081481eb9",
         "type": "tabs",
-        "dimension": 61.68384879725086,
+        "dimension": 46.391752577319586,
         "children": [
           {
             "id": "54510be3bdef0d28",
@@ -96,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Governance",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50279235839844,
-    "collapsed": true
+    "width": 246.50279235839844
   },
   "right": {
     "id": "f2328e271002caac",
@@ -239,13 +262,14 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "959692fa8c4e69fe",
   "lastOpenFiles": [
+    "UPSC PREP/Mains Syllabus/Essay Evaluation Prompt.md",
+    "Daily notes/2025-08-20.md",
     "economy/GST.md",
     "Polity/GST council.md",
     "Polity/NITI aayog.md",
     "Governance/E-Jagriti.md",
-    "Daily notes/2025-08-20.md",
     "Daily notes/2025-08-21.md",
     "CA/Adi Karmayogi Programme.md",
     "Polity/73rd CAA.md",
@@ -257,18 +281,17 @@
     "economy/Technology Development board.md",
     "Daily notes/2025-06-16.md",
     "Governance/POCSO.md",
-    "Notion/UPSC PREP/CAPF essay writings/Tech in Water management.md",
+    "UPSC PREP/CAPF essay writings/Tech in Water management.md",
     "Governance/RPO.md",
     "Governance/Jan Vishwas Bill.md",
     "economy/FRBM act.md",
     "Geography/Untitled.md",
     "CA/CAG report on FRBM act.md",
-    "Notion/UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Space.md",
+    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Space.md",
     "Daily notes/2025-08-19.md",
     "Geography/Atlantic Meridional Oceanic Circulation.md",
     "Daily notes/2025-08-18.md",
     "economy/Open Network for Digital Commerce.md",
-    "economy/ARC.md",
     "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
     "resources/Screenshot 2025-08-17 182127.png",
