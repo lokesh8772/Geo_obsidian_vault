@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "44d2372a5f89092c",
+            "id": "64ccb1bb7758d8c4",
             "type": "leaf",
             "state": {
               "type": "smart-chat-view",
@@ -222,16 +222,6 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "62bd693a389895a9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
           }
         ],
         "currentTab": 5
@@ -259,7 +249,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "44d2372a5f89092c",
+  "active": "64ccb1bb7758d8c4",
   "lastOpenFiles": [
     "economy/GST.md",
     "Polity/GST council.md",

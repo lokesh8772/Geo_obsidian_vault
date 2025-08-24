@@ -43,7 +43,7 @@
       },
       "custom": {
         "api_adapter": "openai",
-        "id": "sonar-small-128k-chat",
+        "id": "sonar",
         "protocol": "https",
         "api_key": "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",
         "hostname": "api.perplexity.ai",
