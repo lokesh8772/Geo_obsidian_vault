@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2328e271002caac",
@@ -161,17 +162,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/SDG.md",
+                "file": "Polity/Fundamental Rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SDG"
+              "title": "Backlinks for Fundamental Rights"
             }
           },
           {
@@ -180,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bhima.md",
+                "file": "Polity/Fundamental Rights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bhima"
+              "title": "Outgoing links from Fundamental Rights"
             }
           },
           {
@@ -195,7 +196,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -207,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gvot initiatives/Stand-Up India.md",
+                "file": "Polity/Fundamental Rights.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stand-Up India"
+              "title": "Outline of Fundamental Rights"
             }
           },
           {
@@ -236,12 +239,12 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
