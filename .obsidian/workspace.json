@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/iDEX.md",
+                "file": "Governance/ADITI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iDEX"
+              "title": "ADITI"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Governance/iDEX.md",
+                "file": "Governance/ADITI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for iDEX"
+              "title": "Backlinks for ADITI"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Governance/iDEX.md",
+                "file": "Governance/ADITI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from iDEX"
+              "title": "Outgoing links from ADITI"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Governance/iDEX.md",
+                "file": "Governance/ADITI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of iDEX"
+              "title": "Outline of ADITI"
             }
           },
           {
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/India's first commercial EO constellation.md",
     "Governance/iDEX.md",
+    "Governance/ADITI.md",
+    "CA/India's first commercial EO constellation.md",
     "Prompts/Scheme note creator.md",
     "misc/Defence Porture of india.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
@@ -271,7 +272,6 @@
     "Polity/Art 31.md",
     "Daily notes/2025-06-24.md",
     "Polity/parts of constitution.md",
-    "CA/Agni-5.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
