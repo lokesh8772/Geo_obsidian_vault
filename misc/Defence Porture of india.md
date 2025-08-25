@@ -18,4 +18,4 @@ PM's five new normals
 1. Defence Acquisition Procedure 2020 -> promote indigenously designed, developed and mfged products.
 2. SRIJAN portal, Positive indigenisation list 
 3. liberalized FDI
-4. iDEX and Technology Development Fund
+4. [[iDEX]] and [[Technology Development Fund (TDF) Scheme]]
