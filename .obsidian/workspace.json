@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/iDEX.md",
-                "mode": "preview",
+                "file": "Daily notes/2025-08-24.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,17 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iDEX"
-            }
-          },
-          {
-            "id": "264be41c03629b43",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "smart-chat",
-              "title": "Smart Chat"
+              "title": "2025-08-24"
             }
           },
           {
@@ -114,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,8 +288,9 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Daily notes/2025-08-25.md",
     "Daily notes/2025-08-24.md",
     "Governance/iDEX.md",
     "Technology Development Fund (TDF) Scheme.md",
@@ -329,7 +320,6 @@
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Electronics.md",
     "Science/escape velocity.md",
     "Polity/Online Gaming Bill 2025.md",
-    "Polity/Art 117.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
