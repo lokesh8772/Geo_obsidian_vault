@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -288,7 +288,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Daily notes/2025-08-25.md",
     "Daily notes/2025-08-24.md",
