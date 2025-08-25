@@ -272,7 +272,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -282,7 +283,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "quiz-generator:Open generator": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -298,7 +298,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "264be41c03629b43",
+  "active": "4fddd09b5b163472",
   "lastOpenFiles": [
     "Daily notes/2025-08-24.md",
     "Governance/iDEX.md",
