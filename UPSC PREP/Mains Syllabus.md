@@ -10,7 +10,7 @@ tags:
 |Name|Relevant CA|Subjects|GS Paper|
 |---|---|---|---|
 |[[Defence]]||Science & Tech|GS 3|
-|[[Space]]||Science & Tech|GS 3|
+|[[UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Space]]||Science & Tech|GS 3|
 |[[Biotechnology]]||Science & Tech|GS 3|
 |[[Nanotechnology]]||Science & Tech|GS 3|
 |[[IT]]||Science & Tech|GS 3|

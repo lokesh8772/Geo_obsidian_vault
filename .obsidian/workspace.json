@@ -37,31 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Development Fund (TDF) Scheme.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Technology Development Fund (TDF) Scheme"
-            }
-          },
-          {
-            "id": "3cad002cf5a9229a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2025-08-24.md",
+                "file": "economy/Indian Space sector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-24"
-            }
-          },
-          {
-            "id": "b7d1c84572011be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2025-08-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-21"
+              "title": "Indian Space sector"
             }
           }
         ],
@@ -144,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spark",
+                "query": "space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -288,14 +240,16 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
     "Daily notes/2025-08-24.md",
+    "economy/Indian Space sector.md",
+    "Technology Development Fund (TDF) Scheme.md",
+    "Space.md",
     "Polity/Fundamental Rights.md",
     "Geography/Chenab.md",
     "Daily notes/2025-08-25.md",
     "Governance/iDEX.md",
-    "Technology Development Fund (TDF) Scheme.md",
     "Defence India Start-up Challenge (DISC).md",
     "Atal Innovation Mission (AIM).md",
     "economy/Gvot initiatives/Startup India.md",
@@ -318,8 +272,6 @@
     "Envt/Saltwater crocodile.md",
     "Geography/hills glaciers etc/Passes of UK.md",
     "economy/Untitled.md",
-    "Geography/Solar tornado.md",
-    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Electronics.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
