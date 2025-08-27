@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR/NATO.md",
+                "file": "Governance/SMILE scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NATO"
+              "title": "SMILE scheme"
             }
           }
         ],
@@ -242,8 +242,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/India-Netherlands.md",
+    "Geography/Dal Lake.md",
+    "Governance/SMILE scheme.md",
     "IR/NATO.md",
+    "IR/India-Netherlands.md",
     "economy/Aadhar based authentication framework for Co-operative banks.md",
     "IR/India-Russia Relations.md",
     "Governance/Misleading Advertisment.md",
@@ -266,8 +268,6 @@
     "CA/India's first commercial EO constellation.md",
     "Prompts/Scheme note creator.md",
     "misc/Defence Porture of india.md",
-    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
-    "CA/Project Kusha.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
