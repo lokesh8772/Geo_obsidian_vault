@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Aadhar based authentication framework for Co-operative banks.md",
+                "file": "IR/NATO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aadhar based authentication framework for Co-operative banks"
+              "title": "NATO"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,8 +242,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/India-Russia Relations.md",
+    "IR/India-Netherlands.md",
+    "IR/NATO.md",
     "economy/Aadhar based authentication framework for Co-operative banks.md",
+    "IR/India-Russia Relations.md",
     "Governance/Misleading Advertisment.md",
     "Geography/PSC on HA Report on cyber crime.md",
     "Geography/Kerala first Digi-litereate state.md",
@@ -266,12 +268,10 @@
     "misc/Defence Porture of india.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Defence.md",
     "CA/Project Kusha.md",
-    "Geography/Vietnam.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
     "resources/Screenshot 2025-08-24 170857.png",
-    "Geography/Uttarakhand Minority Education Bill.md",
     "misc",
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
