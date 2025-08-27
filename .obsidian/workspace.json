@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/SMILE scheme.md",
+                "file": "Envt/International Big Cat Alliance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SMILE scheme"
+              "title": "International Big Cat Alliance"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"big ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,8 +242,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Geography/Dal Lake.md",
+    "CA/Lion Population update.md",
+    "Envt/International Big Cat Alliance.md",
     "Governance/SMILE scheme.md",
+    "Geography/Dal Lake.md",
     "IR/NATO.md",
     "IR/India-Netherlands.md",
     "economy/Aadhar based authentication framework for Co-operative banks.md",
@@ -266,8 +268,6 @@
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
     "Governance/ADITI.md",
     "CA/India's first commercial EO constellation.md",
-    "Prompts/Scheme note creator.md",
-    "misc/Defence Porture of india.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

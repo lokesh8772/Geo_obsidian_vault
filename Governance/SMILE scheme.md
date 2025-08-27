@@ -19,4 +19,5 @@ tags:
 	5. skill development
 	6. economic linkages
 
-## Current
+## Current affairs
+2025-08-27 -> 15-day Enterpreneurship Development Programme.
