@@ -11,7 +11,7 @@ tags:
 1. refers to the data about the replenishment of the resource that is going to be exploited.
 2. ex - Trees regrow before felling..., sand recharge.. for sand mining.. etc
 
-### Deepak Kumar vs State of haryana case
+### Deepak Kumar vs State of haryana case 2012
 SC said unrestricted sand mining causes widespread environmental degradation including..
 1. loss of fish breeding ground, -> biodiversity loss
 2. depletion in ground water levels
@@ -23,5 +23,11 @@ SC said unrestricted sand mining causes widespread environmental degradation inc
 
 ### Legal Framework
 1. Envt Protection Act 1986 -
-2. Deepak Kumar vs State of haryana case SC verdict
-	1. mandated environment clearance for all minor mineral extraction mining project
+2. Deepak Kumar vs State of haryana case 2012 SC verdict
+	1. mandated environment clearance for all minor mineral extraction
+3. EIA(Envt Impact Assessment) Notification 2016
+	1. introduced cluster based assessment
+	2. Replenishment study a key part of DSR
+	3. Sustainable sand mining Management Guidelines 2016 -
+		1. mandates the calculation of Annual Replenishment rate to determine safe, and sustainable mining limits
+4. 
