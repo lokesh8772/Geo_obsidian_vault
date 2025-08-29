@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Prompts/Scheme note creator.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
+                "file": "PM Vishwakarma Yojana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)"
+              "title": "PM Vishwakarma Yojana"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pr",
+                "query": "nidhi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,11 +240,12 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Atal Innovation Mission (AIM).md",
     "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
+    "PM Vishwakarma Yojana.md",
     "Prompts/Scheme note creator.md",
+    "Atal Innovation Mission (AIM).md",
     "Governance/Untitled.md",
     "Prompts/dept note creator.md",
     "UPSC  GS topics.md",
@@ -267,7 +268,6 @@
     "Geography/Lebanon.md",
     "Envt/International Big Cat Alliance.md",
     "CA/Lion Population update.md",
-    "Governance/SMILE scheme.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

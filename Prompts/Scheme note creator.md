@@ -1,21 +1,34 @@
-Create a concise and well-structured note on "scheme-name" with the following headings:
+Create a concise, well-structured markdown note for the government scheme: **`[Scheme Name]`**, suitable for a `.md` file.
 
-1. **Launch Date:** When was the scheme officially launched?
+The note must include the following headings:
+
+- Launch Date
     
-2. **Ministry:** Which ministry or government body administers this scheme?
+- Ministry
     
-3. **Objective:** What is the primary goal or purpose of this scheme?
+- Objective
     
-4. **Key Beneficiaries:** Who are the main target groups or beneficiaries?
+- Key Beneficiaries
     
-5. **Features:** What are the important components, benefits, and operational highlights of the scheme?
+- Features
     
-6. **Achievements:** Key milestones or successes achieved under the scheme so far.
+- Achievements
     
-7. **Related Government Schemes:** List other government schemes linked or relevant to this scheme, with their names enclosed in double square brackets [[]] for easy referencing in Obsidian.
+- Related Government Schemes
     
-8. **Shortcomings/Criticisms:** What are the major criticisms or limitations faced by the scheme?
+- Shortcomings/Criticisms
     
-9. **Way Forward:** Suggestions or plans for improvement, expansion, or future focus areas for the scheme.
+- Way Forward
     
-10. **Recent Updates:** Any latest news, amendments, or developments related to the scheme as of now.
+- Recent Updates
+    
+
+**Formatting Instructions:**
+
+- Under each heading, use only concise, bite-sized key points. Bullet points are preferred.
+    
+- Do not write full, structured sentences.
+    
+- Omit all sources, citations, or links.
+    
+- In the "Related Government Schemes" section, enclose each scheme name in double square brackets, like `[[Scheme Name]]`.
