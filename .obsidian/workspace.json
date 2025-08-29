@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Low productivity of indian livestock.md",
+                "file": "economy/Rashtriya Gokul Mission (RGM).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Low productivity of indian livestock"
+              "title": "Rashtriya Gokul Mission (RGM)"
             }
           }
         ],
@@ -242,11 +242,12 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Lunar Polar Exploration Mission (LUPEX).md",
     "economy/Low productivity of indian livestock.md",
+    "economy/Rashtriya Gokul Mission (RGM).md",
+    "Prompts/Scheme note creator.md",
+    "economy/Lunar Polar Exploration Mission (LUPEX).md",
     "Governance/Untitled.md",
     "economy/Artemis Accords.md",
-    "Prompts/Scheme note creator.md",
     "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
     "economy/Gaganyaan Mission.md",
     "economy/Bharatiya Antariksh Station.md",
@@ -267,7 +268,6 @@
     "CA/SC on Stray dog Matter.md",
     "Governance/Stray Dog Menace.md",
     "economy/Types of Orbits.md",
-    "economy/ISRO's Launch Vehicles.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
