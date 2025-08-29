@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gaganyaan Mission.md",
+                "file": "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gaganyaan Mission"
+              "title": "Indian Lunar Exploration Programme (Chandrayaan)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "antari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,17 +242,19 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Prompts/Scheme note creator.md",
     "economy/Gaganyaan Mission.md",
-    "economy/Bhartiya Antariksh Station.md",
-    "PM Vishwakarma Yojana.md",
-    "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
+    "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
+    "Prompts/Scheme note creator.md",
+    "economy/Bharatiya Antariksh Station.md",
+    "CA/India - Sevice driven to Product driven.md",
     "Atal Innovation Mission (AIM).md",
+    "PM Vishwakarma Yojana.md",
+    "economy/Mars Orbiter Mission (Mangalyaan).md",
+    "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
     "Governance/Untitled.md",
     "Prompts/dept note creator.md",
     "UPSC  GS topics.md",
     "Daily notes/2025-08-29.md",
-    "CA/India - Sevice driven to Product driven.md",
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "CA/AMCA.md",
     "Science/Hyperloop.md",
@@ -266,8 +268,6 @@
     "CA/Lunar Module Launch Vehicle.md",
     "economy/Gvot initiatives/SVANidhi Scheme.md",
     "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
-    "Science/Electro-Magnetic wave.md",
-    "Geography/Lebanon.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
