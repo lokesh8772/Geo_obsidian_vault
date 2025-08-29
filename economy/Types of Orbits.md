@@ -23,6 +23,8 @@ tags:
 - **Altitude:** 35,786 km (geostationary) above the equator
 - **Orbital Period:** 24 hours (matches Earth's rotation)
 - **Features:** Appears stationary over one point, covers one-third of Earth's surface
+- Geo stationary -> 0 inclination , about equator, circular path
+- geo synchronous -> any inclination, elliptical path.
 - **Applications:** Communication satellites, meteorology, weather monitoring, TV broadcasting
 
 ## 4. Polar Orbit

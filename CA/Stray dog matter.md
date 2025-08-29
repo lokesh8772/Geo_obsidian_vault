@@ -9,3 +9,6 @@ SC issued direction in a SUO Motu case
 3. creation of helpline
 4. vaccine availability
 5. legal repurcussions for those obstructing the execution.
+
+### Update
+

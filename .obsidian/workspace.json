@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Types of Orbits.md",
+                "file": "CA/Stray dog matter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Orbits"
+              "title": "Stray dog matter"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#science",
+                "query": "stray ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,8 +242,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/ISRO's Launch Vehicles.md",
+    "Governance/Stray Dog Menace.md",
+    "CA/Stray dog matter.md",
     "economy/Types of Orbits.md",
+    "economy/ISRO's Launch Vehicles.md",
     "CA/Lunar Module Launch Vehicle.md",
     "economy/Gvot initiatives/SVANidhi Scheme.md",
     "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
@@ -266,8 +268,6 @@
     "Space.md",
     "Polity/Fundamental Rights.md",
     "Geography/Chenab.md",
-    "Daily notes/2025-08-25.md",
-    "Governance/iDEX.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
