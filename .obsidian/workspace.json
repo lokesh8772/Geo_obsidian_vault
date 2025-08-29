@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
+                "file": "economy/Lunar Polar Exploration Mission (LUPEX).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Indian Lunar Exploration Programme (Chandrayaan)"
+              "title": "Lunar Polar Exploration Mission (LUPEX)"
             }
           }
         ],
@@ -242,9 +242,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Gaganyaan Mission.md",
-    "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
     "Prompts/Scheme note creator.md",
+    "economy/Lunar Polar Exploration Mission (LUPEX).md",
+    "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
+    "economy/Gaganyaan Mission.md",
     "economy/Bharatiya Antariksh Station.md",
     "CA/India - Sevice driven to Product driven.md",
     "Atal Innovation Mission (AIM).md",
@@ -267,7 +268,6 @@
     "economy/ISRO's Launch Vehicles.md",
     "CA/Lunar Module Launch Vehicle.md",
     "economy/Gvot initiatives/SVANidhi Scheme.md",
-    "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
