@@ -23,7 +23,7 @@ To ensure access to financial services (banking/savings & deposit accounts, remi
 -   **Bank Accounts:**
     -   Zero balance accounts.
     -   Free debit card.
-    -   Overdraft facility (after 6 months of satisfactory operation).
+    -   Overdraft facility(10,000/-) (after 6 months of satisfactory operation).
 -   **Insurance:**
     -   Accidental insurance cover of ₹2 lakh.
 -   **Pension:**
@@ -35,9 +35,9 @@ To ensure access to financial services (banking/savings & deposit accounts, remi
 
 ###   📈   **Achievements / Data**
 
-* Over 46 crore accounts opened (as of October 2024).
+* Over 56 crore accounts opened (as of 2025-08-29).
+* 56% of the accounts -> women
 * Deposit balance: Over ₹1.75 lakh crore (as of October 2024).
-* Percentage of zero-balance accounts reduced significantly (as of [Date]).
 
 ### 🧩 **Linkages / Related Schemes**
 -   [[Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)]]
@@ -45,7 +45,8 @@ To ensure access to financial services (banking/savings & deposit accounts, remi
 -   [[Atal Pension Yojana (APY)]]
 
 ### ⚠️ **Criticism / Challenges / Issues**
--   Account dormancy.
+-   Account dormancy(23% accounts in-operative)
+-   Zero-Balance accounts -> $/equivalent$ 
 -   Effective usage of accounts.
 -   Financial literacy.
 
