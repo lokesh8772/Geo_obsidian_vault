@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/IADWS.md",
+                "file": "Science/James Web Teliscope.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IADWS"
+              "title": "James Web Teliscope"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "untitled",
+                "query": "big cat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,8 +242,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/LASER DEW.md",
+    "Envt/International Big Cat Alliance.md",
+    "Science/James Web Teliscope.md",
+    "IR/India-Myanmar.md",
     "CA/IADWS.md",
+    "CA/LASER DEW.md",
     "Envt/Replenishment data and District Survey Report.md",
     "economy/Rashtriya Gokul Mission (RGM).md",
     "economy/Low productivity of indian livestock.md",
@@ -265,9 +268,6 @@
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "CA/AMCA.md",
     "Science/Hyperloop.md",
-    "CA/Hyperloop in mumbai.md",
-    "Envt/West Bengal.md",
-    "Envt/Andhra Pradesh.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

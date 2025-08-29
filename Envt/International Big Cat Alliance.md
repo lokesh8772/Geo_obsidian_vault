@@ -18,3 +18,4 @@ tags:
 
 ## Current
 2025-08-27 -> India extended Priviledges to IBCA and its officials which are generally available to only UN orgs.
+2025-08-29 -> Nepal joined.
