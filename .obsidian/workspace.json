@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Replenishment data and District Survey Report.md",
+                "file": "CA/LASER DEW.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Replenishment data and District Survey Report"
+              "title": "LASER DEW"
             }
           }
         ],
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Rashtriya Gokul Mission (RGM).md",
     "Envt/Replenishment data and District Survey Report.md",
+    "CA/LASER DEW.md",
+    "economy/Rashtriya Gokul Mission (RGM).md",
     "economy/Low productivity of indian livestock.md",
     "Prompts/Scheme note creator.md",
     "economy/Lunar Polar Exploration Mission (LUPEX).md",
@@ -267,7 +268,6 @@
     "Envt/West Bengal.md",
     "Envt/Andhra Pradesh.md",
     "CA/SC on Stray dog Matter.md",
-    "Governance/Stray Dog Menace.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
