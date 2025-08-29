@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC  GS topics.md",
+                "file": "Prompts/Scheme note creator.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UPSC  GS topics"
+              "title": "Scheme note creator"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
+                "file": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Production Linked Incentive (PLI) Scheme"
+              "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "west bengal",
+                "query": "pr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,7 +242,15 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Atal Innovation Mission (AIM).md",
+    "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
+    "Prompts/Scheme note creator.md",
+    "Governance/Untitled.md",
+    "Prompts/dept note creator.md",
+    "UPSC  GS topics.md",
+    "Daily notes/2025-08-29.md",
     "CA/India - Sevice driven to Product driven.md",
+    "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "CA/AMCA.md",
     "Science/Hyperloop.md",
     "CA/Hyperloop in mumbai.md",
@@ -260,14 +268,6 @@
     "Envt/International Big Cat Alliance.md",
     "CA/Lion Population update.md",
     "Governance/SMILE scheme.md",
-    "Geography/Dal Lake.md",
-    "IR/NATO.md",
-    "IR/India-Netherlands.md",
-    "economy/Aadhar based authentication framework for Co-operative banks.md",
-    "IR/India-Russia Relations.md",
-    "Governance/Misleading Advertisment.md",
-    "Geography/PSC on HA Report on cyber crime.md",
-    "Geography/Kerala first Digi-litereate state.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

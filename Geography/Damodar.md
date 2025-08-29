@@ -7,7 +7,7 @@ tags:
 ---
 - origin - Chotanagpur plateau
 - k/a sorrow of bengal (not [[kosi|sorrow of bihar]])
-- mouth in the [[ganga|Hooghaly river]]
+- mouth in the [[Ganga|Hooghaly river]]
 - major tributary - [[Small Rivers of Eastern Ghats|Barakar]]
 - Damodar Valley Corporation(Multipurpose project)
 - 
