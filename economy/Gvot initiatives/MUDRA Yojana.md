@@ -4,6 +4,11 @@ se-last-reviewed: 2025-07-16T02:47:35
 se-ease: 2.5
 tags:
   - review
+  - GovtSchemes
+  - Finance
+  - Entrepreneurship
+  - MSME
+  - Flagship
 ---
 
 
@@ -27,6 +32,7 @@ To provide financial support to micro and small non-corporate enterprises, espec
   - **Shishu**: up to ₹50,000  
   - **Kishore**: ₹50,001 – ₹5 lakh  
   - **Tarun**: ₹5 lakh – ₹10 lakh  
+  - **Tarun Plus** : ₹10 lakh - ₹20 lakh
 - No collateral required  
 - Loans provided through banks, NBFCs, MFIs  
 - Interest rates as per RBI guidelines  
@@ -48,7 +54,7 @@ To provide financial support to micro and small non-corporate enterprises, espec
 
 ### 🧩 **Linkages / Related Schemes**
 - [[Stand-Up India]]  
-- PMEGP  
+- [[Prime Minister Employment Generation Programme (PMEGP)]]  
 - [[Pradhan Mantri Jan Dhan Yojana (PMJDY)]] (as financial inclusion base)  
 - [[SVANidhi Scheme]] (for urban street vendors)
 
@@ -62,8 +68,3 @@ To provide financial support to micro and small non-corporate enterprises, espec
 - Push for digital inclusion via UPI-linked MUDRA cards  
 - Focus on increasing Kishore and Tarun loan share  
 - Encouragement of green and women-led enterprises in MUDRA 2.0 roadmap (proposed)
-
-### 🔗 **Tags**
-#GovtSchemes #Finance #Entrepreneurship #MSME #Flagship
-
-#review

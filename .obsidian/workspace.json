@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nidhi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,7 +240,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
     "PM Vishwakarma Yojana.md",
