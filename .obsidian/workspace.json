@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Untitled.md",
+                "file": "economy/ISRO's Launch Vehicles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ISRO's Launch Vehicles"
             }
           }
         ],
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "CA/Lunar Module Launch Vehicle.md",
+    "economy/ISRO's Launch Vehicles.md",
     "economy/Gvot initiatives/SVANidhi Scheme.md",
-    "CA/Untitled.md",
     "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Science/Electro-Magnetic wave.md",
     "Geography/Lebanon.md",
@@ -267,7 +268,6 @@
     "Daily notes/2025-08-25.md",
     "Governance/iDEX.md",
     "Defence India Start-up Challenge (DISC).md",
-    "Atal Innovation Mission (AIM).md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
