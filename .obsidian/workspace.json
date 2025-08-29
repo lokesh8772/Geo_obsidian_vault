@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/LASER DEW.md",
+                "file": "CA/IADWS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LASER DEW"
+              "title": "IADWS"
             }
           }
         ],
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/Replenishment data and District Survey Report.md",
     "CA/LASER DEW.md",
+    "CA/IADWS.md",
+    "Envt/Replenishment data and District Survey Report.md",
     "economy/Rashtriya Gokul Mission (RGM).md",
     "economy/Low productivity of indian livestock.md",
     "Prompts/Scheme note creator.md",
@@ -267,7 +268,6 @@
     "CA/Hyperloop in mumbai.md",
     "Envt/West Bengal.md",
     "Envt/Andhra Pradesh.md",
-    "CA/SC on Stray dog Matter.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
