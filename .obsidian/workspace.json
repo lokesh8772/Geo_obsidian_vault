@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PM Vishwakarma Yojana.md",
-                "mode": "preview",
+                "file": "economy/Gaganyaan Mission.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PM Vishwakarma Yojana"
+              "title": "Gaganyaan Mission"
             }
           }
         ],
@@ -240,11 +240,13 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
-    "PM Vishwakarma Yojana.md",
     "Prompts/Scheme note creator.md",
+    "economy/Gaganyaan Mission.md",
+    "economy/Bhartiya Antariksh Station.md",
+    "PM Vishwakarma Yojana.md",
+    "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
     "Atal Innovation Mission (AIM).md",
     "Governance/Untitled.md",
     "Prompts/dept note creator.md",
@@ -266,8 +268,6 @@
     "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Science/Electro-Magnetic wave.md",
     "Geography/Lebanon.md",
-    "Envt/International Big Cat Alliance.md",
-    "CA/Lion Population update.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
