@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Artemis Accords.md",
+                "file": "economy/Lunar Polar Exploration Mission (LUPEX).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Artemis Accords"
+              "title": "Lunar Polar Exploration Mission (LUPEX)"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Prompts/Scheme note creator.md",
     "economy/Artemis Accords.md",
+    "Prompts/Scheme note creator.md",
     "economy/Lunar Polar Exploration Mission (LUPEX).md",
     "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
     "economy/Gaganyaan Mission.md",
