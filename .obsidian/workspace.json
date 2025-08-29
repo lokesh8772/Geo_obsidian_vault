@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/ISRO's Launch Vehicles.md",
+                "file": "economy/Types of Orbits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ISRO's Launch Vehicles"
+              "title": "Types of Orbits"
             }
           }
         ],
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/Lunar Module Launch Vehicle.md",
     "economy/ISRO's Launch Vehicles.md",
+    "economy/Types of Orbits.md",
+    "CA/Lunar Module Launch Vehicle.md",
     "economy/Gvot initiatives/SVANidhi Scheme.md",
     "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Science/Electro-Magnetic wave.md",
@@ -267,7 +268,6 @@
     "Geography/Chenab.md",
     "Daily notes/2025-08-25.md",
     "Governance/iDEX.md",
-    "Defence India Start-up Challenge (DISC).md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
