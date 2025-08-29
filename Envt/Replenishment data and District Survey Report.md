@@ -13,5 +13,15 @@ tags:
 
 ### Deepak Kumar vs State of haryana case
 SC said unrestricted sand mining causes widespread environmental degradation including..
-1. loss of habitat, -> biodiversity loss
-2. depletion in ground water
+1. loss of fish breeding ground, -> biodiversity loss
+2. depletion in ground water levels
+	1. seasonal rivers -> silt hold water ->  recharges ground water.
+	2. river bed lower than ground water levels -> act as drain
+3. riverbank erosion -> habitat loss
+4. increased risks of floods ->  due to unstable riverbed. -> river eating its own flood-plain...
+
+
+### Legal Framework
+1. Envt Protection Act 1986 -
+2. Deepak Kumar vs State of haryana case SC verdict
+	1. mandated environment clearance for all minor mineral extraction mining project
