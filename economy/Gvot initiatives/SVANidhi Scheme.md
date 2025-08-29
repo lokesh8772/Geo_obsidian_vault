@@ -38,13 +38,13 @@ To provide affordable working capital loans to street vendors to resume their li
 ### 📈 **Achievements / Data**
 - Over 82.95 lakh loans disbursed (as of May 6, 2024).
 - Total amount disbursed exceeds ₹10,978 crore.
-- Over 55.79 lakh unique beneficiaries have availed loans.
+- Over 56 lakh unique beneficiaries have availed loans.
 - Significant participation from women vendors.
 - High repayment rate observed for the first loan tranche.
 - Increasing adoption of digital payment methods by vendors.
 
 ### 🧩 **Linkages / Related Schemes**
-- DAY-NULM (Deendayal Antyodaya Yojana-National Urban Livelihoods Mission)
+- [[National Urban Livelihoods Mission (NULM)]]
 - [[Pradhan Mantri Jan Dhan Yojana (PMJDY)]]
 - Schemes promoting digital transactions.
 
@@ -60,6 +60,12 @@ To provide affordable working capital loans to street vendors to resume their li
 - Integration with other government platforms for enhanced reach and efficiency.
 - Emphasis on providing training and skill development to vendors for business growth.
 - Continued efforts to promote digital payments among street vendors through awareness drives and incentives.
+
+| date       | Update                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------ |
+| 2025-08-29 | Scheme extended till 2030,<br>loan amount 10k -> 15k, 20k -> 25k, third loan Max 50k not changed |
+|            |                                                                                                  |
+
 
 ### 🔗 **Tags**
 #GovtSchemes #StreetVendors #FinancialInclusion #UrbanDevelopment #COVIDRelief

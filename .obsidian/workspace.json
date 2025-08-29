@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Lebanon.md",
+                "file": "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lebanon"
+              "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"big ",
+                "query": "Jan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/International Big Cat Alliance.md",
+    "economy/Gvot initiatives/SVANidhi Scheme.md",
     "Geography/Lebanon.md",
+    "Envt/International Big Cat Alliance.md",
     "CA/Lion Population update.md",
     "Governance/SMILE scheme.md",
     "Geography/Dal Lake.md",
@@ -267,7 +268,6 @@
     "economy/Gvot initiatives/Startup India.md",
     "CA/consumer redressal at e-jagriti.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Corporate Social Responsibility.md",
-    "Governance/ADITI.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
