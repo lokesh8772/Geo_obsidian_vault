@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Stray dog matter.md",
+                "file": "Science/Hyperloop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stray dog matter"
+              "title": "Hyperloop"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stray ",
+                "query": "west bengal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,8 +242,12 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "CA/Hyperloop in mumbai.md",
+    "Science/Hyperloop.md",
+    "Envt/West Bengal.md",
+    "Envt/Andhra Pradesh.md",
+    "CA/SC on Stray dog Matter.md",
     "Governance/Stray Dog Menace.md",
-    "CA/Stray dog matter.md",
     "economy/Types of Orbits.md",
     "economy/ISRO's Launch Vehicles.md",
     "CA/Lunar Module Launch Vehicle.md",
@@ -264,10 +268,6 @@
     "Geography/Kerala first Digi-litereate state.md",
     "economy/Indian Space sector.md",
     "Daily notes/2025-08-24.md",
-    "Technology Development Fund (TDF) Scheme.md",
-    "Space.md",
-    "Polity/Fundamental Rights.md",
-    "Geography/Chenab.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

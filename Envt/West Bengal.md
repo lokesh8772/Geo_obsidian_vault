@@ -21,6 +21,7 @@ tags:
 6. Sundarban NP
 	1. Meghna River
 	2. also TR
+	3. #update 2025-08-29 -> area expanded -> now 2nd largest tiger reserve after [[Andhra Pradesh|Nagarjun sagar - shriselam TR]]
 
 [[West-Bengal-National-Parks-Tiger-Reserves-Wildlife-Sanctuaries-Ramsar-Sites-Map.png]]
 ### Ramsar sites
