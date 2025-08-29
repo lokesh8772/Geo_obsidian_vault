@@ -21,8 +21,8 @@ To provide affordable working capital loans to street vendors to resume their li
 - Those who have been vending on or before 24th March 2020.
 
 ### 💰 **Features / Components / Assistance**
-- **First Loan:** Working capital loan up to ₹10,000 for a tenure of one year.
-- **Second Loan:** On timely repayment of the first loan, eligible for a higher loan of up to ₹20,000 with a tenure of 18 months.
+- **First Loan:** Working capital loan up to ₹15,000 for a tenure of one year.
+- **Second Loan:** On timely repayment of the first loan, eligible for a higher loan of up to ₹25,000 with a tenure of 18 months.
 - **Third Loan:** On timely repayment of the second loan, eligible for an even higher loan of up to ₹50,000 with a tenure of 18 months.
 - **Interest Subsidy:** 7% per annum interest subsidy on timely repayment of loans, credited directly to the beneficiary's bank account on a quarterly basis.
 - **Digital Transactions Incentive:** Cashback of up to ₹100 per month for adopting digital payment methods.
@@ -36,10 +36,12 @@ To provide affordable working capital loans to street vendors to resume their li
 - Emphasis on digital payments and financial inclusion.
 
 ### 📈 **Achievements / Data**
-- Over 82.95 lakh loans disbursed (as of May 6, 2024).
+- Over 96 lakh loans disbursed ( 2025-08-29).
 - Total amount disbursed exceeds ₹10,978 crore.
-- Over 56 lakh unique beneficiaries have availed loans.
-- Significant participation from women vendors.
+- Over 68 lakh unique beneficiaries have availed loans.
+- 47 lakh beneficiaries -> digitally active. -> Rs. 241 crore cashback recieved.
+- women beneficiaries(43%)
+- SC/ST beneficiaries -> 22%
 - High repayment rate observed for the first loan tranche.
 - Increasing adoption of digital payment methods by vendors.
 
@@ -61,10 +63,10 @@ To provide affordable working capital loans to street vendors to resume their li
 - Emphasis on providing training and skill development to vendors for business growth.
 - Continued efforts to promote digital payments among street vendors through awareness drives and incentives.
 
-| date       | Update                                                                                           |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| 2025-08-29 | Scheme extended till 2030,<br>loan amount 10k -> 15k, 20k -> 25k, third loan Max 50k not changed |
-|            |                                                                                                  |
+| date       | Update                                                                                                                                              |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-08-29 | Scheme extended till 2030,<br>loan amount 10k -> 15k, 20k -> 25k, third loan Max 50k not changed<br>additional new beneficieries -> 50 lakh(target) |
+|            |                                                                                                                                                     |
 
 
 ### 🔗 **Tags**

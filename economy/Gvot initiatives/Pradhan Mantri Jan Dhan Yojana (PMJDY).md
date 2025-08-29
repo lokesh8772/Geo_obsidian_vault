@@ -46,7 +46,7 @@ To ensure access to financial services (banking/savings & deposit accounts, remi
 
 ### ⚠️ **Criticism / Challenges / Issues**
 -   Account dormancy(23% accounts in-operative)
--   Zero-Balance accounts -> $/equivalent$ 
+-   Zero-Balance accounts -> $\approx 10$ %.
 -   Effective usage of accounts.
 -   Financial literacy.
 
