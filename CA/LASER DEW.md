@@ -18,4 +18,10 @@ Date:
 	2. Project Durga II -
 		1. ambitious development of 100 kW DEW
 	3. Project Surya
-		1. conceptu
+		1. conceptual, long term project
+		2. mega watt class, space based DEW
+		3. anti satellite warfare.
+### benefits
+1. cost effectiveness -> very cheap compared to conventional systems, just a few liters of fuel
+2. swarm drones -> low cost attacks -> can overwhelm air defence systems.. LASER DEW => effective and cost - efficient.
+3. Precision and low collateral damage.
