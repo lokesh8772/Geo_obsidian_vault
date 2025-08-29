@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/AMCA.md",
+                "file": "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AMCA"
+              "title": "Production Linked Incentive (PLI) Scheme"
             }
           }
         ],
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/Hyperloop.md",
+    "CA/India - Sevice driven to Product driven.md",
     "CA/AMCA.md",
+    "Science/Hyperloop.md",
     "CA/Hyperloop in mumbai.md",
     "Envt/West Bengal.md",
     "Envt/Andhra Pradesh.md",
@@ -267,7 +268,6 @@
     "Governance/Misleading Advertisment.md",
     "Geography/PSC on HA Report on cyber crime.md",
     "Geography/Kerala first Digi-litereate state.md",
-    "economy/Indian Space sector.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

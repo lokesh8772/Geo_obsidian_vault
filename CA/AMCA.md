@@ -12,5 +12,5 @@ Advanced Medium Combat Aircraft
 	1. stealth
 	2. twin - engine powered supercruise
 	3. advanced AI avionics
-	4. 
+	4. long range target detection using AESA radars
 	5. 
