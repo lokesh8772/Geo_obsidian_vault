@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-08-29.md",
-                "mode": "preview",
+                "file": "Science/Hyperloop.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-29"
+              "title": "Hyperloop"
             }
           }
         ],
@@ -240,10 +240,11 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "055f521e298448a0",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "Daily notes/2025-08-29.md",
+    "Prompts/Scheme note creator.md",
+    "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "economy/Gvot initiatives/MUDRA Yojana.md",
     "Geography/Volcanic landforms.md",
     "Geography/Volcanoes.md",
@@ -256,7 +257,6 @@
     "Envt/Replenishment data and District Survey Report.md",
     "economy/Rashtriya Gokul Mission (RGM).md",
     "economy/Low productivity of indian livestock.md",
-    "Prompts/Scheme note creator.md",
     "economy/Lunar Polar Exploration Mission (LUPEX).md",
     "Governance/Untitled.md",
     "economy/Artemis Accords.md",
