@@ -54,19 +54,9 @@
               "icon": "lucide-file",
               "title": "2025-08-29"
             }
-          },
-          {
-            "id": "7f4438e76a935299",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "smart-chat",
-              "title": "Smart Chat"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +68,7 @@
       {
         "id": "79b0d76a3ca08060",
         "type": "tabs",
-        "dimension": 53.608247422680414,
+        "dimension": 65.63573883161511,
         "children": [
           {
             "id": "055f521e298448a0",
@@ -98,7 +88,7 @@
       {
         "id": "83927e4081481eb9",
         "type": "tabs",
-        "dimension": 46.391752577319586,
+        "dimension": 34.36426116838488,
         "children": [
           {
             "id": "54510be3bdef0d28",
@@ -250,7 +240,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "7f4438e76a935299",
+  "active": "055f521e298448a0",
   "lastOpenFiles": [
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "Daily notes/2025-08-29.md",
