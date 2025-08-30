@@ -29,7 +29,7 @@ Micro, Small and Medium Enterprises (MSMEs), cottage industries, laborers, middl
 The Atmanirbhar Bharat Abhiyan encompasses a wide range of fiscal and regulatory measures announced in several tranches. Key areas include:
 
 -   **Support for MSMEs:** Collateral-free loans, subordinate debt, equity infusion through Fund of Funds, revised definition of MSMEs, and disallowing global tenders up to ₹200 crore in government procurement.
--   **Support for Poor, Farmers, and Migrant Workers:** Free food grains, portability of ration cards (One Nation One Ration Card), affordable rental housing complexes (ARHCs), PM SVANidhi scheme for street vendors, additional credit through NABARD and Kisan Credit Cards.
+-   **Support for Poor, Farmers, and Migrant Workers:** Free food grains, portability of ration cards (One Nation One Ration Card), affordable rental housing complexes (ARHCs), PM [[SVANidhi Scheme]]  for street vendors, additional credit through NABARD and Kisan Credit Cards.
 -   **Financial Sector Reforms:** Special liquidity schemes for NBFCs/HFCs/MFIs, partial credit guarantee schemes, recapitalization of Public Sector Banks (PSBs).
 -   **Agriculture Reforms:** Facilitating barrier-free inter-state trade of farm commodities, promoting e-trading, and creating a facilitative legal framework for contract farming.
 -   **Industrial Reforms:** [[Production Linked Incentive (PLI) Scheme]]s across various sectors (e.g., mobile manufacturing, pharmaceuticals, auto components), increasing FDI limit in defense manufacturing, corporatization of Ordnance Factory Board, promoting commercial mining of coal.
@@ -43,7 +43,7 @@ Implemented by various ministries and government bodies through specific schemes
 ### 📈 **Achievements / Data** (As of May 2025)
 -   **MSME Support:** Significant disbursal under the Emergency Credit Line Guarantee Scheme (ECLGS) has supported numerous MSMEs. Revised MSME definitions are in effect.
 -   **Food Security:** Implementation of One Nation One Ration Card has improved food access for migrant workers.
--   **Financial Inclusion:** [[PM SVANidhi]] has provided credit to street vendors.
+-   **Financial Inclusion:** [[SVANidhi Scheme]] has provided credit to street vendors.
 -   **Agriculture:** Reforms aimed at creating a more efficient agricultural market are underway.
 -   **Industrial Growth:** PLI schemes have attracted investments and boosted domestic manufacturing in several sectors, including mobile manufacturing and pharmaceuticals.
 -   **Employment:** Atmanirbhar Bharat Rojgar Yojana (ABRY) has incentivized job creation.
