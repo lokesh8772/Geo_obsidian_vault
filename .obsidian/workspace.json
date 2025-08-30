@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Volcanoes.md",
-                "mode": "source",
+                "file": "Geography/Volcanic landforms.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Volcanoes"
+              "title": "Volcanic landforms"
             }
           }
         ],
@@ -242,6 +242,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Geography/Volcanoes.md",
     "Science/James Web Telescope.md",
     "Science/Hubble Telescope.md",
     "Envt/International Big Cat Alliance.md",
@@ -267,7 +268,6 @@
     "UPSC  GS topics.md",
     "Daily notes/2025-08-29.md",
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
-    "CA/AMCA.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
