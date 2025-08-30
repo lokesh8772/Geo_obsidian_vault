@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/James Web Teliscope.md",
+                "file": "Science/James Web Telescope.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "James Web Teliscope"
+              "title": "James Web Telescope"
             }
           }
         ],
@@ -242,8 +242,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Science/Hubble Telescope.md",
+    "Science/James Web Telescope.md",
     "Envt/International Big Cat Alliance.md",
-    "Science/James Web Teliscope.md",
     "IR/India-Myanmar.md",
     "CA/IADWS.md",
     "CA/LASER DEW.md",
@@ -267,7 +268,6 @@
     "Daily notes/2025-08-29.md",
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "CA/AMCA.md",
-    "Science/Hyperloop.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
