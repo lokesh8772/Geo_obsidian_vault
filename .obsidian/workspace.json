@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "2025-08-29"
             }
+          },
+          {
+            "id": "7f4438e76a935299",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +250,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "7f4438e76a935299",
   "lastOpenFiles": [
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "Daily notes/2025-08-29.md",
