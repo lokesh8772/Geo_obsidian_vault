@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/James Web Telescope.md",
+                "file": "Geography/Volcanoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "James Web Telescope"
+              "title": "Volcanoes"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "big cat",
+                "query": "volcano",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,8 +242,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/Hubble Telescope.md",
     "Science/James Web Telescope.md",
+    "Science/Hubble Telescope.md",
     "Envt/International Big Cat Alliance.md",
     "IR/India-Myanmar.md",
     "CA/IADWS.md",
