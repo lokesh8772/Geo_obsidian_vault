@@ -46,10 +46,10 @@ To provide financial support to micro and small non-corporate enterprises, espec
 - Central scheme but executed through financial institutions
 
 ### 📈 **Achievements / Data**
-- Over ₹24.3 lakh crore sanctioned (as of 2023)  
+- Over ₹32 lakh crore sanctioned (as of 2025)  
 - 43 crore+ loans disbursed since inception  
 - Around 68% of beneficiaries are women  
-- Significant share of loans to SC/ST/OBC borrowers  
+- Significant share of loans to SC/ST/OBC borrowers(51% of total accounts)
 - Budget 2023–24: Continued emphasis on funding the unfunded
 
 ### 🧩 **Linkages / Related Schemes**
