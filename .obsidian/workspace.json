@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Hyperloop.md",
+                "file": "Governance/Separate census for PVTGs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hyperloop"
-            }
-          },
-          {
-            "id": "5721e5d63d22c10f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Separate census for PVTGs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volcano",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -249,8 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "UPSC PREP/CAPF essay writings/Women employment.md",
+    "Governance/Separate census for PVTGs.md",
+    "Science/Hyperloop.md",
     "Daily notes/2025-08-29.md",
     "Prompts/Scheme note creator.md",
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
@@ -267,16 +258,13 @@
     "economy/Rashtriya Gokul Mission (RGM).md",
     "economy/Low productivity of indian livestock.md",
     "economy/Lunar Polar Exploration Mission (LUPEX).md",
-    "Governance/Untitled.md",
+    "Governance/Separate census for PVTGs.md",
     "economy/Artemis Accords.md",
     "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
     "economy/Gaganyaan Mission.md",
     "economy/Bharatiya Antariksh Station.md",
     "CA/India - Sevice driven to Product driven.md",
     "Atal Innovation Mission (AIM).md",
-    "PM Vishwakarma Yojana.md",
-    "economy/Mars Orbiter Mission (Mangalyaan).md",
-    "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
