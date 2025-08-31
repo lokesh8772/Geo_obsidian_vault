@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/World Food Program.md",
+                "file": "Science/Rare earth magnets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "World Food Program"
+              "title": "Rare earth magnets"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/Snow leopard.md",
     "Governance/World Food Program.md",
+    "Science/Rare earth magnets.md",
+    "Envt/Snow leopard.md",
     "Geography/Untitled.md",
     "Geography/Tawi River.md",
     "Envt/IUCN.md",
@@ -264,7 +265,6 @@
     "Envt/International Big Cat Alliance.md",
     "IR/India-Myanmar.md",
     "CA/IADWS.md",
-    "CA/LASER DEW.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
