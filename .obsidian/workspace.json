@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-06-02.md",
+                "file": "Geography/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-02"
+              "title": "Untitled"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cites",
+                "query": "iucn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/SC on FR to Free Speech and exp..md",
     "Envt/IUCN.md",
+    "Geography/Untitled.md",
+    "Daily notes/2025-06-02.md",
+    "CA/SC on FR to Free Speech and exp..md",
     "Prompts/Scheme note creator.md",
     "Polity/Fundamental Rights.md",
     "Polity/Community Forest Resource Management Plan.md",
@@ -263,8 +265,6 @@
     "Envt/Replenishment data and District Survey Report.md",
     "economy/Rashtriya Gokul Mission (RGM).md",
     "economy/Low productivity of indian livestock.md",
-    "economy/Lunar Polar Exploration Mission (LUPEX).md",
-    "economy/Artemis Accords.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
