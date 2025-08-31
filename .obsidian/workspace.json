@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/SC on FR to Free Speech and exp..md",
+                "file": "Daily notes/2025-06-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SC on FR to Free Speech and exp."
+              "title": "2025-06-02"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fundamental rights",
+                "query": "cites",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Prompts/Scheme note creator.md",
     "CA/SC on FR to Free Speech and exp..md",
+    "Envt/IUCN.md",
+    "Prompts/Scheme note creator.md",
     "Polity/Fundamental Rights.md",
     "Polity/Community Forest Resource Management Plan.md",
     "Polity/State Capitalism.md",
@@ -264,7 +265,6 @@
     "economy/Low productivity of indian livestock.md",
     "economy/Lunar Polar Exploration Mission (LUPEX).md",
     "economy/Artemis Accords.md",
-    "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
