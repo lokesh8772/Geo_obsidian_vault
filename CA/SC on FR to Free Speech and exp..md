@@ -22,4 +22,4 @@ Date: 2025-08-31
 	1. Regulate online content
 	2. section 69A provides the Govt with power to block access to information
 2. Cinematograph act 1952 
-	1. 
+	1. Prohibits content that criticizes, maligns or slanders a person or group.
