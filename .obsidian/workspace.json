@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/State Capitalism.md",
+                "file": "CA/SC on FR to Free Speech and exp..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "State Capitalism"
+              "title": "SC on FR to Free Speech and exp."
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fundamental rights",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Polity/Registrar General and Census Commissioner of India.md",
+    "Polity/Fundamental Rights.md",
+    "CA/SC on FR to Free Speech and exp..md",
+    "Polity/Community Forest Resource Management Plan.md",
     "Polity/State Capitalism.md",
+    "Polity/Registrar General and Census Commissioner of India.md",
     "Governance/Particularly Vulnerable Tribal Groups.md",
     "UPSC PREP/CAPF essay writings/Women employment.md",
     "Science/Hyperloop.md",
@@ -262,9 +265,6 @@
     "economy/Lunar Polar Exploration Mission (LUPEX).md",
     "economy/Artemis Accords.md",
     "economy/Indian Lunar Exploration Programme (Chandrayaan).md",
-    "economy/Gaganyaan Mission.md",
-    "economy/Bharatiya Antariksh Station.md",
-    "CA/India - Sevice driven to Product driven.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

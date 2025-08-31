@@ -13,4 +13,4 @@ when state intervenes into economic sectors by acquiring ownerships in the compa
 | public welfare -> protect customers from profit maximising private sectors            | inefficiency, corruption, political interfremce |
 |                                                                                       |                                                 |
 2025-08-31
-US to buy 10
+US to buy 10% ownership in Intel.
