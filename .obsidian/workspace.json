@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Comprehensive Modular Survey - Education.md",
+                "file": "Governance/Voluntary National Review Report 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comprehensive Modular Survey - Education"
+              "title": "Voluntary National Review Report 2025"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/Rare earth magnets.md",
     "Governance/Comprehensive Modular Survey - Education.md",
+    "Governance/Voluntary National Review Report 2025.md",
+    "Science/Rare earth magnets.md",
     "Governance/World Food Program.md",
     "Envt/Snow leopard.md",
     "Geography/Untitled.md",
@@ -264,7 +265,6 @@
     "Science/James Web Telescope.md",
     "Science/Hubble Telescope.md",
     "Envt/International Big Cat Alliance.md",
-    "IR/India-Myanmar.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
