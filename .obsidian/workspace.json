@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Project 17A.md",
+                "file": "CA/3GPP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project 17A"
+              "title": "3GPP"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Polity/National Green Tribunal.md",
     "CA/Project 17A.md",
+    "CA/3GPP.md",
+    "Polity/National Green Tribunal.md",
     "CA/USA - tariff on india.md",
     "Science/Energy Storage Systems.md",
     "Daily notes/2025-06-03.md",
@@ -264,7 +265,6 @@
     "Prompts/Scheme note creator.md",
     "Polity/Fundamental Rights.md",
     "Polity/Community Forest Resource Management Plan.md",
-    "Polity/State Capitalism.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
