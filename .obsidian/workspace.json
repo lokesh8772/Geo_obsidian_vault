@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Energy Storage Systems.md",
+                "file": "CA/USA - tariff on india.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Energy Storage Systems"
+              "title": "USA - tariff on india"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FAME",
+                "query": "tariff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Gvot initiatives/FAME India Scheme.md",
     "Science/Energy Storage Systems.md",
+    "CA/USA - tariff on india.md",
+    "Daily notes/2025-06-03.md",
+    "economy/Gvot initiatives/FAME India Scheme.md",
     "Governance/Voluntary National Review Report 2025.md",
     "Governance/Comprehensive Modular Survey - Education.md",
     "Science/Rare earth magnets.md",
@@ -263,8 +265,6 @@
     "Polity/State Capitalism.md",
     "Polity/Registrar General and Census Commissioner of India.md",
     "Governance/Particularly Vulnerable Tribal Groups.md",
-    "UPSC PREP/CAPF essay writings/Women employment.md",
-    "Science/Hyperloop.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
