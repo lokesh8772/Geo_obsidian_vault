@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
+                "file": "CA/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Swachh Bharat Abhiyan"
+              "title": "Untitled"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WHO",
+                "query": "BioE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Governance/BioE3.md",
+    "CA/Untitled.md",
+    "economy/Gvot initiatives/National Bioenergy Programme.md",
+    "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
     "CA/Report on Progress on Household Drinking Water and Sanitation.md",
     "Governance/WHO.md",
     "Daily notes/2025-06-01.md",
@@ -263,10 +267,6 @@
     "Science/Rare earth magnets.md",
     "CA/2025-08-31.md",
     "Daily notes/2025-08-30.md",
-    "Daily notes/2025-08-29.md",
-    "Daily notes/2025-05-31.md",
-    "Daily notes/2025-08-18.md",
-    "Governance/World Food Program.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
