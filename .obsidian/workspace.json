@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/3I ATLAS.md",
+                "file": "Envt/Glanders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3I ATLAS"
+              "title": "Glanders"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/Hierarchical Reasoning Model.md",
     "Science/3I ATLAS.md",
+    "Envt/Glanders.md",
+    "Science/Hierarchical Reasoning Model.md",
     "CA/gangotri glacier.md",
     "economy/Gvot initiatives/MUDRA Yojana.md",
     "economy/Gvot initiatives/National Urban Livelihoods Mission (NULM).md",
@@ -266,7 +267,6 @@
     "CA/Project 17A.md",
     "Polity/National Green Tribunal.md",
     "CA/USA - tariff on india.md",
-    "Science/Energy Storage Systems.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",

@@ -6,4 +6,4 @@ tags:
 ---
 third known object from outside of solar system
 is a comet
-hyperbolic path around sun, not closed p
+hyperbolic path around sun, not closed orbit.
