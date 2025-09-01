@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/USA - tariff on india.md",
+                "file": "Polity/National Green Tribunal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "USA - tariff on india"
+              "title": "National Green Tribunal"
             }
           }
         ],
@@ -68,7 +68,7 @@
       {
         "id": "79b0d76a3ca08060",
         "type": "tabs",
-        "dimension": 65.63573883161511,
+        "dimension": 50.602409638554214,
         "children": [
           {
             "id": "055f521e298448a0",
@@ -88,7 +88,7 @@
       {
         "id": "83927e4081481eb9",
         "type": "tabs",
-        "dimension": 34.36426116838488,
+        "dimension": 49.39759036144578,
         "children": [
           {
             "id": "54510be3bdef0d28",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tariff",
+                "query": "National Green Tribunal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/Energy Storage Systems.md",
     "CA/USA - tariff on india.md",
+    "Science/Energy Storage Systems.md",
     "Daily notes/2025-06-03.md",
     "economy/Gvot initiatives/FAME India Scheme.md",
     "Governance/Voluntary National Review Report 2025.md",
