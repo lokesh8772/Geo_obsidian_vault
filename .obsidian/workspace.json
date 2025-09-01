@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/National Green Tribunal.md",
+                "file": "CA/Project 17A.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Green Tribunal"
+              "title": "Project 17A"
             }
           }
         ],
@@ -239,6 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Polity/National Green Tribunal.md",
+    "CA/Project 17A.md",
     "CA/USA - tariff on india.md",
     "Science/Energy Storage Systems.md",
     "Daily notes/2025-06-03.md",
@@ -263,8 +265,6 @@
     "Polity/Fundamental Rights.md",
     "Polity/Community Forest Resource Management Plan.md",
     "Polity/State Capitalism.md",
-    "Polity/Registrar General and Census Commissioner of India.md",
-    "Governance/Particularly Vulnerable Tribal Groups.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
