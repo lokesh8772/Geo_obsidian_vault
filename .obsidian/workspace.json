@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Joint Doctrines for Armed Forces.md",
+                "file": "economy/ASI 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Joint Doctrines for Armed Forces"
+              "title": "ASI 2025"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/CDS.md",
     "CA/Joint Doctrines for Armed Forces.md",
+    "economy/ASI 2025.md",
+    "CA/CDS.md",
     "Geography/Australia.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
@@ -266,7 +267,6 @@
     "Envt/Snow leopard.md",
     "Geography/Tawi River.md",
     "Envt/IUCN.md",
-    "Daily notes/2025-06-02.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
