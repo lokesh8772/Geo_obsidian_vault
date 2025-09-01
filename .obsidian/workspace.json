@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Energy Storage Systems.md",
+                "file": "economy/Gvot initiatives/FAME India Scheme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Energy Storage Systems"
+              "title": "FAME India Scheme"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FAME",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,10 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Science/Energy Storage Systems.md",
     "Governance/Voluntary National Review Report 2025.md",
     "Governance/Comprehensive Modular Survey - Education.md",
     "Science/Rare earth magnets.md",
-    "Science/Energy Storage Systems.md",
     "CA/2025-08-31.md",
     "Daily notes/2025-08-30.md",
     "Daily notes/2025-06-01.md",
