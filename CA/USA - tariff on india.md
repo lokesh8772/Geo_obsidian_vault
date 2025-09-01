@@ -10,4 +10,7 @@ these tariffs are of pecuniary nature for sustained buying of russian crude oil.
 2. major affected areas -> Low margin, labour intensive sectors like gems-jewellary, textiles, shrimps, auto components.
 3. FDI in export oriented sectors or industries may decline...
 ### way fwd  -> 
-1. 
+1. reinstate Interest Equalisation Scheme to provide MSMEs with low cost export credit in times of high interest rates
+2. Targeted credit lines to most affected sectors like textiles and jem-jewellary...
+3. Export incentive schemes like RODTEP and ROSCTL -> increase liquidity and market diversification
+4. simplified regulatory processes and rationalized duties for cotton, shrimp... etc.
