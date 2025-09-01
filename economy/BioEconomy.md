@@ -14,7 +14,7 @@ key sectors -
 4. BioResearch.
 
 Contribution to india -> 
-1. $10 Billion in 2014 -> $167 Billion in 2024,
+1. $10 Billion in 2014 -> $165 Billion in 2024,
 2. Aim -> $300 Billion by 2030
 3. 4.25% of GDP(India BioEconomic Report 2025)
 4. 
