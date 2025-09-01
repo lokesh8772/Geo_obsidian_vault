@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/FAME India Scheme.md",
-                "mode": "preview",
+                "file": "Science/Energy Storage Systems.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FAME India Scheme"
+              "title": "Energy Storage Systems"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "economy/Gvot initiatives/FAME India Scheme.md",
     "Science/Energy Storage Systems.md",
     "Governance/Voluntary National Review Report 2025.md",
     "Governance/Comprehensive Modular Survey - Education.md",
@@ -264,7 +265,6 @@
     "Governance/Particularly Vulnerable Tribal Groups.md",
     "UPSC PREP/CAPF essay writings/Women employment.md",
     "Science/Hyperloop.md",
-    "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
