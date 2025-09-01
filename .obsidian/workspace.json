@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Voluntary National Review Report 2025.md",
+                "file": "Daily notes/2025-08-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Voluntary National Review Report 2025"
+              "title": "2025-08-31"
             }
           }
         ],
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Comprehensive Modular Survey - Education.md",
+    "Science/Energy Storage Systems.md",
+    "Daily notes/2025-08-31.md",
     "Governance/Voluntary National Review Report 2025.md",
+    "Governance/Comprehensive Modular Survey - Education.md",
     "Science/Rare earth magnets.md",
     "Governance/World Food Program.md",
     "Envt/Snow leopard.md",
@@ -263,8 +265,6 @@
     "Geography/Volcanic landforms.md",
     "Geography/Volcanoes.md",
     "Science/James Web Telescope.md",
-    "Science/Hubble Telescope.md",
-    "Envt/International Big Cat Alliance.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
