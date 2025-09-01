@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Untitled.md",
+                "file": "economy/BioEconomy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "BioEconomy"
             }
           }
         ],
@@ -240,7 +240,8 @@
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
     "Governance/BioE3.md",
-    "CA/Untitled.md",
+    "economy/BioEconomy.md",
+    "CA/1 year of BioE3.md",
     "economy/Gvot initiatives/National Bioenergy Programme.md",
     "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
     "CA/Report on Progress on Household Drinking Water and Sanitation.md",
@@ -266,7 +267,6 @@
     "Governance/Comprehensive Modular Survey - Education.md",
     "Science/Rare earth magnets.md",
     "CA/2025-08-31.md",
-    "Daily notes/2025-08-30.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
