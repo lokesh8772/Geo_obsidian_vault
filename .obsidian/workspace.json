@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Aarogyapacha.md",
+                "file": "Geography/Australia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aarogyapacha"
+              "title": "Australia"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "National Green Tribunal",
+                "query": "Agastyamal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/3GPP.md",
+    "CA/FIDE world cup.md",
+    "Geography/Australia.md",
     "CA/Aarogyapacha.md",
+    "CA/3GPP.md",
     "CA/Project 17A.md",
     "Polity/National Green Tribunal.md",
     "CA/USA - tariff on india.md",
@@ -258,13 +260,11 @@
     "Daily notes/2025-08-18.md",
     "Governance/World Food Program.md",
     "Envt/Snow leopard.md",
-    "Geography/Untitled.md",
+    "Geography/Australia.md",
     "Geography/Tawi River.md",
     "Envt/IUCN.md",
     "Daily notes/2025-06-02.md",
     "CA/SC on FR to Free Speech and exp..md",
-    "Prompts/Scheme note creator.md",
-    "Polity/Fundamental Rights.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
