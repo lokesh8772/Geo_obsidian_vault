@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/ASI 2025.md",
+                "file": "CA/Report on Progress on Household Drinking Water and Sanitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ASI 2025"
+              "title": "Report on Progress on Household Drinking Water and Sanitation"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Agastyamal",
+                "query": "WHO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,10 +237,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "CA/Joint Doctrines for Armed Forces.md",
+    "Governance/UNICEF.md",
+    "CA/Report on Progress on Household Drinking Water and Sanitation.md",
     "economy/ASI 2025.md",
+    "CA/Joint Doctrines for Armed Forces.md",
     "CA/CDS.md",
     "Geography/Australia.md",
     "resources/australia-physical-map.jpg",
@@ -265,8 +267,6 @@
     "Daily notes/2025-08-18.md",
     "Governance/World Food Program.md",
     "Envt/Snow leopard.md",
-    "Geography/Tawi River.md",
-    "Envt/IUCN.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
