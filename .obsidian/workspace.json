@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iucn",
+                "query": "chorabari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +237,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Daily notes/2025-05-31.md",
     "Daily notes/2025-08-18.md",
