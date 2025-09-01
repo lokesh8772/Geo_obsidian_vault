@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chorabari",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,13 +237,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Daily notes/2025-05-31.md",
-    "Daily notes/2025-08-18.md",
-    "CA/2025-08-31.md",
     "Science/Energy Storage Systems.md",
     "Governance/Voluntary National Review Report 2025.md",
+    "CA/2025-08-31.md",
+    "Daily notes/2025-08-30.md",
+    "Daily notes/2025-06-01.md",
+    "Daily notes/2025-08-29.md",
+    "Daily notes/2025-05-31.md",
+    "Daily notes/2025-08-18.md",
     "Governance/Comprehensive Modular Survey - Education.md",
     "Science/Rare earth magnets.md",
     "Governance/World Food Program.md",
@@ -261,10 +264,7 @@
     "Governance/Particularly Vulnerable Tribal Groups.md",
     "UPSC PREP/CAPF essay writings/Women employment.md",
     "Science/Hyperloop.md",
-    "Daily notes/2025-08-29.md",
     "economy/Gvot initiatives/Production Linked Incentive (PLI) Scheme.md",
-    "economy/Gvot initiatives/MUDRA Yojana.md",
-    "Geography/Volcanic landforms.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
