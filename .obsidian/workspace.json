@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unesco",
+                "query": "sols",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,6 +241,7 @@
   "lastOpenFiles": [
     "CA/New UN initiatives on AI governance.md",
     "CA/UNESCO.md",
+    "Geography/solstice.md",
     "Envt/Bypass project approved in Bhagirathi ESZ.md",
     "Envt/Sustainable Development Approaches.md",
     "Daily notes/2025-09-01.md",
@@ -264,7 +265,6 @@
     "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
     "CA/Report on Progress on Household Drinking Water and Sanitation.md",
     "Governance/WHO.md",
-    "Daily notes/2025-06-01.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
