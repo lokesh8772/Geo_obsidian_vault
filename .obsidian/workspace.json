@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/UNESCO.md",
+                "file": "UPSC PREP/CAPF essay writings/Education.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UNESCO"
+              "title": "Education"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sols",
+                "query": "single teacher",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/New UN initiatives on AI governance.md",
     "CA/UNESCO.md",
+    "CA/New UN initiatives on AI governance.md",
     "Geography/solstice.md",
     "Envt/Bypass project approved in Bhagirathi ESZ.md",
     "Envt/Sustainable Development Approaches.md",
