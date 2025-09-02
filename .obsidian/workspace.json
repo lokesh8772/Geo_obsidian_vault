@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/New UN initiatives on AI governance.md",
+                "file": "CA/UNESCO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New UN initiatives on AI governance"
+              "title": "UNESCO"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/UNESCO.md",
     "CA/New UN initiatives on AI governance.md",
+    "CA/UNESCO.md",
     "Envt/Bypass project approved in Bhagirathi ESZ.md",
     "Envt/Sustainable Development Approaches.md",
     "Daily notes/2025-09-01.md",
