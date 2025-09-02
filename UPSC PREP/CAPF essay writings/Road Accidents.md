@@ -19,4 +19,6 @@ Road Accidents in India 2023 Report by Min of Road Transport and Highways
 1. Educational measures -> Road Safety Advocacy Scheme, National Road Safety Month/ week
 2. Engineering Measures -> Road Safety Audits, Accidental spot identification on national highways
 	1. vehicle engineering, airbags, children safety
-3. 
+3. Enforcement measures -> Penalties under motor vehicles(Amendment) Act 2019, Electronic Monitoring
+4. Emergency care -> Ambulance, compensation for victims...
+5. 
