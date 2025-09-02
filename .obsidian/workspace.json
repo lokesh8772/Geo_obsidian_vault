@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Bypass project approved in Bhagirathi ESZ.md",
+                "file": "CA/UNESCO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bypass project approved in Bhagirathi ESZ"
+              "title": "UNESCO"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unesco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/Sustainable Development Approaches.md",
     "Envt/Bypass project approved in Bhagirathi ESZ.md",
+    "CA/UNESCO.md",
+    "Envt/Sustainable Development Approaches.md",
     "Daily notes/2025-09-01.md",
     "economy/Gvot initiatives/National Urban Livelihoods Mission (NULM).md",
     "CA/2025-08-31.md",
@@ -264,7 +265,6 @@
     "Governance/WHO.md",
     "Daily notes/2025-06-01.md",
     "Governance/UNICEF.md",
-    "economy/ASI 2025.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
