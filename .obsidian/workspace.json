@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
+                "file": "economy/Horticulture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)"
+              "title": "Horticulture"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PMJDY",
+                "query": "untitle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "economy/UAE LNG deal.md",
+    "economy/Horticulture.md",
+    "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Envt/Cotton.md",
-    "economy/Untitled.md",
     "Science/LNG.md",
     "Governance/Air Quality Life Index.md",
     "CA/Nukhai Festival.md",
@@ -263,8 +265,6 @@
     "Science/Nuclear energy.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Nuclear tech.md",
     "economy/International Atomic Energy Agency.md",
-    "Envt/Glanders.md",
-    "Science/3I ATLAS.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
