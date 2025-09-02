@@ -8,3 +8,4 @@ Bypass Project in Bhagirathi Eco-Sensitive Zone has been approved by UK govt des
 
 1. Min of defence termed it as Strategically Important
 2. Recent Dharali Flash floods and expert analysis **Stongly** suggest that the construction is prone to slope instability and subsidence with one segment already collapsing during the flood
+[[Sustainable Development Approaches]]
