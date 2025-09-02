@@ -1,7 +1,8 @@
 ---
 tags:
   - Current
-Date:
+  - Education
+date: 2025-09-02
 ---
 Unified District Information System for Education Plus
 # 2025 data highlights
@@ -14,4 +15,10 @@ Unified District Information System for Education Plus
 3. Gross Enrollment ratio -
 	1. Middle -> 90%
 	2. Secondary -> 68%
-4. Zero Enrollment 
+4. Zero Enrollment schools -> 6% decrease
+5. single teacher school -> 38% decrease
+
+6. Girls toilet -> 97%
+7. Ramps with handrails -> 55%
+8. Girls Enrollment -> 48%
+9. Female Teacher -> 54%

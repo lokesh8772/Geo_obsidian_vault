@@ -11,7 +11,7 @@ se-ease: 2.5
 1. NSSO PLFS 2023 -> overall literacy rate - 81%
 2. male - 87%
 3. female - 74%
-4. 93% schools have basic amenitites(UDISE+ 2025)
+4. 93% schools have basic amenitites([[UDISE+]] 2025)
 5. 1 in 40 schools is open sky
 6. 64% have computer facilities (UDISE+ 2025)
 7. 63% - internet connection(UDISE+ 2025)

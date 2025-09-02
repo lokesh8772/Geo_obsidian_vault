@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/UDISE+.md",
+                "file": "CA/Monsoon-Related Extreme Weather Events.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UDISE+"
+              "title": "Monsoon-Related Extreme Weather Events"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "single teacher",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,9 +237,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "UPSC PREP/CAPF essay writings/Education.md",
+    "CA/Monsoon-Related Extreme Weather Events.md",
     "CA/UDISE+.md",
     "CA/UNESCO.md",
     "CA/New UN initiatives on AI governance.md",
@@ -264,7 +265,6 @@
     "economy/BioEconomy.md",
     "Governance/BioE3.md",
     "CA/1 year of BioE3.md",
-    "economy/Gvot initiatives/Swachh Bharat Abhiyan.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
