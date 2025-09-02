@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Nuclear energy.md",
-                "mode": "source",
+                "file": "Daily notes/2025-09-01.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nuclear energy"
+              "title": "2025-09-01"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nuclear",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,8 +237,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "CA/2025-08-31.md",
+    "Daily notes/2025-09-01.md",
+    "Daily notes/2025-08-30.md",
+    "Daily notes/2025-09-02.md",
+    "Science/Nuclear energy.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Nuclear tech.md",
     "economy/International Atomic Energy Agency.md",
     "Envt/Glanders.md",
@@ -260,13 +265,8 @@
     "economy/ASI 2025.md",
     "CA/Joint Doctrines for Armed Forces.md",
     "CA/CDS.md",
-    "Geography/Australia.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
-    "CA/FIDE world cup.md",
-    "CA/Aarogyapacha.md",
-    "CA/3GPP.md",
-    "CA/Project 17A.md",
     "resources/Vietnam.png",
     "resources/V.png",
     "resources/Easter islands.png",
