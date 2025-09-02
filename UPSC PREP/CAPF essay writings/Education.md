@@ -13,9 +13,9 @@ se-ease: 2.5
 3. female - 74%
 4. 90% schools have basic amenitites
 5. 1 in 40 schools is open sky
-6. 57% have functional computers
-7. 54% - internet connection
-8. > 1 lac schools -> single teacher
+6. 64% have computer facilities (UDISE+ 2025)
+7. 63% - internet connection(UDISE+ 2025)
+8. > 1 lac schools -> single teacher 
 9. ASER - 2024
 10. 90% of b/g(14-16) - have smartphone in the household
 11. only 57% use it for educational activity
