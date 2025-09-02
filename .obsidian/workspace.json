@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Untitled.md",
+                "file": "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IIP",
+                "query": "PMJDY",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/LNG.md",
+    "Envt/Cotton.md",
     "economy/Untitled.md",
+    "Science/LNG.md",
     "Governance/Air Quality Life Index.md",
     "CA/Nukhai Festival.md",
     "Daily notes/2025-06-21.md",
@@ -264,7 +265,6 @@
     "economy/International Atomic Energy Agency.md",
     "Envt/Glanders.md",
     "Science/3I ATLAS.md",
-    "Science/Hierarchical Reasoning Model.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
