@@ -20,7 +20,7 @@ se-ease: 2.5
  ### ASER - 2024
 9. 90% of b/g(14-16) - have smartphone in the household
 10. only 57% use it for educational activity
-11. gross enrollment ratio in higher education- 20.8% -> 28%(2011 -> 2021)
+11. gross enrollment ratio in higher education- 20.8% -> 28%(2011 -> 2021)(ES 24-25)
 12. female GER > male GER
 13. 53% habitations - primiary schools
 14. 20% habitations - secondary schools
@@ -38,3 +38,5 @@ se-ease: 2.5
 3. state run scholarship like scooter and laptop distribution to motivate education especially among girls
 4. digitization of study material by NCERT and other boards and major universities.
 5. New Education Policy -> integrated vocational and industrial exposure to the students for application oriented learning
+
+
