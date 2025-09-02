@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Monsoon-Related Extreme Weather Events.md",
+                "file": "UPSC PREP/CAPF essay writings/Road Accidents.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Monsoon-Related Extreme Weather Events"
+              "title": "Road Accidents"
             }
           }
         ],
@@ -237,10 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "UPSC PREP/CAPF essay writings/Education.md",
     "CA/Monsoon-Related Extreme Weather Events.md",
+    "UPSC PREP/CAPF essay writings/Road Accidents.md",
+    "UPSC PREP/CAPF essay writings/Education.md",
     "CA/UDISE+.md",
     "CA/UNESCO.md",
     "CA/New UN initiatives on AI governance.md",
@@ -264,7 +265,6 @@
     "economy/Gvot initiatives/SVANidhi Scheme.md",
     "economy/BioEconomy.md",
     "Governance/BioE3.md",
-    "CA/1 year of BioE3.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
