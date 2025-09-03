@@ -21,4 +21,8 @@ Horticulture -> Cultivation, Production, processing and marketing of Vegetables,
 	3. Co-ordinated Programme on Horticulture Assessment and Management using Geo Informatics (CHAMAN)
 	4. Clean Plant Programme -> for high quality planting material
 5. Future Policy ...
-6. 
+	1. Stronger market linkages
+	2. Processing Facilities
+	3. storage facilities
+	4. Promoting Intercropping(horticulture and non-horticulture crops) -> increased yield
+	5. Agro Research.
