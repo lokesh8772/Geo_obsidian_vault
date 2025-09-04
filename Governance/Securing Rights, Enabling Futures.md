@@ -19,4 +19,4 @@ tags:
 3. Introduce a sunset clause by Prescribing an end date for recognition.
 4. integrate FRA and [[National Rural Livelihood Mission (NRLM)]] for gender sensitive livelihood opportunities
 5. integrate FRA and [[PESA act]]
-6. Strengthen Post-Rights support -> 
+6. Strengthen Post-Rights support -> welfare approach to community empowerment.

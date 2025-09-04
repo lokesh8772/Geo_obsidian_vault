@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Securing Rights, Enabling Futures.md",
+                "file": "Polity/PESA act.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Securing Rights, Enabling Futures"
+              "title": "PESA act"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/India Japan.md",
     "Governance/Securing Rights, Enabling Futures.md",
+    "IR/India Japan.md",
     "UPSC PREP/CAPF essay writings/Road Accidents.md",
     "Daily notes/2025-09-02.md",
     "UPSC PREP/CAPF essay writings/Education.md",
