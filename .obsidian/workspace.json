@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Indian Ocean Naval Symposium.md",
+                "file": "Envt/Conocarpus Plant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Indian Ocean Naval Symposium"
+              "title": "Conocarpus Plant"
             }
           }
         ],
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Purple notice.md",
+    "Governance/State Energy Efficiency Index.md",
+    "Envt/Conocarpus Plant.md",
     "CA/Indian Ocean Naval Symposium.md",
+    "Governance/Purple notice.md",
     "Governance/Securing Rights, Enabling Futures.md",
     "IR/India Japan.md",
     "Polity/Parliamentary committees.md",
@@ -263,8 +265,6 @@
     "Envt/Glanders.md",
     "economy/Horticulture.md",
     "economy/UAE LNG deal.md",
-    "economy/International Atomic Energy Agency.md",
-    "economy/Gvot initiatives/National Bioenergy Programme.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
