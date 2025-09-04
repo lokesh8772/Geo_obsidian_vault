@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Conocarpus Plant.md",
+                "file": "Polity/National Disaster Management Authority.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conocarpus Plant"
+              "title": "National Disaster Management Authority"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/State Energy Efficiency Index.md",
     "Envt/Conocarpus Plant.md",
+    "Polity/National Disaster Management Authority.md",
+    "Governance/State Energy Efficiency Index.md",
     "CA/Indian Ocean Naval Symposium.md",
     "Governance/Purple notice.md",
     "Governance/Securing Rights, Enabling Futures.md",
@@ -264,7 +265,6 @@
     "Envt/Sustainable Development Approaches.md",
     "Envt/Glanders.md",
     "economy/Horticulture.md",
-    "economy/UAE LNG deal.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
