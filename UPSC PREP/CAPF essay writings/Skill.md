@@ -24,9 +24,9 @@ se-ease: 2.5
 8. bihar and assam - 95% of workforce in low skilled roles
 9. GER(gross enrollment ratio) at higher secondary - 57.56%
 ### initiatives
-1. PM KVY
-2. Skill india mission
-3. PM vishwakarma yojna
-4. National apprenticeship promotion scheme
-5. Skill impact bond
+1. [[Pradhan Mantri Kaushal Vikas Yojana (PMKVY)]]
+2. [[Skill India Mission]]
+3. [[PM Vishwakarma Yojana]]
+4. [[National Apprenticeship Promotion Scheme (NAPS)]]
+5. [[Skill impact bond]]
 6. 
