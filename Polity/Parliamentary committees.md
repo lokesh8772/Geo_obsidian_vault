@@ -20,7 +20,7 @@ se-ease: 2.5
 	3. one yr membership
 	4. no minister
 	5. chairman appointed by the speaker from amongst the members(convention - opposition party)
-3. functions  - review the report of CAG
+3. functions  - review the report of [[CAG]]
 	1. appropriation and finance accounts of govt and public undertakings
 	2. state corporations, infra projects ... money spent.
 	3. accounts of autonomous bodies, semi-auto..., the audit of which is done by CAG
@@ -43,7 +43,7 @@ se-ease: 2.5
 	5. can not look into matters of Pub. undertakings, of which PAC is doing stuff
 6. lacks CAG assistance
 7. only check the estimates, once they are voted, so post mortem
-8. can not check all the budget estimates, only be able to do a portion in the whole yer
+8. can not check all the budget estimates, only be able to do a portion in the whole year
 9. 
 #### Committee on public undertaking
 1. 1964(krishna menon committee)
