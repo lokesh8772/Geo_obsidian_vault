@@ -11,7 +11,7 @@ se-ease: 2.5
 ---
 1. strength of a HC is determined by the POI from time to time
 2. total HC  - 25
-3. for appointment -> POI consults CJI + governor of concerned state/s + CJ of HC(in case of judges and not Chief justice of HC)
+3. for appointment -> POI consults CJI(CJI + 2 senior most) + governor of concerned state/s + CJ of HC(in case of judges and not Chief justice of HC)
 4. chief justices to be from outside of the state.(some memo.. of procedure...)
 5. qualification  
 	1. citizenship

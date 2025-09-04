@@ -64,4 +64,6 @@ se-ease: 2.5
 	3. consider annual report of the departments.
 
 # Challenges
-1. referring of bills to parliamentary committees no 
+1. referring of bills to parliamentary committees not mandatory -> 15th LS(2009-14) -> 71% bills referred, 16th -> 28, 17th -> 16%
+2. low participation (attendance) of MPS
+3. lack of expert support -> understaffed and lack full time expert and research support
