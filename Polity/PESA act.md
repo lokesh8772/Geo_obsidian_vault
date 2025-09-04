@@ -22,5 +22,5 @@ se-ease: 2.5
 6. village level panchayats required to obtian certificate before utilizing funds for these plans / projects
 7. reservation -> proportion to the population but 
 	1. reservation to ST >= 50%
-8. state govt may specify for STs that have no representation in the intermediate or district level panchayats but, these <= 1/10 of total members.
+8. state govt may nominate members of STs that have no representation in the intermediate or district level panchayats but, these <= 1/10 of total members.
 9. planning and management of water bodies -> appropriate level panchayats.
