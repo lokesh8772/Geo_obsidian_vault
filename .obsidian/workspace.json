@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-09-02.md",
+                "file": "economy/Horticulture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "Horticulture"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "untitle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Gvot initiatives/National Bioenergy Programme.md",
     "Daily notes/2025-09-02.md",
+    "economy/UAE LNG deal.md",
+    "Science/LNG.md",
+    "economy/International Atomic Energy Agency.md",
+    "economy/Gvot initiatives/National Bioenergy Programme.md",
     "Daily notes/2025-06-21.md",
     "CA/Nukhai Festival.md",
     "CA/Monsoon-Related Extreme Weather Events.md",
@@ -249,10 +252,8 @@
     "CA/UNESCO.md",
     "Daily notes/2025-09-01.md",
     "economy/Horticulture.md",
-    "economy/UAE LNG deal.md",
     "economy/Gvot initiatives/Pradhan Mantri Jan Dhan Yojana (PMJDY).md",
     "Envt/Cotton.md",
-    "Science/LNG.md",
     "Governance/Air Quality Life Index.md",
     "UPSC PREP/CAPF essay writings/Road Accidents.md",
     "UPSC PREP/CAPF essay writings/Education.md",
@@ -264,7 +265,6 @@
     "Daily notes/2025-08-30.md",
     "Science/Nuclear energy.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Nuclear tech.md",
-    "economy/International Atomic Energy Agency.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
