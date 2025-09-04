@@ -63,3 +63,5 @@ se-ease: 2.5
 	2. examine bills related to that department.
 	3. consider annual report of the departments.
 
+# Challenges
+1. referring of bills to parliamentary committees no 
