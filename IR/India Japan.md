@@ -27,4 +27,4 @@ tags:
 		2. Shinyuu Maitri
 		3. JIMEX
 4. India-Japan Industrial competitiveness partnership
-5. India-Japan Small and medium enterprizes forum.
+5. India-Japan Small and medium enterprizes forum. 
