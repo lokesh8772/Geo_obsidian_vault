@@ -11,4 +11,4 @@ tags:
 3. [[PM GatiShakti]]
 4. [[National Infrastructure Pipeline (NIP)]]
 5. Digital public infra, Semicon india, [[India Semiconductor Mission]],
-6. PM's Mantra for "Khadi for Fashion, Khadi for Nation"
+6. PM's Mantra for "Khadi for Fashion, Khadi for Nation", NITI's vocal for local initiative, GI tags, One district one Product.

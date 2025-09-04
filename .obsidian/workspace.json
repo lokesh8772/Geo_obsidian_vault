@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Vocal for local.md",
+                "file": "economy/Gvot initiatives/National Monetisation Pipeline (NMP).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vocal for local"
+              "title": "National Monetisation Pipeline (NMP)"
             }
           }
         ],
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Geography/Two-system interaction weather phenomenon.md",
+    "economy/Gvot initiatives/National Infrastructure Pipeline (NIP).md",
+    "economy/Gvot initiatives/National Monetisation Pipeline (NMP).md",
     "Governance/Vocal for local.md",
+    "Geography/Two-system interaction weather phenomenon.md",
     "UPSC PREP/CAPF essay writings/Climate Change.md",
     "UPSC PREP/CAPF essay writings/Essay Topics.md",
     "CA/UNTOC and UNCAC against Mehul Chowksi.md",
@@ -263,8 +265,6 @@
     "UPSC PREP/CAPF essay writings/Skill.md",
     "Science/LNG.md",
     "Science/Nuclear energy.md",
-    "Governance/Air Quality Life Index.md",
-    "Geography/solstice.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
