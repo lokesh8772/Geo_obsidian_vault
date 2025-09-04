@@ -14,4 +14,17 @@ tags:
 	1. mineral resources
 	2. [[Lunar Polar Exploration Mission (LUPEX)]]
 	3. Clean hydrogen and ammonia
-	4. waste water management
+	4. Domestic waste water management
+	5. Co-operation on cultural exchange.
+
+# Significance of india-japan relations
+1. Both countries share strategic concerns due to china's military and political intervention in indo-pacific
+2. both countries calls for reform at [[UNSC]] and part of [[G-20]],[[QUAD]] and G-4
+3. Defence relationship -
+	1. cross-servicing agreement(ACSA)
+	2. Military Ex -
+		1. Dharma Gaurdian
+		2. Shinyuu Maitri
+		3. JIMEX
+4. India-Japan Industrial competitiveness partnership
+5. India-Japan Small and medium enterprizes forum.
