@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/High court.md",
+                "file": "Polity/Parliamentary committees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "High court"
+              "title": "Parliamentary committees"
             }
           }
         ],
@@ -239,6 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Polity/High court.md",
+    "Polity/HC jurisdiction.md",
+    "Polity/court of record.md",
+    "Polity/third judges case.md",
     "Polity/Parliamentary committees.md",
     "Governance/Securing Rights, Enabling Futures.md",
     "Polity/PESA act.md",
@@ -261,10 +265,6 @@
     "economy/Gvot initiatives/National Bioenergy Programme.md",
     "Daily notes/2025-06-21.md",
     "CA/Nukhai Festival.md",
-    "CA/Monsoon-Related Extreme Weather Events.md",
-    "CA/UDISE+.md",
-    "CA/New UN initiatives on AI governance.md",
-    "CA/UNESCO.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
