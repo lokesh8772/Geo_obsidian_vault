@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/High court.md",
+                "file": "Polity/PESA act.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "High court"
+              "title": "PESA act"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "undp",
+                "query": "supreme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,6 +240,11 @@
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
     "Daily notes/2025-09-04.md",
+    "Polity/Parliamentary committees.md",
+    "Polity/High court.md",
+    "Polity/removal of SC judge.md",
+    "Polity/SC's jurisdiction.md",
+    "Polity/art 143.md",
     "Governance/Securing Rights, Enabling Futures.md",
     "CA/Equator Initiative award.md",
     "economy/HDI.md",
@@ -259,12 +264,7 @@
     "Governance/State Energy Efficiency Index.md",
     "Governance/Purple notice.md",
     "IR/India Japan.md",
-    "Polity/Parliamentary committees.md",
-    "Polity/High court.md",
     "Polity/HC jurisdiction.md",
-    "Polity/court of record.md",
-    "Polity/third judges case.md",
-    "Polity/PESA act.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
