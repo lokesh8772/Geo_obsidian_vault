@@ -39,7 +39,7 @@ The Skill India Mission encompasses a wide range of programs and schemes, includ
 The Skill India Mission is implemented through a network of training centers, Sector Skill Councils (SSCs), and partnerships with industries and educational institutions. The MSDE oversees the mission, with the NSDC playing a significant role in funding and quality assurance. State Skill Development Missions (SSDMs) coordinate efforts at the state level.
 
 ### 📈 **Achievements / Data** (As of May 2025)
-- Over **13.7 million youth** have been skilled under Pradhan Mantri Kaushal Vikas Yojana (PMKVY).
+- Over 1.48 crore youth** have been skilled under Pradhan Mantri Kaushal Vikas Yojana (PMKVY).
 - More than **720 Pradhan Mantri Kaushal Kendras (PMKKs)** have been established.
 - Over **5 million people** have been certified under the Recognition of Prior Learning (RPL) program.
 - The unemployment rate in India has seen a decrease, dropping from 6% in 2017-18 to **3.2% in 2023-24**.
