@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Jarosite.md",
+                "file": "economy/Investor Didi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jarosite"
+              "title": "Investor Didi"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Adi Vani.md",
     "Geography/Jarosite.md",
+    "economy/Investor Didi.md",
+    "Governance/Adi Vani.md",
     "Science/PRATUSH.md",
     "Envt/Marine Biodiversity Treaty.md",
     "IR/15th SCO council of heads of states.md",
@@ -264,7 +265,6 @@
     "Polity/removal of SC judge.md",
     "Polity/SC's jurisdiction.md",
     "Polity/art 143.md",
-    "Governance/Securing Rights, Enabling Futures.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
