@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/Right to Education act.md",
+                "file": "Envt/Green Credit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Right to Education act"
+              "title": "Green Credit"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Foreigners and Immigration act 2025.md",
     "Polity/Right to Education act.md",
+    "Envt/Green Credit.md",
+    "Governance/Foreigners and Immigration act 2025.md",
     "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "economy/Gvot initiatives/Skill India Mission.md",
     "UPSC PREP/CAPF essay writings/Skill.md",
@@ -264,7 +265,6 @@
     "CA/Indian Ocean Naval Symposium.md",
     "Governance/Vocal for local.md",
     "Geography/Two-system interaction weather phenomenon.md",
-    "UPSC PREP/CAPF essay writings/Climate Change.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
