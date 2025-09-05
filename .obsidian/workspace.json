@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/National Monetisation Pipeline (NMP).md",
-                "mode": "preview",
+                "file": "economy/Gvot initiatives/PM GatiShakti.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Monetisation Pipeline (NMP)"
+              "title": "PM GatiShakti"
             }
           }
         ],
@@ -239,10 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Daily notes/2025-09-04.md",
-    "CA/Indian Ocean Naval Symposium.md",
-    "economy/Gvot initiatives/National Monetisation Pipeline (NMP).md",
     "economy/Gvot initiatives/National Infrastructure Pipeline (NIP).md",
+    "Daily notes/2025-09-04.md",
+    "economy/Gvot initiatives/National Monetisation Pipeline (NMP).md",
+    "CA/Indian Ocean Naval Symposium.md",
     "Governance/Vocal for local.md",
     "Geography/Two-system interaction weather phenomenon.md",
     "UPSC PREP/CAPF essay writings/Climate Change.md",
