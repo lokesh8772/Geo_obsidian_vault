@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Foreigners and Immigration act 2025.md",
+                "file": "Polity/Right to Education act.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Foreigners and Immigration act 2025"
+              "title": "Right to Education act"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "Governance/Foreigners and Immigration act 2025.md",
+    "Polity/Right to Education act.md",
+    "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "economy/Gvot initiatives/Skill India Mission.md",
     "UPSC PREP/CAPF essay writings/Skill.md",
     "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
@@ -264,7 +265,6 @@
     "Governance/Vocal for local.md",
     "Geography/Two-system interaction weather phenomenon.md",
     "UPSC PREP/CAPF essay writings/Climate Change.md",
-    "UPSC PREP/CAPF essay writings/Essay Topics.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
