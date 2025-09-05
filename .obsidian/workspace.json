@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/MPI.md",
+                "file": "Daily notes/2025-09-04.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MPI"
+              "title": "2025-09-04"
             }
           }
         ],
@@ -239,9 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/HDI.md",
-    "CA/Equator Initiative award.md",
     "Governance/Securing Rights, Enabling Futures.md",
+    "CA/Equator Initiative award.md",
+    "economy/HDI.md",
+    "economy/MPI.md",
     "Daily notes/2025-09-04.md",
     "Daily notes/2025-06-21.md",
     "economy/Gvot initiatives/National Infrastructure Pipeline (NIP).md",
@@ -264,7 +265,6 @@
     "Polity/court of record.md",
     "Polity/third judges case.md",
     "Polity/PESA act.md",
-    "UPSC PREP/CAPF essay writings/Road Accidents.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
