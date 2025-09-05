@@ -6,26 +6,27 @@ tags:
   - review
 ---
 1. Shanghai co-operation organisation(2001)
-2. founding members 
+2. HQ -> Beijing
+3. founding members 
 	1. china
 	2. russia
 	3. kazakhastan
 	4. ujbekistan
-	5. kysgystan
+	5. Kyrgystan
 	6. tajikistan
-3. current members include
+4. current members include
 	1. India
 	2. Pakistan
 	3. Afganistan
 	4. Iran(2023)
 	5. Belarus(2024)
-4. objective
+5. objective
 	1. regional security
 	2. couter terrorism
 	3. economic co-operation
 	4. resolve border issues
 	5. multipolarity in global governance.
-5. observer status at UN General Assembly
+6. observer status at UN General Assembly
 
 ### india's strategic opportunities within SCO
 1. engaging with central asia and central african republics

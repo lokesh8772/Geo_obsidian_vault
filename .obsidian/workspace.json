@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Magsaysay Award.md",
+                "file": "IR/15th SCO council of heads of states.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Magsaysay Award"
+              "title": "15th SCO council of heads of states"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kameng",
+                "query": "SCO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/Ex Yudh Kaushal.md",
+    "SCO.md",
+    "IR/15th SCO council of heads of states.md",
     "CA/Magsaysay Award.md",
+    "CA/Ex Yudh Kaushal.md",
     "Geography/hills glaciers etc/HIlls of Arunachal Pradesh.md",
     "Geography/Himalayas.md",
     "Envt/Green Credit Program.md",
@@ -263,8 +265,6 @@
     "economy/HDI.md",
     "economy/MPI.md",
     "Daily notes/2025-06-21.md",
-    "economy/Gvot initiatives/National Infrastructure Pipeline (NIP).md",
-    "economy/Gvot initiatives/PM GatiShakti.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
