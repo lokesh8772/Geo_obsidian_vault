@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/PESA act.md",
-                "mode": "preview",
+                "file": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PESA act"
+              "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supreme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,7 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "UPSC PREP/CAPF essay writings/Skill.md",
     "Daily notes/2025-09-04.md",
+    "Polity/National Disaster Management Authority.md",
+    "Polity/PESA act.md",
     "Polity/Parliamentary committees.md",
     "Polity/High court.md",
     "Polity/removal of SC judge.md",
@@ -259,12 +262,9 @@
     "UPSC PREP/CAPF essay writings/Climate Change.md",
     "UPSC PREP/CAPF essay writings/Essay Topics.md",
     "CA/UNTOC and UNCAC against Mehul Chowksi.md",
-    "Polity/National Disaster Management Authority.md",
     "Envt/Conocarpus Plant.md",
     "Governance/State Energy Efficiency Index.md",
     "Governance/Purple notice.md",
-    "IR/India Japan.md",
-    "Polity/HC jurisdiction.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
