@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR/Significance of Diaspora for india.md",
+                "file": "economy/Biofuels.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Significance of Diaspora for india"
+              "title": "Biofuels"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "biofuel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/Anti-Immigration sentiment in Australia.md",
     "IR/Significance of Diaspora for india.md",
+    "economy/Biofuels.md",
+    "IR/Anti-Immigration sentiment in Australia.md",
     "economy/BHARATI  by APEDA.md",
     "UPSC PREP/CAPF essay writings/Mental Health.md",
     "Daily notes/2025-09-05.md",
@@ -266,7 +267,6 @@
     "Geography/Himalayas.md",
     "Envt/Green Credit Program.md",
     "Polity/Right to Education act.md",
-    "Governance/Foreigners and Immigration act 2025.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
