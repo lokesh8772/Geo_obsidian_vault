@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Parliamentary committee report on Water management.md",
-                "mode": "preview",
+                "file": "Daily notes/2025-08-19.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Parliamentary committee report on Water management"
+              "title": "2025-08-19"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "CA/Parliamentary committee report on Water management.md",
     "Daily notes/2025-08-19.md",
     "CA/Yudh Abhyas.md",
     "IR/Afganistan.md",
@@ -266,7 +267,6 @@
     "Daily notes/2025-09-04.md",
     "Polity/National Disaster Management Authority.md",
     "Polity/PESA act.md",
-    "Polity/Parliamentary committees.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
