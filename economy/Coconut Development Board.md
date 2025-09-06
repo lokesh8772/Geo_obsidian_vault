@@ -6,4 +6,4 @@ tags:
 ---
 1. 1981
 2. under Min of Agri. and Farmer welfare
-3. development of Con
+3. development of Coconut production and industry by more production and product diversification

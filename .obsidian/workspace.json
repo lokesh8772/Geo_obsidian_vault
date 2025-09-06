@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Coconut Development Board.md",
+                "file": "Governance/Foreigners and Immigration act 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coconut Development Board"
+              "title": "Foreigners and Immigration act 2025"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UNCTAD",
+                "query": "immigrat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/India-Thailand.md",
     "economy/Coconut Development Board.md",
+    "IR/India-Thailand.md",
     "Science/VIKRAM 3201.md",
     "economy/Biofuels.md",
     "IR/Significance of Diaspora for india.md",
