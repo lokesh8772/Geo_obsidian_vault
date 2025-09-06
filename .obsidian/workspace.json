@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/VIKRAM 3201.md",
+                "file": "economy/Coconut Development Board.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VIKRAM 3201"
+              "title": "Coconut Development Board"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biofuel",
+                "query": "UNCTAD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Biofuels.md",
+    "IR/India-Thailand.md",
+    "economy/Coconut Development Board.md",
     "Science/VIKRAM 3201.md",
+    "economy/Biofuels.md",
     "IR/Significance of Diaspora for india.md",
     "IR/Anti-Immigration sentiment in Australia.md",
     "economy/BHARATI  by APEDA.md",
@@ -265,8 +267,6 @@
     "CA/Magsaysay Award.md",
     "CA/Ex Yudh Kaushal.md",
     "Geography/hills glaciers etc/HIlls of Arunachal Pradesh.md",
-    "Geography/Himalayas.md",
-    "Envt/Green Credit Program.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
