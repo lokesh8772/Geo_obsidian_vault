@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
-                "mode": "preview",
+                "file": "economy/MSME.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atmanirbhar Bharat Abhiyan"
+              "title": "MSME"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "practice",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
+    "economy/MSME.md",
     "dataview practice.md",
     "CA/IADWS.md",
     "misc/Dr. Sarvapalli Radhakrishanan.md",
@@ -263,8 +265,6 @@
     "Daily notes/2025-09-07.md",
     "Daily notes/2025-09-06.md",
     "Governance/Co-location of AanganWadi centers with Schools.md",
-    "economy/Incentive Scheme for Recycling of Critical Minerals.md",
-    "Governance/Foreigners and Immigration act 2025.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
