@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
+                "file": "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "Atmanirbhar Bharat Abhiyan"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/IADWS.md",
     "dataview practice.md",
+    "CA/IADWS.md",
     "misc/Dr. Sarvapalli Radhakrishanan.md",
     "Governance/Peace Pact with Kuki-Zo groups.md",
     "economy/Bureau of Indian Standards.md",
