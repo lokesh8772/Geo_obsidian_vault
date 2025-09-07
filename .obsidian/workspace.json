@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Dr. Sarvapalli Radhakrishanan.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dr. Sarvapalli Radhakrishanan"
+              "title": "dataview practice"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "criminali",
+                "query": "practice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Peace Pact with Kuki-Zo groups.md",
     "misc/Dr. Sarvapalli Radhakrishanan.md",
+    "Governance/Peace Pact with Kuki-Zo groups.md",
     "economy/Bureau of Indian Standards.md",
     "economy/Mission Mausam.md",
     "UPSC PREP/CAPF essay writings/Criminalization of politics.md",
