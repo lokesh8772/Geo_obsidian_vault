@@ -28,7 +28,7 @@ Micro, Small and Medium Enterprises (MSMEs), cottage industries, laborers, middl
 ### 💰 **Key Components and Initiatives:**
 The Atmanirbhar Bharat Abhiyan encompasses a wide range of fiscal and regulatory measures announced in several tranches. Key areas include:
 
--   **Support for MSMEs:** Collateral-free loans, subordinate debt, equity infusion through Fund of Funds, revised definition of MSMEs, and disallowing global tenders up to ₹200 crore in government procurement.
+-   **Support for MSMEs:** Collateral-free loans, subordinate debt, equity infusion through Fund of Funds, [[MSME|revised definition of MSMEs]], and disallowing global tenders up to ₹200 crore in government procurement.
 -   **Support for Poor, Farmers, and Migrant Workers:** Free food grains, portability of ration cards (One Nation One Ration Card), affordable rental housing complexes (ARHCs), PM [[SVANidhi Scheme]]  for street vendors, additional credit through NABARD and Kisan Credit Cards.
 -   **Financial Sector Reforms:** Special liquidity schemes for NBFCs/HFCs/MFIs, partial credit guarantee schemes, recapitalization of Public Sector Banks (PSBs).
 -   **Agriculture Reforms:** Facilitating barrier-free inter-state trade of farm commodities, promoting e-trading, and creating a facilitative legal framework for contract farming.
