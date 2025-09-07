@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Dada Bhai Nauroji.md",
+                "file": "economy/Coffee.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dada Bhai Nauroji"
+              "title": "Coffee"
             }
           }
         ],
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/GST Reforms 2025.md",
+    "Governance/Operation Black Forest.md",
+    "economy/Coffee.md",
     "CA/Dada Bhai Nauroji.md",
+    "economy/GST Reforms 2025.md",
     "economy/GST.md",
     "Daily notes/2025-09-07.md",
     "Daily notes/2025-09-06.md",
@@ -265,8 +267,6 @@
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "Envt/Senna Spectabilis.md",
-    "economy/Investor Didi.md",
-    "Geography/Jarosite.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
