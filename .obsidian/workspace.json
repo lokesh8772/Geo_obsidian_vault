@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Coffee.md",
+                "file": "CA/UNESCO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coffee"
+              "title": "UNESCO"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Operation Black Forest.md",
+    "misc/Nalada University.md",
     "economy/Coffee.md",
+    "Governance/Operation Black Forest.md",
     "CA/Dada Bhai Nauroji.md",
     "economy/GST Reforms 2025.md",
     "economy/GST.md",
@@ -266,7 +267,6 @@
     "IR/Afganistan.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
-    "Envt/Senna Spectabilis.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",

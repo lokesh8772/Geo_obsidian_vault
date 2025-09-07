@@ -13,4 +13,5 @@ tags:
 	2. kerala
 	3. TN
 	4. AP
-	5. North-east
+	5. odisha
+	6. North-east
