@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
-                "mode": "preview",
+                "file": "CA/IADWS.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "IADWS"
             }
           }
         ],
@@ -239,6 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "dataview practice.md",
+    "CA/IADWS.md",
     "misc/Dr. Sarvapalli Radhakrishanan.md",
     "Governance/Peace Pact with Kuki-Zo groups.md",
     "economy/Bureau of Indian Standards.md",
@@ -263,8 +265,6 @@
     "Governance/Co-location of AanganWadi centers with Schools.md",
     "economy/Incentive Scheme for Recycling of Critical Minerals.md",
     "Governance/Foreigners and Immigration act 2025.md",
-    "economy/Coconut Development Board.md",
-    "IR/India-Thailand.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",

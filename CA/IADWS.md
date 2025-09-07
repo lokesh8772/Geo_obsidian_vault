@@ -4,7 +4,7 @@ tags:
   - Defence
 Date:
 ---
-Integrated Aid Defence Weapon System
+Integrated Air Defence Weapon System
 
 context -> DRDO successfully conducts maiden-flight test of IADWS
 1. multi - layered defence system
