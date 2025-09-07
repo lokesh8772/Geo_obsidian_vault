@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/UNESCO.md",
+                "file": "CA/India-singapore.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UNESCO"
+              "title": "India-singapore"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gst",
+                "query": "singapore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "CA/UNESCO.md",
     "misc/Nalada University.md",
     "economy/Coffee.md",
     "Governance/Operation Black Forest.md",
@@ -264,7 +265,6 @@
     "Daily notes/2025-08-19.md",
     "CA/Parliamentary committee report on Water management.md",
     "CA/Yudh Abhyas.md",
-    "IR/Afganistan.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",

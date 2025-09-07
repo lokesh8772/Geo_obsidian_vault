@@ -18,3 +18,4 @@ Date:
 7. Tamil -> one of the official language
 8. crisis Partnership -> during COVID , singapore provided medicines and oxygen while india gave vaccines under Vaccine maitri.
 9. access to Changi naval base to strengthen india's position and counter china
+10. jointly developing a Center of Excellence in Manufacturing in chennai
