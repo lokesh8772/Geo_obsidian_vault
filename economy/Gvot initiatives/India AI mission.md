@@ -9,6 +9,7 @@ tags:
 
 ## Overview
 
+- 2021
 * The India AI mission is a government initiative aimed at making India a global hub for Artificial Intelligence.
 * It focuses on developing and deploying AI solutions across various sectors to drive economic growth, enhance citizen services, and foster technological advancements.
 * The mission seeks to build a robust AI ecosystem in India by promoting research, development, adoption, and ethical use of AI.
