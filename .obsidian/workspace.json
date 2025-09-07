@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/IADWS.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IADWS"
+              "title": "dataview practice"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "dataview practice.md",
     "CA/IADWS.md",
+    "dataview practice.md",
     "misc/Dr. Sarvapalli Radhakrishanan.md",
     "Governance/Peace Pact with Kuki-Zo groups.md",
     "economy/Bureau of Indian Standards.md",
