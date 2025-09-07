@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Incentive Scheme for Recycling of Critical Minerals.md",
+                "file": "economy/GST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incentive Scheme for Recycling of Critical Minerals"
+              "title": "GST"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "immigrat",
+                "query": "gst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Foreigners and Immigration act 2025.md",
+    "Governance/Co-location of AanganWadi centers with Schools.md",
     "economy/Incentive Scheme for Recycling of Critical Minerals.md",
+    "Governance/Foreigners and Immigration act 2025.md",
     "economy/Coconut Development Board.md",
     "IR/India-Thailand.md",
     "Science/VIKRAM 3201.md",
@@ -266,7 +267,6 @@
     "Envt/Marine Biodiversity Treaty.md",
     "IR/15th SCO council of heads of states.md",
     "SCO.md",
-    "CA/Magsaysay Award.md",
     "resources/australia-physical-map.jpg",
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
