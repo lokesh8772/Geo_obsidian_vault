@@ -7,17 +7,17 @@ tags:
 1. Dominance in digital sphere including services, data collection and management, Usually by Global North over Global south.
 
 ## Key pillars of Digital Colonialism
-1. Digital hegemony
-	1. AWS, Azure, Google cloud
-2. un-avialability of alternatives
-	1. android, IOS, Windows,
-3. Proprietary software 
-	1. not opensource, can not edit the functinality,
-	2. ex -. all apps on playstore...appstore etc
-4. creating a dependence
-	1. Google search engine, windows
-5. expanded user base
-6. regulatory powers -> concentrated
+1. Economic Domination -> few entities drain eco resources out of countries by creating dependence,
+	1. overprices iphones, 
+2. Imperial control of architecture -> 
+	1. properitary software and non-free licensing -> app store policies.
+3. Cultural Imperialism -> 
+	1. promote and depicts only dominant section's culture while undermining others
+4. global surveillance capitalism -> 
+	1. data collection -> processing -> advertising -> selling public data for profits
+5. tech hegemony -> few entities decide the narrative around how technology should evolved and what  should be its economic aspects
+	1. amazon AWS, Azure, and google cloud -> most of the cloud services.
+6. discourse of benevolence -> depicts technology as evidently good, connnective
 ## issues 
 1. national security  and sovereignty concerns
 2. data privacy
