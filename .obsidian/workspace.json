@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrap-Writing/Online Content Regulation.md",
+                "file": "Scrap-Writing/Digital Communalism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Online Content Regulation"
+              "title": "Digital Communalism"
             }
           }
         ],
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/POCSO.md",
+    "Prompts/Scheme note creator.md",
+    "Scrap-Writing/Digital Communalism.md",
     "Scrap-Writing/Online Content Regulation.md",
+    "Governance/POCSO.md",
     "Scrap-Writing",
     "Governance/Online Content Regulation.md",
     "CA/SC on FR to Free Speech and exp..md",
@@ -264,8 +266,6 @@
     "CA/UNESCO.md",
     "misc/Nalada University.md",
     "economy/Coffee.md",
-    "Governance/Operation Black Forest.md",
-    "CA/Dada Bhai Nauroji.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
