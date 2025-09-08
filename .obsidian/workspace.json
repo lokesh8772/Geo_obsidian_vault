@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity/parts of constitution.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "parts of constitution"
+              "title": "dataview practice"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parts of consti",
+                "query": "dataview prac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Polity/parts of constitution.md",
     "Scrap-Writing/National Co-operative policy 2025.md",
     "Polity/DPSP.md",
     "Scrap-Writing/Digital Colonialism.md",
@@ -265,7 +266,6 @@
     "Governance/HealthAI global Regulatory Network.md",
     "Governance/Sample Registration System Statistics Report 2023.md",
     "CA/India-singapore.md",
-    "CA/UNESCO.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
