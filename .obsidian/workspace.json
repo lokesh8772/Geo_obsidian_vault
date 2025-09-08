@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrap-Writing/National Co-operative policy 2025.md",
+                "file": "Polity/DPSP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Co-operative policy 2025"
+              "title": "DPSP"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pocso",
+                "query": "DPSP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Scrap-Writing/Digital Colonialism.md",
     "Scrap-Writing/National Co-operative policy 2025.md",
+    "Scrap-Writing/Digital Colonialism.md",
     "Prompts/Scheme note creator.md",
     "Scrap-Writing/Online Content Regulation.md",
     "Governance/POCSO.md",
