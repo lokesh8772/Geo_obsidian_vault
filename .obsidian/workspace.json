@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/POCSO.md",
-                "mode": "preview",
+                "file": "Scrap-Writing/Online Content Regulation.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "POCSO"
+              "title": "Online Content Regulation"
             }
           }
         ],
@@ -239,6 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Governance/POCSO.md",
+    "Scrap-Writing/Online Content Regulation.md",
+    "Scrap-Writing",
+    "Governance/Online Content Regulation.md",
     "CA/SC on FR to Free Speech and exp..md",
     "misc/Military Exercise.md",
     "Daily notes/2025-09-07.md",
@@ -262,9 +266,6 @@
     "economy/Coffee.md",
     "Governance/Operation Black Forest.md",
     "CA/Dada Bhai Nauroji.md",
-    "economy/GST Reforms 2025.md",
-    "economy/GST.md",
-    "Daily notes/2025-09-06.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
@@ -284,7 +285,6 @@
     "resources/Unconfirmed 225799.crdownload",
     "Governance",
     "resources/Unconfirmed 526377.crdownload",
-    "resources/Unconfirmed 997834.crdownload",
     "Untitled.canvas"
   ]
 }
