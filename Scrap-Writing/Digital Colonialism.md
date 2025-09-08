@@ -17,7 +17,7 @@ tags:
 	1. data collection -> processing -> advertising -> selling public data for profits
 5. tech hegemony -> few entities decide the narrative around how technology should evolved and what  should be its economic aspects
 	1. amazon AWS, Azure, and google cloud -> most of the cloud services.
-6. discourse of benevolence -> depicts technology as evidently good, connnective
+6. discourse of benevolence -> depicts technology as evidently good, connectivity as rights etc
 ## issues 
 1. national security  and sovereignty concerns
 2. data privacy
