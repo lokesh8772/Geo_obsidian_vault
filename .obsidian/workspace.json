@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Military Exercise.md",
+                "file": "CA/SC on FR to Free Speech and exp..md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Military Exercise"
+              "title": "SC on FR to Free Speech and exp."
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cinemato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "misc/Military Exercise.md",
     "Daily notes/2025-09-07.md",
     "dataview practice.md",
     "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
@@ -254,7 +255,6 @@
     "economy/Electronic Mfg Cluster scheme.md",
     "Governance/HealthAI global Regulatory Network.md",
     "Governance/Sample Registration System Statistics Report 2023.md",
-    "misc/Military Exercise.md",
     "CA/India-singapore.md",
     "CA/UNESCO.md",
     "misc/Nalada University.md",
