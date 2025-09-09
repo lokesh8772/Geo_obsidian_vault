@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview practice.md",
-                "mode": "preview",
+                "file": "Governance/self respect Movement.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dataview practice"
+              "title": "self respect Movement"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview prac",
+                "query": "mining",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,10 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "economy/Mars Orbiter Mission (Mangalyaan).md",
     "dataview practice.md",
+    "Governance/self respect Movement.md",
+    "economy/Mars Orbiter Mission (Mangalyaan).md",
     "Polity/parts of constitution.md",
     "Scrap-Writing/National Co-operative policy 2025.md",
     "Polity/DPSP.md",
@@ -265,7 +266,6 @@
     "Science/Li-ion batteries.md",
     "economy/Electronic Mfg Cluster scheme.md",
     "Governance/HealthAI global Regulatory Network.md",
-    "Governance/Sample Registration System Statistics Report 2023.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
