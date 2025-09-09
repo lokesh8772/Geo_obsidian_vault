@@ -68,7 +68,7 @@
       {
         "id": "79b0d76a3ca08060",
         "type": "tabs",
-        "dimension": 50.602409638554214,
+        "dimension": 50.60240963855422,
         "children": [
           {
             "id": "055f521e298448a0",
@@ -237,7 +237,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "4fddd09b5b163472",
   "lastOpenFiles": [
     "economy/Mars Orbiter Mission (Mangalyaan).md",
     "dataview practice.md",
