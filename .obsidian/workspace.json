@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/self respect Movement.md",
+                "file": "Governance/Social Impact Assessment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "self respect Movement"
+              "title": "Social Impact Assessment"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mining",
+                "query": "janman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,9 @@
   },
   "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "dataview practice.md",
     "Governance/self respect Movement.md",
+    "Governance/Social Impact Assessment.md",
+    "dataview practice.md",
     "economy/Mars Orbiter Mission (Mangalyaan).md",
     "Polity/parts of constitution.md",
     "Scrap-Writing/National Co-operative policy 2025.md",
@@ -265,7 +266,6 @@
     "CA/India's largest Li-ion Battery Mfg Factory.md",
     "Science/Li-ion batteries.md",
     "economy/Electronic Mfg Cluster scheme.md",
-    "Governance/HealthAI global Regulatory Network.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
