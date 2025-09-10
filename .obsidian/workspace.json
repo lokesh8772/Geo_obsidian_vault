@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Great Nicobar island Project.md",
+                "file": "economy/Gvot initiatives/National Clean Air Programme (NCAP).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Great Nicobar island Project"
+              "title": "National Clean Air Programme (NCAP)"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clean air program",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/PM of Nepal resigned.md",
     "economy/Great Nicobar island Project.md",
+    "IR/PM of Nepal resigned.md",
     "Daily notes/2025-06-29.md",
     "Governance/UNICEF.md",
     "CA/Report on Progress on Household Drinking Water and Sanitation.md",

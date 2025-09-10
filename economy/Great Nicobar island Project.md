@@ -6,6 +6,11 @@ tags:
   - Current
   - InfrastructureDevelopment
 ---
-1. Granted in-principal forest and envt clearance in 2022
-2. International Container Trans-Shipment Terminal
-3. A Greenfield inernatioanal Ai
+1. International Container Trans-Shipment Terminal
+2. A Greenfield international Airport
+3. A township
+4. A 450 MW Gas and Solar power plant.
+
+5. granted in principal forest and envt clearance in 2022
+6. GNI is home to Shompens(PVTG) , and Nicobarese
+7. 
