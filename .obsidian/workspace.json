@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Gvot initiatives/National Clean Air Programme (NCAP).md",
+                "file": "Envt/Saltwater crocodile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "National Clean Air Programme (NCAP)"
+              "title": "Saltwater crocodile"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clean air program",
+                "query": "wildlife protection act",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "dataview practice.md",
+    "economy/Gvot initiatives/National Clean Air Programme (NCAP).md",
     "economy/Great Nicobar island Project.md",
     "IR/PM of Nepal resigned.md",
     "Daily notes/2025-06-29.md",
@@ -265,8 +267,6 @@
     "economy/UPI.md",
     "CA/Beas river flood.md",
     "Geography/Ganga.md",
-    "Geography/Sutlej.md",
-    "Geography/hills glaciers etc/Passes of HP.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
