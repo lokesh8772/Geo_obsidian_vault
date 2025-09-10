@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR/WTO.md",
+                "file": "Governance/Need for Climate resilient  cities in india.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WTO"
+              "title": "Need for Climate resilient  cities in india"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wto",
+                "query": "heat island",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,8 +237,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
+    "IR/WTO.md",
+    "Governance/Need for Climate resilient  cities in india.md",
     "Governance/WHO.md",
     "Governance/Angikaar campaign.md",
     "economy/UPI.md",
@@ -263,8 +265,6 @@
     "Polity/DPSP.md",
     "Scrap-Writing/Digital Colonialism.md",
     "Prompts/Scheme note creator.md",
-    "Scrap-Writing/Online Content Regulation.md",
-    "Governance/POCSO.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
