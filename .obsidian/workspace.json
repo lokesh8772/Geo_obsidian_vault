@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/OPEC.md",
+                "file": "Envt/Carbon capture and storage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OPEC"
+              "title": "Carbon capture and storage"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "opec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,13 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/GST Reforms 2025.md",
+    "IR/Katchatheevu Island.md",
+    "Envt/Carbon capture and storage.md",
+    "resources/katchatheevu island.png",
+    "resources/Screenshot 2025-09-10 212428.png",
+    "economy/Account Aggregator.md",
     "economy/OPEC.md",
+    "economy/GST Reforms 2025.md",
     "misc/Underwater Domain Awareness.md",
     "Governance/Defence Theaterisation Plan.md",
     "Governance/Need for Climate resilient  cities in india.md",
@@ -262,9 +267,6 @@
     "Daily notes/2025-09-08.md",
     "Governance/Social Impact Assessment.md",
     "Governance/self respect Movement.md",
-    "dataview practice.md",
-    "economy/Mars Orbiter Mission (Mangalyaan).md",
-    "Polity/parts of constitution.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
@@ -278,9 +280,7 @@
     "Prompts",
     "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
-    "resources/Members-of-ECOWAS.png",
     "resources/desktop.ini",
-    "resources/Screenshot 2025-08-17 182127.png",
     "IR",
     "resources/Unconfirmed 225799.crdownload",
     "Governance",
