@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Need for Climate resilient  cities in india.md",
+                "file": "Governance/Defence Theaterisation Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Need for Climate resilient  cities in india"
+              "title": "Defence Theaterisation Plan"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heat island",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,10 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/WTO.md",
     "Governance/Need for Climate resilient  cities in india.md",
+    "Governance/Defence Theaterisation Plan.md",
+    "IR/WTO.md",
     "Governance/WHO.md",
     "Governance/Angikaar campaign.md",
     "economy/UPI.md",
@@ -264,7 +265,6 @@
     "Scrap-Writing/National Co-operative policy 2025.md",
     "Polity/DPSP.md",
     "Scrap-Writing/Digital Colonialism.md",
-    "Prompts/Scheme note creator.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
