@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/ICIMOD's Report on Clean Energy Potential in HKH region.md",
+                "file": "Geography/hills glaciers etc/Passes of HP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ICIMOD's Report on Clean Energy Potential in HKH region"
+              "title": "Passes of HP"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sDG",
+                "query": "sut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,10 +237,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Governance/Voluntary National Review Report 2025.md",
+    "Geography/hills glaciers etc/Passes of UK.md",
+    "Geography/bara lachla.md",
     "economy/ICIMOD's Report on Clean Energy Potential in HKH region.md",
+    "Governance/Voluntary National Review Report 2025.md",
     "misc/Defence Porture of india.md",
     "Daily notes/2025-09-10.md",
     "Daily notes/2025-09-09.md",
@@ -264,8 +266,6 @@
     "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
     "economy/MSME.md",
     "CA/IADWS.md",
-    "misc/Dr. Sarvapalli Radhakrishanan.md",
-    "Governance/Peace Pact with Kuki-Zo groups.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
