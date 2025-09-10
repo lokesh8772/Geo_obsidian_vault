@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Social Impact Assessment.md",
-                "mode": "source",
+                "file": "Daily notes/2025-09-10.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Social Impact Assessment"
+              "title": "2025-09-10"
             }
           }
         ],
@@ -237,10 +237,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/self respect Movement.md",
+    "Daily notes/2025-09-09.md",
+    "Daily notes/2025-09-08.md",
+    "Daily notes/2025-09-10.md",
     "Governance/Social Impact Assessment.md",
+    "Governance/self respect Movement.md",
     "dataview practice.md",
     "economy/Mars Orbiter Mission (Mangalyaan).md",
     "Polity/parts of constitution.md",
@@ -263,9 +266,6 @@
     "economy/Bureau of Indian Standards.md",
     "economy/Mission Mausam.md",
     "UPSC PREP/CAPF essay writings/Criminalization of politics.md",
-    "CA/India's largest Li-ion Battery Mfg Factory.md",
-    "Science/Li-ion batteries.md",
-    "economy/Electronic Mfg Cluster scheme.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
