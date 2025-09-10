@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/hills glaciers etc/Passes of HP.md",
+                "file": "Governance/Angikaar campaign.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Passes of HP"
+              "title": "Angikaar campaign"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sut",
+                "query": "UPI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,8 +237,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "economy/UPI.md",
+    "Governance/Angikaar campaign.md",
+    "CA/Beas river flood.md",
+    "Geography/Ganga.md",
+    "Geography/Sutlej.md",
+    "Geography/hills glaciers etc/Passes of HP.md",
     "Geography/hills glaciers etc/Passes of UK.md",
     "Geography/bara lachla.md",
     "economy/ICIMOD's Report on Clean Energy Potential in HKH region.md",
@@ -260,12 +266,6 @@
     "Governance/POCSO.md",
     "Scrap-Writing",
     "Governance/Online Content Regulation.md",
-    "CA/SC on FR to Free Speech and exp..md",
-    "misc/Military Exercise.md",
-    "Daily notes/2025-09-07.md",
-    "economy/Gvot initiatives/Atmanirbhar Bharat Abhiyan.md",
-    "economy/MSME.md",
-    "CA/IADWS.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
