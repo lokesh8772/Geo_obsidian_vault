@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/ULLAS.md",
+                "file": "CA/Report on Progress on Household Drinking Water and Sanitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ULLAS"
+              "title": "Report on Progress on Household Drinking Water and Sanitation"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space",
+                "query": "UNICEF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/UPI-UPU integration.md",
+    "Governance/UNICEF.md",
+    "economy/GST Reforms 2025.md",
     "Governance/ULLAS.md",
+    "Governance/UPI-UPU integration.md",
     "IR/India - Israel.md",
     "economy/Indian Space sector.md",
     "misc/Cancer.md",
@@ -250,7 +252,6 @@
     "resources/Screenshot 2025-09-10 212428.png",
     "economy/Account Aggregator.md",
     "economy/OPEC.md",
-    "economy/GST Reforms 2025.md",
     "misc/Underwater Domain Awareness.md",
     "Governance/Defence Theaterisation Plan.md",
     "Governance/Need for Climate resilient  cities in india.md",
@@ -266,7 +267,6 @@
     "Geography/bara lachla.md",
     "economy/ICIMOD's Report on Clean Energy Potential in HKH region.md",
     "Governance/Voluntary National Review Report 2025.md",
-    "misc/Defence Porture of india.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",

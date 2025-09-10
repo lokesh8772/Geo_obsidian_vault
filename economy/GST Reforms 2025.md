@@ -18,3 +18,5 @@ Total 2 slabs of GST -> 5% and 18%.
 7. Operationalization of GST Appellate Tribunal
 ## challenges
 1. revenue foregone of 48,000 crore -> finance min
+2. ITC removed from certain categories -> this could lead to higher costs for producers/sellers if input cost is high -> increase in prices for offsetting losses.
+3. in cases where input is taxed higher and output is lower(IDS) -> speedy claims are to be established but not for all categories (only for those having structural problems, and not just because of rate cuts) -> Unclaimable credit accumulation -> cost increases -> price increase
