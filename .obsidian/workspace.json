@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Defence Theaterisation Plan.md",
+                "file": "misc/Underwater Domain Awareness.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Defence Theaterisation Plan"
+              "title": "Underwater Domain Awareness"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Need for Climate resilient  cities in india.md",
     "Governance/Defence Theaterisation Plan.md",
+    "misc/Underwater Domain Awareness.md",
+    "Governance/Need for Climate resilient  cities in india.md",
     "IR/WTO.md",
     "Governance/WHO.md",
     "Governance/Angikaar campaign.md",
@@ -264,7 +265,6 @@
     "Polity/parts of constitution.md",
     "Scrap-Writing/National Co-operative policy 2025.md",
     "Polity/DPSP.md",
-    "Scrap-Writing/Digital Colonialism.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
