@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/WHO.md",
+                "file": "IR/WTO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WHO"
+              "title": "WTO"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "who",
+                "query": "wto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Governance/WHO.md",
     "Governance/Angikaar campaign.md",
     "economy/UPI.md",
     "CA/Beas river flood.md",
@@ -265,7 +266,6 @@
     "Scrap-Writing/Online Content Regulation.md",
     "Governance/POCSO.md",
     "Scrap-Writing",
-    "Governance/Online Content Regulation.md",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",
     "resources/australia-physical-map.jpg",
