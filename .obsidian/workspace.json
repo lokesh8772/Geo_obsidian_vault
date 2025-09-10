@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envt/Saltwater crocodile.md",
-                "mode": "source",
+                "file": "dataview practice.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Saltwater crocodile"
+              "title": "dataview practice"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Envt/Saltwater crocodile.md",
     "dataview practice.md",
     "economy/Gvot initiatives/National Clean Air Programme (NCAP).md",
     "economy/Great Nicobar island Project.md",
@@ -266,7 +267,6 @@
     "Governance/Angikaar campaign.md",
     "economy/UPI.md",
     "CA/Beas river flood.md",
-    "Geography/Ganga.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",

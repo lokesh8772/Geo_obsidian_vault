@@ -9,5 +9,5 @@ Saltwater crocodile population has increased in [[West Bengal|Sunderbans Biosphe
 
 ### animal status
 1. IUCN red list -> Least concern
-2. Wildlife(protection) Act 1971 -> Schedule I
+2. Wildlife(protection) Act 1972 -> Schedule I
 3. CITES -> Appendix I
