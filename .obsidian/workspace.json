@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Cancer.md",
+                "file": "economy/Indian Space sector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cancer"
+              "title": "Indian Space sector"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/Carbon capture and storage.md",
     "misc/Cancer.md",
+    "Envt/Carbon capture and storage.md",
     "IR/Katchatheevu Island.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
