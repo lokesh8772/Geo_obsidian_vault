@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Underwater Domain Awareness.md",
+                "file": "economy/OPEC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Underwater Domain Awareness"
+              "title": "OPEC"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "opec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Defence Theaterisation Plan.md",
+    "economy/GST Reforms 2025.md",
+    "economy/OPEC.md",
     "misc/Underwater Domain Awareness.md",
+    "Governance/Defence Theaterisation Plan.md",
     "Governance/Need for Climate resilient  cities in india.md",
     "IR/WTO.md",
     "Governance/WHO.md",
@@ -263,8 +265,6 @@
     "dataview practice.md",
     "economy/Mars Orbiter Mission (Mangalyaan).md",
     "Polity/parts of constitution.md",
-    "Scrap-Writing/National Co-operative policy 2025.md",
-    "Polity/DPSP.md",
     "Scrap-Writing",
     "resources/afganistan.png",
     "resources/Screenshot 2025-09-05 201413.png",

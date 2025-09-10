@@ -16,3 +16,5 @@ Total 2 slabs of GST -> 5% and 18%.
 6. fixed Inverted duty structure problem from multiple sectors
 
 7. Operationalization of GST Appellate Tribunal
+## challenges
+1. revenue foregone of 48,000 crore -> finance min
