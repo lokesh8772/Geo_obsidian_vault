@@ -36,4 +36,5 @@ tags:
 - Disease surveillance & outbreak control (Ebola, mpox, dengue)
 - Mental health & climate health initiatives
 - Reforms to strengthen global health emergency architecture
-
+- 2025-09-10 -> updated WHO list of Essential medicines to include medicines of cancer, diabetes and obesity
+	- acts like a standard for minimum medicinal requirement for every health care system

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Angikaar campaign.md",
+                "file": "Governance/WHO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angikaar campaign"
+              "title": "WHO"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UPI",
+                "query": "who",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/UPI.md",
     "Governance/Angikaar campaign.md",
+    "economy/UPI.md",
     "CA/Beas river flood.md",
     "Geography/Ganga.md",
     "Geography/Sutlej.md",
