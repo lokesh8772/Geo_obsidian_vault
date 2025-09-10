@@ -35,3 +35,8 @@ tags:
 - Digital learning solutions post-pandemic
 - Advocacy on school safety and gender equality
 
+
+| Date       | Development                                                                                                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-09-10 | Child Nutrition Report 2025<br>1. 20 % School going children -> overweight<br>3. major obese areas -> East Asia, South Asia and Latin america and Caribbean |
+|            |                                                                                                                                                             |
