@@ -25,6 +25,9 @@ Fishers, fish farmers, fish vendors, Self-Help Groups, Joint Liability Groups, S
 
 ## Features
 - Umbrella scheme with Central Sector and Centrally Sponsored components.
+- 60% financial assistance to women-oriented projects
+- PM Matsya Kisan Samridhi sah yojna + National Fisheries Digital Platform -> formalization and Digitization of the sector
+- Development of 100 Climate Resilient Coastal Fishermen Villages.
 - Focus on enhancing production, infrastructure, post-harvest management, and regulatory framework.
 - Key activities include fishing vessel insurance, support for vessel upgrades, aquaculture development, Sagar Mitras, nucleus breeding centers, fisheries startups, incubators, and integrated aqua parks.
 - Adopts cluster-based approach for fisheries development.
@@ -45,9 +48,9 @@ Fishers, fish farmers, fish vendors, Self-Help Groups, Joint Liability Groups, S
 - Marine pollution from oil spills and sewage, habitat destruction, and boundary disputes affecting production.
 
 ## Related Govt Schemes
-- Sagarmala Project (Ministry of Shipping).
-- Pradhan Mantri Kaushal Vikas Yojana (PMKVY).
-- MGNREGS and National Rural Livelihoods Mission.
+- [[Sagarmala]] Project (Ministry of Shipping).
+- [[Pradhan Mantri Kaushal Vikas Yojana (PMKVY)]].
+- [[MGNREGA]] and [[Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM)]].
 - Rashtriya Krishi Vikas Yojana (RKVY).
 - Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PMMKSSY).
 - Schemes under Ministry of Food Processing Industries and Ministry of Agriculture.
