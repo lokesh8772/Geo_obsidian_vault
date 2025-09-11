@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Offshore aquifers.md",
+                "file": "economy/Top FDI providing countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Offshore aquifers"
+              "title": "Top FDI providing countries"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rare earth ",
+                "query": "Untitled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/Rare earth magnets.md",
+    "economy/FDI.md",
+    "Untitled.md",
+    "economy/Top FDI providing countries.md",
     "Geography/Offshore aquifers.md",
+    "Science/Rare earth magnets.md",
     "Governance/PM Matsya Sampda Yojna.md",
     "UPSC PREP/CAPF essay writings/Blue economy.md",
     "UPSC PREP/CAPF essay writings/Education.md",
@@ -262,9 +265,6 @@
     "CA/Report on Progress on Household Drinking Water and Sanitation.md",
     "economy/GST Reforms 2025.md",
     "Governance/ULLAS.md",
-    "Governance/UPI-UPU integration.md",
-    "IR/India - Israel.md",
-    "economy/Indian Space sector.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
