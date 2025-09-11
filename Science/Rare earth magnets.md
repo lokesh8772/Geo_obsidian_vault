@@ -17,3 +17,9 @@ tags:
 	2. Electronics
 	3. healthcare
 	4. automobiles...etc.
+## Challenges
+1. China accounts for 70% of world's Rare Earth Minerals mining and **90%** of production of Rare earth magnets.
+
+| Date       | Development                |
+| ---------- | -------------------------- |
+| 2025-09-11 | China curbs exports of REM |

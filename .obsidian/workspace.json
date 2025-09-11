@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/PM Matsya Sampda Yojna.md",
+                "file": "Geography/Offshore aquifers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PM Matsya Sampda Yojna"
+              "title": "Offshore aquifers"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sampda",
+                "query": "rare earth ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "UPSC PREP/CAPF essay writings/Blue economy.md",
+    "Science/Rare earth magnets.md",
+    "Geography/Offshore aquifers.md",
     "Governance/PM Matsya Sampda Yojna.md",
+    "UPSC PREP/CAPF essay writings/Blue economy.md",
     "UPSC PREP/CAPF essay writings/Education.md",
     "Envt/Vembanad Lake.md",
     "Ramsar sites.md",
@@ -263,8 +265,6 @@
     "Governance/UPI-UPU integration.md",
     "IR/India - Israel.md",
     "economy/Indian Space sector.md",
-    "misc/Cancer.md",
-    "Envt/Carbon capture and storage.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
