@@ -38,5 +38,10 @@ tags:
 	1. 1.7 Ton to SSPO(Sun Synchronous Polar Orbit)
 	2. 1.4 Ton to GTO
 
+### SSLV
+1. Small Satellite Launch Vehicle
+2. 3 stage Solid propulsion system + liquid propulsion velocity trimming module
+3. used for satellites upto 500kg to LEO
+
 [[Lunar Module Launch Vehicle]]
 [[Types of Orbits]]

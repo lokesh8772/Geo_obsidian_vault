@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/Israel - US- Iran conflict.md",
+                "file": "economy/ISRO's Launch Vehicles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Israel - US- Iran conflict"
+              "title": "ISRO's Launch Vehicles"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IAEA",
+                "query": "launch vehicles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "IR/IAEA.md",
+    "Governance/WHO.md",
+    "CA/Israel - US- Iran conflict.md",
     "IR/India-Mauritius.md",
     "economy/Top FDI providing countries.md",
     "economy/FDI.md",
@@ -262,9 +265,6 @@
     "IR/PM of Nepal resigned.md",
     "Daily notes/2025-06-29.md",
     "Governance/UNICEF.md",
-    "CA/Report on Progress on Household Drinking Water and Sanitation.md",
-    "economy/GST Reforms 2025.md",
-    "Governance/ULLAS.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
