@@ -38,5 +38,4 @@ se-ease: 2.5
 3. state run scholarship like scooter and laptop distribution to motivate education especially among girls
 4. digitization of study material by NCERT and other boards and major universities.
 5. New Education Policy -> integrated vocational and industrial exposure to the students for application oriented learning
-
-
+6. Personalized Adaptive Learning Software used by Andhra Pradesh Govt Schools -> 2x learning 
