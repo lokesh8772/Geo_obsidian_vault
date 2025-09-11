@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Top FDI providing countries.md",
+                "file": "CA/Israel - US- Iran conflict.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Top FDI providing countries"
+              "title": "Israel - US- Iran conflict"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Untitled",
+                "query": "IAEA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,9 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/FDI.md",
-    "Untitled.md",
+    "IR/India-Mauritius.md",
     "economy/Top FDI providing countries.md",
+    "economy/FDI.md",
     "Geography/Offshore aquifers.md",
     "Science/Rare earth magnets.md",
     "Governance/PM Matsya Sampda Yojna.md",
