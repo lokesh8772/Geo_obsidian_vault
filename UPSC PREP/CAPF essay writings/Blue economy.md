@@ -49,4 +49,4 @@ coastline - 7500km
 
 1. IORA
 2. SAGAR - initiative (security and growth for all in the region)
-3. PM Matsya sampda yojna.
+3. [[PM Matsya sampda yojna]].
