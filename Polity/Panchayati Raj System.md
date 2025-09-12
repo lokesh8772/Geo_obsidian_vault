@@ -102,3 +102,4 @@ by 1960s -> all states adopted panchayti raj but in different forms
 ### challenges - 
 1. **Parallel bodies**
 2. poor infra....
+3. [[PRI Challenges]]
