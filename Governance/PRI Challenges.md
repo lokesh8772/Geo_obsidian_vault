@@ -17,3 +17,4 @@ tags:
 2. Audit Online App -> for online audit of panchayat accounts
 3. use of SVAMITVA data for Property Tax Assessments
 4. Ranking system for PRIs -> for performance based grants.
+5. sharing of District Mineral Foundation funds with PRIs

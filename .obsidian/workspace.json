@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PRI",
+                "query": "District mineral foundation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +237,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
     "Polity/Panchayati Raj System.md",
     "Governance/PRI Challenges.md",
