@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atal Innovation Mission (AIM).md",
-                "mode": "source",
+                "file": "Daily notes/2025-09-11.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atal Innovation Mission (AIM)"
+              "title": "2025-09-11"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AIM",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,8 +237,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fddd09b5b163472",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Atal Innovation Mission (AIM).md",
     "economy/ISRO's Launch Vehicles.md",
     "CA/Transfer of tech between ISRO-HAL.md",
     "IR/IAEA.md",
@@ -264,7 +265,6 @@
     "Envt/Saltwater crocodile.md",
     "economy/Gvot initiatives/National Clean Air Programme (NCAP).md",
     "economy/Great Nicobar island Project.md",
-    "IR/PM of Nepal resigned.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
