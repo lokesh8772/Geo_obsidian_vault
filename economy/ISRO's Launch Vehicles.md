@@ -42,6 +42,7 @@ tags:
 1. Small Satellite Launch Vehicle
 2. 3 stage Solid propulsion system + liquid propulsion velocity trimming module
 3. used for satellites upto 500kg to LEO
+4. quick turnaround, on-demand launch vehicle
 
 [[Lunar Module Launch Vehicle]]
 [[Types of Orbits]]

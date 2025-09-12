@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/ISRO's Launch Vehicles.md",
+                "file": "Atal Innovation Mission (AIM).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ISRO's Launch Vehicles"
+              "title": "Atal Innovation Mission (AIM)"
             }
           }
         ],
@@ -96,8 +96,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "launch vehicles",
-                "matchingCase": false,
+                "query": "AIM",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -237,8 +237,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "4fddd09b5b163472",
   "lastOpenFiles": [
+    "economy/ISRO's Launch Vehicles.md",
+    "CA/Transfer of tech between ISRO-HAL.md",
     "IR/IAEA.md",
     "Governance/WHO.md",
     "CA/Israel - US- Iran conflict.md",
@@ -263,8 +265,6 @@
     "economy/Gvot initiatives/National Clean Air Programme (NCAP).md",
     "economy/Great Nicobar island Project.md",
     "IR/PM of Nepal resigned.md",
-    "Daily notes/2025-06-29.md",
-    "Governance/UNICEF.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
