@@ -21,7 +21,7 @@ tags:
 6. Radicalization -> in 2023 -> USA designated financial facilitators and operatives of ISIS and al-qaueda to be in maldives.
 
 
-| Date | Development                                                                                                                                                                      |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ju 1. Extension of line of credit of 4850 crore to maldives<br>2. Launch of India-Maldives FTA<br>3. Agreement b/w NPCI and Maldives Monetary Authority to launch UPI in Maldives .  .  |
-|                                                                                                                                                                                         |
+| Date                                                                                                                                                                                                 | Development                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Ju 1. Extension of line of credit of 4,850 crore to maldives<br>2. Launch of India-Maldives FTA negotiations<br>3. Agreement b/w NPCI and Maldives Monetary Authority to launch UPI in Maldives .  . |
+|                                                                                                                                                                                                      |

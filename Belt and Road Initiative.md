@@ -11,7 +11,7 @@ tags:
 	1. silk road economic belt - land based connectivity to south asia, middle east and middle asia
 	2. 21st century's maritime silk road - maritime connectivity to africa, mediterranean, europe and southeast asia
 4. objective- 
-	1. infra developemt - roal, rail, power plants....
+	1. infra developemt - road, rail, power plants....
 	2. sustainable devlopment - lending and managing sustainable development projects in developing countries
 	3. economic integration
 5. over 140 countries involved - 50% of world GDP

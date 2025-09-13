@@ -37,7 +37,7 @@ tags:
 3. Global Advocacy -> for data localisation and digital sovereignty on international platforms like [[G-20]], [[WTO]], [[BRICS]] etc
 4. international measures
 	1. EU -> data act, AI act, General data protection Regulations,,,,
-	2. China -> Digital silk road -> component of Belt and road initiative to enhance co-op in digital economy and developments like automation, ai, data, etc
+	2. China -> Digital silk road -> component of [[Belt and Road Initiative]] to enhance co-op in digital economy and developments like automation, ai, data, etc
 ## Way forward
 1. Aim for data Sovereignty and data localization
 2. comprehensive regulation of data from creation to processing to destruction 
