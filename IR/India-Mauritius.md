@@ -10,4 +10,4 @@ tags:
 5. 70% of Mauritius Population -> Indian Origin
 6. Girmitiya labourers were first brought here from india in 1729
 7. [[Neighborhood first policy]], [[MAHASAGAR]]
-8. 
+8. UPI/RUPAY launch
