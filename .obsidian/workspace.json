@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Military Exercises",
+                "query": "g4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/India-Africa.md",
+    "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
     "IR/India-Latin America, Caribbean.md",
+    "IR/India-Africa.md",
     "IR/India-Mauritius.md",
     "misc/Military Exercises.md",
     "IR/India-Maldives.md",
@@ -263,7 +264,6 @@
     "Governance/PM Matsya Sampda Yojna.md",
     "UPSC PREP/CAPF essay writings/Blue economy.md",
     "UPSC PREP/CAPF essay writings/Education.md",
-    "Envt/Vembanad Lake.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",

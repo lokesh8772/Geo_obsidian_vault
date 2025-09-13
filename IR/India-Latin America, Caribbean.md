@@ -12,4 +12,8 @@ tags:
 2. Economic and Trade 
 	1. Total trade $ 35 Billion in 2023-24
 	2. indian companies invested $ 12 Billion in last 15 years
-	3. 
+	3. India extended $ 140 Million Line of Credit to CARICOM(regional organisation of carribean region)
+	4. BioFuture Platform -> India + Brazil -> promoting biofuel research and production
+3. Co-operation at regional and multilateral fora
+	1. [[G-20]], [[BRICS]], IBSA
+4. 
