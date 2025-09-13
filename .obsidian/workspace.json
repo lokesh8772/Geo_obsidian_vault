@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Military Exercises.md",
+                "file": "IR/India-UK.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Military Exercises"
+              "title": "India-UK"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "misc/Military Exercises.md",
     "IR/India-UK.md",
     "Daily notes/2025-09-12.md",
     "Daily notes/2025-09-13.md",
@@ -264,7 +265,6 @@
     "CA/EU-India seafood ....md",
     "Daily notes/2025-09-10.md",
     "economy/Aadhar based authentication framework for Co-operative banks.md",
-    "dataview practice.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
