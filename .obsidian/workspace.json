@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G-7.md",
+                "file": "IR/G-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "G-7"
+              "title": "G-20"
             }
           },
           {
@@ -238,8 +238,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "BRICS.md",
     "Scrap-Writing/Digital Colonialism.md",
+    "IR/G-20.md",
+    "BRICS.md",
+    "G-7.md",
     "Geography/Major Climatic Zones of Earth.md",
     "IR/India-Maldives.md",
     "Belt and Road Initiative.md",
@@ -262,8 +264,6 @@
     "Governance/WHO.md",
     "CA/Israel - US- Iran conflict.md",
     "economy/Top FDI providing countries.md",
-    "economy/FDI.md",
-    "Geography/Offshore aquifers.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
