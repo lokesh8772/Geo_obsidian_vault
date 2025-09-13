@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BRICS.md",
+                "file": "IR/India-Maldives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BRICS"
+              "title": "India-Maldives"
             }
           },
           {
@@ -238,9 +238,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/India-Latin America, Caribbean.md",
-    "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
     "IR/India-Africa.md",
+    "IR/India-Latin America, Caribbean.md",
+    "BRICS.md",
+    "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
     "IR/India-Mauritius.md",
     "misc/Military Exercises.md",
     "IR/India-Maldives.md",
@@ -263,7 +264,6 @@
     "Science/Rare earth magnets.md",
     "Governance/PM Matsya Sampda Yojna.md",
     "UPSC PREP/CAPF essay writings/Blue economy.md",
-    "UPSC PREP/CAPF essay writings/Education.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
