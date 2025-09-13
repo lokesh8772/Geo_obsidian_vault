@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/PRI Challenges.md",
-                "mode": "source",
+                "file": "Daily notes/2025-09-12.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PRI Challenges"
+              "title": "2025-09-12"
             }
           }
         ],
@@ -237,10 +237,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Polity/Panchayati Raj System.md",
+    "Daily notes/2025-09-13.md",
+    "Daily notes/2025-09-12.md",
     "Governance/PRI Challenges.md",
+    "Polity/Panchayati Raj System.md",
     "Daily notes/2025-09-11.md",
     "Atal Innovation Mission (AIM).md",
     "economy/ISRO's Launch Vehicles.md",
@@ -263,8 +265,6 @@
     "economy/Aadhar based authentication framework for Co-operative banks.md",
     "dataview practice.md",
     "IR/Indo-china Relations.md",
-    "Geography/hills glaciers etc/Passes of Sikkim.md",
-    "Envt/Saltwater crocodile.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
