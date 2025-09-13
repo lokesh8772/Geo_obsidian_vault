@@ -27,4 +27,7 @@ tags:
 	1. [[India stack]] Sharing
 	2. UPI/RUPAY launch in [[India-Mauritius|Mauritius]]
 8. Energy Security
-	1. Renewable Energy Potential -> 10 TW(solar), 100GW()
+	1. Renewable Energy Potential -> 10 TW(solar), 100GW(wind), 15 GW(GeoThermal)
+	2. [[International Solar Alliance]], Star-C initiative.
+
+**Kampala Principles** -> Prin
