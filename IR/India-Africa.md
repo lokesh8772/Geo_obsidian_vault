@@ -30,4 +30,4 @@ tags:
 	1. Renewable Energy Potential -> 10 TW(solar), 100GW(wind), 15 GW(GeoThermal)
 	2. [[International Solar Alliance]], Star-C initiative.
 
-**Kampala Principles** -> Prin
+**Kampala Principles** -> Principles guiding India-Africa Relations

@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eebd4656a598f190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/Scheme note creator.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scheme note creator"
-            }
-          },
-          {
             "id": "68ef60e24c0b29e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR/India-Africa.md",
+                "file": "IR/India-Latin America, Caribbean.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "India-Africa"
+              "title": "India-Latin America, Caribbean"
             }
           },
           {
@@ -79,8 +55,7 @@
               "title": "Military Exercises"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,8 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "IR/India-Mauritius.md",
     "IR/India-Africa.md",
+    "IR/India-Latin America, Caribbean.md",
+    "IR/India-Mauritius.md",
     "misc/Military Exercises.md",
     "IR/India-Maldives.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises.md",
@@ -288,7 +264,6 @@
     "UPSC PREP/CAPF essay writings/Blue economy.md",
     "UPSC PREP/CAPF essay writings/Education.md",
     "Envt/Vembanad Lake.md",
-    "Ramsar sites.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
