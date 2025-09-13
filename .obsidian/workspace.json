@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR/India-Maldives.md",
+                "file": "IR/India-Africa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "India-Maldives"
+              "title": "India-Africa"
+            }
+          },
+          {
+            "id": "e871133a974b83c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/Military Exercises.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Military Exercises"
             }
           }
         ],
@@ -96,8 +120,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "Military Exercises",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -239,10 +263,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises.md",
-    "IR/India-Maldives.md",
-    "IR/India-UK.md",
     "misc/Military Exercises.md",
+    "IR/India-Africa.md",
+    "IR/India-Maldives.md",
+    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises.md",
+    "IR/India-UK.md",
     "Daily notes/2025-09-12.md",
     "Daily notes/2025-09-13.md",
     "Governance/PRI Challenges.md",
@@ -264,7 +289,6 @@
     "UPSC PREP/CAPF essay writings/Education.md",
     "Envt/Vembanad Lake.md",
     "Ramsar sites.md",
-    "CA/EU-India seafood ....md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
