@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-09-12.md",
-                "mode": "preview",
+                "file": "IR/India-UK.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
+              "title": "India-UK"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "District mineral foundation",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Daily notes/2025-09-13.md",
     "Daily notes/2025-09-12.md",
+    "IR/India-UK.md",
+    "Daily notes/2025-09-13.md",
     "Governance/PRI Challenges.md",
     "Polity/Panchayati Raj System.md",
     "Daily notes/2025-09-11.md",
@@ -264,7 +265,6 @@
     "Daily notes/2025-09-10.md",
     "economy/Aadhar based authentication framework for Co-operative banks.md",
     "dataview practice.md",
-    "IR/Indo-china Relations.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
