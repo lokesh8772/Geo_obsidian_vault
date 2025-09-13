@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR/India-UK.md",
+                "file": "IR/India-Maldives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "India-UK"
+              "title": "India-Maldives"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Defence  ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +239,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "misc/Military Exercises.md",
+    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises.md",
+    "IR/India-Maldives.md",
     "IR/India-UK.md",
+    "misc/Military Exercises.md",
     "Daily notes/2025-09-12.md",
     "Daily notes/2025-09-13.md",
     "Governance/PRI Challenges.md",
@@ -263,8 +265,6 @@
     "Envt/Vembanad Lake.md",
     "Ramsar sites.md",
     "CA/EU-India seafood ....md",
-    "Daily notes/2025-09-10.md",
-    "economy/Aadhar based authentication framework for Co-operative banks.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
