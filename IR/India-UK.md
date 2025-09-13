@@ -3,14 +3,19 @@ tags:
   - IR
   - GS2
 ---
-Key points
+## Key points
 1. bilateral trade -> $ 56 Billion
 2. UK has largest indian diaspora > 18 lakhs
 3. UK supports indian bid for permanent seat at [[UNSC]]
 4. defence -> Ajeya warrior(army), Konkan(naval), cobra warrior(air) -> [[UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises|Military Exercises]]
 5. Education -> UK universities to open campuses in india -> Univ of southampton's gurugram campus
 6. healthcare -> AstraZeneca + Serum institute of india
-	1. both have agreement for recruitment
+	1. both have agreement for recruitment of nurses, healthcare professionals...
+## Divergent points
+1. different stance on geo-politics(Russia-Ukraine)
+2. UK's domestic politics raising questions about india's domestic matters -> bitterness
+3. Khalistan elements in UK
+4. lack of extradition treaty -> Vijay malya.
 
 ## Comprehensive Economic and Trade Agreement (CETA) -> July 2025 
 key highlights
