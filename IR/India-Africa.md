@@ -16,8 +16,9 @@ tags:
 	3. MILAN and CUTLASS Express, Africa India KEY Maritime Exercise(AIKEYME) [[Military Exercises]]
 3. Economic 
 	1. india-> africa's 3rd largest trade partner after EU and China
-	2. From Indian side -> Mineral Oil, Food products, Pharmaceuticals
-	3. From African Side -> Crude Oil, Diamonds, Copper ..
+	2. bilateral trade -> $ 100 Billion,(2024) from $56 billion in 2019
+	3. From Indian side -> Mineral Oil, Food products, Pharmaceuticals
+	4. From African Side -> Crude Oil, Diamonds, Copper ..
 5. market access -> 
 	1. India is **first** Developing country to provide non-reciprocal duty free market access to LDCs through its, Duty-free Tariff Preference Scheme
 6. Soft - Power Diplomacy

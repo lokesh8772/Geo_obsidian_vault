@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-09-13.md",
+                "file": "IR/India - Israel.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-13"
+              "title": "India - Israel"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "G-7",
+                "query": "tag:IR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,6 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Daily notes/2025-09-13.md",
+    "IR/India-Mauritius.md",
+    "IR/India-Africa.md",
     "Daily notes/2025-09-14.md",
     "Scrap-Writing/Digital Colonialism.md",
     "IR/G-20.md",
@@ -247,15 +250,12 @@
     "Geography/Major Climatic Zones of Earth.md",
     "IR/India-Maldives.md",
     "Belt and Road Initiative.md",
-    "IR/India-Africa.md",
     "IR/India-Latin America, Caribbean.md",
     "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
-    "IR/India-Mauritius.md",
     "misc/Military Exercises.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises.md",
     "IR/India-UK.md",
     "Daily notes/2025-09-12.md",
-    "Daily notes/2025-09-13.md",
     "Governance/PRI Challenges.md",
     "Polity/Panchayati Raj System.md",
     "Daily notes/2025-09-11.md",
