@@ -43,8 +43,11 @@ DarkTrace
 
 Foxconn, seimens.
 
-  
-
+### 9. Governance
+  1. UMANG -> Public grievances, and enquiries
+  2. RAHAT -> optimize relief ops during disaster
+  3. BHASHINI, Adi Vani etc -> inclusivity (AI translator)
+  4. [[AI Minister]]
 ## Challenges -
 
 1. Job loss to low skilled labour
