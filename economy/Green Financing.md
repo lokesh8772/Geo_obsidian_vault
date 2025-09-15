@@ -15,4 +15,7 @@ tags:
 
 ## Initiatives
 1. Green Climate Fund -> Developed countries pledged to mobilze $ 100 Billion per year by 2020
-2. Special Climate Change Fund -> for adaptation, tech transfer, Energy, capacity building et
+2. Special Climate Change Fund -> for adaptation, tech transfer, Energy, capacity building etc
+3. India -> GSSS bonds -> Green Social, Sustainability and Sustainability- linked bonds
+	1. Green, yellow(solar), and Blue(Marine) bonds
+4. Climate change Finance Unit -> Nodal agency for climate financing in india, under Min of Finance
