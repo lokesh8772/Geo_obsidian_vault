@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/Global Capability center.md",
+                "file": "CA/1 year of BioE3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Global Capability center"
+              "title": "1 year of BioE3"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bioe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/m-Kisan.md",
+    "Governance/BioE3.md",
+    "CA/1 year of BioE3.md",
     "economy/Global Capability center.md",
+    "economy/m-Kisan.md",
     "IR/Israel - Palestine Conflict.md",
     "Governance/Issue on Affordable Housing.md",
     "economy/SEBI measures for Ease of Doing Biz.md",
@@ -262,8 +264,6 @@
     "IR/India-Mauritius.md",
     "IR/India-Africa.md",
     "Scrap-Writing/Digital Colonialism.md",
-    "IR/G-20.md",
-    "IR/Russia-Ukraine Conflict.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
