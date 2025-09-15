@@ -14,6 +14,6 @@ tags:
 4. high prices of land
 ## SC recommendations
 1. Govt should consider setting up a Revival fund under NARCL(National Asset Reconstruction Company Ltd)
-2. Creation of a corporate body
+2. Creation of a corporate body for stalled projects like NARCL
 3. expand the SWAMIH(Special Window for Affordable and Mid Income Housing) Fund
-4. 
+4. To bring uniformity in RERA rules

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Issue on Affordable Housing.md",
+                "file": "IR/Israel - Palestine Conflict.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Issue on Affordable Housing"
+              "title": "Israel - Palestine Conflict"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"RERA\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,10 +236,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/SEBI measures for Ease of Doing Biz.md",
     "Governance/Issue on Affordable Housing.md",
+    "IR/Israel - Palestine Conflict.md",
+    "economy/SEBI measures for Ease of Doing Biz.md",
     "Governance/Gyan Bhartam.md",
     "Envt/Maharashtra.md",
     "misc/AdFalciVax Vaccine.md",
@@ -263,7 +264,6 @@
     "IR/Russia-Ukraine Conflict.md",
     "BRICS.md",
     "G-7.md",
-    "Geography/Major Climatic Zones of Earth.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
