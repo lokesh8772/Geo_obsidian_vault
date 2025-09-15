@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR/Israel - Palestine Conflict.md",
+                "file": "economy/m-Kisan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Israel - Palestine Conflict"
+              "title": "m-Kisan"
             }
           },
           {
@@ -238,8 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/Issue on Affordable Housing.md",
     "IR/Israel - Palestine Conflict.md",
+    "economy/m-Kisan.md",
+    "Governance/Issue on Affordable Housing.md",
     "economy/SEBI measures for Ease of Doing Biz.md",
     "Governance/Gyan Bhartam.md",
     "Envt/Maharashtra.md",
@@ -263,7 +264,6 @@
     "IR/G-20.md",
     "IR/Russia-Ukraine Conflict.md",
     "BRICS.md",
-    "G-7.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
