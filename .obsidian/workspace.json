@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/SEBI measures for Ease of Doing Biz.md",
+                "file": "Governance/Issue on Affordable Housing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SEBI measures for Ease of Doing Biz"
+              "title": "Issue on Affordable Housing"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tadoba",
+                "query": "\"RERA\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,10 +236,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
-    "Governance/Gyan Bhartam.md",
     "economy/SEBI measures for Ease of Doing Biz.md",
+    "Governance/Issue on Affordable Housing.md",
+    "Governance/Gyan Bhartam.md",
     "Envt/Maharashtra.md",
     "misc/AdFalciVax Vaccine.md",
     "economy/Green Financing.md",
@@ -263,7 +264,6 @@
     "BRICS.md",
     "G-7.md",
     "Geography/Major Climatic Zones of Earth.md",
-    "IR/India-Maldives.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
