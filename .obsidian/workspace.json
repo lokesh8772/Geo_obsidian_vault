@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/AI.md",
+                "file": "misc/Non-communicable disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "Non-communicable disease"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,6 +238,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "misc/Cancer.md",
+    "misc/Non-communicable disease.md",
+    "Daily notes/2025-05-31.md",
+    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/AI.md",
     "CA/AI Minister.md",
     "Daily notes/2025-09-15.md",
     "Daily notes/2025-09-14.md",
@@ -260,10 +264,6 @@
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises.md",
     "IR/India-UK.md",
     "Daily notes/2025-09-12.md",
-    "Governance/PRI Challenges.md",
-    "Polity/Panchayati Raj System.md",
-    "Daily notes/2025-09-11.md",
-    "Atal Innovation Mission (AIM).md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
