@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Developments in North East.md",
-                "mode": "source",
+                "file": "Daily notes/2025-09-15.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Developments in North East"
+              "title": "2025-09-15"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "military exer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "CA/1 year of BioE3.md",
+    "misc/Military Exercises.md",
+    "CA/Androth.md",
     "misc/Developments in North East.md",
+    "CA/1 year of BioE3.md",
     "Governance/BioE3.md",
     "economy/BioEconomy.md",
     "economy/Global Capability center.md",
@@ -262,8 +264,6 @@
     "Daily notes/2025-09-14.md",
     "Daily notes/2025-09-13.md",
     "IR/India - Israel.md",
-    "IR/India Japan.md",
-    "IR/India-Mauritius.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",

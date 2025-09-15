@@ -45,16 +45,17 @@ tags:
 | Cambodia       | Cinbax           | Land-based                                    | 2018    |
 
 ## Multilateral Militrary exercise
-|Name of Exercise|Participating Countries|Type|Started|
-|---|---|---|---|
-|Malabar|India, United States, Japan, Australia|Marine|1992|
-|Tarang Shakti|India, Australia, France, Germany, Greece, Japan, Singapore, Spain, Sri Lanka, UAE, UK, United States|Air|2024|
-|Rimpac|India plus 28 others (led by United States)|Marine|1971 (India joined 2014)|
-|Pitch Black|India plus 19 others (led by Australia)|Air|1981 (India joined 2018)|
-|Red Flag|India, Singapore, UK, Netherlands, Germany, United States|Air|1975 (India joined 2008)|
-|La Perouse|India, France, Australia, Canada, United States, Indonesia, Malaysia, UK, Singapore|Marine|2019 (India joined 2021)|
-|Khaan Quest|India plus multiple others (led by Mongolia)|Multi-domain (Peacekeeping)|2006|
-|Iniochos|India plus 14 others (led by Greece)|Air|1988 (India joined 2023)|
-|Komodo|India plus multiple others (led by Indonesia)|Marine|2014 (India joined 2016)|
-|Desert Flag|India, Australia, Bahrain, France, Germany, Qatar, Saudi Arabia, South Korea, Turkey, UAE, UK, United States|Air|2021|
-|Aikeyme|India, Comoros, Kenya, Madagascar, Mauritius, Mozambique, Seychelles, South Africa, Tanzania|Marine|2025|
+| Name of Exercise | Participating Countries                                                                                      | Type                        | Started                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------- | ------------------------ |
+| Malabar          | India, United States, Japan, Australia                                                                       | Marine                      | 1992                     |
+| Tarang Shakti    | India, Australia, France, Germany, Greece, Japan, Singapore, Spain, Sri Lanka, UAE, UK, United States        | Air                         | 2024                     |
+| Rimpac           | India plus 28 others (led by United States)                                                                  | Marine                      | 1971 (India joined 2014) |
+| Pitch Black      | India plus 19 others (led by Australia)                                                                      | Air                         | 1981 (India joined 2018) |
+| Red Flag         | India, Singapore, UK, Netherlands, Germany, United States                                                    | Air                         | 1975 (India joined 2008) |
+| La Perouse       | India, France, Australia, Canada, United States, Indonesia, Malaysia, UK, Singapore                          | Marine                      | 2019 (India joined 2021) |
+| Khaan Quest      | India plus multiple others (led by Mongolia)                                                                 | Multi-domain (Peacekeeping) | 2006                     |
+| Iniochos         | India plus 14 others (led by Greece)                                                                         | Air                         | 1988 (India joined 2023) |
+| Zapad            | India, Russia, Belarus                                                                                       |                             | 1999                     |
+| Komodo           | India plus multiple others (led by Indonesia)                                                                | Marine                      | 2014 (India joined 2016) |
+| Desert Flag      | India, Australia, Bahrain, France, Germany, Qatar, Saudi Arabia, South Korea, Turkey, UAE, UK, United States | Air                         | 2021                     |
+| Aikeyme          | India, Comoros, Kenya, Madagascar, Mauritius, Mozambique, Seychelles, South Africa, Tanzania                 | Marine                      | 2025                     |
