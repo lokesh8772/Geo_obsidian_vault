@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/AdFalciVax Vaccine.md",
+                "file": "Envt/Maharashtra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AdFalciVax Vaccine"
+              "title": "Maharashtra"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impact assessment",
+                "query": "tadoba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,8 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "economy/Green Financing.md",
     "misc/AdFalciVax Vaccine.md",
+    "economy/Green Financing.md",
     "Envt/Replenishment data and District Survey Report.md",
     "Governance/Social Impact Assessment.md",
     "misc/Non-communicable disease.md",
