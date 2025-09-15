@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA/1 year of BioE3.md",
+                "file": "misc/Developments in North East.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 year of BioE3"
+              "title": "Developments in North East"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bioe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,10 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Governance/BioE3.md",
     "CA/1 year of BioE3.md",
+    "misc/Developments in North East.md",
+    "Governance/BioE3.md",
+    "economy/BioEconomy.md",
     "economy/Global Capability center.md",
     "economy/m-Kisan.md",
     "IR/Israel - Palestine Conflict.md",
@@ -262,8 +264,6 @@
     "IR/India - Israel.md",
     "IR/India Japan.md",
     "IR/India-Mauritius.md",
-    "IR/India-Africa.md",
-    "Scrap-Writing/Digital Colonialism.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
