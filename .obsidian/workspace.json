@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/Gyan Bhartam.md",
+                "file": "economy/SEBI measures for Ease of Doing Biz.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gyan Bhartam"
+              "title": "SEBI measures for Ease of Doing Biz"
             }
           },
           {
@@ -238,8 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Envt/Maharashtra.md",
     "Governance/Gyan Bhartam.md",
+    "economy/SEBI measures for Ease of Doing Biz.md",
+    "Envt/Maharashtra.md",
     "misc/AdFalciVax Vaccine.md",
     "economy/Green Financing.md",
     "Envt/Replenishment data and District Survey Report.md",
@@ -263,7 +264,6 @@
     "G-7.md",
     "Geography/Major Climatic Zones of Earth.md",
     "IR/India-Maldives.md",
-    "Belt and Road Initiative.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
