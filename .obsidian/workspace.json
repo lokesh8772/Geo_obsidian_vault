@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Non-communicable disease.md",
+                "file": "economy/Green Financing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Non-communicable disease"
+              "title": "Green Financing"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "impact assessment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,11 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "misc/Cancer.md",
+    "Envt/Replenishment data and District Survey Report.md",
+    "economy/Green Financing.md",
+    "Governance/Social Impact Assessment.md",
     "misc/Non-communicable disease.md",
+    "misc/Cancer.md",
     "Daily notes/2025-05-31.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/AI.md",
     "CA/AI Minister.md",
@@ -261,9 +264,6 @@
     "IR/India-Latin America, Caribbean.md",
     "Excalidraw/Drawing 2025-08-23 17.29.07.excalidraw.md",
     "misc/Military Exercises.md",
-    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/Military Exercises.md",
-    "IR/India-UK.md",
-    "Daily notes/2025-09-12.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",

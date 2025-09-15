@@ -30,4 +30,5 @@ SC said unrestricted sand mining causes widespread environmental degradation inc
 	2. Replenishment study a key part of DSR
 	3. Sustainable sand mining Management Guidelines 2016 -
 		1. mandates the calculation of Annual Replenishment rate to determine safe, and sustainable mining limits
+	4. critical minerals or strategic mining projects are exempted from Public hearing under EIA
 4. 
