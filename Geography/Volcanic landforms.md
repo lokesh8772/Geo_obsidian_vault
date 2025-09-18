@@ -8,7 +8,7 @@ se-last-reviewed: 2025-07-16T02:47:36
 se-ease: 2.5
 ---
 1. intrusive
-	1. laccolith - mushroom shaped - conves
+	1. laccolith - mushroom shaped - convex
 	2. batholith - the bath of the lava -> dome shaped
 	3. sills - horizontal spread
 	4. dikes - vertical spread

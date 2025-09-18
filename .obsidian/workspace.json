@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Earth and Other Planets.md",
+                "file": "Geography/Rocks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earth and Other Planets"
+              "title": "Rocks"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magneti",
+                "query": "lopolith",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Geography/Origin and Evolution of Earth.md",
+    "Geography/Volcanic landforms.md",
     "Geography/Earth and Other Planets.md",
+    "Geography/Origin and Evolution of Earth.md",
     "resources/Geological Time Scale.png",
     "resources/Screenshot 2025-09-18 170324.png",
     "Pasted image 20250918170344.png",
@@ -266,7 +267,6 @@
     "Envt/Replenishment data and District Survey Report.md",
     "Governance/Social Impact Assessment.md",
     "misc/Non-communicable disease.md",
-    "misc/Cancer.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
