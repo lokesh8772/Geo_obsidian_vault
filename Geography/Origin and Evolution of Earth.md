@@ -41,4 +41,7 @@ tags:
 		1. $\ce{H2O}$, $\ce{N2}$, $\ce{CO2}$, $\ce{CH4}$, $\ce{NH3}$  , little amounts of $\ce{O2}$
 		2. $\ce{H2O}$ condensed -> $\ce{CO2}$ dissolved -> more cooling
 2. Structure 
-	1. Gravity -> Density(increase), -> increase in Temp -> Heavier Materials ↟ and Lighter material ↡
+	1. Gravity -> Density(increase), -> increase in Temp -> Heavier Materials ↡  and Lighter material ↟(**differentiation**)
+	2. Cooled and Condensed to Smaller size
+	3. Giant impact causing Moon Formation -> Heating ..... -> Cooling...
+		1. large amount of debris -> revolving around Earth -> accretion -> Moon
