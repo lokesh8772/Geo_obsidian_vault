@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Volcanoes.md",
-                "mode": "preview",
+                "file": "Geography/Origin and Evolution of Earth.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Volcanoes"
+              "title": "Origin and Evolution of Earth"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volcanoe",
+                "query": "mantle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,6 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Geography/Earth layers.md",
+    "Geography/Origin and Evolution of Earth.md",
+    "Geography/Volcanoes.md",
     "Geography/Himalayas.md",
     "Daily notes/2025-09-15.md",
     "misc/Military Exercises.md",
@@ -261,9 +264,6 @@
     "misc/Cancer.md",
     "Daily notes/2025-05-31.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/AI.md",
-    "CA/AI Minister.md",
-    "Daily notes/2025-09-14.md",
-    "Daily notes/2025-09-13.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
