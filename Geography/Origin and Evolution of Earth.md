@@ -38,4 +38,7 @@ tags:
 		1. Thin layer of H2 and He
 		2. stripped off by Solar winds(also for all the other planets)
 	2. Cooling -> Volcanoes -> Degassing(gases out of the interior of earth)
-		1. $H 2$ 
+		1. $\ce{H2O}$, $\ce{N2}$, $\ce{CO2}$, $\ce{CH4}$, $\ce{NH3}$  , little amounts of $\ce{O2}$
+		2. $\ce{H2O}$ condensed -> $\ce{CO2}$ dissolved -> more cooling
+2. Structure 
+	1. Gravity -> Density(increase), -> increase in Temp -> Heavier Materials ↟ and Lighter material ↡
