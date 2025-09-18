@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mantle",
+                "query": "magneti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,8 +238,9 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Geography/Earth layers.md",
+    "Science/Electro-Magnetic wave.md",
     "Geography/Origin and Evolution of Earth.md",
+    "Geography/Earth layers.md",
     "Geography/Volcanoes.md",
     "Geography/Himalayas.md",
     "Daily notes/2025-09-15.md",
@@ -263,7 +264,6 @@
     "misc/Non-communicable disease.md",
     "misc/Cancer.md",
     "Daily notes/2025-05-31.md",
-    "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/AI.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",

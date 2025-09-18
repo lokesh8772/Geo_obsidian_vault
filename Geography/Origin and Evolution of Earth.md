@@ -22,5 +22,20 @@ tags:
 1. Big Bang(13.7 billion Yrs ago)
 2. Earlier few Fractions of second -> expansion was fast -> later slowed down
 3. Energy -> Mass, < 3 Min -> first atom
-4. 3,00,000 yrs -> universe cooled dow
-5. non-uniform distribution of mass -> concentration(gravitational force) -> Formation of Stars(5-6 Billion yrs ago)
+4. 3,00,000 yrs -> universe cooled down to 4500 K -> Atomic matter dominant -> Universe became transparent
+5. non-uniform distribution of mass -> concentration(gravitational force) -> Formation of Galaxy
+6. Galaxy
+	1. Large clouds of H2 -> Nebula
+	2. Diameter -> 80 - 150 K light Yrs
+7. Formation of stars -> 5-6 billion yrs ago
+	1. localized lumps of gases -> accumulation/concentration by Gravitational force 
+	2. Core + rotating disc of gases
+		1. disc of gases -> condensation -> small round objects(Plaentesimals) -> Accretion -> Planets
+
+## Evolution of Earth
+1. Atmosphere
+	1. Premordial Atm -> 
+		1. Thin layer of H2 and He
+		2. stripped off by Solar winds(also for all the other planets)
+	2. Cooling -> Volcanoes -> Degassing(gases out of the interior of earth)
+		1. $H 2$ 
