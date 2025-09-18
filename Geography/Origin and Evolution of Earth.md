@@ -46,10 +46,14 @@ tags:
 	3. Giant impact causing Moon Formation -> Heating ..... -> Cooling...
 		1. large amount of debris -> revolving around Earth -> accretion -> Moon
 3. Chronology
-	1. 4.1 billion Yrs ago -> Oceans
-	2. 3.8 Billion yrs ago -> Life(in water)
+	1. origin - > 4.6 Billion yrs ago
+	2. Moon -> 4.44 billion yrs ago
+	3. 4.1 billion Yrs ago -> Oceans
+	4. 3.8 Billion yrs ago -> Life(in water)
 		1. started as a chemical reaction -> complex organic compounds
 		2. Blue algae fossils -> < 3 Billion Yrs
-	3. 2.5 - 3 Billion -> Photosynthesis
+	5. 2.5 - 3 Billion -> Photosynthesis
 		1. $\ce{O2}$ Mixing in oceans 
-	4. 2 Billion yrs  -> oceans saturated with $\ce {O2}$ -> release in atm
+	6. 2 Billion yrs  -> oceans saturated with $\ce {O2}$ -> release in atm
+
+	7. ![[Geological Time Scale.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Origin and Evolution of Earth.md",
+                "file": "Geography/Earth and Other Planets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Origin and Evolution of Earth"
+              "title": "Earth and Other Planets"
             }
           },
           {
@@ -238,8 +238,12 @@
   },
   "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
-    "Science/Electro-Magnetic wave.md",
     "Geography/Origin and Evolution of Earth.md",
+    "Geography/Earth and Other Planets.md",
+    "resources/Geological Time Scale.png",
+    "resources/Screenshot 2025-09-18 170324.png",
+    "Pasted image 20250918170344.png",
+    "Science/Electro-Magnetic wave.md",
     "Geography/Earth layers.md",
     "Geography/Volcanoes.md",
     "Geography/Himalayas.md",
@@ -263,7 +267,6 @@
     "Governance/Social Impact Assessment.md",
     "misc/Non-communicable disease.md",
     "misc/Cancer.md",
-    "Daily notes/2025-05-31.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
@@ -273,11 +276,8 @@
     "resources/Unconfirmed 188612.crdownload",
     "resources/Vietnam.png",
     "resources/V.png",
-    "resources/Easter islands.png",
-    "resources/Screenshot 2025-08-24 170857.png",
     "misc",
     "Prompts",
-    "IMG_20220413_183945_641 (002).jpg",
     "Excalidraw",
     "resources/desktop.ini",
     "IR",
