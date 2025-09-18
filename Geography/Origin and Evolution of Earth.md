@@ -45,3 +45,11 @@ tags:
 	2. Cooled and Condensed to Smaller size
 	3. Giant impact causing Moon Formation -> Heating ..... -> Cooling...
 		1. large amount of debris -> revolving around Earth -> accretion -> Moon
+3. Chronology
+	1. 4.1 billion Yrs ago -> Oceans
+	2. 3.8 Billion yrs ago -> Life(in water)
+		1. started as a chemical reaction -> complex organic compounds
+		2. Blue algae fossils -> < 3 Billion Yrs
+	3. 2.5 - 3 Billion -> Photosynthesis
+		1. $\ce{O2}$ Mixing in oceans 
+	4. 2 Billion yrs  -> oceans saturated with $\ce {O2}$ -> release in atm
