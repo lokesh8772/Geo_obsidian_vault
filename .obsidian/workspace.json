@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025-09-15.md",
+                "file": "Geography/Himalayas.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-15"
+              "title": "Himalayas"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "military exer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ef60e24c0b29e7",
+  "active": "54510be3bdef0d28",
   "lastOpenFiles": [
+    "Daily notes/2025-09-15.md",
     "misc/Military Exercises.md",
     "CA/Androth.md",
     "misc/Developments in North East.md",
@@ -260,7 +261,6 @@
     "Daily notes/2025-05-31.md",
     "UPSC PREP/Mains Syllabus/Mains Syllabus Heads/AI.md",
     "CA/AI Minister.md",
-    "Daily notes/2025-09-15.md",
     "Daily notes/2025-09-14.md",
     "Daily notes/2025-09-13.md",
     "IR/India - Israel.md",
