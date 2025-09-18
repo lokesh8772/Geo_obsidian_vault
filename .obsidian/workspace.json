@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Himalayas.md",
+                "file": "Geography/Volcanoes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Himalayas"
+              "title": "Volcanoes"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "volcanoe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,8 +236,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54510be3bdef0d28",
+  "active": "68ef60e24c0b29e7",
   "lastOpenFiles": [
+    "Geography/Himalayas.md",
     "Daily notes/2025-09-15.md",
     "misc/Military Exercises.md",
     "CA/Androth.md",
@@ -263,7 +264,6 @@
     "CA/AI Minister.md",
     "Daily notes/2025-09-14.md",
     "Daily notes/2025-09-13.md",
-    "IR/India - Israel.md",
     "resources/katchatheevu island.png",
     "resources/Screenshot 2025-09-10 212428.png",
     "Scrap-Writing",
