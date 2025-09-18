@@ -21,6 +21,15 @@ tags:
 	1. gas giant
 	2. no solid surfaces
 	3. Volcanoes
-	4. rotating rings of matter(faint)
+	4. rings of matter(faint)
 5. Saturn
-	1. 
+	1. Lighter than Water, least density among planets
+	2. prominent rings of matter (frozen crystals and dust)
+	3. color -> Yellow (ammonia)
+	4. largest number of satellites()
+6. Uranus
+	1. forzen world..
+7. Neptune
+	1. Frozen world
+	2. Blue color($\ce{CH4}$)
+	3. 
